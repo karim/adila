@@ -1,0 +1,13 @@
+# Local configuration file (SDK path)
+/local.properties
+
+# Gradle
+.gradle
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# OS generated files (Mac, Windows)
+.DS_Store
+Thumbs.db
