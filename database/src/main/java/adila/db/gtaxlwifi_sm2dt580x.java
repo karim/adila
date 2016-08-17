@@ -5,10 +5,10 @@ package adila.db;
 /*
  * Samsung Galaxy Tab A 10.1
  *
- * DEVICE: gtaxlwifichn
+ * DEVICE: gtaxlwifi
  * MODEL: SM-T580X
  */
-final class gtaxlwifichn_sm2dt580x {
+final class gtaxlwifi_sm2dt580x {
     public static final String MANUFACTURER = "Samsung";
     public static final String NAME = "Galaxy Tab A 10.1";
     public static final String SERIES = "Galaxy Tab";

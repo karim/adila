@@ -8,7 +8,7 @@ package adila.db;
  * DEVICE: gtaxlwifi
  * MODEL: SM-T580
  */
-final class gtaxlwifi {
+final class gtaxlwifi_sm2dt580 {
     public static final String MANUFACTURER = "Samsung";
     public static final String NAME = "Galaxy Tab A 10.1";
     public static final String SERIES = "Galaxy Tab";
