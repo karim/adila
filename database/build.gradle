@@ -1,8 +1,11 @@
-apply plugin: 'java'
-
-jar {
-    baseName 'adila-database'
+plugins {
+    id 'java'
+    id 'maven-publish'
+    id 'com.jfrog.bintray' version '1.7.1'
 }
+
+group = 'com.karimeldeeb.adila'
+version = '16.8.15'
 
 compileJava {
     // Suppress warnings about using Java 5
@@ -18,4 +21,40 @@ compileJava {
 
 dependencies {
     compile project(':library')
+}
+
+task sourcesJar(type: Jar) {
+    from sourceSets.main.allJava
+    classifier 'sources'
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            from components.java
+            artifact sourcesJar
+        }
+    }
+}
+
+bintray {
+    user = "$bintray_user"
+    key = "$bintray_key"
+
+    publications = ['maven']
+    publish = true
+
+    pkg {
+        repo = 'adila'
+        name = 'database'
+        desc = 'Adila Database'
+        licenses = ['MIT']
+
+        websiteUrl = 'https://github.com/karim/adila'
+        issueTrackerUrl = 'https://github.com/karim/adila/issues'
+        vcsUrl = 'https://github.com/karim/adila.git'
+        githubRepo = 'karim/adila'
+
+        version { name = project.version }
+    }
 }

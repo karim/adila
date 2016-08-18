@@ -1,8 +1,11 @@
-apply plugin: 'java'
-
-jar {
-    baseName 'adila'
+plugins {
+    id 'java'
+    id 'maven-publish'
+    id 'com.jfrog.bintray' version '1.7.1'
 }
+
+group = 'com.karimeldeeb.adila'
+version = '16.8.14'
 
 compileJava {
     // Suppress warnings about using Java 5
@@ -20,4 +23,46 @@ dependencies {
     // The included file is extracted from "Android SDK 1.0 r2", which you can downloaded from
     // http://developer.android.com/sdk/older_releases.html
     compile files('libs/android.jar')
+}
+
+task sourcesJar(type: Jar) {
+    from sourceSets.main.allJava
+    classifier 'sources'
+}
+
+task javadocJar(type: Jar, dependsOn: javadoc) {
+    from javadoc.destinationDir
+    classifier 'javadoc'
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            from components.java
+            artifact sourcesJar
+            artifact javadocJar
+        }
+    }
+}
+
+bintray {
+    user = "$bintray_user"
+    key = "$bintray_key"
+
+    publications = ['maven']
+    publish = true
+
+    pkg {
+        repo = 'adila'
+        name = 'library'
+        desc = 'Adila Library'
+        licenses = ['MIT']
+
+        websiteUrl = 'https://github.com/karim/adila'
+        issueTrackerUrl = 'https://github.com/karim/adila/issues'
+        vcsUrl = 'https://github.com/karim/adila.git'
+        githubRepo = 'karim/adila'
+
+        version { name = project.version }
+    }
 }
