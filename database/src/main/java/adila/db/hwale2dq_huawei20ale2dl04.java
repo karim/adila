@@ -3,12 +3,12 @@
 package adila.db;
 
 /*
- * Huawei ALE-L04
+ * Huawei P8 Lite
  *
  * DEVICE: hwALE-Q
  * MODEL: HUAWEI ALE-L04
  */
 final class hwale2dq_huawei20ale2dl04 {
     public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "ALE-L04";
+    public static final String NAME = "P8 Lite";
 }
