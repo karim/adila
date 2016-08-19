@@ -17,6 +17,20 @@ The library currently provides the following information:
 
 - Identity (manufacturer, name, series)
 
+Setup
+-----
+
+Gradle:
+
+```groovy
+compile 'com.karimeldeeb.adila:library:16.8.14'
+compile 'com.karimeldeeb.adila:database:+'
+```
+
+Using `+` in dependencies lets you automatically pick up the latest available version. While it is generally not recommended, it is fine for this type of library since it will be updated almost daily.
+
+**Note:** The database is included separately in case you want to use a different one, or make your own.
+
 Usage
 -----
 
