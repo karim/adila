@@ -3,12 +3,12 @@
 package adila.db;
 
 /*
- * Meitu M4
+ * Meitu M6
  *
- * DEVICE: M4
- * MODEL: Meitu M4
+ * DEVICE: M6
+ * MODEL: MP1503
  */
-final class m4_meitu20m4 {
+final class m6_mp1503 {
     public static final String MANUFACTURER = "Meitu";
-    public static final String NAME = "M4";
+    public static final String NAME = "M6";
 }
