@@ -3,12 +3,12 @@
 package adila.db;
 
 /*
- * Huawei DAV
+ * Huawei P8max
  *
  * DEVICE: HWP8max
  * MODEL: HUAWEI P8max
  */
 final class hwp8max_huawei20p8max {
     public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "DAV";
+    public static final String NAME = "P8max";
 }

@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.karimeldeeb.adila'
-version = '16.8.22'
+version = '16.8.23'
 
 compileJava {
     // Suppress warnings about using Java 5
