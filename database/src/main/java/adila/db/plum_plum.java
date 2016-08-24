@@ -3,12 +3,12 @@
 package adila.db;
 
 /*
- * Mobicell GEM
+ * Mobicell PLUM
  *
- * DEVICE: GEM
- * MODEL: GEM
+ * DEVICE: PLUM
+ * MODEL: PLUM
  */
-final class gem_gem {
+final class plum_plum {
     public static final String MANUFACTURER = "Mobicell";
-    public static final String NAME = "GEM";
+    public static final String NAME = "PLUM";
 }
