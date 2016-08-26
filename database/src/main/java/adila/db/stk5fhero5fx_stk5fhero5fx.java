@@ -3,12 +3,13 @@
 package adila.db;
 
 /*
- * Santok Hero X
+ * STK Hero X
  *
  * DEVICE: STK_Hero_X
  * MODEL: STK_Hero_X
  */
 final class stk5fhero5fx_stk5fhero5fx {
-    public static final String MANUFACTURER = "Santok";
+    public static final String MANUFACTURER = "STK";
     public static final String NAME = "Hero X";
+    public static final String SERIES = "Hero";
 }

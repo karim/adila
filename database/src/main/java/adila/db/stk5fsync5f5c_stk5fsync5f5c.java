@@ -3,12 +3,13 @@
 package adila.db;
 
 /*
- * Santok SYNC 5C
+ * STK Sync 5c
  *
  * DEVICE: STK_Sync_5c
  * MODEL: STK_Sync_5c
  */
 final class stk5fsync5f5c_stk5fsync5f5c {
-    public static final String MANUFACTURER = "Santok";
-    public static final String NAME = "SYNC 5C";
+    public static final String MANUFACTURER = "STK";
+    public static final String NAME = "Sync 5c";
+    public static final String SERIES = "Sync";
 }

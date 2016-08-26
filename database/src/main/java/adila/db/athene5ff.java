@@ -3,12 +3,12 @@
 package adila.db;
 
 /*
- * Motorola Moto G4 Plus
+ * Motorola Moto G (4) Plus
  *
  * DEVICE: athene_f
  * MODEL: Moto G (4)
  */
 final class athene5ff {
     public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto G4 Plus";
+    public static final String NAME = "Moto G (4) Plus";
 }
