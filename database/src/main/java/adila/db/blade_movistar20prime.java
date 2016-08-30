@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Movistar Prime
  */
 final class blade_movistar20prime {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade";
+    public static final String DATA = "ZTE|Blade|";
 }

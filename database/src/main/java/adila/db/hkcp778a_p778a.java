@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P778A
  */
 final class hkcp778a_p778a {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "HKC P778A";
+    public static final String DATA = "Anydata|HKC P778A|";
 }

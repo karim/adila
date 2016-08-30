@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-N9002
  */
 final class hlte_sm2dn9002 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note 3 Duos";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note 3 Duos|Galaxy Note";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Slider SL101
  */
 final class sl101_slider20sl101 {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Eee Pad Slider";
+    public static final String DATA = "Asus|Eee Pad Slider|";
 }

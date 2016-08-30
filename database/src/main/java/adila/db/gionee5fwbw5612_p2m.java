@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P2M
  */
 final class gionee5fwbw5612_p2m {
-    public static final String MANUFACTURER = "Gionee";
-    public static final String NAME = "P2M";
+    public static final String DATA = "Gionee|P2M|";
 }

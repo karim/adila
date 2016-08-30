@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EM749_748
  */
 final class em7495f748_em7495f748 {
-    public static final String MANUFACTURER = "Emerson";
-    public static final String NAME = "Emerson EM749/748";
+    public static final String DATA = "Emerson|Emerson EM749/748|";
 }

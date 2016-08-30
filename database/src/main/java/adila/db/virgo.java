@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MI NOTE LTE
  */
 final class virgo {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "Mi Note";
+    public static final String DATA = "Xiaomi|Mi Note|";
 }

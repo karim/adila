@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Desire XC dual sim
  */
 final class protodcg_htc20desire20xc20dual20sim {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire XC dual sim";
+    public static final String DATA = "HTC|Desire XC dual sim|";
 }

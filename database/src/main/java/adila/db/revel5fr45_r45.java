@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: R45
  */
 final class revel5fr45_r45 {
-    public static final String MANUFACTURER = "Revtel";
-    public static final String NAME = "R45";
+    public static final String DATA = "Revtel|R45|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S100
  */
 final class iget5fs100_s100 {
-    public static final String MANUFACTURER = "iGet";
-    public static final String NAME = "iGET_S100";
+    public static final String DATA = "iGet|iGET_S100|";
 }

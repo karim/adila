@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: V880S
  */
 final class nice_v880s {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

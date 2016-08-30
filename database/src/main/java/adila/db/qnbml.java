@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MDB342X
  */
 final class qnbml {
-    public static final String MANUFACTURER = "Mobily";
-    public static final String NAME = "MDB342X";
+    public static final String DATA = "Mobily|MDB342X|";
 }

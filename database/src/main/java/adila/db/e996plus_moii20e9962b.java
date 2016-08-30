@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: moii E996+
  */
 final class e996plus_moii20e9962b {
-    public static final String MANUFACTURER = "BYD";
-    public static final String NAME = "Moii E996+";
+    public static final String DATA = "BYD|Moii E996+|";
 }

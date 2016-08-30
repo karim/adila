@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PCSGOB10SF-A
  */
 final class pcsgob10sf2da_pcsgob10sf2da {
-    public static final String MANUFACTURER = "PC Smart";
-    public static final String NAME = "PCSGOB10SF-A";
+    public static final String DATA = "PC Smart|PCSGOB10SF-A|";
 }

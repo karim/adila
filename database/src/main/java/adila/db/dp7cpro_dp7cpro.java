@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DP7CPRO
  */
 final class dp7cpro_dp7cpro {
-    public static final String MANUFACTURER = "Tecno";
-    public static final String NAME = "DroiPad 7C Pro";
+    public static final String DATA = "Tecno|DroiPad 7C Pro|";
 }

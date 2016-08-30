@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Camangi-Mangrove7
  */
 final class mangrove7 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

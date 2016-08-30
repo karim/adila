@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EK-KC120S
  */
 final class gd1lteskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Camera";
+    public static final String DATA = "Samsung|Galaxy Camera|";
 }

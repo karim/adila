@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X40E
  */
 final class x40e_x40e {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "Lazer X40E";
+    public static final String DATA = "Enspert|Lazer X40E|";
 }

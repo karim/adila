@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Simba SX1
  */
 final class bravo_simba20sx1 {
-    public static final String MANUFACTURER = "GSmart";
-    public static final String NAME = "Simba SX1";
+    public static final String DATA = "GSmart|Simba SX1|";
 }

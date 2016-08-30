@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I9268
  */
 final class superiorcmcc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Premier";
+    public static final String DATA = "Samsung|Galaxy Premier|";
 }

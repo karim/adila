@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T815
  */
 final class gts210lte_sm2dt815 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab S2 8.0";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab S2 8.0|Galaxy Tab";
 }

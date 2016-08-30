@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PixelV1
  */
 final class pixelv15fsprout_pixelv1 {
-    public static final String MANUFACTURER = "Lava";
-    public static final String NAME = "Pixel V1";
+    public static final String DATA = "Lava|Pixel V1|";
 }

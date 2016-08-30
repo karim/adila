@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MotoE2
  */
 final class otus_motoe2 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto E (2nd Gen)";
+    public static final String DATA = "Motorola|Moto E (2nd Gen)|";
 }

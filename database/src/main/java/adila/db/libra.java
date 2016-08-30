@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Mi-4c
  */
 final class libra {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "Mi 4c";
+    public static final String DATA = "Xiaomi|Mi 4c|";
 }

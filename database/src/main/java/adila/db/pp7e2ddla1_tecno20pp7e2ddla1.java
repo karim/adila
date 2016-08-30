@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TECNO PP7E-DLA1
  */
 final class pp7e2ddla1_tecno20pp7e2ddla1 {
-    public static final String MANUFACTURER = "Tecno";
-    public static final String NAME = "PhonePad 7 II";
+    public static final String DATA = "Tecno|PhonePad 7 II|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S6792L
  */
 final class nevisw_gt2ds6792l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Fame Lite Duos";
+    public static final String DATA = "Samsung|Galaxy Fame Lite Duos|";
 }

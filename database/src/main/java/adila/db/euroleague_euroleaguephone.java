@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EuroleaguePhone
  */
 final class euroleague_euroleaguephone {
-    public static final String MANUFACTURER = "EuroLeague";
-    public static final String NAME = "Euroleague I7a";
+    public static final String DATA = "EuroLeague|Euroleague I7a|";
 }

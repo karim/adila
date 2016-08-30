@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VW_RCBKK1
  */
 final class vw5frcbkk1_vw5frcbkk1 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "Boukenkun-reciever";
+    public static final String DATA = "Panasonic|Boukenkun-reciever|";
 }

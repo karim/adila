@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ForwardRuby
  */
 final class forwardruby_forwardruby {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "Forward Ruby";
+    public static final String DATA = "NGM|Forward Ruby|";
 }

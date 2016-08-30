@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Axioo-VIGO410
  */
 final class vigo410 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

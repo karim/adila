@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ST940I-UP
  */
 final class tvg2 {
-    public static final String MANUFACTURER = "LGU+";
-    public static final String NAME = "ST940I-UP";
+    public static final String DATA = "LGU+|ST940I-UP|";
 }

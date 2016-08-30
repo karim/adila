@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Xolo_X500
  */
 final class zeeyabeach_xolo5fx500 {
-    public static final String MANUFACTURER = "Intel";
-    public static final String NAME = "Xolo X500";
+    public static final String DATA = "Intel|Xolo X500|";
 }

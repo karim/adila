@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Preo Teknosa P1
  */
 final class msm89165f32_preo20teknosa20p1 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Preo Teknosa P1";
+    public static final String DATA = "ZTE|Preo Teknosa P1|";
 }

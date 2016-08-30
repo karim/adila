@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Venue 8 7840 LTE
  */
 final class bb_venue20820784020lte {
-    public static final String MANUFACTURER = "Dell";
-    public static final String NAME = "Venue 8";
+    public static final String DATA = "Dell|Venue 8|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SHW-M305W
  */
 final class shw2dm305w_shw2dm305w {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 8.9";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 8.9|Galaxy Tab";
 }

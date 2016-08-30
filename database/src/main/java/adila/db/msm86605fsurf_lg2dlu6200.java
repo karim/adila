@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: LG-LU6200
  */
 final class msm86605fsurf_lg2dlu6200 {
-    public static final String MANUFACTURER = "LG";
+    public static final String DATA = "LG||";
 }

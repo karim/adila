@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS Pad TF700T
  */
 final class tf700t_asus20pad20tf700t {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "TF700T";
+    public static final String DATA = "Asus|TF700T|";
 }

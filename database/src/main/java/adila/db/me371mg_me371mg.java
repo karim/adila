@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ME371MG
  */
 final class me371mg_me371mg {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Fonepad ME371MG";
+    public static final String DATA = "Asus|Fonepad ME371MG|";
 }

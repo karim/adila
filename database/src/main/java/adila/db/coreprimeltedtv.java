@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G360BT
  */
 final class coreprimeltedtv {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Win 2";
+    public static final String DATA = "Samsung|Galaxy Win 2|";
 }

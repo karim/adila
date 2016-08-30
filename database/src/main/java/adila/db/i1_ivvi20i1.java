@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ivvi i1
  */
 final class i1_ivvi20i1 {
-    public static final String MANUFACTURER = "Coolpad";
-    public static final String NAME = "i1";
+    public static final String DATA = "Coolpad|i1|";
 }

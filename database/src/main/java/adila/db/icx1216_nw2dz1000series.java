@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NW-Z1000Series
  */
 final class icx1216_nw2dz1000series {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "NW-Z1000";
+    public static final String DATA = "Sony|NW-Z1000|";
 }

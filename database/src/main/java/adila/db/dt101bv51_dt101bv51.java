@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DT101Bv51
  */
 final class dt101bv51_dt101bv51 {
-    public static final String MANUFACTURER = "ESI Enterprises";
-    public static final String NAME = "DT101Bv51";
+    public static final String DATA = "ESI Enterprises|DT101Bv51|";
 }

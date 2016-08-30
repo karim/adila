@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE-RACER
  */
 final class mooncake_zte2dracer {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Racer";
+    public static final String DATA = "ZTE|Racer|";
 }

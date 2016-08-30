@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-D693AR
  */
 final class b2lss_lg2dd693ar {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G3 Stylus";
+    public static final String DATA = "LG|G3 Stylus|";
 }

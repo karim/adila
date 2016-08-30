@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Zero_Spin
  */
 final class zero5fspin_zero5fspin {
-    public static final String MANUFACTURER = "Vitsmo";
-    public static final String NAME = "Zero Spin";
+    public static final String DATA = "Vitsmo|Zero Spin|";
 }

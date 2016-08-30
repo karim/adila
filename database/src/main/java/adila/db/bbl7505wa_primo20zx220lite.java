@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Primo ZX2 Lite
  */
 final class bbl7505wa_primo20zx220lite {
-    public static final String MANUFACTURER = "Walton";
-    public static final String NAME = "Primo ZX2 Lite";
+    public static final String DATA = "Walton|Primo ZX2 Lite|";
 }

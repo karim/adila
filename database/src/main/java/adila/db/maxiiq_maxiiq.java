@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MaxiIQ
  */
 final class maxiiq_maxiiq {
-    public static final String MANUFACTURER = "Pegatron";
-    public static final String NAME = "MaxiIQ";
+    public static final String DATA = "Pegatron|MaxiIQ|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ARCHOS LUDOG10
  */
 final class ludo_archos20ludog10 {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "TV Connect";
+    public static final String DATA = "Archos|TV Connect|";
 }

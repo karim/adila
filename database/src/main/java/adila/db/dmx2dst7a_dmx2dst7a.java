@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DMX-ST7A
  */
 final class dmx2dst7a_dmx2dst7a {
-    public static final String MANUFACTURER = "Dreamax";
-    public static final String NAME = "DMX-ST7A";
+    public static final String DATA = "Dreamax|DMX-ST7A|";
 }

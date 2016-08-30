@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 6039A
  */
 final class idol347_6039a {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "6039A";
+    public static final String DATA = "Alcatel|6039A|";
 }

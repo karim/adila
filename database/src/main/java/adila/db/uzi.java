@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LenovoTV 32A3
  */
 final class uzi {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "32A3   40A3   43A3   49A3";
+    public static final String DATA = "Lenovo|32A3   40A3   43A3   49A3|";
 }

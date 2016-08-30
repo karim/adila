@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Tactile internet
  */
 final class u8100_tactile20internet {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "T-Mobile Pulse";
+    public static final String DATA = "Huawei|T-Mobile Pulse|";
 }

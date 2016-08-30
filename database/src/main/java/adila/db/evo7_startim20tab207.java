@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: starTIM tab 7
  */
 final class evo7_startim20tab207 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "EVO7";
+    public static final String DATA = "Alcatel|EVO7|";
 }

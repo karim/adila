@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Slate 7 Plus
  */
 final class birch {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate7 Plus";
+    public static final String DATA = "HP|Slate7 Plus|";
 }

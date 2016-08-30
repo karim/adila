@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SH-01H
  */
 final class sh2d01h_sh2d01h {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "AQUOS ZETA SH-01H";
+    public static final String DATA = "Sharp|AQUOS ZETA SH-01H|";
 }

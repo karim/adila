@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ITP-S100WD
  */
 final class illuminus {
-    public static final String MANUFACTURER = "Enspert";
+    public static final String DATA = "Enspert||";
 }

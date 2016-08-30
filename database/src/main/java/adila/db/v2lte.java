@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T905
  */
 final class v2lte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab Pro 12.2";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab Pro 12.2|Galaxy Tab";
 }

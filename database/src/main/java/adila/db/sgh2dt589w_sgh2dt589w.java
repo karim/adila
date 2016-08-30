@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SGH-T589W
  */
 final class sgh2dt589w_sgh2dt589w {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Q";
+    public static final String DATA = "Samsung|Galaxy Q|";
 }

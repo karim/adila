@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MID7317CP
  */
 final class mid7317cp_mid7317cp {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Auchan MID7317CP Tablet";
+    public static final String DATA = "Anydata|Auchan MID7317CP Tablet|";
 }

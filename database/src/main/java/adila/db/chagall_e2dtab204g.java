@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E-Tab 4G
  */
 final class chagall_e2dtab204g {
-    public static final String MANUFACTURER = "Pegatron";
-    public static final String NAME = "chagall";
+    public static final String DATA = "Pegatron|chagall|";
 }

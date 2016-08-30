@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KAZAM TV 45
  */
 final class kot49h_kazam20tv2045 {
-    public static final String MANUFACTURER = "KAZAM";
-    public static final String NAME = "KAZAM TV 4.5";
+    public static final String DATA = "KAZAM|KAZAM TV 4.5|";
 }

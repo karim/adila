@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ultra Energy Lite
  */
 final class ultra5fenergy5flite_ultra20energy20lite {
-    public static final String MANUFACTURER = "Hyundai";
-    public static final String NAME = "Ultra Energy Lite";
+    public static final String DATA = "Hyundai|Ultra Energy Lite|";
 }

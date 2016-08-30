@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: st70408_4_coho
  */
 final class st704085f45fcoho_st704085f45fcoho {
-    public static final String MANUFACTURER = "Trekstor";
-    public static final String NAME = "SurfTab xintron i 7.0";
+    public static final String DATA = "Trekstor|SurfTab xintron i 7.0|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TegraNote-P1640
  */
 final class tegranote_tegranote2dp1640 {
-    public static final String MANUFACTURER = "NVidia";
-    public static final String NAME = "TegraNote";
+    public static final String DATA = "NVidia|TegraNote|";
 }

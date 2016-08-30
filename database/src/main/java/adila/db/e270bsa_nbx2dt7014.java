@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NBX-T7014
  */
 final class e270bsa_nbx2dt7014 {
-    public static final String MANUFACTURER = "Noblex";
-    public static final String NAME = "NBX-T7014";
+    public static final String DATA = "Noblex|NBX-T7014|";
 }

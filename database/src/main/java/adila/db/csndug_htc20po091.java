@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC PO091
  */
 final class csndug_htc20po091 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "PO091";
+    public static final String DATA = "HTC|PO091|";
 }

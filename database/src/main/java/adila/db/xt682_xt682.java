@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT682
  */
 final class xt682_xt682 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Motoluxe";
+    public static final String DATA = "Motorola|Motoluxe|";
 }

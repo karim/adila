@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: mobifone M9001
  */
 final class hct725fwet5fjb3_mobifone20m9001 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "LEO_Q1";
+    public static final String DATA = "ZTE|LEO_Q1|";
 }

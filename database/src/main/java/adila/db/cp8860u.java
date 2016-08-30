@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodafone Smart 4G
  */
 final class cp8860u {
-    public static final String MANUFACTURER = "Coolpad";
-    public static final String NAME = "Vodafone Smart 4G";
+    public static final String DATA = "Coolpad|Vodafone Smart 4G|";
 }

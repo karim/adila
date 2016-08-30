@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VS950 4G
  */
 final class batman5fvzw {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Intuition";
+    public static final String DATA = "LG|Intuition|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-V901
  */
 final class v901ar {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Pad";
+    public static final String DATA = "LG|Optimus Pad|";
 }

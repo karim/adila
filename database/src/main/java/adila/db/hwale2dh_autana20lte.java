@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Autana LTE
  */
 final class hwale2dh_autana20lte {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "P8 Lite";
+    public static final String DATA = "Huawei|P8 Lite|";
 }

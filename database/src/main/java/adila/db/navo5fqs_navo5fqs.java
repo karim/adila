@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Navo_QS
  */
 final class navo5fqs_navo5fqs {
-    public static final String MANUFACTURER = "Vonino";
-    public static final String NAME = "Navo QS";
+    public static final String DATA = "Vonino|Navo QS|";
 }

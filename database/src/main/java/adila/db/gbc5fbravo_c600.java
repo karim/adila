@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C600
  */
 final class gbc5fbravo_c600 {
-    public static final String MANUFACTURER = "KOOOK";
-    public static final String NAME = "C600";
+    public static final String DATA = "KOOOK|C600|";
 }

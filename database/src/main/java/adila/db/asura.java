@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Internet TV
  */
 final class asura {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Internet TV";
+    public static final String DATA = "Sony|Internet TV|";
 }

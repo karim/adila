@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PocketBook A10
  */
 final class ep105fwifi_pocketbook20a10 {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "PocketBook A10";
+    public static final String DATA = "Foxconn|PocketBook A10|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: I-L1
  */
 final class mercury {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

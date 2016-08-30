@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-W899
  */
 final class sch2dw899_sch2dw899 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Folder";
+    public static final String DATA = "Samsung|Galaxy Folder|";
 }

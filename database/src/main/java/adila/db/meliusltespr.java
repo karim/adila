@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SPH-L600
  */
 final class meliusltespr {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Mega 6.3";
+    public static final String DATA = "Samsung|Galaxy Mega 6.3|";
 }

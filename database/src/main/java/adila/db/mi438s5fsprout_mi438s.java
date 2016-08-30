@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Mi438S
  */
 final class mi438s5fsprout_mi438s {
-    public static final String MANUFACTURER = "Nexian";
-    public static final String NAME = "Nexian journey one";
+    public static final String DATA = "Nexian|Nexian journey one|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Wooze_I5
  */
 final class wooze5fi5_wooze5fi5 {
-    public static final String MANUFACTURER = "Sourcing Creation";
-    public static final String NAME = "Wooze I 5";
+    public static final String DATA = "Sourcing Creation|Wooze I 5|";
 }

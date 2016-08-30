@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCH-I405
  */
 final class sch2di405_sch2di405 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S Stratosphere";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S Stratosphere|Galaxy S";
 }

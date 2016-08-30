@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Philips W3568
  */
 final class philips5fw3568_philips20w3568 {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "W3568";
+    public static final String DATA = "Philips|W3568|";
 }

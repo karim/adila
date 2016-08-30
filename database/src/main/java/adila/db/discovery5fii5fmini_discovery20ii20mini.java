@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Discovery II Mini
  */
 final class discovery5fii5fmini_discovery20ii20mini {
-    public static final String MANUFACTURER = "General Mobile";
-    public static final String NAME = "Discovery II Mini";
+    public static final String DATA = "General Mobile|Discovery II Mini|";
 }

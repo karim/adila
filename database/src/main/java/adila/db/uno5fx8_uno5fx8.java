@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: UNO_X8
  */
 final class uno5fx8_uno5fx8 {
-    public static final String MANUFACTURER = "Odys";
-    public static final String NAME = "ODYS UNO X8";
+    public static final String DATA = "Odys|ODYS UNO X8|";
 }

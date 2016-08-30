@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PAP5430
  */
 final class pap5430_pap5430 {
-    public static final String MANUFACTURER = "BYD";
-    public static final String NAME = "Prestigio PAP5430";
+    public static final String DATA = "BYD|Prestigio PAP5430|";
 }

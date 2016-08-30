@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CAM-L03
  */
 final class hwcam2dh_cam2dl03 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y6 II";
+    public static final String DATA = "Huawei|Y6 II|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Evo Energy4
  */
 final class iq4501_evo20energy4 {
-    public static final String MANUFACTURER = "Fly";
-    public static final String NAME = "Evo Energy4";
+    public static final String DATA = "Fly|Evo Energy4|";
 }

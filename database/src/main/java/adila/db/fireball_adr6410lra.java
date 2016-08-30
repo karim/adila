@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ADR6410LRA
  */
 final class fireball_adr6410lra {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "DROID Incredible 4G LTE";
+    public static final String DATA = "HTC|DROID Incredible 4G LTE|";
 }

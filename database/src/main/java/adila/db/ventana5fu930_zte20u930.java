@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ZTE U930
  */
 final class ventana5fu930_zte20u930 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

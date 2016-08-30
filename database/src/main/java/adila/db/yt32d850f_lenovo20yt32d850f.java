@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo YT3-850F
  */
 final class yt32d850f_lenovo20yt32d850f {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "YT3-850F/YOGATab3";
+    public static final String DATA = "Lenovo|YT3-850F/YOGATab3|";
 }

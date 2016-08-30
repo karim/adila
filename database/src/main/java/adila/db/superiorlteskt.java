@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHV-E220S
  */
 final class superiorlteskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Pop";
+    public static final String DATA = "Samsung|Galaxy Pop|";
 }

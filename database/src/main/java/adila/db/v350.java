@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ViewSonic-V350
  */
 final class v350 {
-    public static final String MANUFACTURER = "ViewSonic";
+    public static final String DATA = "ViewSonic||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NOS Roya
  */
 final class alto45_nos20roya {
-    public static final String MANUFACTURER = "Orange";
-    public static final String NAME = "NOS Roya";
+    public static final String DATA = "Orange|NOS Roya|";
 }

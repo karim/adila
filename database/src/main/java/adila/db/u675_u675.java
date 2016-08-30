@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: U675
  */
 final class u675_u675 {
-    public static final String MANUFACTURER = "Teleepoch";
-    public static final String NAME = "U675";
+    public static final String DATA = "Teleepoch|U675|";
 }

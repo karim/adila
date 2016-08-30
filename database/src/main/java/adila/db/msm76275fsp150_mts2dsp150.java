@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MTS-SP150
  */
 final class msm76275fsp150_mts2dsp150 {
-    public static final String MANUFACTURER = "Coolpad";
+    public static final String DATA = "Coolpad||";
 }

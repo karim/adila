@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Telenor Touch Pad
  */
 final class v9plus_telenor20touch20pad {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-LS840
  */
 final class cayman_lg2dls840 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Viper 4G LTE";
+    public static final String DATA = "LG|Viper 4G LTE|";
 }

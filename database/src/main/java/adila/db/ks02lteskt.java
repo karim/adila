@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHV-E400S
  */
 final class ks02lteskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Golden";
+    public static final String DATA = "Samsung|Galaxy Golden|";
 }

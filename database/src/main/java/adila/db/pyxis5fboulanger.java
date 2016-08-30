@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Essentielb-Pixis
  */
 final class pyxis5fboulanger {
-    public static final String MANUFACTURER = "essentielb";
-    public static final String NAME = "Pyxis";
+    public static final String DATA = "essentielb|Pyxis|";
 }

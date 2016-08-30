@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo X2-CU
  */
 final class x22dcu_lenovo20x22dcu {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "X2-CU/VIBE X2";
+    public static final String DATA = "Lenovo|X2-CU/VIBE X2|";
 }

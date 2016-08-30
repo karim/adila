@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-I757M
  */
 final class sgh2di757m_sgh2di757m {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2 HD LTE";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2 HD LTE|Galaxy S";
 }

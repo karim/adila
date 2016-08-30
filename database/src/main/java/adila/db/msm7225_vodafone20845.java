@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Vodafone 845
  */
 final class msm7225_vodafone20845 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

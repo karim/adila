@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Boston 4G
  */
 final class boston5f4g {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "Boston 4G";
+    public static final String DATA = "Gigabyte|Boston 4G|";
 }

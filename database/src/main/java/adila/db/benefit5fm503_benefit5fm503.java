@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Benefit_M503
  */
 final class benefit5fm503_benefit5fm503 {
-    public static final String MANUFACTURER = "Ark";
-    public static final String NAME = "Benefit M503";
+    public static final String DATA = "Ark|Benefit M503|";
 }

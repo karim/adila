@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MT3A
  */
 final class mt3a_mt3a {
-    public static final String MANUFACTURER = "MegaFon";
-    public static final String NAME = "MegaFon MT3A";
+    public static final String DATA = "MegaFon|MegaFon MT3A|";
 }

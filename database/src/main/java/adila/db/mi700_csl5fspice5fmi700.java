@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CSL_Spice_MI700
  */
 final class mi700_csl5fspice5fmi700 {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "CSL Spice MI700";
+    public static final String DATA = "Foxconn|CSL Spice MI700|";
 }

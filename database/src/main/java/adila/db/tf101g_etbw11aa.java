@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ETBW11AA
  */
 final class tf101g_etbw11aa {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "ETBW11AA";
+    public static final String DATA = "Asus|ETBW11AA|";
 }

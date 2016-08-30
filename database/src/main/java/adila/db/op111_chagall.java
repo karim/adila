@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: chagall
  */
 final class op111_chagall {
-    public static final String MANUFACTURER = "Pegatron";
-    public static final String NAME = "Olipad";
+    public static final String DATA = "Pegatron|Olipad|";
 }

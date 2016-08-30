@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EB-4063-X
  */
 final class eb2d40632dx_eb2d40632dx {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "EB-4063-X";
+    public static final String DATA = "Panasonic|EB-4063-X|";
 }

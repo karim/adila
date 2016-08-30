@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TaiWan Mobile T2
  */
 final class mooncake_taiwan20mobile20t2 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Racer";
+    public static final String DATA = "ZTE|Racer|";
 }

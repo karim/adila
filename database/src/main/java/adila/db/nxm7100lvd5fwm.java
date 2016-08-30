@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NX700QC
  */
 final class nxm7100lvd5fwm {
-    public static final String MANUFACTURER = "Nextbook";
-    public static final String NAME = "NX700QC";
+    public static final String DATA = "Nextbook|NX700QC|";
 }

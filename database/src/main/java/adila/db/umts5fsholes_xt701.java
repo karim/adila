@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT701
  */
 final class umts5fsholes_xt701 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Droid";
+    public static final String DATA = "Motorola|Droid|";
 }

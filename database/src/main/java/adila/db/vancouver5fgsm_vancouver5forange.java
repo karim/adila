@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Vancouver_Orange
  */
 final class vancouver5fgsm_vancouver5forange {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

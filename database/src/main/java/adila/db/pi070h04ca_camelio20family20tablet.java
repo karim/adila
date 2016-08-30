@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Camelio Family tablet
  */
 final class pi070h04ca_camelio20family20tablet {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Vivitar Camelio Tablet";
+    public static final String DATA = "Anydata|Vivitar Camelio Tablet|";
 }

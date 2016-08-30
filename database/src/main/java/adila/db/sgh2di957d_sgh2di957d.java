@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-I957D
  */
 final class sgh2di957d_sgh2di957d {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 8.9";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 8.9|Galaxy Tab";
 }

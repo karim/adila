@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DM65UXR
  */
 final class mstarnapoli5fatsc {
-    public static final String MANUFACTURER = "JVC";
-    public static final String NAME = "DM65UXR";
+    public static final String DATA = "JVC|DM65UXR|";
 }

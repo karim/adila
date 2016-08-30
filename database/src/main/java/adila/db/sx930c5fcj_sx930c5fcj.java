@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SX930C_CJ
  */
 final class sx930c5fcj_sx930c5fcj {
-    public static final String MANUFACTURER = "CJ HelloVision";
-    public static final String NAME = "Hello TV Smart";
+    public static final String DATA = "CJ HelloVision|Hello TV Smart|";
 }

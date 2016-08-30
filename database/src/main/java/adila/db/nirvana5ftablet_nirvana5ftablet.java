@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Nirvana_Tablet
  */
 final class nirvana5ftablet_nirvana5ftablet {
-    public static final String MANUFACTURER = "Quanta";
+    public static final String DATA = "Quanta||";
 }

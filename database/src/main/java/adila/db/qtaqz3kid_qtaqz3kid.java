@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: QTAQZ3KID
  */
 final class qtaqz3kid_qtaqz3kid {
-    public static final String MANUFACTURER = "Verizon Wireless";
-    public static final String NAME = "QTAQZ3KID";
+    public static final String DATA = "Verizon Wireless|QTAQZ3KID|";
 }

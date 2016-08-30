@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NXT-L29
  */
 final class hwnxt_nxt2dl29 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Mate 8";
+    public static final String DATA = "Huawei|Mate 8|";
 }

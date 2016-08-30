@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ORINOQUIA C8688V
  */
 final class orinoquiac8688v_orinoquia20c8688v {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

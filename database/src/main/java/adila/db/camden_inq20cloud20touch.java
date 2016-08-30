@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: INQ Cloud Touch
  */
 final class camden_inq20cloud20touch {
-    public static final String MANUFACTURER = "INQ Mobile";
+    public static final String DATA = "INQ Mobile||";
 }

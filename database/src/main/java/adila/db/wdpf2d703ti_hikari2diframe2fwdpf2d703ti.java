@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Hikari-iFrame/WDPF-703TI
  */
 final class wdpf2d703ti_hikari2diframe2fwdpf2d703ti {
-    public static final String MANUFACTURER = "Toshiba";
+    public static final String DATA = "Toshiba||";
 }

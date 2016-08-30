@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NS-14T002
  */
 final class ns5f14t002 {
-    public static final String MANUFACTURER = "Insignia";
-    public static final String NAME = "INSIGNIA NS-14T002";
+    public static final String DATA = "Insignia|INSIGNIA NS-14T002|";
 }

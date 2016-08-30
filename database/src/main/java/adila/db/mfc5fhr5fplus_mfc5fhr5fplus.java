@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MFC_HR_Plus
  */
 final class mfc5fhr5fplus_mfc5fhr5fplus {
-    public static final String MANUFACTURER = "Clementoni";
-    public static final String NAME = "My First Clempad HR Plus";
+    public static final String DATA = "Clementoni|My First Clempad HR Plus|";
 }

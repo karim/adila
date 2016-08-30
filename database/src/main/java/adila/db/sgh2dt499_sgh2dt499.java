@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SGH-T499
  */
 final class sgh2dt499_sgh2dt499 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Mini";
+    public static final String DATA = "Samsung|Galaxy Mini|";
 }

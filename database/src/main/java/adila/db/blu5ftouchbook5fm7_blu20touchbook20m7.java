@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: BLU TOUCHBOOK M7
  */
 final class blu5ftouchbook5fm7_blu20touchbook20m7 {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Touchbook M7";
-    public static final String SERIES = "Touchbook";
+    public static final String DATA = "Blu|Touchbook M7|Touchbook";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IQ4513 Octa
  */
 final class iq45135focta_iq451320octa {
-    public static final String MANUFACTURER = "Fly";
-    public static final String NAME = "IQ4513 Octa";
+    public static final String DATA = "Fly|IQ4513 Octa|";
 }

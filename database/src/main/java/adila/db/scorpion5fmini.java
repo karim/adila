@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT907
  */
 final class scorpion5fmini {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "DROID RAZR M";
+    public static final String DATA = "Motorola|DROID RAZR M|";
 }

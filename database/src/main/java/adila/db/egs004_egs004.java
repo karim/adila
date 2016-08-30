@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EGS004
  */
 final class egs004_egs004 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "ematic EGS004";
+    public static final String DATA = "Anydata|ematic EGS004|";
 }

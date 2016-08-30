@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ADR6330VW
  */
 final class blissc {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "ADR6330VW";
+    public static final String DATA = "HTC|ADR6330VW|";
 }

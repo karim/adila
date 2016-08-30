@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LC-XU930X_830X
  */
 final class lc5fxu930x5f830x {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "LC-XU930X_830X";
+    public static final String DATA = "Sharp|LC-XU930X_830X|";
 }

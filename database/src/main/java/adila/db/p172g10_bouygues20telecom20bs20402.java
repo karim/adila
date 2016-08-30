@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Bouygues Telecom Bs 402
  */
 final class p172g10_bouygues20telecom20bs20402 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Bouygues Telecom Bs 402";
+    public static final String DATA = "ZTE|Bouygues Telecom Bs 402|";
 }

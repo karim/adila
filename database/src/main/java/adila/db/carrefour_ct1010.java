@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CT1010
  */
 final class carrefour_ct1010 {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "Carrefour CT1010";
+    public static final String DATA = "Enspert|Carrefour CT1010|";
 }

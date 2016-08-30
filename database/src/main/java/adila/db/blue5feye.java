@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E-Tab10
  */
 final class blue5feye {
-    public static final String MANUFACTURER = "GeneralMobile";
-    public static final String NAME = "E-Tab10";
+    public static final String DATA = "GeneralMobile|E-Tab10|";
 }

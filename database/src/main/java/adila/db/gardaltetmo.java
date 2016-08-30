@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SGH-T399
  */
 final class gardaltetmo {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Garda";
+    public static final String DATA = "Samsung|Garda|";
 }

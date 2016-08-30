@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Q-Touch
  */
 final class q2dtouch_q2dtouch {
-    public static final String MANUFACTURER = "Plus4";
-    public static final String NAME = "Q-Touch";
+    public static final String DATA = "Plus4|Q-Touch|";
 }

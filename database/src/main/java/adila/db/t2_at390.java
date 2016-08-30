@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: AT390
  */
 final class t2_at390 {
-    public static final String MANUFACTURER = "Acer";
+    public static final String DATA = "Acer||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 5038X
  */
 final class soul455fgsm_5038x {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "SOUL 4.5";
+    public static final String DATA = "Alcatel|SOUL 4.5|";
 }

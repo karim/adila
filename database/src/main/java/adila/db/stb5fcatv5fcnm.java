@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SX930C-CC
  */
 final class stb5fcatv5fcnm {
-    public static final String MANUFACTURER = "C&M";
-    public static final String NAME = "Smart TV II";
+    public static final String DATA = "C&M|Smart TV II|";
 }

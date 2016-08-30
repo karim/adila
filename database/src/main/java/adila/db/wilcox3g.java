@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G3818
  */
 final class wilcox3g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Win Pro";
+    public static final String DATA = "Samsung|Galaxy Win Pro|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CYCLONE_ODYSSEY
  */
 final class cyclone5fodyssey_cyclone5fodyssey {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "CYCLONE_ODYSSEY";
+    public static final String DATA = "Haier|CYCLONE_ODYSSEY|";
 }

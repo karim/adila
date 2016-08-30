@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Slate 21 Pro
  */
 final class ranger {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate 21 Pro";
+    public static final String DATA = "HP|Slate 21 Pro|";
 }

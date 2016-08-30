@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: tmn smart a8
  */
 final class one5ftouch5f991d5fgsm_tmn20smart20a8 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "tmn smarta8";
+    public static final String DATA = "Alcatel|tmn smarta8|";
 }

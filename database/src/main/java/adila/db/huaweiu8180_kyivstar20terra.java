@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Kyivstar Terra
  */
 final class huaweiu8180_kyivstar20terra {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

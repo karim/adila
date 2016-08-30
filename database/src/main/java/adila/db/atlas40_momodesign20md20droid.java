@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Momodesign MD Droid
  */
 final class atlas40_momodesign20md20droid {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Momodesign MD Droid";
+    public static final String DATA = "ZTE|Momodesign MD Droid|";
 }

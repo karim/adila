@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CINKPLUS
  */
 final class s7505 {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "WIKO CINK+";
+    public static final String DATA = "Enspert|WIKO CINK+|";
 }

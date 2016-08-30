@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CNPC Security Pad S1
  */
 final class hws8301l_cnpc20security20pad20s1 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "MediaPad M1 8.0";
+    public static final String DATA = "Huawei|MediaPad M1 8.0|";
 }

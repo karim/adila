@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Trekker-M1
  */
 final class hs8916qc_trekker2dm1 {
-    public static final String MANUFACTURER = "Crosscall";
-    public static final String NAME = "Trekker-M1";
+    public static final String DATA = "Crosscall|Trekker-M1|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Elite11Q
  */
 final class elite11q_elite11q {
-    public static final String MANUFACTURER = "Visual Land";
-    public static final String NAME = "Prestige Elite11Q";
+    public static final String DATA = "Visual Land|Prestige Elite11Q|";
 }

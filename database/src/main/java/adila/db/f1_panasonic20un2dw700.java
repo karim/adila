@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Panasonic UN-W700
  */
 final class f1_panasonic20un2dw700 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "UN-W700";
+    public static final String DATA = "Panasonic|UN-W700|";
 }

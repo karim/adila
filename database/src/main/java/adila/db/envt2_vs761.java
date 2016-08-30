@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: VS761
  */
 final class envt2_vs761 {
-    public static final String MANUFACTURER = "LG";
+    public static final String DATA = "LG||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZT-701
  */
 final class zt2d701_zt2d701 {
-    public static final String MANUFACTURER = "AtGames-zooti";
-    public static final String NAME = "ZOOTI PAD ZT-701";
+    public static final String DATA = "AtGames-zooti|ZOOTI PAD ZT-701|";
 }

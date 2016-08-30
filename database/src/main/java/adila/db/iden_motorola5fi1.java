@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Motorola_i1
  */
 final class iden_motorola5fi1 {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

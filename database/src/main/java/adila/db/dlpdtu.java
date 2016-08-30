@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC 9088
  */
 final class dlpdtu {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "9088";
+    public static final String DATA = "HTC|9088|";
 }

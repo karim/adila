@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L39u
  */
 final class l39u_l39u {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia Z1";
+    public static final String DATA = "Sony|Xperia Z1|";
 }

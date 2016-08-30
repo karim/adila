@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Xiphos(R)TMD
  */
 final class granite_xiphos28r29tmd {
-    public static final String MANUFACTURER = "Oceus Networks";
-    public static final String NAME = "Xiphos";
+    public static final String DATA = "Oceus Networks|Xiphos|";
 }

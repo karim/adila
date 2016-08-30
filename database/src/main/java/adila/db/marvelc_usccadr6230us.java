@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: USCCADR6230US
  */
 final class marvelc_usccadr6230us {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Wildfire S A515c";
+    public static final String DATA = "HTC|Wildfire S A515c|";
 }

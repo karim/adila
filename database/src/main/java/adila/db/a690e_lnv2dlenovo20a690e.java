@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LNV-Lenovo A690e
  */
 final class a690e_lnv2dlenovo20a690e {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "A690e";
+    public static final String DATA = "Lenovo|A690e|";
 }

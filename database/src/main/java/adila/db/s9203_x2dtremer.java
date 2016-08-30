@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X-tremer
  */
 final class s9203_x2dtremer {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "DARKNIGHT";
+    public static final String DATA = "Wiko|DARKNIGHT|";
 }

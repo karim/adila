@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HD PSEB v2
  */
 final class hdpsebv2_hd20pseb20v2 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "HDPSEB v2";
+    public static final String DATA = "Panasonic|HDPSEB v2|";
 }

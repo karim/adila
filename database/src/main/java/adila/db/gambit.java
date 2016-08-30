@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Constellation V
  */
 final class gambit {
-    public static final String MANUFACTURER = "Vertu";
-    public static final String NAME = "Constellation V";
+    public static final String DATA = "Vertu|Constellation V|";
 }

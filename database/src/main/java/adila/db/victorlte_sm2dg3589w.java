@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G3589W
  */
 final class victorlte_sm2dg3589w {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core Lite";
+    public static final String DATA = "Samsung|Galaxy Core Lite|";
 }

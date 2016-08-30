@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: nuvi 3595
  */
 final class scorpio_nuvi203595 {
-    public static final String MANUFACTURER = "Garmin";
-    public static final String NAME = "Nuvi 3595";
+    public static final String DATA = "Garmin|Nuvi 3595|";
 }

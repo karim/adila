@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: i-mobile M1703
  */
 final class m1703_i2dmobile20m1703 {
-    public static final String MANUFACTURER = "i-mobile";
-    public static final String NAME = "i-mobile i-note WiFi 1.1";
+    public static final String DATA = "i-mobile|i-mobile i-note WiFi 1.1|";
 }

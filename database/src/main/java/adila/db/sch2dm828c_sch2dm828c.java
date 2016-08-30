@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-M828C
  */
 final class sch2dm828c_sch2dm828c {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Precedent";
+    public static final String DATA = "Samsung|Galaxy Precedent|";
 }

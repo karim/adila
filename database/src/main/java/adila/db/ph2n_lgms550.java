@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LGMS550
  */
 final class ph2n_lgms550 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Stylus2 Plus";
+    public static final String DATA = "LG|Stylus2 Plus|";
 }

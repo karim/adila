@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Matrix
  */
 final class matrix_matrix {
-    public static final String MANUFACTURER = "Mobicel";
-    public static final String NAME = "Matrix";
+    public static final String DATA = "Mobicel|Matrix|";
 }

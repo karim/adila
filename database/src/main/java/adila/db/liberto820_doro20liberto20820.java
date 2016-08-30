@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Doro Liberto 820
  */
 final class liberto820_doro20liberto20820 {
-    public static final String MANUFACTURER = "Doro";
-    public static final String NAME = "Liberto 820";
+    public static final String DATA = "Doro|Liberto 820|";
 }

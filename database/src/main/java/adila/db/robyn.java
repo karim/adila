@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E10i
  */
 final class robyn {
-    public static final String MANUFACTURER = "Sony Ericsson";
-    public static final String NAME = "X10 Xperia Mini";
+    public static final String DATA = "Sony Ericsson|X10 Xperia Mini|";
 }

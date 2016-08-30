@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: A1680
  */
 final class umts5flucky {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

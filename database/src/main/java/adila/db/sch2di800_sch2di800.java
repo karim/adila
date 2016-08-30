@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCH-I800
  */
 final class sch2di800_sch2di800 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab|Galaxy Tab";
 }

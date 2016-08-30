@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC EVO Design C715e
  */
 final class kingdom_htc20evo20design20c715e {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "EVODesign4G";
+    public static final String DATA = "HTC|EVODesign4G|";
 }

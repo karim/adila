@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NX007HD
  */
 final class m7000nd_nx007hd {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Nextbook NX007HD Tablet";
+    public static final String DATA = "Anydata|Nextbook NX007HD Tablet|";
 }

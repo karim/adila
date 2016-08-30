@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MC40N0
  */
 final class mc40_mc40n0 {
-    public static final String MANUFACTURER = "Zebra";
-    public static final String NAME = "MC40";
+    public static final String DATA = "Zebra|MC40|";
 }

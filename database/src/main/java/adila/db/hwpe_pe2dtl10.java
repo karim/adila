@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PE-TL10
  */
 final class hwpe_pe2dtl10 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Honor 6 Plus";
+    public static final String DATA = "Huawei|Honor 6 Plus|";
 }

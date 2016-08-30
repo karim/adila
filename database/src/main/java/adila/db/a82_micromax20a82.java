@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Micromax A82
  */
 final class a82_micromax20a82 {
-    public static final String MANUFACTURER = "Micromax";
-    public static final String NAME = "Bolt";
+    public static final String DATA = "Micromax|Bolt|";
 }

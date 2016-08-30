@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5310C
  */
 final class corsicave3g_gt2ds5310c {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Pocket SS";
+    public static final String DATA = "Samsung|Galaxy Pocket SS|";
 }

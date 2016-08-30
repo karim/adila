@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LGL34C
  */
 final class w3c_lgl34c {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Fuel";
+    public static final String DATA = "LG|Optimus Fuel|";
 }

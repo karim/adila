@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SZJ-JS201
  */
 final class szj201_szj2djs201 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "SZJ201";
+    public static final String DATA = "Kyocera|SZJ201|";
 }

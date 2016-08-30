@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo K30-TM
  */
 final class kraft2dtm_lenovo20k302dtm {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "K30-TM";
+    public static final String DATA = "Lenovo|K30-TM|";
 }

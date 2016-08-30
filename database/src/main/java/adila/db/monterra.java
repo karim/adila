@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Monterra
  */
 final class monterra {
-    public static final String MANUFACTURER = "Garmin";
-    public static final String NAME = "Monterra";
+    public static final String DATA = "Garmin|Monterra|";
 }

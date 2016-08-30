@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Si01BB
  */
 final class si01bb_si01bb {
-    public static final String MANUFACTURER = "SiAL";
-    public static final String NAME = "Bic camera";
+    public static final String DATA = "SiAL|Bic camera|";
 }

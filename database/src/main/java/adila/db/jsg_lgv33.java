@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LGV33
  */
 final class jsg_lgv33 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Qua phone PX";
+    public static final String DATA = "LG|Qua phone PX|";
 }

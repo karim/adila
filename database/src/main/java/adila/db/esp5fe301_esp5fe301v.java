@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ESP_E301V
  */
 final class esp5fe301_esp5fe301v {
-    public static final String MANUFACTURER = "Enspert";
+    public static final String DATA = "Enspert||";
 }

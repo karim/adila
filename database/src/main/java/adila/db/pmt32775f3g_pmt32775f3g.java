@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PMT3277_3G
  */
 final class pmt32775f3g_pmt32775f3g {
-    public static final String MANUFACTURER = "Prestigio";
-    public static final String NAME = "PMT3277_3G";
+    public static final String DATA = "Prestigio|PMT3277_3G|";
 }

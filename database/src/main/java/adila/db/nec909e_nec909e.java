@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NEC909e
  */
 final class nec909e_nec909e {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "NEC909e";
+    public static final String DATA = "NEC|NEC909e|";
 }

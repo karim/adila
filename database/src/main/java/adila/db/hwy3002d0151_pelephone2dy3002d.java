@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Pelephone-Y300-
  */
 final class hwy3002d0151_pelephone2dy3002d {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y300";
+    public static final String DATA = "Huawei|Y300|";
 }

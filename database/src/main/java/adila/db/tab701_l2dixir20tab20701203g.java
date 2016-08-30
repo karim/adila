@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L-IXIR TAB 701 3G
  */
 final class tab701_l2dixir20tab20701203g {
-    public static final String MANUFACTURER = "Logicom";
-    public static final String NAME = "L-IXIR TAB 701 3G";
+    public static final String DATA = "Logicom|L-IXIR TAB 701 3G|";
 }

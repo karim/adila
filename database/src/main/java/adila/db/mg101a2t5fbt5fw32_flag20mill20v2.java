@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Flag Mill v2
  */
 final class mg101a2t5fbt5fw32_flag20mill20v2 {
-    public static final String MANUFACTURER = "JP Sacouto";
-    public static final String NAME = "Flag Mill v2";
+    public static final String DATA = "JP Sacouto|Flag Mill v2|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STV100-1
  */
 final class venice_stv1002d1 {
-    public static final String MANUFACTURER = "BlackBerry";
-    public static final String NAME = "Priv";
+    public static final String DATA = "BlackBerry|Priv|";
 }

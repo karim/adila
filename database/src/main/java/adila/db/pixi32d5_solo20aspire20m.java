@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SOLO Aspire M
  */
 final class pixi32d5_solo20aspire20m {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "SOLO Aspire M";
+    public static final String DATA = "Alcatel|SOLO Aspire M|";
 }

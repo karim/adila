@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5830F
  */
 final class gt2ds5830f_gt2ds5830f {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Ace";
+    public static final String DATA = "Samsung|Galaxy Ace|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Trio Stealth_8
  */
 final class d5f8al_trio20stealth5f8 {
-    public static final String MANUFACTURER = "MachSpeed";
-    public static final String NAME = "MachSpeed Trio Stealth_8 Tablet";
+    public static final String DATA = "MachSpeed|MachSpeed Trio Stealth_8 Tablet|";
 }

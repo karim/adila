@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Niva
  */
 final class diablo5flte_orange20niva {
-    public static final String MANUFACTURER = "Orange";
-    public static final String NAME = "idol S";
+    public static final String DATA = "Orange|idol S|";
 }

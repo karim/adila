@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Beeline E700
  */
 final class p177e01_beeline20e700 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "V807";
+    public static final String DATA = "ZTE|V807|";
 }

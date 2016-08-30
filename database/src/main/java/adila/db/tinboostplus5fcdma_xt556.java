@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT556
  */
 final class tinboostplus5fcdma_xt556 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto Defy XT";
+    public static final String DATA = "Motorola|Moto Defy XT|";
 }

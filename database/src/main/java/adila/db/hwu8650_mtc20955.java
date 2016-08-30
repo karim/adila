@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MTC 955
  */
 final class hwu8650_mtc20955 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

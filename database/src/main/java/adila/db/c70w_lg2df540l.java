@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F540L
  */
 final class c70w_lg2df540l {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Volt LTE";
+    public static final String DATA = "LG|Volt LTE|";
 }

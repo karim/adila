@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T-01C
  */
 final class tg03_t2d01c {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "REGZA Phone T-01C";
+    public static final String DATA = "Fujitsu|REGZA Phone T-01C|";
 }

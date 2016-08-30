@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TI320-DU
  */
 final class smartbox {
-    public static final String MANUFACTURER = "LGUplus";
-    public static final String NAME = "TV G";
+    public static final String DATA = "LGUplus|TV G|";
 }

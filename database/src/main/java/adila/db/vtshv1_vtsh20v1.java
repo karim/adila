@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VTSH v1
  */
 final class vtshv1_vtsh20v1 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "VTSH v1";
+    public static final String DATA = "Panasonic|VTSH v1|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Kurio10S
  */
 final class c13300a_kurio10s {
-    public static final String MANUFACTURER = "KD Interactive";
-    public static final String NAME = "KD Interactive Kurio10S";
+    public static final String DATA = "KD Interactive|KD Interactive Kurio10S|";
 }

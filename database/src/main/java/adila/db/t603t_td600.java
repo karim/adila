@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: TD600
  */
 final class t603t_td600 {
-    public static final String MANUFACTURER = "Acer";
+    public static final String DATA = "Acer||";
 }

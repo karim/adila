@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Explorer
  */
 final class pico_htc20explorer {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Explorer A310e";
+    public static final String DATA = "HTC|Explorer A310e|";
 }

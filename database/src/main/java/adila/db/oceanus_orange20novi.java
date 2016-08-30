@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Novi
  */
 final class oceanus_orange20novi {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Orange Novi";
+    public static final String DATA = "ZTE|Orange Novi|";
 }

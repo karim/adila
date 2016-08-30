@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MB502
  */
 final class umts5fbasil {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Charm";
+    public static final String DATA = "Motorola|Charm|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WX04K
  */
 final class wx04k_wx04k {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "DIGNO Dual";
+    public static final String DATA = "Kyocera|DIGNO Dual|";
 }

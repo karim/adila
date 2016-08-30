@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Galaxy X
  */
 final class maguro_galaxy20x {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Nexus";
+    public static final String DATA = "Samsung|Galaxy Nexus|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M8047IU
  */
 final class m8047iu_m8047iu {
-    public static final String MANUFACTURER = "Brightstar";
-    public static final String NAME = "M8046IU";
+    public static final String DATA = "Brightstar|M8046IU|";
 }

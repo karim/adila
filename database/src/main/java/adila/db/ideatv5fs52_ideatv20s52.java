@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ideatv S52
  */
 final class ideatv5fs52_ideatv20s52 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "ideatv S52";
+    public static final String DATA = "Lenovo|ideatv S52|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cynus F4
  */
 final class s7521_cynus20f4 {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "IGGY";
+    public static final String DATA = "Wiko|IGGY|";
 }

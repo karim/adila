@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Slate 6 VoiceTab Plus
  */
 final class mekong {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate 6 VoiceTab Plus";
+    public static final String DATA = "HP|Slate 6 VoiceTab Plus|";
 }

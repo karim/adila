@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: F3216
  */
 final class f3216_f3216 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia XA Ultra";
+    public static final String DATA = "Sony|Xperia XA Ultra|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Optimus Barcelona
  */
 final class blade2_optimus20barcelona {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Optimus Barcelona";
+    public static final String DATA = "ZTE|Optimus Barcelona|";
 }

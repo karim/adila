@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MyPhone UNO
  */
 final class uno5fsprout_myphone20uno {
-    public static final String MANUFACTURER = "MyPhone";
-    public static final String NAME = "UNO";
+    public static final String DATA = "MyPhone|UNO|";
 }

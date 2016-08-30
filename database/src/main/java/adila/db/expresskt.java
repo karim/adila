@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: HTC_P515E
  */
 final class expresskt {
-    public static final String MANUFACTURER = "HTC";
+    public static final String DATA = "HTC||";
 }

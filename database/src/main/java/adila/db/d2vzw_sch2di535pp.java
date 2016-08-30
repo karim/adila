@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCH-I535PP
  */
 final class d2vzw_sch2di535pp {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3|Galaxy S";
 }

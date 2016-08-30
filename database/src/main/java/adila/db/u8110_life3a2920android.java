@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: life:) Android
  */
 final class u8110_life3a2920android {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

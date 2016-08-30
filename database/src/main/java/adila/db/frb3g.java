@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Farabi
  */
 final class frb3g {
-    public static final String MANUFACTURER = "Vestel";
-    public static final String NAME = "Farabi";
+    public static final String DATA = "Vestel|Farabi|";
 }

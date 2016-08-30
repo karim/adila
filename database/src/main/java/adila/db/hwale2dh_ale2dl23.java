@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ALE-L23
  */
 final class hwale2dh_ale2dl23 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "P8 Lite";
+    public static final String DATA = "Huawei|P8 Lite|";
 }

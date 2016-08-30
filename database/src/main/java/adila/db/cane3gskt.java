@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHW-M570S
  */
 final class cane3gskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core Advance";
+    public static final String DATA = "Samsung|Galaxy Core Advance|";
 }

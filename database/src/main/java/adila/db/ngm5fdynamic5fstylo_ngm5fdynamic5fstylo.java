@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NGM_Dynamic_Stylo
  */
 final class ngm5fdynamic5fstylo_ngm5fdynamic5fstylo {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "Dynamic Stylo+";
+    public static final String DATA = "NGM|Dynamic Stylo+|";
 }

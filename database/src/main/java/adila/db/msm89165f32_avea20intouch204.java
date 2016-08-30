@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Avea inTouch 4
  */
 final class msm89165f32_avea20intouch204 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Avea inTouch 4";
+    public static final String DATA = "ZTE|Avea inTouch 4|";
 }

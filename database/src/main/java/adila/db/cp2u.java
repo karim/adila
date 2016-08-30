@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Desire L by HTC
  */
 final class cp2u {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire L";
+    public static final String DATA = "HTC|Desire L|";
 }

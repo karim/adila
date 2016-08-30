@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AT330
  */
 final class tostab11bt_at330 {
-    public static final String MANUFACTURER = "Toshiba";
-    public static final String NAME = "JPN:REGZA Tablet AT830 Other countries:TOSHIBA AT330";
+    public static final String DATA = "Toshiba|JPN:REGZA Tablet AT830 Other countries:TOSHIBA AT330|";
 }

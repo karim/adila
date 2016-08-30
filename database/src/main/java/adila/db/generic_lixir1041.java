@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LIXIR1041
  */
 final class generic_lixir1041 {
-    public static final String MANUFACTURER = "Logicom";
-    public static final String NAME = "L-IXIR TAB 1041";
+    public static final String DATA = "Logicom|L-IXIR TAB 1041|";
 }

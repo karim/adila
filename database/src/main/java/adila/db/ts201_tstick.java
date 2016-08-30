@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TStick
  */
 final class ts201_tstick {
-    public static final String MANUFACTURER = "CCC";
-    public static final String NAME = "TSUTAYA Stick";
+    public static final String DATA = "CCC|TSUTAYA Stick|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GS53-6
  */
 final class mepure_gs532d6 {
-    public static final String MANUFACTURER = "Gigaset";
-    public static final String NAME = "ME Pure";
+    public static final String DATA = "Gigaset|ME Pure|";
 }

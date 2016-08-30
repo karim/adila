@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FS401
  */
 final class stratus1_fs401 {
-    public static final String MANUFACTURER = "Fly";
-    public static final String NAME = "Stratus 1";
+    public static final String DATA = "Fly|Stratus 1|";
 }

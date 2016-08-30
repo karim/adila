@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S500
  */
 final class a9 {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "CloudMobile S500";
+    public static final String DATA = "Acer|CloudMobile S500|";
 }

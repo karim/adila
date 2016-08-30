@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-W9913
  */
 final class m0grandectc_sch2dw9913 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "SCH-W9913";
+    public static final String DATA = "Samsung|SCH-W9913|";
 }

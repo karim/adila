@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Meitu M4
  */
 final class m4_meitu20m4 {
-    public static final String MANUFACTURER = "Meitu";
-    public static final String NAME = "M4";
+    public static final String DATA = "Meitu|M4|";
 }

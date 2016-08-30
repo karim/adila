@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ILT-MX100
  */
 final class smdkc110 {
-    public static final String MANUFACTURER = "iRiver";
+    public static final String DATA = "iRiver||";
 }

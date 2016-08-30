@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-V522
  */
 final class b3_lg2dv522 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Pad III 8.0";
+    public static final String DATA = "LG|G Pad III 8.0|";
 }

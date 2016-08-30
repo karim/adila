@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Siragon SP-5000
  */
 final class sp2d5000_siragon20sp2d5000 {
-    public static final String MANUFACTURER = "Siragon";
-    public static final String NAME = "Siragon SP-5000";
+    public static final String DATA = "Siragon|Siragon SP-5000|";
 }

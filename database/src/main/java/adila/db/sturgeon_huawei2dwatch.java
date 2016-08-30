@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI-WATCH
  */
 final class sturgeon_huawei2dwatch {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Watch";
+    public static final String DATA = "Huawei|Watch|";
 }

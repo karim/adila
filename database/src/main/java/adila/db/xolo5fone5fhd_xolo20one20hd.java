@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XOLO One HD
  */
 final class xolo5fone5fhd_xolo20one20hd {
-    public static final String MANUFACTURER = "Xolo";
-    public static final String NAME = "One HD";
+    public static final String DATA = "Xolo|One HD|";
 }

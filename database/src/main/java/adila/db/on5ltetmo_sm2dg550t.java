@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G550T
  */
 final class on5ltetmo_sm2dg550t {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy On5";
+    public static final String DATA = "Samsung|Galaxy On5|";
 }

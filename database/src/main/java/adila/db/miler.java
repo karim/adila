@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A854
  */
 final class miler {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Droid";
+    public static final String DATA = "Motorola|Droid|";
 }

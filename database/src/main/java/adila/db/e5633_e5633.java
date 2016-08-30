@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E5633
  */
 final class e5633_e5633 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia M5 Dual";
+    public static final String DATA = "Sony|Xperia M5 Dual|";
 }

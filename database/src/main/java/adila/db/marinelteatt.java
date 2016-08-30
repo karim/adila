@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-G890A
  */
 final class marinelteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S6 Active";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S6 Active|Galaxy S";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: iRULU X11
  */
 final class irulu2dx11_irulu20x11 {
-    public static final String MANUFACTURER = "USA111";
-    public static final String NAME = "IRULU X11";
+    public static final String DATA = "USA111|IRULU X11|";
 }

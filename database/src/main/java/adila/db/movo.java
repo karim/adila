@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: movo
  */
 final class movo {
-    public static final String MANUFACTURER = "TCL";
-    public static final String NAME = "LE50UHDE5692G";
+    public static final String DATA = "TCL|LE50UHDE5692G|";
 }

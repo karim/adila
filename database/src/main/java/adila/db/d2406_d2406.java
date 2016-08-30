@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: D2406
  */
 final class d2406_d2406 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia M2 Aqua";
+    public static final String DATA = "Sony|Xperia M2 Aqua|";
 }

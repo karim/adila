@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PLE-703L
  */
 final class hwple703l_ple2d703l {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "MediaPad M2 7.0 Youth Edition";
+    public static final String DATA = "Huawei|MediaPad M2 7.0 Youth Edition|";
 }

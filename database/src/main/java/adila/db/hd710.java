@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Commtiva-HD710
  */
 final class hd710 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

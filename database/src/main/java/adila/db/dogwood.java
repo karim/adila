@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Slate 8 Pro
  */
 final class dogwood {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate 8 Pro";
+    public static final String DATA = "HP|Slate 8 Pro|";
 }

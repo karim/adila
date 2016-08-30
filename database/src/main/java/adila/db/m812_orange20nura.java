@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Nura
  */
 final class m812_orange20nura {
-    public static final String MANUFACTURER = "Orange";
-    public static final String NAME = "Nura";
+    public static final String DATA = "Orange|Nura|";
 }

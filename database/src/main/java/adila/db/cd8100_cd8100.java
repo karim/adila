@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CD8100
  */
 final class cd8100_cd8100 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "LifeWatch Universal Gateway";
+    public static final String DATA = "Kyocera|LifeWatch Universal Gateway|";
 }

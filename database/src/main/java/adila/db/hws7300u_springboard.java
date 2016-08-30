@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: SpringBoard
  */
 final class hws7300u_springboard {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SNB02-NV7A
  */
 final class nabi2s_snb022dnv7a {
-    public static final String MANUFACTURER = "Nabi";
-    public static final String NAME = "2S";
+    public static final String DATA = "Nabi|2S|";
 }

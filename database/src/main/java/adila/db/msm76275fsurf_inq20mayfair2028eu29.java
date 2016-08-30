@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: INQ Mayfair (EU)
  */
 final class msm76275fsurf_inq20mayfair2028eu29 {
-    public static final String MANUFACTURER = "INQ Mobile";
+    public static final String DATA = "INQ Mobile||";
 }

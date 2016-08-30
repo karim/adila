@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC 982
  */
 final class vodafone5f785_mtc20982 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Vodafone 785";
+    public static final String DATA = "Alcatel|Vodafone 785|";
 }

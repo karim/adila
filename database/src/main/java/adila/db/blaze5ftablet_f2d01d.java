@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: F-01D
  */
 final class blaze5ftablet_f2d01d {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "ARROWS Tab LTE F-01D";
+    public static final String DATA = "Fujitsu|ARROWS Tab LTE F-01D|";
 }

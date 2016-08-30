@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Omega HD 3
  */
 final class h110_omega20hd203 {
-    public static final String MANUFACTURER = "Cherry Mobile";
-    public static final String NAME = "Omega HD3";
+    public static final String DATA = "Cherry Mobile|Omega HD3|";
 }

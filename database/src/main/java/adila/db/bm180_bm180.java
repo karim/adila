@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BM180
  */
 final class bm180_bm180 {
-    public static final String MANUFACTURER = "Bluebird";
-    public static final String NAME = "BM180";
+    public static final String DATA = "Bluebird|BM180|";
 }

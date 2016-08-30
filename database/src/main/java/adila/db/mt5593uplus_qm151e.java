@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: QM151E
  */
 final class mt5593uplus_qm151e {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "4K Razor Slim LED TV powered by Android TV";
+    public static final String DATA = "Philips|4K Razor Slim LED TV powered by Android TV|";
 }

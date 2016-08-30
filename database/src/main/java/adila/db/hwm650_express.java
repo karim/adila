@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Express
  */
 final class hwm650_express {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

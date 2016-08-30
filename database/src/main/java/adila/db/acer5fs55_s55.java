@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S55
  */
 final class acer5fs55_s55 {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "Liquid Jade";
+    public static final String DATA = "Acer|Liquid Jade|";
 }

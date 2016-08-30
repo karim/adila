@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MI PAD
  */
 final class mocha {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "MI PAD";
+    public static final String DATA = "Xiaomi|MI PAD|";
 }

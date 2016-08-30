@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Pro Slate 10 EE G1
  */
 final class terrier {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Pro Slate 10 EE G1";
+    public static final String DATA = "HP|Pro Slate 10 EE G1|";
 }

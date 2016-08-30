@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1706
  */
 final class taido5frow {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "Moto E3 Power";
+    public static final String DATA = "Lenovo|Moto E3 Power|";
 }

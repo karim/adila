@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I200PP
  */
 final class jaspervzw_sch2di200pp {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Stellar";
+    public static final String DATA = "Samsung|Galaxy Stellar|";
 }

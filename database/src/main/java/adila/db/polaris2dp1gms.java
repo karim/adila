@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: JLab PRO-7
  */
 final class polaris2dp1gms {
-    public static final String MANUFACTURER = "JLab";
-    public static final String NAME = "JLab_PRO-7";
+    public static final String DATA = "JLab|JLab_PRO-7|";
 }

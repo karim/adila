@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Volt
  */
 final class hurricane_volt {
-    public static final String MANUFACTURER = "Hurricane";
-    public static final String NAME = "Volt";
+    public static final String DATA = "Hurricane|Volt|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PRO5023PW
  */
 final class up065fh255fpolaroid {
-    public static final String MANUFACTURER = "Polaroid";
-    public static final String NAME = "PRO5023PW";
+    public static final String DATA = "Polaroid|PRO5023PW|";
 }

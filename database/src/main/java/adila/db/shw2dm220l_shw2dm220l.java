@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHW-M220L
  */
 final class shw2dm220l_shw2dm220l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Neo";
+    public static final String DATA = "Samsung|Galaxy Neo|";
 }

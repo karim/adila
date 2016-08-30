@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: QM163E
  */
 final class qm16xe5fu_qm163e {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "4K Ultra Slim LED TV powered by Android";
+    public static final String DATA = "Philips|4K Ultra Slim LED TV powered by Android|";
 }

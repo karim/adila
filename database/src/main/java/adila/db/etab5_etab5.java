@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Etab5
  */
 final class etab5_etab5 {
-    public static final String MANUFACTURER = "General Mobile";
-    public static final String NAME = "Etab5";
+    public static final String DATA = "General Mobile|Etab5|";
 }

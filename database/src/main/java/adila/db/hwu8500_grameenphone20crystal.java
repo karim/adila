@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Grameenphone Crystal
  */
 final class hwu8500_grameenphone20crystal {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

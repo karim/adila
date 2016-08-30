@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ultra Style
  */
 final class ultra5fstyle_ultra20style {
-    public static final String MANUFACTURER = "Hyundai";
-    public static final String NAME = "Ultra Style";
+    public static final String DATA = "Hyundai|Ultra Style|";
 }

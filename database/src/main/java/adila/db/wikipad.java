@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WPT005
  */
 final class wikipad {
-    public static final String MANUFACTURER = "iRiver";
-    public static final String NAME = "WPT005";
+    public static final String DATA = "iRiver|WPT005|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Gigaset QV830
  */
 final class uy8_gigaset20qv830 {
-    public static final String MANUFACTURER = "Gigaset";
-    public static final String NAME = "QV830";
+    public static final String DATA = "Gigaset|QV830|";
 }

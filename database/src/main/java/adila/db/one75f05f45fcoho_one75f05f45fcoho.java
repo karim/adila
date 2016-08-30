@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: one7_0_4_coho
  */
 final class one75f05f45fcoho_one75f05f45fcoho {
-    public static final String MANUFACTURER = "CloudFone";
-    public static final String NAME = "Cloudpad One 7.0";
+    public static final String DATA = "CloudFone|Cloudpad One 7.0|";
 }

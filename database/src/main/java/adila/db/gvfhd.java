@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F220K
  */
 final class gvfhd {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus GK";
+    public static final String DATA = "LG|Optimus GK|";
 }

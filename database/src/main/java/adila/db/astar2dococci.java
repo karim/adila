@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ML01-M7S-Quad-Core
  */
 final class astar2dococci {
-    public static final String MANUFACTURER = "Multilaser";
-    public static final String NAME = "M7s Quad Core";
+    public static final String DATA = "Multilaser|M7s Quad Core|";
 }

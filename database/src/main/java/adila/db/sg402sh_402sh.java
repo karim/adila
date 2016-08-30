@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 402SH
  */
 final class sg402sh_402sh {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "AQUOS CRYSTAL X";
+    public static final String DATA = "Sharp|AQUOS CRYSTAL X|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E8
  */
 final class gionee5fgn9008_e8 {
-    public static final String MANUFACTURER = "Gionee";
-    public static final String NAME = "E8";
+    public static final String DATA = "Gionee|E8|";
 }

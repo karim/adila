@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Telenor Touch Mini
  */
 final class ztenj735fgb_telenor20touch20mini {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "U V760";
+    public static final String DATA = "ZTE|U V760|";
 }

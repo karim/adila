@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STH100-1
  */
 final class hamburg_sth1002d1 {
-    public static final String MANUFACTURER = "BlackBerry";
-    public static final String NAME = "DTEK50";
+    public static final String DATA = "BlackBerry|DTEK50|";
 }

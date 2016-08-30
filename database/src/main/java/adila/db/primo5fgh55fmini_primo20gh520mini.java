@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Primo GH5 mini
  */
 final class primo5fgh55fmini_primo20gh520mini {
-    public static final String MANUFACTURER = "Walton";
-    public static final String NAME = "Primo GH5 mini";
+    public static final String DATA = "Walton|Primo GH5 mini|";
 }

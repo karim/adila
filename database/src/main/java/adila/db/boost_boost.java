@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Boost
  */
 final class boost_boost {
-    public static final String MANUFACTURER = "AG Mobile";
-    public static final String NAME = "Boost";
+    public static final String DATA = "AG Mobile|Boost|";
 }

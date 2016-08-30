@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodafone 861
  */
 final class one5ftouch5f9225fgsm_vodafone20861 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Vodafone 861";
+    public static final String DATA = "Alcatel|Vodafone 861|";
 }

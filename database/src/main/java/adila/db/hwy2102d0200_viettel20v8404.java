@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: VIETTEL V8404
  */
 final class hwy2102d0200_viettel20v8404 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

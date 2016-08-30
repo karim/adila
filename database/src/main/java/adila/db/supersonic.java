@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PC36100
  */
 final class supersonic {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Evo 4G";
+    public static final String DATA = "HTC|Evo 4G|";
 }

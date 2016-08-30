@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: LIFETAB_S9512
  */
 final class lifetab5fs9512_lifetab5fs9512 {
-    public static final String MANUFACTURER = "Lenovo";
+    public static final String DATA = "Lenovo||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ALCATEL ONETOUCH POP 7 LTE
  */
 final class pixi42d75f4g5fbell_alcatel20onetouch20pop20720lte {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "9015B";
+    public static final String DATA = "Alcatel|9015B|";
 }

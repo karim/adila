@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DG-D07SGP
  */
 final class dg2dd07sgp_dg2dd07sgp {
-    public static final String MANUFACTURER = "Diginnos";
-    public static final String NAME = "DG-D07S/GP";
+    public static final String DATA = "Diginnos|DG-D07S/GP|";
 }

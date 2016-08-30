@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TH-55DX600C
  */
 final class dx600c_th2d55dx600c {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "55DX600C";
+    public static final String DATA = "Panasonic|55DX600C|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: STK_Hero_X
  */
 final class stk5fhero5fx_stk5fhero5fx {
-    public static final String MANUFACTURER = "STK";
-    public static final String NAME = "Hero X";
-    public static final String SERIES = "Hero";
+    public static final String DATA = "STK|Hero X|Hero";
 }

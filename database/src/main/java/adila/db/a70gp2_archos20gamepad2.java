@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ARCHOS GAMEPAD2
  */
 final class a70gp2_archos20gamepad2 {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "GamePad 2";
+    public static final String DATA = "Archos|GamePad 2|";
 }

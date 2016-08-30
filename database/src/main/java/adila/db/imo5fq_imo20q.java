@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IMO Q
  */
 final class imo5fq_imo20q {
-    public static final String MANUFACTURER = "IMO (In My Opinion)";
-    public static final String NAME = "IMO Q";
+    public static final String DATA = "IMO (In My Opinion)|IMO Q|";
 }

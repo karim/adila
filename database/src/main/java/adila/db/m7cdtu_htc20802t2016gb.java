@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC 802t 16GB
  */
 final class m7cdtu_htc20802t2016gb {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One";
+    public static final String DATA = "HTC|One|";
 }

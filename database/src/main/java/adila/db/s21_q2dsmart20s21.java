@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Q-Smart S21
  */
 final class s21_q2dsmart20s21 {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "S21";
+    public static final String DATA = "Cellon|S21|";
 }

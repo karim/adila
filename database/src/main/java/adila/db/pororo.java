@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PantechP4100
  */
 final class pororo {
-    public static final String MANUFACTURER = "Pantech";
-    public static final String NAME = "Element";
+    public static final String DATA = "Pantech|Element|";
 }

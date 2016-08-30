@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VP74-Luxor
  */
 final class wifionly2dgms_vp742dluxor {
-    public static final String MANUFACTURER = "Vestel";
-    public static final String NAME = "VP74";
+    public static final String DATA = "Vestel|VP74|";
 }

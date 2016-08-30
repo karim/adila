@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7392L
  */
 final class kyleve_gt2ds7392l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Trend";
+    public static final String DATA = "Samsung|Galaxy Trend|";
 }

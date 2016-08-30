@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Max3-65
  */
 final class l653an5fus_max32d65 {
-    public static final String MANUFACTURER = "LeTV";
-    public static final String NAME = "Max3-65";
+    public static final String DATA = "LeTV|Max3-65|";
 }

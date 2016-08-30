@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Q10
  */
 final class ventana_q10 {
-    public static final String MANUFACTURER = "Quanta";
+    public static final String DATA = "Quanta||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T-Mobile G2
  */
 final class vision_t2dmobile20g2 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "G2";
+    public static final String DATA = "HTC|G2|";
 }

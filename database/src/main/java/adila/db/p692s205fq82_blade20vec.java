@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Blade Vec
  */
 final class p692s205fq82_blade20vec {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade Vec";
+    public static final String DATA = "ZTE|Blade Vec|";
 }

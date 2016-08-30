@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-J320A
  */
 final class j3xlteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy J3 (2016)";
-    public static final String SERIES = "Galaxy J";
+    public static final String DATA = "Samsung|Galaxy J3 (2016)|Galaxy J";
 }

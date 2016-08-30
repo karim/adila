@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S53
  */
 final class s3 {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "Liquid S3";
+    public static final String DATA = "Acer|Liquid S3|";
 }

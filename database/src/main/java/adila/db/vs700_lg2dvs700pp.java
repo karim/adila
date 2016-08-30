@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-VS700PP
  */
 final class vs700_lg2dvs700pp {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Enlighten";
+    public static final String DATA = "LG|Enlighten|";
 }

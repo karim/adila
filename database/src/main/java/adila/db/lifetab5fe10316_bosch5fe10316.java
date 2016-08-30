@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BOSCH_E10316
  */
 final class lifetab5fe10316_bosch5fe10316 {
-    public static final String MANUFACTURER = "Medion";
-    public static final String NAME = "LIFETAB E10316";
+    public static final String DATA = "Medion|LIFETAB E10316|";
 }

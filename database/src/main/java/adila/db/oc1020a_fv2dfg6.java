@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FV-FG6
  */
 final class oc1020a_fv2dfg6 {
-    public static final String MANUFACTURER = "FaceVsion";
-    public static final String NAME = "FaceVsion OC1020A";
+    public static final String DATA = "FaceVsion|FaceVsion OC1020A|";
 }

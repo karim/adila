@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: BLU NEO ENERGY MINI
  */
 final class blu5fneo5fenergy5fmini_blu20neo20energy20mini {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Neo Energy Mini";
-    public static final String SERIES = "Neo";
+    public static final String DATA = "Blu|Neo Energy Mini|Neo";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STARNAUTE II
  */
 final class v6600_starnaute20ii {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "STARNAUTE II";
+    public static final String DATA = "ZTE|STARNAUTE II|";
 }

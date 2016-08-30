@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F570S
  */
 final class yg {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "F570S";
+    public static final String DATA = "LG|F570S|";
 }

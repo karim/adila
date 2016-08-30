@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NEM-L22
  */
 final class hnnem2dh_nem2dl22 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Honor 5C";
+    public static final String DATA = "Huawei|Honor 5C|";
 }

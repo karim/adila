@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCH-i929
  */
 final class sch2di929_sch2di929 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2 Duos";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2 Duos|Galaxy S";
 }

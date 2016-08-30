@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: FIH-FB0
  */
 final class fb0 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

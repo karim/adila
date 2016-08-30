@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ice-Twist
  */
 final class ice2dtwist_ice2dtwist {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Ice-Twist";
+    public static final String DATA = "Huawei|Ice-Twist|";
 }

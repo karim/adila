@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Arc
  */
 final class zeus_arc {
-    public static final String MANUFACTURER = "Kobo";
-    public static final String NAME = "Arc";
+    public static final String DATA = "Kobo|Arc|";
 }

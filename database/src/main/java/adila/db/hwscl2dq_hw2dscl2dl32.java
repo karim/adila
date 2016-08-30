@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HW-SCL-L32
  */
 final class hwscl2dq_hw2dscl2dl32 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y6";
+    public static final String DATA = "Huawei|Y6|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5302
  */
 final class gt2ds5302_gt2ds5302 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Pocket";
+    public static final String DATA = "Samsung|Galaxy Pocket|";
 }

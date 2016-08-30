@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NBCGGP01
  */
 final class nbcggp01_nbcggp01 {
-    public static final String MANUFACTURER = "Nextbase";
-    public static final String NAME = "GoPlayer";
+    public static final String DATA = "Nextbase|GoPlayer|";
 }

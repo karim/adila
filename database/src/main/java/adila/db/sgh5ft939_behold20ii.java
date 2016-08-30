@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Behold II
  */
 final class sgh5ft939_behold20ii {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Behold II";
+    public static final String DATA = "Samsung|Behold II|";
 }

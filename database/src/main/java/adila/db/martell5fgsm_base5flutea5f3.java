@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BASE_Lutea_3
  */
 final class martell5fgsm_base5flutea5f3 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONE TOUCH 997D";
+    public static final String DATA = "Alcatel|ONE TOUCH 997D|";
 }

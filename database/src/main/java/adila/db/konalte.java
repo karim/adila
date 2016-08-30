@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-N5120
  */
 final class konalte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note 8.0";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note 8.0|Galaxy Note";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-T480K
  */
 final class vfp3g_lg2dt480k {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Wine Smart 3G";
+    public static final String DATA = "LG|Wine Smart 3G|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Infinity POP
  */
 final class beetle5fgsm_infinity20pop {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONE TOUCH 4030X";
+    public static final String DATA = "Alcatel|ONE TOUCH 4030X|";
 }

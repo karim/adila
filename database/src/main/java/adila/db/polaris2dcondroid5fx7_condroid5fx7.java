@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Condroid_X7
  */
 final class polaris2dcondroid5fx7_condroid5fx7 {
-    public static final String MANUFACTURER = "Polaris";
-    public static final String NAME = "polaris_Condroid_X7";
+    public static final String DATA = "Polaris|polaris_Condroid_X7|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SFR-G8800
  */
 final class stb5fdvb5fsfr {
-    public static final String MANUFACTURER = "SFR";
-    public static final String NAME = "SFR-G8800";
+    public static final String DATA = "SFR|SFR-G8800|";
 }

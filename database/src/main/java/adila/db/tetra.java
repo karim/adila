@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SmartWatch 3
  */
 final class tetra {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "SmartWatch 3";
+    public static final String DATA = "Sony|SmartWatch 3|";
 }

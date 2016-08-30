@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Pro Slate 8
  */
 final class malamute {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Pro Slate 8";
+    public static final String DATA = "HP|Pro Slate 8|";
 }

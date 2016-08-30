@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GSmart Saga S3
  */
 final class saga5fs3_gsmart20saga20s3 {
-    public static final String MANUFACTURER = "GSmart";
-    public static final String NAME = "Saga_S3";
+    public static final String DATA = "GSmart|Saga_S3|";
 }

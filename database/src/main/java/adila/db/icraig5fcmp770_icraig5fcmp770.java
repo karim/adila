@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ICRAIG_CMP770
  */
 final class icraig5fcmp770_icraig5fcmp770 {
-    public static final String MANUFACTURER = "iCraig";
-    public static final String NAME = "ICRAIG_CMP770";
+    public static final String DATA = "iCraig|ICRAIG_CMP770|";
 }

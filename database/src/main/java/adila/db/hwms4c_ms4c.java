@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MS4C
  */
 final class hwms4c_ms4c {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "MS4C";
+    public static final String DATA = "Huawei|MS4C|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: dtac phone M1
  */
 final class p635a50_dtac20phone20m1 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "dtac phone M1";
+    public static final String DATA = "ZTE|dtac phone M1|";
 }

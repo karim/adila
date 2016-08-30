@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NX16A11264
  */
 final class nx16a11264_nx16a11264 {
-    public static final String MANUFACTURER = "Nextbook";
-    public static final String NAME = "NX16A11264";
+    public static final String DATA = "Nextbook|NX16A11264|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EIII
  */
 final class dream2de3_eiii {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "EIII";
+    public static final String DATA = "Cellon|EIII|";
 }

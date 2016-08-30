@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT560
  */
 final class xt560_xt560 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Defy Pro";
+    public static final String DATA = "Motorola|Defy Pro|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Icon
  */
 final class mobicel5ficon_icon {
-    public static final String MANUFACTURER = "Mobicell";
-    public static final String NAME = "Icon";
+    public static final String DATA = "Mobicell|Icon|";
 }

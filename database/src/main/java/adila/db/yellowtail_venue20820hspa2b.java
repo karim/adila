@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Venue 8 HSPA+
  */
 final class yellowtail_venue20820hspa2b {
-    public static final String MANUFACTURER = "Dell";
-    public static final String NAME = "Venue 8";
+    public static final String DATA = "Dell|Venue 8|";
 }

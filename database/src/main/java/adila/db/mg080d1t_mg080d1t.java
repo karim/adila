@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MG080D1T
  */
 final class mg080d1t_mg080d1t {
-    public static final String MANUFACTURER = "TSUNAMi";
-    public static final String NAME = "Tablet Tsunami TSTA080D1";
+    public static final String DATA = "TSUNAMi|Tablet Tsunami TSTA080D1|";
 }

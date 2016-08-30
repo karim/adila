@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MZ601
  */
 final class umts5fhubble_mz601 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "XOOM";
+    public static final String DATA = "Motorola|XOOM|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Veil
  */
 final class granite_veil {
-    public static final String MANUFACTURER = "Gryphon";
-    public static final String NAME = "Gryphon Veil";
+    public static final String DATA = "Gryphon|Gryphon Veil|";
 }

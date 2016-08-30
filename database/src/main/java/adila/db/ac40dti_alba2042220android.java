@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Alba 4" Android
  */
 final class ac40dti_alba2042220android {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "Alba 4\" Android";
+    public static final String DATA = "Archos|Alba 4\" Android|";
 }

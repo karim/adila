@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC_Butterfly_s_901s
  */
 final class dlxpul_htc5fbutterfly5fs5f901s {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Butterfly S";
+    public static final String DATA = "HTC|Butterfly S|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orinoquia Gran Roraima S7-702u
  */
 final class hws7701u_orinoquia20gran20roraima20s72d702u {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Youth";
+    public static final String DATA = "Huawei|Youth|";
 }

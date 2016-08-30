@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MB300
  */
 final class motus_mb300 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Backflip";
+    public static final String DATA = "Motorola|Backflip|";
 }

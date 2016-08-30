@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5660B
  */
 final class gt2ds5660b_gt2ds5660b {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Gio";
+    public static final String DATA = "Samsung|Galaxy Gio|";
 }

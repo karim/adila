@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP 7.1
  */
 final class holly_hp2072e1 {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "7.1";
+    public static final String DATA = "HP|7.1|";
 }

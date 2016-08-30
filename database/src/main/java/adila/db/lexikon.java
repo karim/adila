@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ADR6325
  */
 final class lexikon {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "ADR6325";
+    public static final String DATA = "HTC|ADR6325|";
 }

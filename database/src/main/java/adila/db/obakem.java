@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1030
  */
 final class obakem {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Droid Mini";
+    public static final String DATA = "Motorola|Droid Mini|";
 }

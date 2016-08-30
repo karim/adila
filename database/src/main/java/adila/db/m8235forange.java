@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nura 2
  */
 final class m8235forange {
-    public static final String MANUFACTURER = "Orange";
-    public static final String NAME = "Nura2";
+    public static final String DATA = "Orange|Nura2|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DPM7827
  */
 final class rct6773w22_dpm7827 {
-    public static final String MANUFACTURER = "Dopo";
-    public static final String NAME = "DPM7827";
+    public static final String DATA = "Dopo|DPM7827|";
 }

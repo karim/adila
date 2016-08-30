@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 6043A
  */
 final class diabloxplus_6043a {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "6043A";
+    public static final String DATA = "Alcatel|6043A|";
 }

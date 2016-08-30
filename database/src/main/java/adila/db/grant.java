@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Q Founder
  */
 final class grant {
-    public static final String MANUFACTURER = "Fossil";
-    public static final String NAME = "Fossil Q Founder";
+    public static final String DATA = "Fossil|Fossil Q Founder|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F440L
  */
 final class vfpv {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Ice cream Smart";
+    public static final String DATA = "LG|Ice cream Smart|";
 }

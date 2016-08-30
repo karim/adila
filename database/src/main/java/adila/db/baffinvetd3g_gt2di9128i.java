@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I9128I
  */
 final class baffinvetd3g_gt2di9128i {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Grand";
+    public static final String DATA = "Samsung|Galaxy Grand|";
 }

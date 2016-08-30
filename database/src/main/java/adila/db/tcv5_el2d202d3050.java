@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EL-20-3050
  */
 final class tcv5_el2d202d3050 {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "EL-20-3710";
+    public static final String DATA = "Gigabyte|EL-20-3710|";
 }

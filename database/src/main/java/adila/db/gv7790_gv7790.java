@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GV7790
  */
 final class gv7790_gv7790 {
-    public static final String MANUFACTURER = "Prestigio";
-    public static final String NAME = "GV7790";
+    public static final String DATA = "Prestigio|GV7790|";
 }

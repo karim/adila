@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 404SH
  */
 final class sg404sh_404sh {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "AQUOS Xx";
+    public static final String DATA = "Sharp|AQUOS Xx|";
 }

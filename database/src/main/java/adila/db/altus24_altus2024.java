@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Altus 24
  */
 final class altus24_altus2024 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "Altus 24";
+    public static final String DATA = "Panasonic|Altus 24|";
 }

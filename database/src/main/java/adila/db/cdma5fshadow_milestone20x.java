@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Milestone X
  */
 final class cdma5fshadow_milestone20x {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Droid X";
+    public static final String DATA = "Motorola|Droid X|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I9060C
  */
 final class grandneove3g_gt2di9060c {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Grand Neo Plus";
+    public static final String DATA = "Samsung|Galaxy Grand Neo Plus|";
 }

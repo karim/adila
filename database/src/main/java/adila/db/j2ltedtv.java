@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-J200BT
  */
 final class j2ltedtv {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy J2";
-    public static final String SERIES = "Galaxy J";
+    public static final String DATA = "Samsung|Galaxy J2|Galaxy J";
 }

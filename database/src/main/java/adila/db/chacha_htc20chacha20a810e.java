@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC ChaCha A810e
  */
 final class chacha_htc20chacha20a810e {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Chacha";
+    public static final String DATA = "HTC|Chacha|";
 }

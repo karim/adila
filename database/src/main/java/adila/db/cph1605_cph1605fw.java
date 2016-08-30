@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CPH1605fw
  */
 final class cph1605_cph1605fw {
-    public static final String MANUFACTURER = "Oppo";
-    public static final String NAME = "CPH1605fw";
+    public static final String DATA = "Oppo|CPH1605fw|";
 }

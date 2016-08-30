@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RACER III mini
  */
 final class roamer2_racer20iii20mini {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "RACER III mini";
+    public static final String DATA = "ZTE|RACER III mini|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Forge
  */
 final class pearlyn {
-    public static final String MANUFACTURER = "Razer";
-    public static final String NAME = "Forge TV";
+    public static final String DATA = "Razer|Forge TV|";
 }

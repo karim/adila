@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GS-1008
  */
 final class mid10055fk_gs2d1008 {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "PROSCAN PLT1066 / MAG MAGPAD / TEAC TEACTAB / DOPO GS-1008";
+    public static final String DATA = "Gigabyte|PROSCAN PLT1066 / MAG MAGPAD / TEAC TEACTAB / DOPO GS-1008|";
 }

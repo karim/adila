@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: RPSPG3201
  */
 final class rpspg32015fumts_rpspg3201 {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

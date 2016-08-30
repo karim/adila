@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Desire X dual sim
  */
 final class protodug {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire X dual sim";
+    public static final String DATA = "HTC|Desire X dual sim|";
 }

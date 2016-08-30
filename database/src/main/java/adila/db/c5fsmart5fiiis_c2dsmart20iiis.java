@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C-Smart IIIS
  */
 final class c5fsmart5fiiis_c2dsmart20iiis {
-    public static final String MANUFACTURER = "MyPhone";
-    public static final String NAME = "C-Smart IIIS";
+    public static final String DATA = "MyPhone|C-Smart IIIS|";
 }

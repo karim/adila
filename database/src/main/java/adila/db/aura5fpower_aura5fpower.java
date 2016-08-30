@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Aura_Power
  */
 final class aura5fpower_aura5fpower {
-    public static final String MANUFACTURER = "Karbonn";
-    public static final String NAME = "Aura Power";
+    public static final String DATA = "Karbonn|Aura Power|";
 }

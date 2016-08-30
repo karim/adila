@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC SMART Sprint 4G
  */
 final class smart5fsprint5f4g_mtc20smart20sprint204g {
-    public static final String MANUFACTURER = "MobileTeleSystem";
-    public static final String NAME = "SMART_Sprint_4G";
+    public static final String DATA = "MobileTeleSystem|SMART_Sprint_4G|";
 }

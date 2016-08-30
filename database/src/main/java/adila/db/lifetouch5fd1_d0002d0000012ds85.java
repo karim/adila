@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: D000-000001-S85
  */
 final class lifetouch5fd1_d0002d0000012ds85 {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "LifeTouch S";
+    public static final String DATA = "NEC|LifeTouch S|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Venue 7 3730
  */
 final class thunderbird_venue207203730 {
-    public static final String MANUFACTURER = "Dell";
-    public static final String NAME = "Venue 7";
+    public static final String DATA = "Dell|Venue 7|";
 }

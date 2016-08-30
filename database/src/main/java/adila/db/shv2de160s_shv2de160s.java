@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SHV-E160S
  */
 final class shv2de160s_shv2de160s {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note|Galaxy Note";
 }

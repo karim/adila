@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Retro
  */
 final class retro_retro {
-    public static final String MANUFACTURER = "mobicel";
-    public static final String NAME = "Retro";
+    public static final String DATA = "mobicel|Retro|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MegaFon_SP-A10
  */
 final class one5ftouch5f9955fgsm_megafon5fsp2da10 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "MegaFon_SP-A10";
+    public static final String DATA = "Alcatel|MegaFon_SP-A10|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C525c
  */
 final class k2cl {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One SV";
+    public static final String DATA = "HTC|One SV|";
 }

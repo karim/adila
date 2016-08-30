@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ALM-001J
  */
 final class smdkv210 {
-    public static final String MANUFACTURER = "Funai Electric";
+    public static final String DATA = "Funai Electric||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHV-E150S
  */
 final class shv2de150s_shv2de150s {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 7.7";
+    public static final String DATA = "Samsung|Galaxy Tab 7.7|";
 }

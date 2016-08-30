@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CNT07002
  */
 final class cnt07002_cnt07002 {
-    public static final String MANUFACTURER = "Connectce";
-    public static final String NAME = "Connect Alpha";
+    public static final String DATA = "Connectce|Connect Alpha|";
 }

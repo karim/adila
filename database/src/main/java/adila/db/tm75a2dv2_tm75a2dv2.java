@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TM75A-V2
  */
 final class tm75a2dv2_tm75a2dv2 {
-    public static final String MANUFACTURER = "i-Buddie";
-    public static final String NAME = "TM75A-V2";
+    public static final String DATA = "i-Buddie|TM75A-V2|";
 }

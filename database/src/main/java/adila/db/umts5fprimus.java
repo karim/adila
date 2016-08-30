@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT621
  */
 final class umts5fprimus {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Master Touch";
+    public static final String DATA = "Motorola|Master Touch|";
 }

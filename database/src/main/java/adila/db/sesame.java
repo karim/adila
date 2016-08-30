@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT300
  */
 final class sesame {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Spice";
+    public static final String DATA = "Motorola|Spice|";
 }

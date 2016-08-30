@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-T959D
  */
 final class sgh2dt959d_sgh2dt959d {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S Vibrant";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S Vibrant|Galaxy S";
 }

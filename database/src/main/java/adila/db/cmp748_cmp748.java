@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CMP748
  */
 final class cmp748_cmp748 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "iCraig CMP748";
+    public static final String DATA = "Anydata|iCraig CMP748|";
 }

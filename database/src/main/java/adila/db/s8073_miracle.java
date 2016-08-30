@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Miracle
  */
 final class s8073_miracle {
-    public static final String MANUFACTURER = "Enspert";
+    public static final String DATA = "Enspert||";
 }

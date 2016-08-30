@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PH44100
  */
 final class kingdom_ph44100 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "EVODesign4G";
+    public static final String DATA = "HTC|EVODesign4G|";
 }

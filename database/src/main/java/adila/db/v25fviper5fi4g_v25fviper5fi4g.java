@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: V2_Viper_I4G
  */
 final class v25fviper5fi4g_v25fviper5fi4g {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "V2 Viper I4G";
+    public static final String DATA = "AllView|V2 Viper I4G|";
 }

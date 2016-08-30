@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: H220
  */
 final class ctih2205fsprout {
-    public static final String MANUFACTURER = "Cherry Mobile";
-    public static final String NAME = "H220";
+    public static final String DATA = "Cherry Mobile|H220|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PG86100
  */
 final class shooter_pg86100 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "EVO 3D";
+    public static final String DATA = "HTC|EVO 3D|";
 }

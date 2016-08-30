@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FXC-5A
  */
 final class fxc2d5a_fxc2d5a {
-    public static final String MANUFACTURER = "geanee";
-    public static final String NAME = "FXC-5A";
+    public static final String DATA = "geanee|FXC-5A|";
 }

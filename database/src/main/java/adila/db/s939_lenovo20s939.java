@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo S939
  */
 final class s939_lenovo20s939 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "S939";
+    public static final String DATA = "Lenovo|S939|";
 }

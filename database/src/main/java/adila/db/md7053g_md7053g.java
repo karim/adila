@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MD7053G
  */
 final class md7053g_md7053g {
-    public static final String MANUFACTURER = "Kennex";
-    public static final String NAME = "MD7053G";
+    public static final String DATA = "Kennex|MD7053G|";
 }

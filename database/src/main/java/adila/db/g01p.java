@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PMT3377_Wi
  */
 final class g01p {
-    public static final String MANUFACTURER = "Prestigio";
-    public static final String NAME = "MultiPad Thunder 7.0i";
+    public static final String DATA = "Prestigio|MultiPad Thunder 7.0i|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Infinix HOT 3 Pro
  */
 final class infinix2dx554_infinix20hot20320pro {
-    public static final String MANUFACTURER = "Infinix";
-    public static final String NAME = "HOT 3";
+    public static final String DATA = "Infinix|HOT 3|";
 }

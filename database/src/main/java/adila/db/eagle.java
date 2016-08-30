@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Internet TV Box
  */
 final class eagle {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Internet TV";
+    public static final String DATA = "Sony|Internet TV|";
 }

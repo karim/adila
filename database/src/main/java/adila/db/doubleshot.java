@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: myTouch_4G_Slide
  */
 final class doubleshot {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "myTouch 4G Slide";
+    public static final String DATA = "HTC|myTouch 4G Slide|";
 }

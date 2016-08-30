@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG Google TV
  */
 final class cosmo_lg20google20tv {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Android TV";
+    public static final String DATA = "LG|Android TV|";
 }

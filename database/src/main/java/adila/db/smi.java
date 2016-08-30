@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT890
  */
 final class smi {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "DROID RAZR i";
+    public static final String DATA = "Motorola|DROID RAZR i|";
 }

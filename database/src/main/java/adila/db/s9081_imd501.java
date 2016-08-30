@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IMD501
  */
 final class s9081_imd501 {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "CINK KING";
+    public static final String DATA = "Enspert|CINK KING|";
 }

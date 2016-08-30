@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-P907A
  */
 final class viennalteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note Pro 12.2";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note Pro 12.2|Galaxy Note";
 }

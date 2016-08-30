@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HMP8100_ATV_INT
  */
 final class hmp81005fatv_hmp81005fatv5fint {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "HMP8100/98";
+    public static final String DATA = "Philips|HMP8100/98|";
 }

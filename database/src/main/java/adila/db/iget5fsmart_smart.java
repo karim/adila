@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMART
  */
 final class iget5fsmart_smart {
-    public static final String MANUFACTURER = "iGet";
-    public static final String NAME = "iGET_SMART";
+    public static final String DATA = "iGet|iGET_SMART|";
 }

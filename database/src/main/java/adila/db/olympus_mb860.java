@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MB860
  */
 final class olympus_mb860 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Atrix";
+    public static final String DATA = "Motorola|Atrix|";
 }

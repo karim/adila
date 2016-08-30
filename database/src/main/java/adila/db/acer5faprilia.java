@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A1-713
  */
 final class acer5faprilia {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "Iconia Tab 7";
+    public static final String DATA = "Acer|Iconia Tab 7|";
 }

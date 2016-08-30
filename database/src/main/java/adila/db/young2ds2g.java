@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G130E
  */
 final class young2ds2g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Young 2";
+    public static final String DATA = "Samsung|Galaxy Young 2|";
 }

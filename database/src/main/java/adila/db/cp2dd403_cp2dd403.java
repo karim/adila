@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CP-D403
  */
 final class cp2dd403_cp2dd403 {
-    public static final String MANUFACTURER = "Megahouse";
-    public static final String NAME = "CP-D403";
+    public static final String DATA = "Megahouse|CP-D403|";
 }

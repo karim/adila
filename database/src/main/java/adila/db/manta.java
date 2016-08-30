@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nexus 10
  */
 final class manta {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Nexus 10";
+    public static final String DATA = "Samsung|Nexus 10|";
 }

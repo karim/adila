@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMART Sprint
  */
 final class smartsprint_smart20sprint {
-    public static final String MANUFACTURER = "TPS";
-    public static final String NAME = "SMART Sprint";
+    public static final String DATA = "TPS|SMART Sprint|";
 }

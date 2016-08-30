@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-N075T
  */
 final class hltejs01tw {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy J";
-    public static final String SERIES = "Galaxy J";
+    public static final String DATA = "Samsung|Galaxy J|Galaxy J";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodafone Smart Tab 4
  */
 final class vodafone5fsmart5ftab5f4_vodafone20smart20tab204 {
-    public static final String MANUFACTURER = "Vodafone";
-    public static final String NAME = "Smart Tab 4";
+    public static final String DATA = "Vodafone|Smart Tab 4|";
 }

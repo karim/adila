@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Moto 360
  */
 final class carp {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto 360 (2nd Gen)";
+    public static final String DATA = "Motorola|Moto 360 (2nd Gen)|";
 }

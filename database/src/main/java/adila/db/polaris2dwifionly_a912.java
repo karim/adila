@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A912
  */
 final class polaris2dwifionly_a912 {
-    public static final String MANUFACTURER = "Astro Queo";
-    public static final String NAME = "polaris_wifionly";
+    public static final String DATA = "Astro Queo|polaris_wifionly|";
 }

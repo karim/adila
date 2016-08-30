@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Commtiva-N700
  */
 final class n700 {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "Commtiva N700";
+    public static final String DATA = "Foxconn|Commtiva N700|";
 }

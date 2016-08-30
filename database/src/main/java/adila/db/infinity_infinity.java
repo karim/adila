@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Infinity
  */
 final class infinity_infinity {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "Infinity";
+    public static final String DATA = "NGM|Infinity|";
 }

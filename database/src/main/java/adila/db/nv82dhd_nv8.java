@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NV8
  */
 final class nv82dhd_nv8 {
-    public static final String MANUFACTURER = "NCREDIBLE";
-    public static final String NAME = "NV8-HD";
+    public static final String DATA = "NCREDIBLE|NV8-HD|";
 }

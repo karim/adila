@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PHQ520
  */
 final class phq520_phq520 {
-    public static final String MANUFACTURER = "Condor";
-    public static final String NAME = "Griffe G5";
+    public static final String DATA = "Condor|Griffe G5|";
 }

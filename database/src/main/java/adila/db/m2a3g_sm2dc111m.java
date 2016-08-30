@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-C111M
  */
 final class m2a3g_sm2dc111m {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy K Zoom";
+    public static final String DATA = "Samsung|Galaxy K Zoom|";
 }

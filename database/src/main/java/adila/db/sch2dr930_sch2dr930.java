@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCH-R930
  */
 final class sch2dr930_sch2dr930 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S Aviator";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S Aviator|Galaxy S";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC6515LVW
  */
 final class htc5fmemwl {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One remix";
+    public static final String DATA = "HTC|One remix|";
 }

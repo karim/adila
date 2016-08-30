@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smart Monitor 17
  */
 final class sm17_smart20monitor2017 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "SM17";
+    public static final String DATA = "Panasonic|SM17|";
 }

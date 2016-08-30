@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E2_Jump
  */
 final class allview5fe25fjump_e25fjump {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "E2 Jump";
+    public static final String DATA = "AllView|E2 Jump|";
 }

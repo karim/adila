@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Turbo-X_epsilon
  */
 final class turbo2dx5fepsilon_turbo2dx5fepsilon {
-    public static final String MANUFACTURER = "Plaisio";
-    public static final String NAME = "Turbo-X_epsilon";
+    public static final String DATA = "Plaisio|Turbo-X_epsilon|";
 }

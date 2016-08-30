@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: samsung-printer-tablet
  */
 final class fiber2dathena {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "ProXpress M4580";
+    public static final String DATA = "Samsung|ProXpress M4580|";
 }

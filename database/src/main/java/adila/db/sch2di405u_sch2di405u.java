@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I405U
  */
 final class sch2di405u_sch2di405u {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Metrix";
+    public static final String DATA = "Samsung|Galaxy Metrix|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Leopard MF808
  */
 final class hwy2102d0200_leopard20mf808 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

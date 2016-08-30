@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: G735-L12
  */
 final class hwg735_g7352dl12 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "G Play";
+    public static final String DATA = "Huawei|G Play|";
 }

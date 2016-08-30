@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: NK1_111018_002_HC
  */
 final class ventana_nk15f1110185f0025fhc {
-    public static final String MANUFACTURER = "Quanta";
+    public static final String DATA = "Quanta||";
 }

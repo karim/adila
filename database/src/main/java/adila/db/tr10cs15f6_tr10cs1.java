@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TR10CS1
  */
 final class tr10cs15f6_tr10cs1 {
-    public static final String MANUFACTURER = "Ketablet";
-    public static final String NAME = "Ketablet";
+    public static final String DATA = "Ketablet|Ketablet|";
 }

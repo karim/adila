@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ECHO
  */
 final class echo_echo {
-    public static final String MANUFACTURER = "Mobicel";
-    public static final String NAME = "ECHO";
+    public static final String DATA = "Mobicel|ECHO|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7272C
  */
 final class loganlite3g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Ace 3 Duos";
+    public static final String DATA = "Samsung|Galaxy Ace 3 Duos|";
 }

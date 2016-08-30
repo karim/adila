@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SJ1-5
  */
 final class sj12d5_sj12d5 {
-    public static final String MANUFACTURER = "Obi";
-    public static final String NAME = "OBJ SJ1.5";
+    public static final String DATA = "Obi|OBJ SJ1.5|";
 }

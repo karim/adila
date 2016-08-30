@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GEM-703LT
  */
 final class hwgemini_gem2d703lt {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "X2";
+    public static final String DATA = "Huawei|X2|";
 }

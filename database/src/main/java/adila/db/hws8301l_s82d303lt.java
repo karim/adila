@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S8-303LT
  */
 final class hws8301l_s82d303lt {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "MediaPad M1 8.0";
+    public static final String DATA = "Huawei|MediaPad M1 8.0|";
 }

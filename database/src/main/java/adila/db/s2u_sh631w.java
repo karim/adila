@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SH631W
  */
 final class s2u_sh631w {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "SHARP SH631W";
+    public static final String DATA = "Foxconn|SHARP SH631W|";
 }

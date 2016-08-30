@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: V.40
  */
 final class nextel_v2e40 {
-    public static final String MANUFACTURER = "Mobiwire";
-    public static final String NAME = "V.40";
+    public static final String DATA = "Mobiwire|V.40|";
 }

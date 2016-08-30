@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Spice Mi-350
  */
 final class mi5f350 {
-    public static final String MANUFACTURER = "Lenovo";
+    public static final String DATA = "Lenovo||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S8-701u
  */
 final class hws8701_s82d701u {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "t1_8p0";
+    public static final String DATA = "Huawei|t1_8p0|";
 }

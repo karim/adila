@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FP-U320-711-WIFI
  */
 final class u3202dwf_fp2du3202d7112dwifi {
-    public static final String MANUFACTURER = "SAKAISIO";
-    public static final String NAME = "SAKAISIO FP-U320-711-WIFI";
+    public static final String DATA = "SAKAISIO|SAKAISIO FP-U320-711-WIFI|";
 }

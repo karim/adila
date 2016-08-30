@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ex-Handy 209
  */
 final class xp6700_ex2dhandy20209 {
-    public static final String MANUFACTURER = "Sonim";
-    public static final String NAME = "XP6";
+    public static final String DATA = "Sonim|XP6|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LE48M7000CF
  */
 final class le48m7000cf_le48m7000cf {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "LE48M7000CF";
+    public static final String DATA = "Haier|LE48M7000CF|";
 }

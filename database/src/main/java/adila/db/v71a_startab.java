@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: STARTAB
  */
 final class v71a_startab {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

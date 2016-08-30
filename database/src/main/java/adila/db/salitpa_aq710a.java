@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AQ710A
  */
 final class salitpa_aq710a {
-    public static final String MANUFACTURER = "Intel";
-    public static final String NAME = "AQ710A";
+    public static final String DATA = "Intel|AQ710A|";
 }

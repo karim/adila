@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Coolpad 7270_W00
  */
 final class coolpad72705fw00_coolpad2072705fw00 {
-    public static final String MANUFACTURER = "Coolpad";
-    public static final String NAME = "7270_W00";
+    public static final String DATA = "Coolpad|7270_W00|";
 }

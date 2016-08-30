@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I5500
  */
 final class gt2di5500_gt2di5500 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Europa";
+    public static final String DATA = "Samsung|Galaxy Europa|";
 }

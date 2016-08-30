@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SPH-M920
  */
 final class sph2dm920_sph2dm920 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Transform";
+    public static final String DATA = "Samsung|Transform|";
 }

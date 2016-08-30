@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ST4173
  */
 final class st4173_st4173 {
-    public static final String MANUFACTURER = "Sumitomo Electric Industries";
-    public static final String NAME = "ST4173";
+    public static final String DATA = "Sumitomo Electric Industries|ST4173|";
 }

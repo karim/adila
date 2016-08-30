@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MT15a
  */
 final class mt15a_mt15a {
-    public static final String MANUFACTURER = "Sony Ericsson";
-    public static final String NAME = "Xperia neo";
+    public static final String DATA = "Sony Ericsson|Xperia neo|";
 }

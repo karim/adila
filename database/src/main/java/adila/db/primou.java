@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC One V
  */
 final class primou {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One V";
+    public static final String DATA = "HTC|One V|";
 }

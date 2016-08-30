@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NGM Vanity Smart
  */
 final class vanitysmart {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "vanitysmart";
+    public static final String DATA = "Enspert|vanitysmart|";
 }

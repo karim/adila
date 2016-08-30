@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: JCI VA-10J
  */
 final class va2d10j_jci20va2d10j {
-    public static final String MANUFACTURER = "VAIO";
-    public static final String NAME = "VA-10J";
+    public static final String DATA = "VAIO|VA-10J|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: NATCOM N8302
  */
 final class hwy2102d0200_natcom20n8302 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

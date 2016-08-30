@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: N-03E
  */
 final class n2d03e_n2d03e {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "Disney Mobile on docomoN-03E";
+    public static final String DATA = "NEC|Disney Mobile on docomoN-03E|";
 }

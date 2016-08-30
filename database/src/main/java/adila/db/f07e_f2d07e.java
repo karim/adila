@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: F-07E
  */
 final class f07e_f2d07e {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "Disney Mobile on docomo F-07E";
+    public static final String DATA = "Fujitsu|Disney Mobile on docomo F-07E|";
 }

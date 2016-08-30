@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: New Andromax-i
  */
 final class ad685g_new20andromax2di {
-    public static final String MANUFACTURER = "Hisense";
+    public static final String DATA = "Hisense||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Event
  */
 final class c5133_event {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "Event";
+    public static final String DATA = "Kyocera|Event|";
 }

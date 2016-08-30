@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Monte Carlo
  */
 final class skate_orange20monte20carlo {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Orange Monte Carlo";
+    public static final String DATA = "ZTE|Orange Monte Carlo|";
 }

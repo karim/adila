@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I100
  */
 final class sch2di100_sch2di100 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Gem";
+    public static final String DATA = "Samsung|Gem|";
 }

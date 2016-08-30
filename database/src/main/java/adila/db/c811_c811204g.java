@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C811 4G
  */
 final class c811_c811204g {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "CASIO G'zOne Commando 4G LTE";
+    public static final String DATA = "NEC|CASIO G'zOne Commando 4G LTE|";
 }

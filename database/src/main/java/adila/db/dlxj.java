@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTL21
  */
 final class dlxj {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "J Butterfly";
+    public static final String DATA = "HTC|J Butterfly|";
 }

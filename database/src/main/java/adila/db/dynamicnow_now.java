@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Now
  */
 final class dynamicnow_now {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "Danamic Now";
+    public static final String DATA = "NGM|Danamic Now|";
 }

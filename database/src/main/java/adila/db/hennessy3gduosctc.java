@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-W789
  */
 final class hennessy3gduosctc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Hennessy";
+    public static final String DATA = "Samsung|Hennessy|";
 }

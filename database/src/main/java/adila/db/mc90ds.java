@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-H522
  */
 final class mc90ds {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Prime Plus 4G";
+    public static final String DATA = "LG|Prime Plus 4G|";
 }

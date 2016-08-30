@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HomeSurf742_AT7003
  */
 final class homesurf7425fat7003_homesurf7425fat7003 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "HomeSurf742_AT7003";
+    public static final String DATA = "Haier|HomeSurf742_AT7003|";
 }

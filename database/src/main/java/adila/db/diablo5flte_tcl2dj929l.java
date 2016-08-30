@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL-J929L
  */
 final class diablo5flte_tcl2dj929l {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL J929L";
+    public static final String DATA = "Alcatel|TCL J929L|";
 }

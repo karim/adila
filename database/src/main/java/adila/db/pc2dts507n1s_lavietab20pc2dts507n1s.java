@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LaVieTab PC-TS507N1S
  */
 final class pc2dts507n1s_lavietab20pc2dts507n1s {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "PC- TS507N1S";
+    public static final String DATA = "NEC|PC- TS507N1S|";
 }

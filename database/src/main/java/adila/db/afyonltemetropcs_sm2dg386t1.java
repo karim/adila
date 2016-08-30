@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G386T1
  */
 final class afyonltemetropcs_sm2dg386t1 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core";
+    public static final String DATA = "Samsung|Galaxy Core|";
 }

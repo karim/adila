@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FieldBook_E1
  */
 final class fieldbook5fe1_fieldbook5fe1 {
-    public static final String MANUFACTURER = "Logic Instrument";
-    public static final String NAME = "FieldBook E1";
+    public static final String DATA = "Logic Instrument|FieldBook E1|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TECNO P3S
  */
 final class p3s_tecno20p3s {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "TECNO P3S";
+    public static final String DATA = "Gigabyte|TECNO P3S|";
 }

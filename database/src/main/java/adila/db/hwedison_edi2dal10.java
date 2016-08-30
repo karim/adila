@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EDI-AL10
  */
 final class hwedison_edi2dal10 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Honor Note 8";
+    public static final String DATA = "Huawei|Honor Note 8|";
 }

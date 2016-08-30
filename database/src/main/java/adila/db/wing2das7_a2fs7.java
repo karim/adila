@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A/S7
  */
 final class wing2das7_a2fs7 {
-    public static final String MANUFACTURER = "Polaroid";
-    public static final String NAME = "A/S7";
+    public static final String DATA = "Polaroid|A/S7|";
 }

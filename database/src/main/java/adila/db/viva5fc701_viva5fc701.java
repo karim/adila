@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Viva_C701
  */
 final class viva5fc701_viva5fc701 {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "Viva C701";
+    public static final String DATA = "AllView|Viva C701|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VEON_C8680
  */
 final class c8680_veon5fc8680 {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "VEON_C8680";
+    public static final String DATA = "Cellon|VEON_C8680|";
 }

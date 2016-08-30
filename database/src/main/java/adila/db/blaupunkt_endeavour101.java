@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Endeavour101
  */
 final class blaupunkt_endeavour101 {
-    public static final String MANUFACTURER = "Blaupunkt";
-    public static final String NAME = "Endeavour101";
+    public static final String DATA = "Blaupunkt|Endeavour101|";
 }

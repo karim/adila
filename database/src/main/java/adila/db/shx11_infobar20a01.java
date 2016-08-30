@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: INFOBAR A01
  */
 final class shx11_infobar20a01 {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "INFOBAR A01";
+    public static final String DATA = "Sharp|INFOBAR A01|";
 }

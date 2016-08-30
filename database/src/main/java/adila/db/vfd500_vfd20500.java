@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VFD 500
  */
 final class vfd500_vfd20500 {
-    public static final String MANUFACTURER = "Vodafone";
-    public static final String NAME = "Smart turbo 7";
+    public static final String DATA = "Vodafone|Smart turbo 7|";
 }

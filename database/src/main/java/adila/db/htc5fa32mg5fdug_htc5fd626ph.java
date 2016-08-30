@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC_D626ph
  */
 final class htc5fa32mg5fdug_htc5fd626ph {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire 626G+ dual sim";
+    public static final String DATA = "HTC|Desire 626G+ dual sim|";
 }

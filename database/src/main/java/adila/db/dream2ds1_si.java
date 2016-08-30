@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SI
  */
 final class dream2ds1_si {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "SI";
+    public static final String DATA = "Cellon|SI|";
 }

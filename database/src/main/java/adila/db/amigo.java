@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Android Edition Starnaute
  */
 final class amigo {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

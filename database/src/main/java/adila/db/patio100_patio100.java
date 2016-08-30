@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Patio100
  */
 final class patio100_patio100 {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "Patio100";
+    public static final String DATA = "Fujitsu|Patio100|";
 }

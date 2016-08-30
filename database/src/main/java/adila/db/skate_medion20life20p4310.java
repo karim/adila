@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MEDION LIFE P4310
  */
 final class skate_medion20life20p4310 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "MEDION LIFE P4310";
+    public static final String DATA = "ZTE|MEDION LIFE P4310|";
 }

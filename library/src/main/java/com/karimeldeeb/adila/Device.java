@@ -101,12 +101,24 @@ public final class Device {
             }
         }
 
-        /* Assign values (either default or from a device class) to this class static fields. */
         FOUND = isFound;
 
-        MANUFACTURER = getString("MANUFACTURER");
-        NAME = getString("NAME");
-        SERIES = getString("SERIES");
+        /* Get DATA field from the device class. */
+        String data = "||";
+        if (isFound) try {
+            data = (String) mClass.getField("DATA").get(null);
+        } catch (NoSuchFieldException e) {
+            // Nothing to do
+        } catch (IllegalAccessException e) {
+            // Nothing to do
+        }
+
+        /* Assign values (either default or from a device class) to this class static fields. */
+        String[] field = data.split("\\|", 3);
+
+        MANUFACTURER = (field[0].length() != 0) ? field[0] : "";
+        NAME         = (field[1].length() != 0) ? field[1] : "";
+        SERIES       = (field[2].length() != 0) ? field[2] : "";
 
         FULL_NAME = MANUFACTURER + ' ' + NAME;
     }
@@ -195,25 +207,5 @@ public final class Device {
         }
 
         return mClassName.toString();
-    }
-
-    /**
-     * Gets a string field from the device class.
-     *
-     * @param name of the field to get
-     * @return field value, or an empty string ("") if class is null or field name was not found
-     */
-    private static String getString(String name) {
-        if (mClass == null) {
-            return "";
-        }
-
-        try {
-            return (String) mClass.getField(name).get(null);
-        } catch (NoSuchFieldException e) {
-            return "";
-        } catch (IllegalAccessException e) {
-            return "";
-        }
     }
 }

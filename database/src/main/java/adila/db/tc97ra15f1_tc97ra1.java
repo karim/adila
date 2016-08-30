@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TC97RA1
  */
 final class tc97ra15f1_tc97ra1 {
-    public static final String MANUFACTURER = "Tekwind";
-    public static final String NAME = "TC97RA1";
+    public static final String DATA = "Tekwind|TC97RA1|";
 }

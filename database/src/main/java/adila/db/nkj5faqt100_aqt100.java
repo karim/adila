@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AQT100
  */
 final class nkj5faqt100_aqt100 {
-    public static final String MANUFACTURER = "Sprint";
-    public static final String NAME = "AQT100";
+    public static final String DATA = "Sprint|AQT100|";
 }

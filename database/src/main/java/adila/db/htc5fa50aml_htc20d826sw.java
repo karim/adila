@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC D826sw
  */
 final class htc5fa50aml_htc20d826sw {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One E9s dual sim";
+    public static final String DATA = "HTC|One E9s dual sim|";
 }

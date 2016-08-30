@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FZ-A1B
  */
 final class toughpad {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "FZ-A1B";
+    public static final String DATA = "Panasonic|FZ-A1B|";
 }

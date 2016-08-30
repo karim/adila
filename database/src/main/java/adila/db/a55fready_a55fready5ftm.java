@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A5_Ready_TM
  */
 final class a55fready_a55fready5ftm {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "A5 Ready";
+    public static final String DATA = "AllView|A5 Ready|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 55AX600C
  */
 final class mst9185f4k2k {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "55AX600C";
+    public static final String DATA = "Panasonic|55AX600C|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P900/Q900
  */
 final class p900_p9002fq900 {
-    public static final String MANUFACTURER = "Polaroid";
-    public static final String NAME = "P900";
+    public static final String DATA = "Polaroid|P900|";
 }

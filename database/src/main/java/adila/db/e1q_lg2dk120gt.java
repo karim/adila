@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-K120GT
  */
 final class e1q_lg2dk120gt {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "K4";
+    public static final String DATA = "LG|K4|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Telenor_Smart
  */
 final class one5ftouch5f9855fgsm_telenor5fsmart {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Telenor_Smart";
+    public static final String DATA = "Alcatel|Telenor_Smart|";
 }

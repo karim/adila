@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vox
  */
 final class pegasus_vox {
-    public static final String MANUFACTURER = "Kobo";
-    public static final String NAME = "Vox";
+    public static final String DATA = "Kobo|Vox|";
 }

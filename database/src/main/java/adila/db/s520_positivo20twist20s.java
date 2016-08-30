@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Positivo Twist S
  */
 final class s520_positivo20twist20s {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "Twist";
+    public static final String DATA = "Positivo|Twist|";
 }

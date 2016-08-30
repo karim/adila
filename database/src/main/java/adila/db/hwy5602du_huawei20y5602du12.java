@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI Y560-U12
  */
 final class hwy5602du_huawei20y5602du12 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y560-U12";
+    public static final String DATA = "Huawei|Y560-U12|";
 }

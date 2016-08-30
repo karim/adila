@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ilium L820
  */
 final class ilium5fl820_ilium20l820 {
-    public static final String MANUFACTURER = "Lanix";
-    public static final String NAME = "ILIUM L820";
+    public static final String DATA = "Lanix|ILIUM L820|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VF-1497
  */
 final class vodafone5ftab5fprime_vf2d1497 {
-    public static final String MANUFACTURER = "Vodafone";
-    public static final String NAME = "VF-1497";
+    public static final String DATA = "Vodafone|VF-1497|";
 }

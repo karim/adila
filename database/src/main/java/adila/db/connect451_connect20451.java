@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Connect 451
  */
 final class connect451_connect20451 {
-    public static final String MANUFACTURER = "Sourcing Creation";
-    public static final String NAME = "Connect 451";
+    public static final String DATA = "Sourcing Creation|Connect 451|";
 }

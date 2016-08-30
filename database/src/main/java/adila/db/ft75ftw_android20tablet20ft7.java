@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Android Tablet FT7
  */
 final class ft75ftw_android20tablet20ft7 {
-    public static final String MANUFACTURER = "Cspire";
-    public static final String NAME = "FT7";
+    public static final String DATA = "Cspire|FT7|";
 }

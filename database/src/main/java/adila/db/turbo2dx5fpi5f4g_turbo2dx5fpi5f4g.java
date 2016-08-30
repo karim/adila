@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Turbo-X_pi_4G
  */
 final class turbo2dx5fpi5f4g_turbo2dx5fpi5f4g {
-    public static final String MANUFACTURER = "Plaisio";
-    public static final String NAME = "Turbo-X_pi_4G";
+    public static final String DATA = "Plaisio|Turbo-X_pi_4G|";
 }

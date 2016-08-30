@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Huawei Ideos X1
  */
 final class huaweiu8180_huawei20ideos20x1 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

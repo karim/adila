@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Z826
  */
 final class herculis {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Z826";
+    public static final String DATA = "ZTE|Z826|";
 }

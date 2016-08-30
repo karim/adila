@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo Z90a40
  */
 final class zoom5frow {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "Z90a40/VIBE Shot";
+    public static final String DATA = "Lenovo|Z90a40/VIBE Shot|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Calltab10.1
  */
 final class e1031h2c_calltab102e1 {
-    public static final String MANUFACTURER = "Plaisio";
-    public static final String NAME = "CalltabII 10.1";
+    public static final String DATA = "Plaisio|CalltabII 10.1|";
 }

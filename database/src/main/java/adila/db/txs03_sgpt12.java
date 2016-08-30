@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SGPT12
  */
 final class txs03_sgpt12 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia Tablet S";
+    public static final String DATA = "Sony|Xperia Tablet S|";
 }

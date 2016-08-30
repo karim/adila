@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-P355
  */
 final class pecanv_lg2dp355 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "PecanV";
+    public static final String DATA = "LG|PecanV|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MI MAX
  */
 final class hydrogen {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "MI MAX";
+    public static final String DATA = "Xiaomi|MI MAX|";
 }

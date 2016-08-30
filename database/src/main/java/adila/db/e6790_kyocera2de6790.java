@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KYOCERA-E6790
  */
 final class e6790_kyocera2de6790 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "DuraForce XD";
+    public static final String DATA = "Kyocera|DuraForce XD|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G3812B
  */
 final class wilcoxds_sm2dg3812b {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3 Slim";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3 Slim|Galaxy S";
 }

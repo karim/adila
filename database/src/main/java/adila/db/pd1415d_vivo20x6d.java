@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: vivo X6D
  */
 final class pd1415d_vivo20x6d {
-    public static final String MANUFACTURER = "Vivo";
-    public static final String NAME = "X6D";
+    public static final String DATA = "Vivo|X6D|";
 }

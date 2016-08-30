@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI P8max
  */
 final class hwp8max_huawei20p8max {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "P8max";
+    public static final String DATA = "Huawei|P8max|";
 }

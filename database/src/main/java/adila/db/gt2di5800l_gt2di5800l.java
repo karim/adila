@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I5800L
  */
 final class gt2di5800l_gt2di5800l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Apollo";
+    public static final String DATA = "Samsung|Galaxy Apollo|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RPSPE4301
  */
 final class one5ftouch5f9955fgsm_rpspe4301 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "one_touch_995";
+    public static final String DATA = "Alcatel|one_touch_995|";
 }

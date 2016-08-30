@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Xoom
  */
 final class wingray {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "XOOM";
+    public static final String DATA = "Motorola|XOOM|";
 }

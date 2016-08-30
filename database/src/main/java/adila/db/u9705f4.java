@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ETL-S5042
  */
 final class u9705f4 {
-    public static final String MANUFACTURER = "Etuline";
-    public static final String NAME = "ETL-S5042";
+    public static final String DATA = "Etuline|ETL-S5042|";
 }

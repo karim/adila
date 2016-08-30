@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PNDPP44QC10
  */
 final class pndpp44qc10_pndpp44qc10 {
-    public static final String MANUFACTURER = "pendo";
-    public static final String NAME = "PNDPP44QC10";
+    public static final String DATA = "pendo|PNDPP44QC10|";
 }

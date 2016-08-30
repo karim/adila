@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: G3SMNTS22
  */
 final class mmd5fww_g3smnts22 {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "PHP-S221C4AFD";
+    public static final String DATA = "Philips|PHP-S221C4AFD|";
 }

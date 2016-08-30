@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SmartTV
  */
 final class mb300_smarttv {
-    public static final String MANUFACTURER = "Vestel";
-    public static final String NAME = "55UA8990";
+    public static final String DATA = "Vestel|55UA8990|";
 }

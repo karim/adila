@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: OWN S5010
  */
 final class diablohd_own20s5010 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "OWN S5010";
+    public static final String DATA = "Alcatel|OWN S5010|";
 }

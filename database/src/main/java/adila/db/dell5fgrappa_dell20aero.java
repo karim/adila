@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Dell Aero
  */
 final class dell5fgrappa_dell20aero {
-    public static final String MANUFACTURER = "Dell";
+    public static final String DATA = "Dell||";
 }

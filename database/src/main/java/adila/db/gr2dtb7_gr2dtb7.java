@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GR-TB7
  */
 final class gr2dtb7_gr2dtb7 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONE TOUCH T10";
+    public static final String DATA = "Alcatel|ONE TOUCH T10|";
 }

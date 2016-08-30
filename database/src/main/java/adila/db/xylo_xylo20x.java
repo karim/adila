@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Xylo X
  */
 final class xylo_xylo20x {
-    public static final String MANUFACTURER = "Vonino";
-    public static final String NAME = "Xylo X";
+    public static final String DATA = "Vonino|Xylo X|";
 }

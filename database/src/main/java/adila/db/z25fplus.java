@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZUK Z2131
  */
 final class z25fplus {
-    public static final String MANUFACTURER = "Zuk";
-    public static final String NAME = "Z2";
+    public static final String DATA = "Zuk|Z2|";
 }

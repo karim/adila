@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: IdeaTab A2107A-F
  */
 final class a25fwifi5frow {
-    public static final String MANUFACTURER = "Lenovo";
+    public static final String DATA = "Lenovo||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Infinity 8008X
  */
 final class scribe5hd_orange20infinity208008x {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONE TOUCH 8008D";
+    public static final String DATA = "Alcatel|ONE TOUCH 8008D|";
 }

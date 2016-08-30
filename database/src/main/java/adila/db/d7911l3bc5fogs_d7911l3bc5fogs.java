@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: D7911L3BC_OGS
  */
 final class d7911l3bc5fogs_d7911l3bc5fogs {
-    public static final String MANUFACTURER = "Inet-Tablet";
-    public static final String NAME = "D7911L3BC_OGS";
+    public static final String DATA = "Inet-Tablet|D7911L3BC_OGS|";
 }

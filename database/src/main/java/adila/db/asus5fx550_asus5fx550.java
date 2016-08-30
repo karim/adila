@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS_X550
  */
 final class asus5fx550_asus5fx550 {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Pegasus 2 Plus(X550)";
+    public static final String DATA = "Asus|Pegasus 2 Plus(X550)|";
 }

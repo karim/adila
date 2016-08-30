@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Netphone 501
  */
 final class hwu8180_netphone20501 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

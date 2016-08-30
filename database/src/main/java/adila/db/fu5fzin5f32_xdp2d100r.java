@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XDP-100R
  */
 final class fu5fzin5f32_xdp2d100r {
-    public static final String MANUFACTURER = "Pioneer";
-    public static final String NAME = "XDP-100R";
+    public static final String DATA = "Pioneer|XDP-100R|";
 }

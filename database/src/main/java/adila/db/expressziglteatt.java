@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SGH-I437Z
  */
 final class expressziglteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Express";
+    public static final String DATA = "Samsung|Galaxy Express|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-i559
  */
 final class sch2di559_sch2di559 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Pop (CDMA)";
+    public static final String DATA = "Samsung|Galaxy Pop (CDMA)|";
 }

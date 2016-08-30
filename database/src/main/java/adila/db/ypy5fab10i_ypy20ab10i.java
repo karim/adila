@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ypy AB10i
  */
 final class ypy5fab10i_ypy20ab10i {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "Ypy AB10i";
+    public static final String DATA = "Positivo|Ypy AB10i|";
 }

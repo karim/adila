@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BHX-S100
  */
 final class bhx2ds100_bhx2ds100 {
-    public static final String MANUFACTURER = "SK Broadband";
-    public static final String NAME = "B tv smart";
+    public static final String DATA = "SK Broadband|B tv smart|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AQUOS 70XU30A
  */
 final class sun_aquos2070xu30a {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A";
+    public static final String DATA = "Lenovo|55E82,49E82,50U3A,58U3A,70UD30A,60UD30A,80UD30A,65UR30A|";
 }

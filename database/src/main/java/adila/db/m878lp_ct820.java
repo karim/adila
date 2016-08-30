@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CT820
  */
 final class m878lp_ct820 {
-    public static final String MANUFACTURER = "Carrefour";
-    public static final String NAME = "Carrefour CT820";
+    public static final String DATA = "Carrefour|Carrefour CT820|";
 }

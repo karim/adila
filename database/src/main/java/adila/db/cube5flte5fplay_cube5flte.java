@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CUBE_LTE
  */
 final class cube5flte5fplay_cube5flte {
-    public static final String MANUFACTURER = "MyPhone";
-    public static final String NAME = "Cube LTE";
+    public static final String DATA = "MyPhone|Cube LTE|";
 }

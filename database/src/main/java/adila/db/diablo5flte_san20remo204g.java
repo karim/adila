@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: San Remo 4G
  */
 final class diablo5flte_san20remo204g {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Idol S";
+    public static final String DATA = "Alcatel|Idol S|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Digital2 Platinum
  */
 final class d22d963g_digital220platinum {
-    public static final String MANUFACTURER = "Digital2";
-    public static final String NAME = "Digital2 Platinum";
+    public static final String DATA = "Digital2|Digital2 Platinum|";
 }

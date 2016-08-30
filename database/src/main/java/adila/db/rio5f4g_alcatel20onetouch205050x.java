@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ALCATEL ONETOUCH 5050X
  */
 final class rio5f4g_alcatel20onetouch205050x {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "POP S3";
+    public static final String DATA = "Alcatel|POP S3|";
 }

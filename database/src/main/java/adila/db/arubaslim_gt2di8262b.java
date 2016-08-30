@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I8262B
  */
 final class arubaslim_gt2di8262b {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3 Duos";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3 Duos|Galaxy S";
 }

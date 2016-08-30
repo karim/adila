@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PX7
  */
 final class atm7039c_px7 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "PX1900ES";
+    public static final String DATA = "Hisense|PX1900ES|";
 }

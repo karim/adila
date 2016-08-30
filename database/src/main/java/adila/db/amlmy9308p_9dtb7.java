@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 9DTB7
  */
 final class amlmy9308p_9dtb7 {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "Hipstreet 9DTB7 / Lazer MY9308P";
+    public static final String DATA = "Gigabyte|Hipstreet 9DTB7 / Lazer MY9308P|";
 }

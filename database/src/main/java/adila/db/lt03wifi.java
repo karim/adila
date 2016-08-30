@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-P600
  */
 final class lt03wifi {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note 10.1 2014 Edition";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note 10.1 2014 Edition|Galaxy Note";
 }

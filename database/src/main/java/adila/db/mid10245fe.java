@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HSG1341
  */
 final class mid10245fe {
-    public static final String MANUFACTURER = "HannSpree";
-    public static final String NAME = "HSG1341";
+    public static final String DATA = "HannSpree|HSG1341|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P-04D
  */
 final class pana25f4d {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "P-04D";
+    public static final String DATA = "Panasonic|P-04D|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CDP7TAB4C8
  */
 final class cdp7tab4c8_cdp7tab4c8 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "CDP7TAB4C8";
+    public static final String DATA = "Haier|CDP7TAB4C8|";
 }

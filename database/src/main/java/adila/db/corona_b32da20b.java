@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: B3-A20B
  */
 final class corona_b32da20b {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "Iconia One 10";
+    public static final String DATA = "Acer|Iconia One 10|";
 }

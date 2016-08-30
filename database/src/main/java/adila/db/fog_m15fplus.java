@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M1_Plus
  */
 final class fog_m15fplus {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "M1 Plus";
+    public static final String DATA = "Explay|M1 Plus|";
 }

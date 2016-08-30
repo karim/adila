@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 404KC
  */
 final class _404kc_404kc {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "404KC";
+    public static final String DATA = "Kyocera|404KC|";
 }

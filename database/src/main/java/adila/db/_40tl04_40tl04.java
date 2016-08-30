@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 40TL04
  */
 final class _40tl04_40tl04 {
-    public static final String MANUFACTURER = "Sanyo";
-    public static final String NAME = "Benesse";
+    public static final String DATA = "Sanyo|Benesse|";
 }

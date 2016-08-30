@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Z752C
  */
 final class eros {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Z752C";
+    public static final String DATA = "ZTE|Z752C|";
 }

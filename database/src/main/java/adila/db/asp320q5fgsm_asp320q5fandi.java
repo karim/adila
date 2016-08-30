@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ASP320Q_ANDi
  */
 final class asp320q5fgsm_asp320q5fandi {
-    public static final String MANUFACTURER = "Anydata";
+    public static final String DATA = "Anydata||";
 }

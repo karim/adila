@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: UTA200
  */
 final class htt755fnand5f66285fics {
-    public static final String MANUFACTURER = "SK Telesys";
-    public static final String NAME = "UTA200";
+    public static final String DATA = "SK Telesys|UTA200|";
 }

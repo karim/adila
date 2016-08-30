@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Roya
  */
 final class alto45_orange20roya {
-    public static final String MANUFACTURER = "Orange";
-    public static final String NAME = "Roya";
+    public static final String DATA = "Orange|Roya|";
 }

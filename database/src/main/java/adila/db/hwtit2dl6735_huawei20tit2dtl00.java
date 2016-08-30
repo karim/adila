@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI TIT-TL00
  */
 final class hwtit2dl6735_huawei20tit2dtl00 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y6 Pro";
+    public static final String DATA = "Huawei|Y6 Pro|";
 }

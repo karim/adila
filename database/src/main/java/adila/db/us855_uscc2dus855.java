@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: USCC-US855
  */
 final class us855_uscc2dus855 {
-    public static final String MANUFACTURER = "LG";
+    public static final String DATA = "LG||";
 }

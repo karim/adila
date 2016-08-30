@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MUSN-M500
  */
 final class m500 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TPA60W
  */
 final class maya_tpa60w {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "TPA60W";
+    public static final String DATA = "Acer|TPA60W|";
 }

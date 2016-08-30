@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L-01D
  */
 final class i5fdcm {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus LTE";
+    public static final String DATA = "LG|Optimus LTE|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: T-Mobile myTouch
  */
 final class hwu8680 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

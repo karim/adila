@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL S838M
  */
 final class eos5flte_tcl20s838m {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "IDOL 2 S";
+    public static final String DATA = "Alcatel|IDOL 2 S|";
 }

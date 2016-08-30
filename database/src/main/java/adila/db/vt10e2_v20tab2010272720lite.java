@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: V TAB 10'' LITE
  */
 final class vt10e2_v20tab2010272720lite {
-    public static final String MANUFACTURER = "Vestel";
-    public static final String NAME = "VT10E2";
+    public static final String DATA = "Vestel|VT10E2|";
 }

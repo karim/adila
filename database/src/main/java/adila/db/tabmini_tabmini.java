@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TabMini
  */
 final class tabmini_tabmini {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Tab Mini";
+    public static final String DATA = "Explay|Tab Mini|";
 }

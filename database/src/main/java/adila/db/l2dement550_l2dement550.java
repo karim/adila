@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L-EMENT550
  */
 final class l2dement550_l2dement550 {
-    public static final String MANUFACTURER = "Logicom";
-    public static final String NAME = "L-EMENT550";
+    public static final String DATA = "Logicom|L-EMENT550|";
 }

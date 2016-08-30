@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: LG-V900
  */
 final class v900aus {
-    public static final String MANUFACTURER = "LG";
+    public static final String DATA = "LG||";
 }

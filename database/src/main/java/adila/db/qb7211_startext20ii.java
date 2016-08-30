@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: STARTEXT II
  */
 final class qb7211_startext20ii {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

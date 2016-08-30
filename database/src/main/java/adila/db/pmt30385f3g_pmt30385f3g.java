@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PMT3038_3G
  */
 final class pmt30385f3g_pmt30385f3g {
-    public static final String MANUFACTURER = "Prestigio";
-    public static final String NAME = "MultiPad Wize 3038 3G";
+    public static final String DATA = "Prestigio|MultiPad Wize 3038 3G|";
 }

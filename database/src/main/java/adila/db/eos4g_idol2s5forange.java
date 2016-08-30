@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Idol2S_Orange
  */
 final class eos4g_idol2s5forange {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "IDOL 2 S";
+    public static final String DATA = "Alcatel|IDOL 2 S|";
 }

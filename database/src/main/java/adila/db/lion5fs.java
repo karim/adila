@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SL930
  */
 final class lion5fs {
-    public static final String MANUFACTURER = "Gigaset";
-    public static final String NAME = "SL930";
+    public static final String DATA = "Gigaset|SL930|";
 }

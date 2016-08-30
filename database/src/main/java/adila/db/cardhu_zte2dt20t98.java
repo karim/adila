@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ZTE-T T98
  */
 final class cardhu_zte2dt20t98 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

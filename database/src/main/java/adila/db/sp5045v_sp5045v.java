@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SP5045V
  */
 final class sp5045v_sp5045v {
-    public static final String MANUFACTURER = "FirstNationalBank";
-    public static final String NAME = "FNB";
+    public static final String DATA = "FirstNationalBank|FNB|";
 }

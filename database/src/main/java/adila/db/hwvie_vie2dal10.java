@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VIE-AL10
  */
 final class hwvie_vie2dal10 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "P9 Plus";
+    public static final String DATA = "Huawei|P9 Plus|";
 }

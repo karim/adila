@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: SA3CNT
  */
 final class philips5fggc3_sa3cnt {
-    public static final String MANUFACTURER = "Philips";
+    public static final String DATA = "Philips||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S4
  */
 final class qmobile5fs4_s4 {
-    public static final String MANUFACTURER = "QMobile";
-    public static final String NAME = "S4";
+    public static final String DATA = "QMobile|S4|";
 }

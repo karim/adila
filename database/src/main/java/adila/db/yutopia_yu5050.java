@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: YU5050
  */
 final class yutopia_yu5050 {
-    public static final String MANUFACTURER = "Micromax";
-    public static final String NAME = "Yutopia";
+    public static final String DATA = "Micromax|Yutopia|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I9001
  */
 final class gt2di9001_gt2di9001 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S Plus";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S Plus|Galaxy S";
 }

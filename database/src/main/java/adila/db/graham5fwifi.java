@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MZ505
  */
 final class graham5fwifi {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

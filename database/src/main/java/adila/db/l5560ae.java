@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HIGHWAY STAR
  */
 final class l5560ae {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "HIGHWAY STAR";
+    public static final String DATA = "Wiko|HIGHWAY STAR|";
 }

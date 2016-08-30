@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I9210
  */
 final class gt2di9210_gt2di9210 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2 LTE";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2 LTE|Galaxy S";
 }

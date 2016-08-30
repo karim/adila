@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: enV Touch2
  */
 final class envt2_env20touch2 {
-    public static final String MANUFACTURER = "LG";
+    public static final String DATA = "LG||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smartphone Android by SFR STARADDICT II
  */
 final class one5ftouch5f9965fgsm_smartphone20android20by20sfr20staraddict20ii {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Smartphone Android by SFR STARADDICT II";
+    public static final String DATA = "Alcatel|Smartphone Android by SFR STARADDICT II|";
 }

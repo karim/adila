@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo K910
  */
 final class kiton {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "K910";
+    public static final String DATA = "Lenovo|K910|";
 }

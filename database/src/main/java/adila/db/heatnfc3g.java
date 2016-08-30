@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G310HN
  */
 final class heatnfc3g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Ace Style";
+    public static final String DATA = "Samsung|Galaxy Ace Style|";
 }

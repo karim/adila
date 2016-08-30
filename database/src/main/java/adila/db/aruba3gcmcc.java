@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8268
  */
 final class aruba3gcmcc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Duos";
+    public static final String DATA = "Samsung|Galaxy Duos|";
 }

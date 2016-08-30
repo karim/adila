@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ALCATEL ONE TOUCH 7030Y
  */
 final class viper5flte_alcatel20one20touch207030y {
-    public static final String MANUFACTURER = "MegaFon";
-    public static final String NAME = "MS4B";
+    public static final String DATA = "MegaFon|MS4B|";
 }

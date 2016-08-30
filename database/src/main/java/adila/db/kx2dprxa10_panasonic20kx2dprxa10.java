@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Panasonic KX-PRXA10
  */
 final class kx2dprxa10_panasonic20kx2dprxa10 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "KX-PRXA10";
+    public static final String DATA = "Panasonic|KX-PRXA10|";
 }

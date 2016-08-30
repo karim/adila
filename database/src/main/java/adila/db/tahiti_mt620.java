@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MT620
  */
 final class tahiti_mt620 {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

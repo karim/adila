@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M220c
  */
 final class hwmediaqm220_m220c {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "M220";
+    public static final String DATA = "Huawei|M220|";
 }

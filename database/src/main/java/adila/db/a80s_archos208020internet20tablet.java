@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Archos 80 Internet Tablet
  */
 final class a80s_archos208020internet20tablet {
-    public static final String MANUFACTURER = "Archos";
+    public static final String DATA = "Archos||";
 }

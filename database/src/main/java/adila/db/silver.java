@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FreeTAB 10.1 Silver
  */
 final class silver {
-    public static final String MANUFACTURER = "Modecom";
-    public static final String NAME = "FreeTAB 10.1 Silver";
+    public static final String DATA = "Modecom|FreeTAB 10.1 Silver|";
 }

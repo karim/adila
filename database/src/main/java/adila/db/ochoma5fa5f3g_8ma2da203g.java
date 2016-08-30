@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 8MA-A 3G
  */
 final class ochoma5fa5f3g_8ma2da203g {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "8MA-A";
+    public static final String DATA = "Positivo|8MA-A|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SH-05F
  */
 final class sh2d05f_sh2d05f {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "Disney Mobile on docomo SH-05F";
+    public static final String DATA = "Sharp|Disney Mobile on docomo SH-05F|";
 }

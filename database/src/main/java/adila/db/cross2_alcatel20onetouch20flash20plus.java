@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ALCATEL ONETOUCH Flash Plus
  */
 final class cross2_alcatel20onetouch20flash20plus {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONETOUCH Flash Plus";
+    public static final String DATA = "Alcatel|ONETOUCH Flash Plus|";
 }

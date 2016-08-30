@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CINK SLIM 2
  */
 final class s8074 {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "CINK SLIM 2";
+    public static final String DATA = "Wiko|CINK SLIM 2|";
 }

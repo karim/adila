@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F120K
  */
 final class cayman_lg2df120k {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus LTE Tag";
+    public static final String DATA = "LG|Optimus LTE Tag|";
 }

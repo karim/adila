@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Android edition by sfr STARADDICT
  */
 final class skate_android20edition20by20sfr20staraddict {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Android edition by sfr STARADDICT";
+    public static final String DATA = "ZTE|Android edition by sfr STARADDICT|";
 }

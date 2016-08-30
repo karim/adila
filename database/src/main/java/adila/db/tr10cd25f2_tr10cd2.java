@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TR10CD2
  */
 final class tr10cd25f2_tr10cd2 {
-    public static final String MANUFACTURER = "MG series";
-    public static final String NAME = "Any 303";
+    public static final String DATA = "MG series|Any 303|";
 }

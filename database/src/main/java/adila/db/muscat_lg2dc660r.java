@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-C660R
  */
 final class muscat_lg2dc660r {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Pro";
+    public static final String DATA = "LG|Optimus Pro|";
 }

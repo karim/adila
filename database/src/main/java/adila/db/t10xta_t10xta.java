@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T10xTA
  */
 final class t10xta_t10xta {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "T101TA";
+    public static final String DATA = "Asus|T101TA|";
 }

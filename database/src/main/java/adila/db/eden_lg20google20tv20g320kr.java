@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG Google TV G3 KR
  */
 final class eden_lg20google20tv20g320kr {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Android TV";
+    public static final String DATA = "LG|Android TV|";
 }

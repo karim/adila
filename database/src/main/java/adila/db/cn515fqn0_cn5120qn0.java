@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CN51 QN0
  */
 final class cn515fqn0_cn5120qn0 {
-    public static final String MANUFACTURER = "Honeywell";
-    public static final String NAME = "CN51";
+    public static final String DATA = "Honeywell|CN51|";
 }

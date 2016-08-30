@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: moii E598
  */
 final class ztenj735fgb_moii20e598 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "U V760";
+    public static final String DATA = "ZTE|U V760|";
 }

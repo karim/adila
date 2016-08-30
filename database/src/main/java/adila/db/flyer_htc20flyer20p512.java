@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Flyer P512
  */
 final class flyer_htc20flyer20p512 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Flyer";
+    public static final String DATA = "HTC|Flyer|";
 }

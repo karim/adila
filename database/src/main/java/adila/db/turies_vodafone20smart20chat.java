@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodafone Smart Chat
  */
 final class turies_vodafone20smart20chat {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Vodafone Smart Chat";
+    public static final String DATA = "ZTE|Vodafone Smart Chat|";
 }

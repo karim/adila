@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F120K
  */
 final class lge5f1205fkt {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus LTE Tag";
+    public static final String DATA = "LG|Optimus LTE Tag|";
 }

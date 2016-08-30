@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-G800A
  */
 final class kminilteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S5 Mini";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S5 Mini|Galaxy S";
 }

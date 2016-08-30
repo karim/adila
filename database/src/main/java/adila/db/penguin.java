@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: AX 8.6
  */
 final class penguin {
-    public static final String MANUFACTURER = "Compal";
+    public static final String DATA = "Compal||";
 }

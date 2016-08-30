@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Bush Spira D2 5.5" Smartphone
  */
 final class ac55heplus_bush20spira20d22052e52220smartphone {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "Bush 5 4G";
+    public static final String DATA = "Archos|Bush 5 4G|";
 }

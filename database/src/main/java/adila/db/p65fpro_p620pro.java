@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P6 PRO
  */
 final class p65fpro_p620pro {
-    public static final String MANUFACTURER = "Symphony";
-    public static final String NAME = "P6 PRO";
+    public static final String DATA = "Symphony|P6 PRO|";
 }

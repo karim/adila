@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Y88X Plus
  */
 final class y88x5fplus_y88x20plus {
-    public static final String MANUFACTURER = "Dragontouch";
-    public static final String NAME = "Y88X Plus";
+    public static final String DATA = "Dragontouch|Y88X Plus|";
 }

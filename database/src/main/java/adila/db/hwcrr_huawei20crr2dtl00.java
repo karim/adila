@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI CRR-TL00
  */
 final class hwcrr_huawei20crr2dtl00 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Mate S";
+    public static final String DATA = "Huawei|Mate S|";
 }

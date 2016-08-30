@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T701
  */
 final class t701_t701 {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "T701 TV";
+    public static final String DATA = "Positivo|T701 TV|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Blade Vec 4G
  */
 final class msm8226_zte20blade20vec204g {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade Vec 4G";
+    public static final String DATA = "ZTE|Blade Vec 4G|";
 }

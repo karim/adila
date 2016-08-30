@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo A706_ROW
  */
 final class armani5frow {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "A706_ROW";
+    public static final String DATA = "Lenovo|A706_ROW|";
 }

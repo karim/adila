@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: STARTRAIL II
  */
 final class hwu8655_startrail20ii {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

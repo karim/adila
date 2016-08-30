@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MZ606
  */
 final class wifi5fhubble_mz606 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "XOOM";
+    public static final String DATA = "Motorola|XOOM|";
 }

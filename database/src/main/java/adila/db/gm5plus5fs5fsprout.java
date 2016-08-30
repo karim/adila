@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GM 5 Plus
  */
 final class gm5plus5fs5fsprout {
-    public static final String MANUFACTURER = "General Mobile";
-    public static final String NAME = "GM5 Plus";
+    public static final String DATA = "General Mobile|GM5 Plus|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-J105B
  */
 final class j1mini3gdx {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy J1 Mini";
-    public static final String SERIES = "Galaxy J";
+    public static final String DATA = "Samsung|Galaxy J1 Mini|Galaxy J";
 }

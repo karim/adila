@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Mi 4i
  */
 final class ferrari {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "Mi 4i";
+    public static final String DATA = "Xiaomi|Mi 4i|";
 }

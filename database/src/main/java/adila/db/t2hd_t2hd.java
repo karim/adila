@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T2HD
  */
 final class t2hd_t2hd {
-    public static final String MANUFACTURER = "Lumigon";
-    public static final String NAME = "T2 HD";
+    public static final String DATA = "Lumigon|T2 HD|";
 }

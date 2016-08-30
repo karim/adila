@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FMT-NM7058-02
  */
 final class fmt2dnm70582d02_fmt2dnm70582d02 {
-    public static final String MANUFACTURER = "Future Mobile Technology";
-    public static final String NAME = "Flash";
+    public static final String DATA = "Future Mobile Technology|Flash|";
 }

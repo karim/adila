@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C02BB1
  */
 final class c02bb1_c02bb1 {
-    public static final String MANUFACTURER = "KDDI";
-    public static final String NAME = "Power Up Unit";
+    public static final String DATA = "KDDI|Power Up Unit|";
 }

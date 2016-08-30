@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M9021G
  */
 final class m9021g_m9021g {
-    public static final String MANUFACTURER = "Click";
-    public static final String NAME = "M9021G";
+    public static final String DATA = "Click|M9021G|";
 }

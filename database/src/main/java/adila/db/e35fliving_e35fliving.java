@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E3_Living
  */
 final class e35fliving_e35fliving {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "E3 Living";
+    public static final String DATA = "AllView|E3 Living|";
 }

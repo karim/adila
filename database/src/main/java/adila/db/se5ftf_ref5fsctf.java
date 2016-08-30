@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ref_SCTF
  */
 final class se5ftf_ref5fsctf {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Smart Dios V8700";
+    public static final String DATA = "LG|Smart Dios V8700|";
 }

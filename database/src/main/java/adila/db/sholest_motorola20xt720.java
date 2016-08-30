@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Motorola XT720
  */
 final class sholest_motorola20xt720 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Motoroi";
+    public static final String DATA = "Motorola|Motoroi|";
 }

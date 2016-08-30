@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8262D
  */
 final class aruba3gchn {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core";
+    public static final String DATA = "Samsung|Galaxy Core|";
 }

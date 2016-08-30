@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TH805
  */
 final class th805_th805 {
-    public static final String MANUFACTURER = "Thinpad";
-    public static final String NAME = "TH805";
+    public static final String DATA = "Thinpad|TH805|";
 }

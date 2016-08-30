@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SPH-M830
  */
 final class prevail2spr {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Rush";
+    public static final String DATA = "Samsung|Galaxy Rush|";
 }

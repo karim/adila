@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Aqua View
  */
 final class aquaview_aqua20view {
-    public static final String MANUFACTURER = "Intex";
-    public static final String NAME = "Aqua View";
+    public static final String DATA = "Intex|Aqua View|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C6806_GPe
  */
 final class c6806_c68065fgpe {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Sony Smartphone Z Ultra Google Play edition";
+    public static final String DATA = "Sony|Sony Smartphone Z Ultra Google Play edition|";
 }

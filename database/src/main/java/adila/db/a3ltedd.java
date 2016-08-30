@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-A300G
  */
 final class a3ltedd {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy A3";
-    public static final String SERIES = "Galaxy A";
+    public static final String DATA = "Samsung|Galaxy A3|Galaxy A";
 }

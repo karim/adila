@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SHV-E330S
  */
 final class ks01lteskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S4 LTE-A";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S4 LTE-A|Galaxy S";
 }

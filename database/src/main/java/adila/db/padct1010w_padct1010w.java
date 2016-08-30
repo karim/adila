@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PADCT1010W
  */
 final class padct1010w_padct1010w {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "PADCT1010W";
+    public static final String DATA = "Haier|PADCT1010W|";
 }

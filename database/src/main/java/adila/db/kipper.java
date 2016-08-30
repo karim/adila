@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Wileyfox Storm
  */
 final class kipper {
-    public static final String MANUFACTURER = "Wileyfox";
-    public static final String NAME = "Storm";
+    public static final String DATA = "Wileyfox|Storm|";
 }

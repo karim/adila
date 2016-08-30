@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMT-E5015
  */
 final class ik1 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "olleh";
+    public static final String DATA = "Samsung|olleh|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMART Start
  */
 final class p172r10_smart20start {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "V815W";
+    public static final String DATA = "ZTE|V815W|";
 }

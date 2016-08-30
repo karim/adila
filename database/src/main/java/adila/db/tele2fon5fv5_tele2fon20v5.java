@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Tele2fon v5
  */
 final class tele2fon5fv5_tele2fon20v5 {
-    public static final String MANUFACTURER = "Tele2";
-    public static final String NAME = "Tele2fon V5";
+    public static final String DATA = "Tele2|Tele2fon V5|";
 }

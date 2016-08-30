@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-P895
  */
 final class vu10_lg2dp895 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Vu";
+    public static final String DATA = "LG|Optimus Vu|";
 }

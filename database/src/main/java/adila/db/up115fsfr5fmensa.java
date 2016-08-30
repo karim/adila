@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STARSHINE II
  */
 final class up115fsfr5fmensa {
-    public static final String MANUFACTURER = "SFR";
-    public static final String NAME = "Star Shine II";
+    public static final String DATA = "SFR|Star Shine II|";
 }

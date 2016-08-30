@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: GSmart-G1305
  */
 final class g1305_gsmart2dg1305 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

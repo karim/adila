@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Telenor Smart Mini
  */
 final class soul4_telenor20smart20mini {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Telenor_Smart_Mini";
+    public static final String DATA = "Alcatel|Telenor_Smart_Mini|";
 }

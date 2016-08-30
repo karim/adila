@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC EVA_UTL
  */
 final class evitautl {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One XL";
+    public static final String DATA = "HTC|One XL|";
 }

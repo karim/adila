@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I9152P
  */
 final class craterq3g_gt2di9152p {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Mega Plus";
+    public static final String DATA = "Samsung|Galaxy Mega Plus|";
 }

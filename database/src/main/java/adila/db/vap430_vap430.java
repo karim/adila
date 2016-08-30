@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VAP430
  */
 final class vap430_vap430 {
-    public static final String MANUFACTURER = "Vizio";
-    public static final String NAME = "StreamPlayer";
+    public static final String DATA = "Vizio|StreamPlayer|";
 }

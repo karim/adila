@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VS840PP
  */
 final class cayman_vs840pp {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Lucid";
+    public static final String DATA = "LG|Lucid|";
 }

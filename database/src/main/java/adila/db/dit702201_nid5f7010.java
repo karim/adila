@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NID_7010
  */
 final class dit702201_nid5f7010 {
-    public static final String MANUFACTURER = "DIFRNCE";
-    public static final String NAME = "DIT702201";
+    public static final String DATA = "DIFRNCE|DIT702201|";
 }

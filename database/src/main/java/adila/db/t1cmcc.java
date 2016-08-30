@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I9108
  */
 final class t1cmcc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2|Galaxy S";
 }

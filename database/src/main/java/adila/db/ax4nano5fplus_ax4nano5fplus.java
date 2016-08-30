@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AX4Nano_plus
  */
 final class ax4nano5fplus_ax4nano5fplus {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "AX4 Nano Plus";
+    public static final String DATA = "AllView|AX4 Nano Plus|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XLDRCAV1
  */
 final class xldrcav1_xldrcav1 {
-    public static final String MANUFACTURER = "RCA";
-    public static final String NAME = "XLD Series";
+    public static final String DATA = "RCA|XLD Series|";
 }

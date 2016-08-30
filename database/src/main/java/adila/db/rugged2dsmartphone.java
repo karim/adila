@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: H450R
  */
 final class rugged2dsmartphone {
-    public static final String MANUFACTURER = "ANS";
-    public static final String NAME = "Trailblazer";
+    public static final String DATA = "ANS|Trailblazer|";
 }

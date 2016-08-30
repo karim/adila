@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Aero1021/P1021HCBA4C1VXX
  */
 final class tm105a_aero10212fp1021hcba4c1vxx {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "TM105A";
+    public static final String DATA = "Gigabyte|TM105A|";
 }

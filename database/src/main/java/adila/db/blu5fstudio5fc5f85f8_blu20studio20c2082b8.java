@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: BLU STUDIO C 8+8
  */
 final class blu5fstudio5fc5f85f8_blu20studio20c2082b8 {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "STUIDIO C 8+8";
-    public static final String SERIES = "Studio";
+    public static final String DATA = "Blu|STUIDIO C 8+8|Studio";
 }

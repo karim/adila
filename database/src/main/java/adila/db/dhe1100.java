@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Hikari-iFrame/WDPF-703SE
  */
 final class dhe1100 {
-    public static final String MANUFACTURER = "Sumitomo Electric Networks";
+    public static final String DATA = "Sumitomo Electric Networks||";
 }

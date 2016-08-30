@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DL700D
  */
 final class dl700d_dl700d {
-    public static final String MANUFACTURER = "DigiLand";
-    public static final String NAME = "DL700D";
+    public static final String DATA = "DigiLand|DL700D|";
 }

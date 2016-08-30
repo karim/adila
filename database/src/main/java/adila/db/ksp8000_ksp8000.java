@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KSP8000
  */
 final class ksp8000_ksp8000 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "Echo";
+    public static final String DATA = "Kyocera|Echo|";
 }

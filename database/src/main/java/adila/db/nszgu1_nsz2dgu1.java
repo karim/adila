@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NSZ-GU1
  */
 final class nszgu1_nsz2dgu1 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "BRAVIA Smart Stick";
+    public static final String DATA = "Sony|BRAVIA Smart Stick|";
 }

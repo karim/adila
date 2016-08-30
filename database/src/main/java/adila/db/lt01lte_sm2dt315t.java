@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T315T
  */
 final class lt01lte_sm2dt315t {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 3 8.0";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 3 8.0|Galaxy Tab";
 }

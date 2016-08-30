@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MOCHE SMART A16
  */
 final class zte2dp821e10_moche20smart20a16 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Kis 3";
+    public static final String DATA = "ZTE|Kis 3|";
 }

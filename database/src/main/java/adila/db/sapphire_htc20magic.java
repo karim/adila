@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Magic
  */
 final class sapphire_htc20magic {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "myTouch 3G";
+    public static final String DATA = "HTC|myTouch 3G|";
 }

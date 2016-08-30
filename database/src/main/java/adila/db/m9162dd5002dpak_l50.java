@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L50
  */
 final class m9162dd5002dpak_l50 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "L50";
+    public static final String DATA = "Haier|L50|";
 }

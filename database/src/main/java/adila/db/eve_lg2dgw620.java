@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-GW620
  */
 final class eve_lg2dgw620 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Eve";
+    public static final String DATA = "LG|Eve|";
 }

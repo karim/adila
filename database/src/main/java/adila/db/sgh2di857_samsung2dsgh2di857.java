@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SGH-I857
  */
 final class sgh2di857_samsung2dsgh2di857 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "DoubleTime";
+    public static final String DATA = "Samsung|DoubleTime|";
 }

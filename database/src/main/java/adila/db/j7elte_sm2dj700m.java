@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-J700M
  */
 final class j7elte_sm2dj700m {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy J7";
-    public static final String SERIES = "Galaxy J";
+    public static final String DATA = "Samsung|Galaxy J7|Galaxy J";
 }

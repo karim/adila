@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Tab870
  */
 final class tab870_tab870 {
-    public static final String MANUFACTURER = "Bitmore";
-    public static final String NAME = "Bitmore Tab870";
+    public static final String DATA = "Bitmore|Bitmore Tab870|";
 }

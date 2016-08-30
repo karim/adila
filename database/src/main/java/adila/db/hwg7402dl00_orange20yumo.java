@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Yumo
  */
 final class hwg7402dl00_orange20yumo {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "G740";
+    public static final String DATA = "Huawei|G740|";
 }

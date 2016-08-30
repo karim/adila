@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-E460f
  */
 final class vee5nfc_lg2de460f {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus L5 II";
+    public static final String DATA = "LG|Optimus L5 II|";
 }

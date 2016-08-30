@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Trio AXS 3G
  */
 final class trio5faxs5f3g_trio20axs203g {
-    public static final String MANUFACTURER = "Trio";
-    public static final String NAME = "Trio AXS 3G";
+    public static final String DATA = "Trio|Trio AXS 3G|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-C550
  */
 final class hazel_lg2dc550 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Chat";
+    public static final String DATA = "LG|Optimus Chat|";
 }

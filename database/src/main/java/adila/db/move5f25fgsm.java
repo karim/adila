@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: move 2
  */
 final class move5f25fgsm {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Moov2";
+    public static final String DATA = "Alcatel|Moov2|";
 }

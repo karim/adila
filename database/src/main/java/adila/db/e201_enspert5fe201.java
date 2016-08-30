@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: enspert_e201
  */
 final class e201_enspert5fe201 {
-    public static final String MANUFACTURER = "Enspert";
+    public static final String DATA = "Enspert||";
 }

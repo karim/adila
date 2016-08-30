@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Neffos C5 Max
  */
 final class c55fmax_neffos20c520max {
-    public static final String MANUFACTURER = "Neffos";
-    public static final String NAME = "Neffos C5 Max";
+    public static final String DATA = "Neffos|Neffos C5 Max|";
 }

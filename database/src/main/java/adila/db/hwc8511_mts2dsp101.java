@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MTS-SP101
  */
 final class hwc8511_mts2dsp101 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

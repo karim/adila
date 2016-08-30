@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MiBOX1S
  */
 final class casablanca {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "China";
+    public static final String DATA = "Xiaomi|China|";
 }

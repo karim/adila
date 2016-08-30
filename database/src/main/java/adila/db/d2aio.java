@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SGH-I747Z
  */
 final class d2aio {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Pocket Neo";
+    public static final String DATA = "Samsung|Galaxy Pocket Neo|";
 }

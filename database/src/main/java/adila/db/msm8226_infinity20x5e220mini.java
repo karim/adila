@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Infinity X^2 mini
  */
 final class msm8226_infinity20x5e220mini {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Infinity X^2 mini";
+    public static final String DATA = "ZTE|Infinity X^2 mini|";
 }

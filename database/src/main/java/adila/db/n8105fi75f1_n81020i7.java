@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: N810 i7
  */
 final class n8105fi75f1_n81020i7 {
-    public static final String MANUFACTURER = "NESO";
-    public static final String NAME = "NESO N810 i7";
+    public static final String DATA = "NESO|NESO N810 i7|";
 }

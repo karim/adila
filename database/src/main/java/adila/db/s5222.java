@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RAINBOW LITE
  */
 final class s5222 {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "RAINBOW LITE";
+    public static final String DATA = "Wiko|RAINBOW LITE|";
 }

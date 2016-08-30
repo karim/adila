@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1650
  */
 final class griffin {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto Z Droid";
+    public static final String DATA = "Motorola|Moto Z Droid|";
 }

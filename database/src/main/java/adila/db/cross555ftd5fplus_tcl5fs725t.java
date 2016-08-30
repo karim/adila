@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL_S725T
  */
 final class cross555ftd5fplus_tcl5fs725t {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL S725T";
+    public static final String DATA = "Alcatel|TCL S725T|";
 }

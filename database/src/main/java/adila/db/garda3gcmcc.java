@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7898
  */
 final class garda3gcmcc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Trend 2";
+    public static final String DATA = "Samsung|Galaxy Trend 2|";
 }

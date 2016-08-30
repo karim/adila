@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: n\xc3\xbcvifone A50
  */
 final class a50_n5cxc35cxbcvifone20a50 {
-    public static final String MANUFACTURER = "Garmin";
-    public static final String NAME = "Nuvifone";
+    public static final String DATA = "Garmin|Nuvifone|";
 }

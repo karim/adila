@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7262
  */
 final class logan2g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Star Plus";
+    public static final String DATA = "Samsung|Galaxy Star Plus|";
 }

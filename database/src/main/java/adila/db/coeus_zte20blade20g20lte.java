@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Blade G LTE
  */
 final class coeus_zte20blade20g20lte {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade G LTE";
+    public static final String DATA = "ZTE|Blade G LTE|";
 }

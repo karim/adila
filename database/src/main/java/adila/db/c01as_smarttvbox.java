@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMARTTVBOX
  */
 final class c01as_smarttvbox {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "SmartTVBox";
+    public static final String DATA = "Panasonic|SmartTVBox|";
 }

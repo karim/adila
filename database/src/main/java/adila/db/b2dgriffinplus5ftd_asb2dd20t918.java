@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ASB-D T918
  */
 final class b2dgriffinplus5ftd_asb2dd20t918 {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

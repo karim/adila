@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: archer
  */
 final class archer_archer {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy A";
+    public static final String DATA = "Samsung|Galaxy A|";
 }

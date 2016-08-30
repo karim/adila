@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: W2
  */
 final class eg6065fye_w2 {
-    public static final String MANUFACTURER = "LT";
-    public static final String NAME = "W2";
+    public static final String DATA = "LT|W2|";
 }

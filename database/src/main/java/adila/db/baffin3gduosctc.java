@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I879
  */
 final class baffin3gduosctc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Grand";
+    public static final String DATA = "Samsung|Galaxy Grand|";
 }

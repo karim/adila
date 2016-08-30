@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Life
  */
 final class life_life {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "Dynamic Life";
+    public static final String DATA = "NGM|Dynamic Life|";
 }

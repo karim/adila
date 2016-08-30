@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T1060C
  */
 final class t1060_t1060c {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "T1060";
+    public static final String DATA = "Positivo|T1060|";
 }

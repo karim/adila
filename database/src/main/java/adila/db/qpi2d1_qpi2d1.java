@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: QPI-1
  */
 final class qpi2d1_qpi2d1 {
-    public static final String MANUFACTURER = "sugar_aums";
-    public static final String NAME = "QPOINT";
+    public static final String DATA = "sugar_aums|QPOINT|";
 }

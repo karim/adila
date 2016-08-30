@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MiBOX2
  */
 final class dredd {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "MiBOX2";
+    public static final String DATA = "Xiaomi|MiBOX2|";
 }

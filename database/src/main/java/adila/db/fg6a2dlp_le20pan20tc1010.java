@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Le Pan TC1010
  */
 final class fg6a2dlp_le20pan20tc1010 {
-    public static final String MANUFACTURER = "Le Pan";
-    public static final String NAME = "TC1010";
+    public static final String DATA = "Le Pan|TC1010|";
 }

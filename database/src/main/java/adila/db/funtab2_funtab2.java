@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FunTab2
  */
 final class funtab2_funtab2 {
-    public static final String MANUFACTURER = "Ematic";
-    public static final String NAME = "FunTab 2";
+    public static final String DATA = "Ematic|FunTab 2|";
 }

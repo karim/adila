@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: USCCADR3310
  */
 final class hwm866_usccadr3310 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

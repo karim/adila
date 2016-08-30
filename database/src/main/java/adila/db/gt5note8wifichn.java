@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-P350
  */
 final class gt5note8wifichn {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab A 8.0";
-    public static final String SERIES = "Galaxy A";
+    public static final String DATA = "Samsung|Galaxy Tab A 8.0|Galaxy A";
 }

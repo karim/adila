@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DS2310-70LP
  */
 final class disney5ftablet5fpc_ds23102d70lp {
-    public static final String MANUFACTURER = "LIAONING YIYATONG";
-    public static final String NAME = "DISNEY_Tablet_PC";
+    public static final String DATA = "LIAONING YIYATONG|DISNEY_Tablet_PC|";
 }

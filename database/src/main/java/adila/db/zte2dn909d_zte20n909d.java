@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE N909D
  */
 final class zte2dn909d_zte20n909d {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "N909D";
+    public static final String DATA = "ZTE|N909D|";
 }

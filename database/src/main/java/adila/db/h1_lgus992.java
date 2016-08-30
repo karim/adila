@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LGUS992
  */
 final class h1_lgus992 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G5";
+    public static final String DATA = "LG|G5|";
 }

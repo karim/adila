@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MST711
  */
 final class nuclear2dmst711_mst711 {
-    public static final String MANUFACTURER = "Trio";
-    public static final String NAME = "Trio MST711";
+    public static final String DATA = "Trio|Trio MST711|";
 }

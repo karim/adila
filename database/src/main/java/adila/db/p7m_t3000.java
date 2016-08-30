@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T3000
  */
 final class p7m_t3000 {
-    public static final String MANUFACTURER = "InFocus";
-    public static final String NAME = "T3000";
+    public static final String DATA = "InFocus|T3000|";
 }

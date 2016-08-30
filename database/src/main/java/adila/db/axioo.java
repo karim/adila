@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: PICOpad-QGN
  */
 final class axioo {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

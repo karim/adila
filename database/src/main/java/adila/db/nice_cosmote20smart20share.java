@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cosmote Smart Share
  */
 final class nice_cosmote20smart20share {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Cosmote Smart Share";
+    public static final String DATA = "ZTE|Cosmote Smart Share|";
 }

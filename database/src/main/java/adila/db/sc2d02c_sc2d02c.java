@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SC-02C
  */
 final class sc2d02c_sc2d02c {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2|Galaxy S";
 }

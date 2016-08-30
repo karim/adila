@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SOV32
  */
 final class sov32_sov32 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia Z5";
+    public static final String DATA = "Sony|Xperia Z5|";
 }

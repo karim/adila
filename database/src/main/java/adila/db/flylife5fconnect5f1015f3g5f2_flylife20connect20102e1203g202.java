@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Flylife Connect 10.1 3G 2
  */
 final class flylife5fconnect5f1015f3g5f2_flylife20connect20102e1203g202 {
-    public static final String MANUFACTURER = "Fly";
-    public static final String NAME = "Flylife Connect 10.1";
+    public static final String DATA = "Fly|Flylife Connect 10.1|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Joy_TV
  */
 final class joy5ftv_joy5ftv {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Joy TV";
+    public static final String DATA = "Explay|Joy TV|";
 }

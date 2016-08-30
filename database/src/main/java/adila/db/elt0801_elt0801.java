@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ELT0801
  */
 final class elt0801_elt0801 {
-    public static final String MANUFACTURER = "ESI Enterprises";
-    public static final String NAME = "EPIK Learning Tab 8''";
+    public static final String DATA = "ESI Enterprises|EPIK Learning Tab 8''|";
 }

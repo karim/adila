@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F560K
  */
 final class g4stylusw {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Stylo";
+    public static final String DATA = "LG|G Stylo|";
 }

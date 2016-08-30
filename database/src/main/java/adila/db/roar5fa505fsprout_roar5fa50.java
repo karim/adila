@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Roar_A50
  */
 final class roar5fa505fsprout_roar5fa50 {
-    public static final String MANUFACTURER = "Symphony";
-    public static final String NAME = "Roar A50";
+    public static final String DATA = "Symphony|Roar A50|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MZ609
  */
 final class fleming_mz609 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "XOOM 2";
+    public static final String DATA = "Motorola|XOOM 2|";
 }

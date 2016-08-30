@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Brilliant
  */
 final class cosmic_brilliant {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Brilliant";
+    public static final String DATA = "Explay|Brilliant|";
 }

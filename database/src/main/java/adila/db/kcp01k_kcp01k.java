@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KCP01K
  */
 final class kcp01k_kcp01k {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "LUCE";
+    public static final String DATA = "Kyocera|LUCE|";
 }

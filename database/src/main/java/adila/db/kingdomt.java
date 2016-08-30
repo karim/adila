@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo K920
  */
 final class kingdomt {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "K920/VIBE Z2 Pro";
+    public static final String DATA = "Lenovo|K920/VIBE Z2 Pro|";
 }

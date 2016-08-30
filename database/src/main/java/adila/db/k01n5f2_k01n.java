@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: K01N
  */
 final class k01n5f2_k01n {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Fonepad 7 (FE171CG)";
+    public static final String DATA = "Asus|Fonepad 7 (FE171CG)|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: JT-H580VT
  */
 final class h580vt5fa_jt2dh580vt {
-    public static final String MANUFACTURER = "Panasonic";
+    public static final String DATA = "Panasonic||";
 }

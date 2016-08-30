@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: thunderc
  */
 final class thunderc_thunderc {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus One";
+    public static final String DATA = "LG|Optimus One|";
 }

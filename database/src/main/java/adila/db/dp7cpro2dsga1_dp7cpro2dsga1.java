@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DP7CPro-SGA1
  */
 final class dp7cpro2dsga1_dp7cpro2dsga1 {
-    public static final String MANUFACTURER = "Tecno";
-    public static final String NAME = "DP7CPro-SGA1";
+    public static final String DATA = "Tecno|DP7CPro-SGA1|";
 }

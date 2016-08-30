@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SPH-L500
  */
 final class stunnerltespr {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "SPH-L500";
+    public static final String DATA = "Samsung|SPH-L500|";
 }

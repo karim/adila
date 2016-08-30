@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DROID4
  */
 final class cdma5fmaserati {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Droid 4";
+    public static final String DATA = "Motorola|Droid 4|";
 }

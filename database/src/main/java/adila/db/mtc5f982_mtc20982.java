@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC 982
  */
 final class mtc5f982_mtc20982 {
-    public static final String MANUFACTURER = "MTC";
-    public static final String NAME = "MTC 982";
+    public static final String DATA = "MTC|MTC 982|";
 }

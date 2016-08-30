@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: asus_google_cube
  */
 final class asus5fgoogle5fcube {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Cube";
+    public static final String DATA = "Asus|Cube|";
 }

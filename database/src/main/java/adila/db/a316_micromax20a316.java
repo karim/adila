@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Micromax A316
  */
 final class a316_micromax20a316 {
-    public static final String MANUFACTURER = "Micromax";
-    public static final String NAME = "Canvas Hue 2";
+    public static final String DATA = "Micromax|Canvas Hue 2|";
 }

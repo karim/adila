@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T5511
  */
 final class rimo01a {
-    public static final String MANUFACTURER = "Smartron";
-    public static final String NAME = "t-phone";
+    public static final String DATA = "Smartron|t-phone|";
 }

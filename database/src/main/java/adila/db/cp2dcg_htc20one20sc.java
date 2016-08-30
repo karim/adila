@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC One SC
  */
 final class cp2dcg_htc20one20sc {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One SC";
+    public static final String DATA = "HTC|One SC|";
 }

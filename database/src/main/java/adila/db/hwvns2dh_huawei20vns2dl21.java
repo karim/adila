@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI VNS-L21
  */
 final class hwvns2dh_huawei20vns2dl21 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "P9 Lite";
+    public static final String DATA = "Huawei|P9 Lite|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MegaFon_SP-AI
  */
 final class ot2d930_megafon5fsp2dai {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Megafon Login";
+    public static final String DATA = "Alcatel|Megafon Login|";
 }

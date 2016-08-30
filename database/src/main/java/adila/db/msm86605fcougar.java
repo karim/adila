@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Harris 12131-1000
  */
 final class msm86605fcougar {
-    public static final String MANUFACTURER = "Harris";
-    public static final String NAME = "12131-1000";
+    public static final String DATA = "Harris|12131-1000|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Kyivstar Aqua
  */
 final class hwu8650_kyivstar20aqua {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

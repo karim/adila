@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KUNO4
  */
 final class kuno4_kuno4 {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "Kuno";
+    public static final String DATA = "Archos|Kuno|";
 }

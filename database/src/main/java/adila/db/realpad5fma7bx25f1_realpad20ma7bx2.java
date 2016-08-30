@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RealPad MA7BX2
  */
 final class realpad5fma7bx25f1_realpad20ma7bx2 {
-    public static final String MANUFACTURER = "ECS";
-    public static final String NAME = "RealPad MA7BX2";
+    public static final String DATA = "ECS|RealPad MA7BX2|";
 }

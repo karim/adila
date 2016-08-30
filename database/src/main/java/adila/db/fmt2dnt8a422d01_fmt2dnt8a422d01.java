@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FMT-NT8A42-01
  */
 final class fmt2dnt8a422d01_fmt2dnt8a422d01 {
-    public static final String MANUFACTURER = "Future Mobile Technology";
-    public static final String NAME = "Dual 8";
+    public static final String DATA = "Future Mobile Technology|Dual 8|";
 }

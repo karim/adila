@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T525
  */
 final class picassolte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab Pro 10.1";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab Pro 10.1|Galaxy Tab";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SGP712
  */
 final class sgp712_sgp712 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia Z4 tablet";
+    public static final String DATA = "Sony|Xperia Z4 tablet|";
 }

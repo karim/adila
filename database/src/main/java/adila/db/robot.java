@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Philips W632
  */
 final class robot {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Philips W632";
+    public static final String DATA = "Anydata|Philips W632|";
 }

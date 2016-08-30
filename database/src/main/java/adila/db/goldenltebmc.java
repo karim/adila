@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G730W8
  */
 final class goldenltebmc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3 Mini";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3 Mini|Galaxy S";
 }

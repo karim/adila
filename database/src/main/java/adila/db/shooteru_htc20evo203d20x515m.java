@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC EVO 3D X515m
  */
 final class shooteru_htc20evo203d20x515m {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "EVO 3D X515m";
+    public static final String DATA = "HTC|EVO 3D X515m|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG Watch Urbane
  */
 final class nemo {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Watch Urbane 2nd Edition LTE";
+    public static final String DATA = "LG|Watch Urbane 2nd Edition LTE|";
 }

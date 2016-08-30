@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: H710VL
  */
 final class hwh710vl2dq_h710vl {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Sensa LTE";
+    public static final String DATA = "Huawei|Sensa LTE|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMART Start 3
  */
 final class zte5fblade5fl110_smart20start203 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "SMART Start 3";
+    public static final String DATA = "ZTE|SMART Start 3|";
 }

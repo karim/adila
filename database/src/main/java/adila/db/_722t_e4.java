@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E4
  */
 final class _722t_e4 {
-    public static final String MANUFACTURER = "Turk Telekom";
-    public static final String NAME = "Turk Telekom E4";
+    public static final String DATA = "Turk Telekom|Turk Telekom E4|";
 }

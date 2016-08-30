@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Freedom E
  */
 final class freedom5fe_freedom20e {
-    public static final String MANUFACTURER = "AG Mobile";
-    public static final String NAME = "Freedom E";
+    public static final String DATA = "AG Mobile|Freedom E|";
 }

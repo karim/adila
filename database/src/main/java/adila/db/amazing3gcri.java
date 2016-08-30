@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-R740C
  */
 final class amazing3gcri {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Discover";
+    public static final String DATA = "Samsung|Galaxy Discover|";
 }

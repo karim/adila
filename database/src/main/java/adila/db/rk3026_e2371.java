@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E2371
  */
 final class rk3026_e2371 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "Sero7 LE";
+    public static final String DATA = "Hisense|Sero7 LE|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 101P51C
  */
 final class _101p51c_101p51c {
-    public static final String MANUFACTURER = "Mecer";
-    public static final String NAME = "101P51C";
+    public static final String DATA = "Mecer|101P51C|";
 }

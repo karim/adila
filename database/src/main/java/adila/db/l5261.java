@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PULP FAB 4G
  */
 final class l5261 {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "PULP FAB 4G";
+    public static final String DATA = "Wiko|PULP FAB 4G|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-X180g
  */
 final class d2_lg2dx180g {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "ZONE";
+    public static final String DATA = "LG|ZONE|";
 }

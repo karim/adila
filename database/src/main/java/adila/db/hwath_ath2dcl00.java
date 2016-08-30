@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ATH-CL00
  */
 final class hwath_ath2dcl00 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Honor7i";
+    public static final String DATA = "Huawei|Honor7i|";
 }

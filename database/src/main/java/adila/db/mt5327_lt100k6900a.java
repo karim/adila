@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LT100K6900A
  */
 final class mt5327_lt100k6900a {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "LT100K6900A";
+    public static final String DATA = "Hisense|LT100K6900A|";
 }

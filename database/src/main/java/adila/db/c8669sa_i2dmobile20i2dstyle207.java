@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: i-mobile i-STYLE 7
  */
 final class c8669sa_i2dmobile20i2dstyle207 {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "i-STYLE7";
+    public static final String DATA = "Cellon|i-STYLE7|";
 }

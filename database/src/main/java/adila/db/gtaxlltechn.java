@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T585C
  */
 final class gtaxlltechn {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab A 10.1";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab A 10.1|Galaxy Tab";
 }

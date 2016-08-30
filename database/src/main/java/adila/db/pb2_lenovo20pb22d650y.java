@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo PB2-650Y
  */
 final class pb2_lenovo20pb22d650y {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "PB2-650Y";
+    public static final String DATA = "Lenovo|PB2-650Y|";
 }

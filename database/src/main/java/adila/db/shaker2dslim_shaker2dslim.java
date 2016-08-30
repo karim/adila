@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Shaker-Slim
  */
 final class shaker2dslim_shaker2dslim {
-    public static final String MANUFACTURER = "Boost";
-    public static final String NAME = "skaker slim";
+    public static final String DATA = "Boost|skaker slim|";
 }

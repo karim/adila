@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZUN XO
  */
 final class zun5fxo_zun20xo {
-    public static final String MANUFACTURER = "Vonino";
-    public static final String NAME = "ZUN XO";
+    public static final String DATA = "Vonino|ZUN XO|";
 }

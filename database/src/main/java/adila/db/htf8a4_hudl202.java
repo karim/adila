@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Hudl 2
  */
 final class htf8a4_hudl202 {
-    public static final String MANUFACTURER = "Tesco";
-    public static final String NAME = "Hudl 2";
+    public static final String DATA = "Tesco|Hudl 2|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 920TPC
  */
 final class _920tpc_920tpc {
-    public static final String MANUFACTURER = "iView";
-    public static final String NAME = "iView 920TPC";
+    public static final String DATA = "iView|iView 920TPC|";
 }

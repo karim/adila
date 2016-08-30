@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: K220_FHD
  */
 final class mst628_k2205ffhd {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "K220_FHD";
+    public static final String DATA = "Hisense|K220_FHD|";
 }

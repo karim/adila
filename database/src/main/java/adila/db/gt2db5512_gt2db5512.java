@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-B5512
  */
 final class gt2db5512_gt2db5512 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Y Pro Duos";
+    public static final String DATA = "Samsung|Galaxy Y Pro Duos|";
 }

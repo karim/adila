@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Signature Touch
  */
 final class odin {
-    public static final String MANUFACTURER = "Vertu";
-    public static final String NAME = "Signature Touch";
+    public static final String DATA = "Vertu|Signature Touch|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KYV33
  */
 final class kyv33_kyv33 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "INFOBAR A03";
+    public static final String DATA = "Kyocera|INFOBAR A03|";
 }

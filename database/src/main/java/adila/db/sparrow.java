@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS ZenWatch 2
  */
 final class sparrow {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "ZenWatch 2";
+    public static final String DATA = "Asus|ZenWatch 2|";
 }

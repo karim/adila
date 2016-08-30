@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC6435LVW
  */
 final class dlx_htc6435lvw {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Droid DNA";
+    public static final String DATA = "HTC|Droid DNA|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smartphone Android by SFR STARXTREM II
  */
 final class rio65flte_smartphone20android20by20sfr20starxtrem20ii {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "POP S9";
+    public static final String DATA = "Alcatel|POP S9|";
 }

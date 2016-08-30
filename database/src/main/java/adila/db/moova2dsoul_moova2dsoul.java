@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Moova-Soul
  */
 final class moova2dsoul_moova2dsoul {
-    public static final String MANUFACTURER = "Boost";
-    public static final String NAME = "Moova Soul";
+    public static final String DATA = "Boost|Moova Soul|";
 }

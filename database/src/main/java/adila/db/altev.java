@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VK810 4G
  */
 final class altev {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Pad 8.3 LTE";
+    public static final String DATA = "LG|G Pad 8.3 LTE|";
 }

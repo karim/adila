@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Slate 6 Voice Tab
  */
 final class pomegranate {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate 6 Voice Tab";
+    public static final String DATA = "HP|Slate 6 Voice Tab|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A7101_X3_mini
  */
 final class a71015fx35fmini_a71015fx35fmini {
-    public static final String MANUFACTURER = "Gtel";
-    public static final String NAME = "A7101_X3_mini";
+    public static final String DATA = "Gtel|A7101_X3_mini|";
 }

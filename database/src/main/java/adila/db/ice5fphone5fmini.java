@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ice-Phone Mini
  */
 final class ice5fphone5fmini {
-    public static final String MANUFACTURER = "Ice Phone";
-    public static final String NAME = "Ice Phone Mini";
+    public static final String DATA = "Ice Phone|Ice Phone Mini|";
 }

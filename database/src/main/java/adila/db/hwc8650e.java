@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: HUAWEI C8650+
  */
 final class hwc8650e {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

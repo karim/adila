@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1025
  */
 final class condor5fudstv {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto E (1st Gen)";
+    public static final String DATA = "Motorola|Moto E (1st Gen)|";
 }

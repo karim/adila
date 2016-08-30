@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: i700
  */
 final class g01i {
-    public static final String MANUFACTURER = "iView";
-    public static final String NAME = "iView SupraPad i700";
+    public static final String DATA = "iView|iView SupraPad i700|";
 }

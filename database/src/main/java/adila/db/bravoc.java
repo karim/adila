@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PB99400
  */
 final class bravoc {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire";
+    public static final String DATA = "HTC|Desire|";
 }

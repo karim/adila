@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Pulse
  */
 final class desirec_pulse {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Droid Eris";
+    public static final String DATA = "HTC|Droid Eris|";
 }

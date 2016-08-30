@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHIFT
  */
 final class shift_shift {
-    public static final String MANUFACTURER = "Mobicell";
-    public static final String NAME = "SHIFT";
+    public static final String DATA = "Mobicell|SHIFT|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Xino Z46 X4+
  */
 final class xino5fz46 {
-    public static final String MANUFACTURER = "Modecom";
-    public static final String NAME = "Xino Z46 X4+";
+    public static final String DATA = "Modecom|Xino Z46 X4+|";
 }

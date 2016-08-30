@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MITO_A10
  */
 final class a105fsprout_mito5fa10 {
-    public static final String MANUFACTURER = "Mito";
-    public static final String NAME = "A10";
+    public static final String DATA = "Mito|A10|";
 }

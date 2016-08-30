@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G3502C
  */
 final class cs02ve3g_sm2dg3502c {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Trend 3";
+    public static final String DATA = "Samsung|Galaxy Trend 3|";
 }

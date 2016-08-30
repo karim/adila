@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: HUAWEI MediaPad
  */
 final class hws7300u_huawei20mediapad {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

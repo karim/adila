@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P791
  */
 final class p791_p791 {
-    public static final String MANUFACTURER = "Polaroid";
-    public static final String NAME = "P791";
+    public static final String DATA = "Polaroid|P791|";
 }

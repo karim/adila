@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Telenor Touch Plus
  */
 final class blade2_telenor20touch20plus {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Telenor Touch Plus";
+    public static final String DATA = "ZTE|Telenor Touch Plus|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Z832
  */
 final class mimir {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Z832";
+    public static final String DATA = "ZTE|Z832|";
 }

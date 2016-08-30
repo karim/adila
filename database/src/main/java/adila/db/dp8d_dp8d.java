@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DP8D
  */
 final class dp8d_dp8d {
-    public static final String MANUFACTURER = "Tecno";
-    public static final String NAME = "DroiPad 8 II";
+    public static final String DATA = "Tecno|DroiPad 8 II|";
 }

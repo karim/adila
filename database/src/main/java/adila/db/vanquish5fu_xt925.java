@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT925
  */
 final class vanquish5fu_xt925 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "DROID RAZR HD";
+    public static final String DATA = "Motorola|DROID RAZR HD|";
 }

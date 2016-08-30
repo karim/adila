@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Turbo-X lamda
  */
 final class turbo2dx5flamda_turbo2dx20lamda {
-    public static final String MANUFACTURER = "Plaisio";
-    public static final String NAME = "lamda";
+    public static final String DATA = "Plaisio|lamda|";
 }

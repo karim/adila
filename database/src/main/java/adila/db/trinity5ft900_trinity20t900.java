@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Trinity T900
  */
 final class trinity5ft900_trinity20t900 {
-    public static final String MANUFACTURER = "ESI Enterprises";
-    public static final String NAME = "Trinity T900";
+    public static final String DATA = "ESI Enterprises|Trinity T900|";
 }

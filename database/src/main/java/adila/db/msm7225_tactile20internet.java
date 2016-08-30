@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Tactile internet
  */
 final class msm7225_tactile20internet {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

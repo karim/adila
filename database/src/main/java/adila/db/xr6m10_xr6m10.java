@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XR6M10
  */
 final class xr6m10_xr6m10 {
-    public static final String MANUFACTURER = "Vizio";
-    public static final String NAME = "XR6M10";
+    public static final String DATA = "Vizio|XR6M10|";
 }

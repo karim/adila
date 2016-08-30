@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: freebit PandA_m14
  */
 final class yaris5f55_freebit20panda5fm14 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "freebit PandA_m14";
+    public static final String DATA = "Alcatel|freebit PandA_m14|";
 }

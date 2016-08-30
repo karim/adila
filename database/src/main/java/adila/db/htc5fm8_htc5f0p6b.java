@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC_0P6B
  */
 final class htc5fm8_htc5f0p6b {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One (M8)";
+    public static final String DATA = "HTC|One (M8)|";
 }

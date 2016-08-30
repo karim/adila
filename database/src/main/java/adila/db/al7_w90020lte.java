@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: W900 LTE
  */
 final class al7_w90020lte {
-    public static final String MANUFACTURER = "Cherry Mobile";
-    public static final String NAME = "Cherry W900 LTE";
+    public static final String DATA = "Cherry Mobile|Cherry W900 LTE|";
 }

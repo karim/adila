@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KLIPAD_SMART_D791
  */
 final class klipad5fsmart5fd791_klipad5fsmart5fd791 {
-    public static final String MANUFACTURER = "KLIPAD";
-    public static final String NAME = "KLIPAD_SMART_D791";
+    public static final String DATA = "KLIPAD|KLIPAD_SMART_D791|";
 }

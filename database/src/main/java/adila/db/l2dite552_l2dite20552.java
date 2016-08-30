@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L-ITE 552
  */
 final class l2dite552_l2dite20552 {
-    public static final String MANUFACTURER = "Logicom";
-    public static final String NAME = "L-ITE552";
+    public static final String DATA = "Logicom|L-ITE552|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ITP-R408W
  */
 final class delight {
-    public static final String MANUFACTURER = "TUNTUN English";
-    public static final String NAME = "DREAM PAD";
+    public static final String DATA = "TUNTUN English|DREAM PAD|";
 }

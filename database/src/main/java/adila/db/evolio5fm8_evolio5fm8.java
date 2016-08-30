@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Evolio_M8
  */
 final class evolio5fm8_evolio5fm8 {
-    public static final String MANUFACTURER = "Evolio";
-    public static final String NAME = "M8";
+    public static final String DATA = "Evolio|M8|";
 }

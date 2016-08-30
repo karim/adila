@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EVERCOSS A65
  */
 final class a655fsprout_evercoss20a65 {
-    public static final String MANUFACTURER = "Evercoss";
-    public static final String NAME = "One X";
+    public static final String DATA = "Evercoss|One X|";
 }

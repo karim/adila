@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-G530A
  */
 final class grandprimelteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Go Prime";
+    public static final String DATA = "Samsung|Galaxy Go Prime|";
 }

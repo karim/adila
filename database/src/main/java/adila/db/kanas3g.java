@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G3556D
  */
 final class kanas3g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core 2";
+    public static final String DATA = "Samsung|Galaxy Core 2|";
 }

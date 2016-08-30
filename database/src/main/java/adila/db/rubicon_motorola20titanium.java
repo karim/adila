@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Motorola Titanium
  */
 final class rubicon_motorola20titanium {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Opus One";
+    public static final String DATA = "Motorola|Opus One|";
 }

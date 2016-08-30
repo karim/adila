@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orinoquia Auyantepui Y210
  */
 final class oay210 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y210";
+    public static final String DATA = "Huawei|Y210|";
 }

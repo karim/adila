@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SoshPhone 3
  */
 final class soshphone5f3_soshphone203 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "SoshPhone 3";
+    public static final String DATA = "ZTE|SoshPhone 3|";
 }

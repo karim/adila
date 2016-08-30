@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Eris
  */
 final class desirec_eris {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Droid Eris";
+    public static final String DATA = "HTC|Droid Eris|";
 }

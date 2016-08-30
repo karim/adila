@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-S735C
  */
 final class amazingtrfcd {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Discover";
+    public static final String DATA = "Samsung|Galaxy Discover|";
 }

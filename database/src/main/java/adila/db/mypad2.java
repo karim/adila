@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KA-E410W
  */
 final class mypad2 {
-    public static final String MANUFACTURER = "Kyowon";
-    public static final String NAME = "All&G PAD";
+    public static final String DATA = "Kyowon|All&G PAD|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS Tablet P1801-T
  */
 final class p18012dt_asus20tablet20p18012dt {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Transformer AiO P1801";
+    public static final String DATA = "Asus|Transformer AiO P1801|";
 }

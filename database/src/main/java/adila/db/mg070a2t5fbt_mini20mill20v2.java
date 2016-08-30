@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Mini Mill v2
  */
 final class mg070a2t5fbt_mini20mill20v2 {
-    public static final String MANUFACTURER = "JP Sacouto";
-    public static final String NAME = "Mini Mill v2";
+    public static final String DATA = "JP Sacouto|Mini Mill v2|";
 }

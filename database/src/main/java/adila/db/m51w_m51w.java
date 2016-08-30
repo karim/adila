@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M51w
  */
 final class m51w_m51w {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia Z1 Compact";
+    public static final String DATA = "Sony|Xperia Z1 Compact|";
 }

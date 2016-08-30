@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Che1-CL20
  */
 final class che1_che12dcl20 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Che1-CL20";
+    public static final String DATA = "Huawei|Che1-CL20|";
 }

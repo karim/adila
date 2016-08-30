@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KALOS
  */
 final class fg6q5fn_kalos {
-    public static final String MANUFACTURER = "Bungbungame";
-    public static final String NAME = "KALOS";
+    public static final String DATA = "Bungbungame|KALOS|";
 }

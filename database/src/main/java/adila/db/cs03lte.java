@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G3518
  */
 final class cs03lte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core LTE";
+    public static final String DATA = "Samsung|Galaxy Core LTE|";
 }

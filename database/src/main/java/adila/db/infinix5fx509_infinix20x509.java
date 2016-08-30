@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Infinix X509
  */
 final class infinix5fx509_infinix20x509 {
-    public static final String MANUFACTURER = "Infinix";
-    public static final String NAME = "Zero 2";
+    public static final String DATA = "Infinix|Zero 2|";
 }

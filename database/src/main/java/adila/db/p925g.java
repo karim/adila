@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: LG-P925g
  */
 final class p925g {
-    public static final String MANUFACTURER = "LG";
+    public static final String DATA = "LG||";
 }

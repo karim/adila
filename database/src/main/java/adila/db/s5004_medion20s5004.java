@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MEDION S5004
  */
 final class s5004_medion20s5004 {
-    public static final String MANUFACTURER = "Medion";
-    public static final String NAME = "S5004";
+    public static final String DATA = "Medion|S5004|";
 }

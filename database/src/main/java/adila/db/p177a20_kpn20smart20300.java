@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KPN Smart 300
  */
 final class p177a20_kpn20smart20300 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Grand X Pro";
+    public static final String DATA = "ZTE|Grand X Pro|";
 }

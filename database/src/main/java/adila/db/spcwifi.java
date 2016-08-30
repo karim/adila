@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-B9150
  */
 final class spcwifi {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Homesync";
+    public static final String DATA = "Samsung|Homesync|";
 }

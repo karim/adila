@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC-X710a
  */
 final class holiday_htc2dx710a {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Velocity 4G";
+    public static final String DATA = "HTC|Velocity 4G|";
 }

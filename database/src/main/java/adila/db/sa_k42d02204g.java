@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: K4-02 4G
  */
 final class sa_k42d02204g {
-    public static final String MANUFACTURER = "Kalley";
-    public static final String NAME = "Klic";
+    public static final String DATA = "Kalley|Klic|";
 }

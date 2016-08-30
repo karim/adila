@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Bit
  */
 final class bit_bit {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Bit";
+    public static final String DATA = "Explay|Bit|";
 }

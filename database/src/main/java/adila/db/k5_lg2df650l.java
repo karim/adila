@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F650L
  */
 final class k5_lg2df650l {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "X screen";
+    public static final String DATA = "LG|X screen|";
 }

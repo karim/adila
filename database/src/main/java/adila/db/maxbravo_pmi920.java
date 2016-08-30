@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: PMI920
  */
 final class maxbravo_pmi920 {
-    public static final String MANUFACTURER = "Teleepoch";
+    public static final String DATA = "Teleepoch||";
 }

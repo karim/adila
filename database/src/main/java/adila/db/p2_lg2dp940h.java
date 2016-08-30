@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-P940h
  */
 final class p2_lg2dp940h {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "PRADA 3.0";
+    public static final String DATA = "LG|PRADA 3.0|";
 }

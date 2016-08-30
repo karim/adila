@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: N762
  */
 final class roamer_n762 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "N762";
+    public static final String DATA = "ZTE|N762|";
 }

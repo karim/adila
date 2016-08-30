@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I425
  */
 final class godivaltevzw {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Godiva";
+    public static final String DATA = "Samsung|Godiva|";
 }

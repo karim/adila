@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G860P
  */
 final class kltesprsports {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S5 K Sport";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S5 K Sport|Galaxy S";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nexus Player
  */
 final class fugu {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Nexus Player";
+    public static final String DATA = "Asus|Nexus Player|";
 }

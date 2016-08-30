@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP_10_Tablet
  */
 final class balsa {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Tablet 10";
+    public static final String DATA = "HP|Tablet 10|";
 }

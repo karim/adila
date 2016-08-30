@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Slim_Tab_8
  */
 final class slim5ftab5f8_slim5ftab5f8 {
-    public static final String MANUFACTURER = "Kiano";
-    public static final String NAME = "Slim_Tab_8";
+    public static final String DATA = "Kiano|Slim_Tab_8|";
 }

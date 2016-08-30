@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Aquaris E4
  */
 final class aquaris5fe4_aquaris20e4 {
-    public static final String MANUFACTURER = "bq";
-    public static final String NAME = "Aquaris E4";
+    public static final String DATA = "bq|Aquaris E4|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F180S
  */
 final class geehrc_lg2df180s {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus G";
+    public static final String DATA = "LG|Optimus G|";
 }

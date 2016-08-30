@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T-Mobile myTouch 3G
  */
 final class sapphire_t2dmobile20mytouch203g {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "myTouch 3G";
+    public static final String DATA = "HTC|myTouch 3G|";
 }

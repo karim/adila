@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KC-S301AE
  */
 final class kc2ds301ae_kc2ds301ae {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "S301";
+    public static final String DATA = "Kyocera|S301|";
 }

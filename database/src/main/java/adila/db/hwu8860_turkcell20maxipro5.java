@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: TURKCELL MaxiPRO5
  */
 final class hwu8860_turkcell20maxipro5 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

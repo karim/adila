@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KYOCERA-C6742A
  */
 final class c6742a_kyocera2dc6742a {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "Hydro SHORE";
+    public static final String DATA = "Kyocera|Hydro SHORE|";
 }

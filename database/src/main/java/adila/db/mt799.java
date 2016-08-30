@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NABI2-NV7A
  */
 final class mt799 {
-    public static final String MANUFACTURER = "Nabi";
-    public static final String NAME = "nabi 2 Tablet";
+    public static final String DATA = "Nabi|nabi 2 Tablet|";
 }

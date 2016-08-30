@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Garmin-Asus A10
  */
 final class a10_garmin2dasus20a10 {
-    public static final String MANUFACTURER = "Garmin";
+    public static final String DATA = "Garmin||";
 }

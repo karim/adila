@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC PROMIN_U
  */
 final class primods_htc20promin5fu {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire V";
+    public static final String DATA = "HTC|Desire V|";
 }

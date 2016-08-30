@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P6_Energy
  */
 final class p65fenergy_p65fenergy {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "P6_Energy";
+    public static final String DATA = "AllView|P6_Energy|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Dell M01M
  */
 final class streak_dell20m01m {
-    public static final String MANUFACTURER = "Dell";
-    public static final String NAME = "Streak";
+    public static final String DATA = "Dell|Streak|";
 }

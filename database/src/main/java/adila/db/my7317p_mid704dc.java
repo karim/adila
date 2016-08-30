@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MID704DC
  */
 final class my7317p_mid704dc {
-    public static final String MANUFACTURER = "LUXYA";
-    public static final String NAME = "LUXYA MID704DC Tablet / Bitmore Tab770";
+    public static final String DATA = "LUXYA|LUXYA MID704DC Tablet / Bitmore Tab770|";
 }

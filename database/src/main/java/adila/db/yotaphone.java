@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C9660
  */
 final class yotaphone {
-    public static final String MANUFACTURER = "YotaPhone";
-    public static final String NAME = "YotaPhone C9660";
+    public static final String DATA = "YotaPhone|YotaPhone C9660|";
 }

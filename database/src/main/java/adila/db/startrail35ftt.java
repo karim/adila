@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: StarTrail TT
  */
 final class startrail35ftt {
-    public static final String MANUFACTURER = "Tunisie Telecom";
-    public static final String NAME = "Star Trail by TT";
+    public static final String DATA = "Tunisie Telecom|Star Trail by TT|";
 }

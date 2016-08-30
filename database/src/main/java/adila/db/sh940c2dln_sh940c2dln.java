@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SH940C-LN
  */
 final class sh940c2dln_sh940c2dln {
-    public static final String MANUFACTURER = "LinkNet";
-    public static final String NAME = "Smart Box HD";
+    public static final String DATA = "LinkNet|Smart Box HD|";
 }

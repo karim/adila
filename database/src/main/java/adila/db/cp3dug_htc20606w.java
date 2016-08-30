@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC 606w
  */
 final class cp3dug_htc20606w {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire 606w";
+    public static final String DATA = "HTC|Desire 606w|";
 }

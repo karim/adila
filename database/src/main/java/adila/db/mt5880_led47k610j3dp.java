@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LED47K610J3DP
  */
 final class mt5880_led47k610j3dp {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "LED47K610J3DP";
+    public static final String DATA = "Hisense|LED47K610J3DP|";
 }

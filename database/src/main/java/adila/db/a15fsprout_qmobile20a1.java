@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: QMobile A1
  */
 final class a15fsprout_qmobile20a1 {
-    public static final String MANUFACTURER = "QMobile";
-    public static final String NAME = "Pakistan";
+    public static final String DATA = "QMobile|Pakistan|";
 }

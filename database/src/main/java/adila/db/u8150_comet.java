@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Comet
  */
 final class u8150_comet {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "IDEOS";
+    public static final String DATA = "Huawei|IDEOS|";
 }

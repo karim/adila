@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ALCATEL ONE TOUCH 5020T
  */
 final class megane_alcatel20one20touch205020t {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL J300";
+    public static final String DATA = "Alcatel|TCL J300|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TAB 7 DUAL CORE
  */
 final class t015_tab20720dual20core {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TAB 7 DUAL CORE";
+    public static final String DATA = "Alcatel|TAB 7 DUAL CORE|";
 }

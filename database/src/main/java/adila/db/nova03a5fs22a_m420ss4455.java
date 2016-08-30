@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M4 SS4455
  */
 final class nova03a5fs22a_m420ss4455 {
-    public static final String MANUFACTURER = "M4tel";
-    public static final String NAME = "M4 SS4455";
+    public static final String DATA = "M4tel|M4 SS4455|";
 }

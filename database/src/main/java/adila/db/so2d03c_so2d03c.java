@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SO-03C
  */
 final class so2d03c_so2d03c {
-    public static final String MANUFACTURER = "Sony Ericsson";
-    public static final String NAME = "Xperia ray";
+    public static final String DATA = "Sony Ericsson|Xperia ray|";
 }

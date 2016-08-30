@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Onliner4
  */
 final class g4187_onliner4 {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Onliner 4";
+    public static final String DATA = "Explay|Onliner 4|";
 }

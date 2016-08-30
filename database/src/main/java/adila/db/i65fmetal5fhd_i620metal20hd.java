@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: i6 Metal HD
  */
 final class i65fmetal5fhd_i620metal20hd {
-    public static final String MANUFACTURER = "QMobile";
-    public static final String NAME = "i6 Metal HD";
+    public static final String DATA = "QMobile|i6 Metal HD|";
 }

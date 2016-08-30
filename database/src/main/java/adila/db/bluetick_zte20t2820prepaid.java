@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE T28 Prepaid
  */
 final class bluetick_zte20t2820prepaid {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "T28";
+    public static final String DATA = "ZTE|T28|";
 }

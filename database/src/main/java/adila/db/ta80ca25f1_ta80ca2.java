@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TA80CA2
  */
 final class ta80ca25f1_ta80ca2 {
-    public static final String MANUFACTURER = "Casper";
-    public static final String NAME = "TA80CA2";
+    public static final String DATA = "Casper|TA80CA2|";
 }

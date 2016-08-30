@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5303B
  */
 final class coriplusds_gt2ds5303b {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Y Plus";
+    public static final String DATA = "Samsung|Galaxy Y Plus|";
 }

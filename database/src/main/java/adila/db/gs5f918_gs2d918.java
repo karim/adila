@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GS-918
  */
 final class gs5f918_gs2d918 {
-    public static final String MANUFACTURER = "Dopo";
-    public static final String NAME = "DOPO GS-918";
+    public static final String DATA = "Dopo|DOPO GS-918|";
 }

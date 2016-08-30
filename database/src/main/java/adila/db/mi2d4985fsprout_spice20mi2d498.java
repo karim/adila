@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Spice Mi-498
  */
 final class mi2d4985fsprout_spice20mi2d498 {
-    public static final String MANUFACTURER = "Spice";
-    public static final String NAME = "Dream Uno";
+    public static final String DATA = "Spice|Dream Uno|";
 }

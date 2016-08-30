@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Optimus Zali
  */
 final class nice_optimus20zali {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Kis Pro";
+    public static final String DATA = "ZTE|Kis Pro|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: U1+
  */
 final class u820a_u12b {
-    public static final String MANUFACTURER = "Hisense";
+    public static final String DATA = "Hisense||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cygnus_mini
  */
 final class cygnus5fmini_cygnus5fmini {
-    public static final String MANUFACTURER = "Mobiwire";
-    public static final String NAME = "Cygnus mini";
+    public static final String DATA = "Mobiwire|Cygnus mini|";
 }

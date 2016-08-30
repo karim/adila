@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 4028E
  */
 final class pixi32d45_4028e {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "PIXI3(4.5)";
+    public static final String DATA = "Alcatel|PIXI3(4.5)|";
 }

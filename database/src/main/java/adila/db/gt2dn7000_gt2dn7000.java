@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-N7000
  */
 final class gt2dn7000_gt2dn7000 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note|Galaxy Note";
 }

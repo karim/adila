@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: soft stone
  */
 final class p726n_soft20stone {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

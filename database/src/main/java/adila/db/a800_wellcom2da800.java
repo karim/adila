@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: WellcoM-A800
  */
 final class a800_wellcom2da800 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

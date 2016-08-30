@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Amazing X3
  */
 final class tx3_amazing20x3 {
-    public static final String MANUFACTURER = "Taiwan Mobile";
-    public static final String NAME = "Amazing X3";
+    public static final String DATA = "Taiwan Mobile|Amazing X3|";
 }

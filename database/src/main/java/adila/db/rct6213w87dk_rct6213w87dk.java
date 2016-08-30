@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RCT6213W87DK
  */
 final class rct6213w87dk_rct6213w87dk {
-    public static final String MANUFACTURER = "RCA";
-    public static final String NAME = "11 Maven Pro";
+    public static final String DATA = "RCA|11 Maven Pro|";
 }

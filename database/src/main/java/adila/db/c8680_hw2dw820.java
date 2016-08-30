@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HW-W820
  */
 final class c8680_hw2dw820 {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "HWW820";
+    public static final String DATA = "Cellon|HWW820|";
 }

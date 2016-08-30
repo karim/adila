@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: RASPG3201
  */
 final class raspg32015fumts_raspg3201 {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

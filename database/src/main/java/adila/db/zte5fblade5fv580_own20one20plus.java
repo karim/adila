@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: OWN One Plus
  */
 final class zte5fblade5fv580_own20one20plus {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "OWN One Plus";
+    public static final String DATA = "ZTE|OWN One Plus|";
 }

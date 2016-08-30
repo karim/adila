@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G155S
  */
 final class novel3gskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Folder";
+    public static final String DATA = "Samsung|Galaxy Folder|";
 }

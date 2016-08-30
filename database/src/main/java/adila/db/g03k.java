@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C14100
  */
 final class g03k {
-    public static final String MANUFACTURER = "KD Interactive";
-    public static final String NAME = "Kurio Tab - Extrem";
+    public static final String DATA = "KD Interactive|Kurio Tab - Extrem|";
 }

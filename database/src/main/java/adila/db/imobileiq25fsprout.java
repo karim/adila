@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: i-mobile IQ II
  */
 final class imobileiq25fsprout {
-    public static final String MANUFACTURER = "i-Mobile";
-    public static final String NAME = "i-mobile IQ II";
+    public static final String DATA = "i-Mobile|i-mobile IQ II|";
 }

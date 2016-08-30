@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Desire 600 dual sim
  */
 final class cp3dug_htc20desire2060020dual20sim {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire 600 Dual SIM";
+    public static final String DATA = "HTC|Desire 600 Dual SIM|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MI NOTE Pro
  */
 final class leo_mi20note20pro {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "MI NOTE Pro";
+    public static final String DATA = "Xiaomi|MI NOTE Pro|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T-Mobile Vivacity
  */
 final class blade2_t2dmobile20vivacity {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "T-Mobile Vivacity";
+    public static final String DATA = "ZTE|T-Mobile Vivacity|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BenQ A3s
  */
 final class benq5fa3s {
-    public static final String MANUFACTURER = "BenQ";
-    public static final String NAME = "F4";
+    public static final String DATA = "BenQ|F4|";
 }

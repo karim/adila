@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FARTM933KZ
  */
 final class fartm933kz_fartm933kz {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "FARTM933KZ";
+    public static final String DATA = "Fujitsu|FARTM933KZ|";
 }

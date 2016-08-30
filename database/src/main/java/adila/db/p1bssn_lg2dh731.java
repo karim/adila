@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-H731
  */
 final class p1bssn_lg2dh731 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G4 vigor";
+    public static final String DATA = "LG|G4 vigor|";
 }

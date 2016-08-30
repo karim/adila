@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AXON WATCH
  */
 final class rolex_axon20watch {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "AXON WATCH";
+    public static final String DATA = "ZTE|AXON WATCH|";
 }

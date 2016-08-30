@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: vsi8q_1_coho
  */
 final class vsi8q5f15fcoho_vsi8q5f15fcoho {
-    public static final String MANUFACTURER = "ViewSonic";
-    public static final String NAME = "ViewPadi8Q";
+    public static final String DATA = "ViewSonic|ViewPadi8Q|";
 }

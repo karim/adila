@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: icube-830
  */
 final class icube2d830 {
-    public static final String MANUFACTURER = "SK Telesys";
-    public static final String NAME = "icube-830";
+    public static final String DATA = "SK Telesys|icube-830|";
 }

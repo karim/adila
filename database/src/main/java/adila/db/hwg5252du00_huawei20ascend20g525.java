@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: HUAWEI Ascend G525
  */
 final class hwg5252du00_huawei20ascend20g525 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

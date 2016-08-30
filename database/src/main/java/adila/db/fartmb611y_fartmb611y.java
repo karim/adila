@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FARTMB611Y
  */
 final class fartmb611y_fartmb611y {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "FARTMB611Y";
+    public static final String DATA = "Fujitsu|FARTMB611Y|";
 }

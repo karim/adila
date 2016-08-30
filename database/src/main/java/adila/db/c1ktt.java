@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SHV-E210K
  */
 final class c1ktt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3|Galaxy S";
 }

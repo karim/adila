@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-T255S
  */
 final class q7lteskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy W";
+    public static final String DATA = "Samsung|Galaxy W|";
 }

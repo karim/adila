@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT901
  */
 final class solstice {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Electrify M";
+    public static final String DATA = "Motorola|Electrify M|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DARKSIDE
  */
 final class s9301_darkside {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "DARKSIDE";
+    public static final String DATA = "Enspert|DARKSIDE|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M721
  */
 final class _86s_m721 {
-    public static final String MANUFACTURER = "Allfine";
-    public static final String NAME = "Allfine M721";
+    public static final String DATA = "Allfine|Allfine M721|";
 }

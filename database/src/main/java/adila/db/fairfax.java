@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Slate 7 Beats Special Edition
  */
 final class fairfax {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate 7 Beats Special Edition";
+    public static final String DATA = "HP|Slate 7 Beats Special Edition|";
 }

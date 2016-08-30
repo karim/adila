@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-K220
  */
 final class mk6pn {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "X power";
+    public static final String DATA = "LG|X power|";
 }

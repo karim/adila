@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Enjoy TV Quad-Core Box
  */
 final class atv581_enjoy20tv20quad2dcore20box {
-    public static final String MANUFACTURER = "Geniatech";
-    public static final String NAME = "Enjoy TV Quad-Core Box";
+    public static final String DATA = "Geniatech|Enjoy TV Quad-Core Box|";
 }

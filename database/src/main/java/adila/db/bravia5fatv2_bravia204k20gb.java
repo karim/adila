@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BRAVIA 4K GB
  */
 final class bravia5fatv2_bravia204k20gb {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "BRAVIA 4K GB";
+    public static final String DATA = "Sony|BRAVIA 4K GB|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHF32
  */
 final class shf32_shf32 {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "AQUOS K SHF32";
+    public static final String DATA = "Sharp|AQUOS K SHF32|";
 }

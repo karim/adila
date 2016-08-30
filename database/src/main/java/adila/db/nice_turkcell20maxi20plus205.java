@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Turkcell Maxi Plus 5
  */
 final class nice_turkcell20maxi20plus205 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Turkcell Maxi Plus 5";
+    public static final String DATA = "ZTE|Turkcell Maxi Plus 5|";
 }

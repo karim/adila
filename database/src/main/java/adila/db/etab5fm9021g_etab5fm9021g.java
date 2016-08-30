@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ETAB_M9021G
  */
 final class etab5fm9021g_etab5fm9021g {
-    public static final String MANUFACTURER = "Sansui";
-    public static final String NAME = "ETAB M9021G";
+    public static final String DATA = "Sansui|ETAB M9021G|";
 }

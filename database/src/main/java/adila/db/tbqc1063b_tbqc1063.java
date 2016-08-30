@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TBQC1063
  */
 final class tbqc1063b_tbqc1063 {
-    public static final String MANUFACTURER = "Zeki";
-    public static final String NAME = "TBQC1063B";
+    public static final String DATA = "Zeki|TBQC1063B|";
 }

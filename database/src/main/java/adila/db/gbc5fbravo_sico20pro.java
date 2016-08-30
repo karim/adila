@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: sico pro
  */
 final class gbc5fbravo_sico20pro {
-    public static final String MANUFACTURER = "Sico SmartPhone";
-    public static final String NAME = "SSR1-5-8M";
+    public static final String DATA = "Sico SmartPhone|SSR1-5-8M|";
 }

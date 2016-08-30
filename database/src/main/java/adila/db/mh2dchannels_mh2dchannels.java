@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MH-CHANNELS
  */
 final class mh2dchannels_mh2dchannels {
-    public static final String MANUFACTURER = "Mohu";
-    public static final String NAME = "MH-CHANNELS";
+    public static final String DATA = "Mohu|MH-CHANNELS|";
 }

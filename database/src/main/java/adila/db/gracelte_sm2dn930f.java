@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-N930F
  */
 final class gracelte_sm2dn930f {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note7";
+    public static final String DATA = "Samsung|Galaxy Note7|";
 }

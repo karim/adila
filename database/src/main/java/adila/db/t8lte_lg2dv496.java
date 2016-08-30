@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-V496
  */
 final class t8lte_lg2dv496 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Pad F 8.0";
+    public static final String DATA = "LG|G Pad F 8.0|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Mini_3iG
  */
 final class dell5fgrappa_mini5f3ig {
-    public static final String MANUFACTURER = "Dell";
+    public static final String DATA = "Dell||";
 }

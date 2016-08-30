@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: KT-S110
  */
 final class msm76275fsurf_kt2ds110 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

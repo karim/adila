@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FGAD
  */
 final class fgad_fgad {
-    public static final String MANUFACTURER = "Royaltek";
-    public static final String NAME = "FGAD";
+    public static final String DATA = "Royaltek|FGAD|";
 }

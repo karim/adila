@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Redmi Note 2
  */
 final class hermes {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "HM Note 2";
+    public static final String DATA = "Xiaomi|HM Note 2|";
 }

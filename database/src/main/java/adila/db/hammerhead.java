@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nexus 5
  */
 final class hammerhead {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Nexus 5";
+    public static final String DATA = "LG|Nexus 5|";
 }

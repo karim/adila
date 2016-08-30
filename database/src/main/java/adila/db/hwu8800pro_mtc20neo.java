@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MTC Neo
  */
 final class hwu8800pro_mtc20neo {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

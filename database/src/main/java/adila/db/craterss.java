@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I9150
  */
 final class craterss {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Mega 5.8";
+    public static final String DATA = "Samsung|Galaxy Mega 5.8|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: arcelik_uhd_powermax_at
  */
 final class arcelik5feu {
-    public static final String MANUFACTURER = "Arcelik";
-    public static final String NAME = "B55L 9682 5AS";
+    public static final String DATA = "Arcelik|B55L 9682 5AS|";
 }

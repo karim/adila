@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5301
  */
 final class coriplus_gt2ds5301 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Pocket Plus";
+    public static final String DATA = "Samsung|Galaxy Pocket Plus|";
 }

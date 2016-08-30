@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: PG41200
  */
 final class express_pg41200 {
-    public static final String MANUFACTURER = "HTC";
+    public static final String DATA = "HTC||";
 }

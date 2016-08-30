@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: em_i8180
  */
 final class em5fi8180 {
-    public static final String MANUFACTURER = "Emdoor";
-    public static final String NAME = "EM_I8180";
+    public static final String DATA = "Emdoor|EM_I8180|";
 }

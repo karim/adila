@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PG06100
  */
 final class speedy {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "EVO Shift 4G";
+    public static final String DATA = "HTC|EVO Shift 4G|";
 }

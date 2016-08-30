@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XOLO T1000
  */
 final class us9230e1 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "XOLO";
+    public static final String DATA = "Hisense|XOLO|";
 }

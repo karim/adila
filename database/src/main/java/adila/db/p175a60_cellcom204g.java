@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cellcom 4G
  */
 final class p175a60_cellcom204g {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "V793";
+    public static final String DATA = "ZTE|V793|";
 }

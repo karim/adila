@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Positivo Ypy L700+ Kids
  */
 final class ypy5fl700_positivo20ypy20l7002b20kids {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "Ypy Kids";
+    public static final String DATA = "Positivo|Ypy Kids|";
 }

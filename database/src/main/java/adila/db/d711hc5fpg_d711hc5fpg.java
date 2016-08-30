@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: D711HC_PG
  */
 final class d711hc5fpg_d711hc5fpg {
-    public static final String MANUFACTURER = "Inet-Tablet";
-    public static final String NAME = "D711HC_PG";
+    public static final String DATA = "Inet-Tablet|D711HC_PG|";
 }

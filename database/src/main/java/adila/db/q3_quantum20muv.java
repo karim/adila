@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Quantum MUV
  */
 final class q3_quantum20muv {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "Quantum Muv";
+    public static final String DATA = "Positivo|Quantum Muv|";
 }

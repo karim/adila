@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Yellowstone
  */
 final class yellowstone_yellowstone {
-    public static final String MANUFACTURER = "Google";
-    public static final String NAME = "Project Tango Tablet Development Kit";
+    public static final String DATA = "Google|Project Tango Tablet Development Kit|";
 }

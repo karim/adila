@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T101 PAD
  */
 final class hwt101_t10120pad {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "T101";
+    public static final String DATA = "Huawei|T101|";
 }

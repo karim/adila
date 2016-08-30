@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G750F
  */
 final class mega2lte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Mega 2";
+    public static final String DATA = "Samsung|Galaxy Mega 2|";
 }

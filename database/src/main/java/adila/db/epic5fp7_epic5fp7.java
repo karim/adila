@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Epic_P7
  */
 final class epic5fp7_epic5fp7 {
-    public static final String MANUFACTURER = "Vonino";
-    public static final String NAME = "Epic P7";
+    public static final String DATA = "Vonino|Epic P7|";
 }

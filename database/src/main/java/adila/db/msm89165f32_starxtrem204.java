@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STARXTREM 4
  */
 final class msm89165f32_starxtrem204 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "STARXTREM 4";
+    public static final String DATA = "ZTE|STARXTREM 4|";
 }

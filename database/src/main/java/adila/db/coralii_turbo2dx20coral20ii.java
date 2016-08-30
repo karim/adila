@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Turbo-X Coral II
  */
 final class coralii_turbo2dx20coral20ii {
-    public static final String MANUFACTURER = "Plaisio";
-    public static final String NAME = "Coral II";
+    public static final String DATA = "Plaisio|Coral II|";
 }

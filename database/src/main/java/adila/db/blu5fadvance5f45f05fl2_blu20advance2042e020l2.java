@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: BLU ADVANCE 4.0 L2
  */
 final class blu5fadvance5f45f05fl2_blu20advance2042e020l2 {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Advance 4.0 L2";
-    public static final String SERIES = "Advance";
+    public static final String DATA = "Blu|Advance 4.0 L2|Advance";
 }

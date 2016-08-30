@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cosmote Xplore
  */
 final class cosmote_cosmote20xplore {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Cosmote Xplore";
+    public static final String DATA = "ZTE|Cosmote Xplore|";
 }

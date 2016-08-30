@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS MeMO Pad 7
  */
 final class k00x_asus20memo20pad207 {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "MeMO Pad 7 LTE (ME375CL)";
+    public static final String DATA = "Asus|MeMO Pad 7 LTE (ME375CL)|";
 }

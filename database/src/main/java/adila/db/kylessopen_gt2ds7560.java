@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7560
  */
 final class kylessopen_gt2ds7560 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Ace 2 X";
+    public static final String DATA = "Samsung|Galaxy Ace 2 X|";
 }

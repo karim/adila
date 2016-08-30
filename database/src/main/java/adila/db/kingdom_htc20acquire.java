@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Acquire
  */
 final class kingdom_htc20acquire {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "EVODesign4G";
+    public static final String DATA = "HTC|EVODesign4G|";
 }

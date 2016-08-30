@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-G900A
  */
 final class klteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S5";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S5|Galaxy S";
 }

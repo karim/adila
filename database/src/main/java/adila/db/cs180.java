@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CS180
  */
 final class cs180 {
-    public static final String MANUFACTURER = "InFocus";
-    public static final String NAME = "CS1 8.0";
+    public static final String DATA = "InFocus|CS1 8.0|";
 }

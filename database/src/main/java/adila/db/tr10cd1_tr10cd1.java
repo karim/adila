@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TR10CD1
  */
 final class tr10cd1_tr10cd1 {
-    public static final String MANUFACTURER = "i-Buddie";
-    public static final String NAME = "TR10CD1_P";
+    public static final String DATA = "i-Buddie|TR10CD1_P|";
 }

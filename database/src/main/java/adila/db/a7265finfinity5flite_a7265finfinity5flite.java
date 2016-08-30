@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A726_Infinity_Lite
  */
 final class a7265finfinity5flite_a7265finfinity5flite {
-    public static final String MANUFACTURER = "Gtel";
-    public static final String NAME = "A726 Infinity Lite";
+    public static final String DATA = "Gtel|A726 Infinity Lite|";
 }

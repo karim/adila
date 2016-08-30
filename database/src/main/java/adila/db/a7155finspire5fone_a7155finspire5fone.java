@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A715_Inspire_One
  */
 final class a7155finspire5fone_a7155finspire5fone {
-    public static final String MANUFACTURER = "Gtel";
-    public static final String NAME = "A715_Inspire_One";
+    public static final String DATA = "Gtel|A715_Inspire_One|";
 }

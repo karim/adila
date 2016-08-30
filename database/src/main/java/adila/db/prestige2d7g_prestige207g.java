@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Prestige 7G
  */
 final class prestige2d7g_prestige207g {
-    public static final String MANUFACTURER = "Prestige";
-    public static final String NAME = "Prestige 7G";
+    public static final String DATA = "Prestige|Prestige 7G|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: POSITIVO TABLET YPY 07FTB PM BEL\xc3\x89M
  */
 final class ypy5f07ftb_positivo20tablet20ypy2007ftb20pm20bel5cxc35cx89m {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "Ypy 07FTB";
+    public static final String DATA = "Positivo|Ypy 07FTB|";
 }

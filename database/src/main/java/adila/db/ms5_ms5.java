@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MS5
  */
 final class ms5_ms5 {
-    public static final String MANUFACTURER = "Trimble Navigation";
-    public static final String NAME = "PeopleNet ConnectedTablet";
+    public static final String DATA = "Trimble Navigation|PeopleNet ConnectedTablet|";
 }

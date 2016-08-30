@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NB7022S
  */
 final class nb7022s_nb7022s {
-    public static final String MANUFACTURER = "Nobis";
-    public static final String NAME = "NB7022S";
+    public static final String DATA = "Nobis|NB7022S|";
 }

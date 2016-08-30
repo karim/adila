@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PLT7803G
  */
 final class dl785d_plt7803g {
-    public static final String MANUFACTURER = "DigiLand";
-    public static final String NAME = "DL785D";
+    public static final String DATA = "DigiLand|DL785D|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PTM-Z-mini
  */
 final class ptm2dz2dmini_ptm2dz2dmini {
-    public static final String MANUFACTURER = "Tecno";
-    public static final String NAME = "PHANTOM-Z-mini";
+    public static final String DATA = "Tecno|PHANTOM-Z-mini|";
 }

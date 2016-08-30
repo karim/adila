@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CT50
  */
 final class ct50lfn2dcs13s_ct50 {
-    public static final String MANUFACTURER = "Honeywell";
-    public static final String NAME = "Dolphin CT50";
+    public static final String DATA = "Honeywell|Dolphin CT50|";
 }

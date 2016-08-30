@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCH-I500
  */
 final class sch2di500_sch2di500 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S (Fascinate)";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S (Fascinate)|Galaxy S";
 }

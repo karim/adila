@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Rstream-A1
  */
 final class a1_rstream2da1 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

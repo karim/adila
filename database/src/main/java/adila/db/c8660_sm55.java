@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM55
  */
 final class c8660_sm55 {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "SM55";
+    public static final String DATA = "Cellon|SM55|";
 }

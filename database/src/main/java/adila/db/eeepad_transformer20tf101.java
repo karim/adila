@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Transformer TF101
  */
 final class eeepad_transformer20tf101 {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Eee Pad";
+    public static final String DATA = "Asus|Eee Pad|";
 }

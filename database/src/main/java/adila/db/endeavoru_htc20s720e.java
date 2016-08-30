@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC S720e
  */
 final class endeavoru_htc20s720e {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One X";
+    public static final String DATA = "HTC|One X|";
 }

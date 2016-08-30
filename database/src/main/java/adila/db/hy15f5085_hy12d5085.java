@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HY1-5085
  */
 final class hy15f5085_hy12d5085 {
-    public static final String MANUFACTURER = "Hyundai";
-    public static final String NAME = "HY1-5085";
+    public static final String DATA = "Hyundai|HY1-5085|";
 }

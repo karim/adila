@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Dell V04B
  */
 final class streakpro_dell20v04b {
-    public static final String MANUFACTURER = "Dell";
+    public static final String DATA = "Dell||";
 }

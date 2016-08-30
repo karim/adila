@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Wileyfox Spark X
  */
 final class porridgek3 {
-    public static final String MANUFACTURER = "Fly";
-    public static final String NAME = "Fly";
+    public static final String DATA = "Fly|Fly|";
 }

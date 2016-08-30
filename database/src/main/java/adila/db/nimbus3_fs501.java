@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FS501
  */
 final class nimbus3_fs501 {
-    public static final String MANUFACTURER = "Fly";
-    public static final String NAME = "Nimbus3";
+    public static final String DATA = "Fly|Nimbus3|";
 }

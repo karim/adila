@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A466T
  */
 final class pixi45f4tf_a466t {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Pixi4-4 3G Telus";
+    public static final String DATA = "Alcatel|Pixi4-4 3G Telus|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T852
  */
 final class mid30801_t852 {
-    public static final String MANUFACTURER = "Audiovox";
-    public static final String NAME = "Audiovox T852 Tablet";
+    public static final String DATA = "Audiovox|Audiovox T852 Tablet|";
 }

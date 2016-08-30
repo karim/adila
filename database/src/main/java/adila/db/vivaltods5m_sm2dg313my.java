@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G313MY
  */
 final class vivaltods5m_sm2dg313my {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Ace 4";
+    public static final String DATA = "Samsung|Galaxy Ace 4|";
 }

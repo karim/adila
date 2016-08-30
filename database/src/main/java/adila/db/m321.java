@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M321
  */
 final class m321 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Honor Box";
+    public static final String DATA = "Huawei|Honor Box|";
 }

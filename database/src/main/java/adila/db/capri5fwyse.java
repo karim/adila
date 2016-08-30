@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CS-1A13
  */
 final class capri5fwyse {
-    public static final String MANUFACTURER = "Dell";
-    public static final String NAME = "Cloud Connect";
+    public static final String DATA = "Dell|Cloud Connect|";
 }

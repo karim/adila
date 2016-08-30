@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1528O
  */
 final class surnia5fcdma_xt1528o {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto E with 4G LTE (2nd Gen)";
+    public static final String DATA = "Motorola|Moto E with 4G LTE (2nd Gen)|";
 }

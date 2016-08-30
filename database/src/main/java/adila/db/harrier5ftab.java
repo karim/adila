@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Harrier Tab from EE
  */
 final class harrier5ftab {
-    public static final String MANUFACTURER = "BenQ";
-    public static final String NAME = "Harrier_Tab";
+    public static final String DATA = "BenQ|Harrier_Tab|";
 }

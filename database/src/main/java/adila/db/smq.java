@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT907
  */
 final class smq {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "RAZR M";
+    public static final String DATA = "Motorola|RAZR M|";
 }

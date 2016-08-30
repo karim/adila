@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Beeline_E500
  */
 final class hwu8510_beeline5fe500 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

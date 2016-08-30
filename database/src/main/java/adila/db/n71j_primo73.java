@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Primo73
  */
 final class n71j_primo73 {
-    public static final String MANUFACTURER = "MSI";
-    public static final String NAME = "Primo73";
+    public static final String DATA = "MSI|Primo73|";
 }

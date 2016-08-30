@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G935F
  */
 final class hero2lte_sm2dg935f {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S7 Edge";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S7 Edge|Galaxy S";
 }

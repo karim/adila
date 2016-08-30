@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FL03
  */
 final class flash3_fl03 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "FL03";
+    public static final String DATA = "Alcatel|FL03|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DW-21(A)
  */
 final class da2d21_dw2d2128a29 {
-    public static final String MANUFACTURER = "Wistron";
-    public static final String NAME = "DW-21(A)";
+    public static final String DATA = "Wistron|DW-21(A)|";
 }

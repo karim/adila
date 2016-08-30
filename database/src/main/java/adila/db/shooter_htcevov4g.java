@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTCEVOV4G
  */
 final class shooter_htcevov4g {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "EVO 3D";
+    public static final String DATA = "HTC|EVO 3D|";
 }

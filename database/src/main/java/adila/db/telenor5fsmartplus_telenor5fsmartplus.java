@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Telenor_SmartPlus
  */
 final class telenor5fsmartplus_telenor5fsmartplus {
-    public static final String MANUFACTURER = "Mobiwire";
-    public static final String NAME = "Telenor SmartPlus";
+    public static final String DATA = "Mobiwire|Telenor SmartPlus|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHW-M580D
  */
 final class arubaslimss_shw2dm580d {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core Safe";
+    public static final String DATA = "Samsung|Galaxy Core Safe|";
 }

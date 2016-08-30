@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Xolo_X900
  */
 final class blackbay {
-    public static final String MANUFACTURER = "Intel";
+    public static final String DATA = "Intel||";
 }

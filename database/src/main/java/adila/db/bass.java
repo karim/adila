@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG Watch Urbane
  */
 final class bass {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Watch Urbane";
+    public static final String DATA = "LG|Watch Urbane|";
 }

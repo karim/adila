@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: H940
  */
 final class h9405fsprout_h940 {
-    public static final String MANUFACTURER = "Cherry Mobile";
-    public static final String NAME = "One";
+    public static final String DATA = "Cherry Mobile|One|";
 }

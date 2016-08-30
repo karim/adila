@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MobileMapper50_4G
  */
 final class ee773x5f4g_mobilemapper505f4g {
-    public static final String MANUFACTURER = "Trimble Navigation";
-    public static final String NAME = "MM50";
+    public static final String DATA = "Trimble Navigation|MM50|";
 }

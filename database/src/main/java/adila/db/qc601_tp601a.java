@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TP601A
  */
 final class qc601_tp601a {
-    public static final String MANUFACTURER = "Neffos";
-    public static final String NAME = "C5L";
+    public static final String DATA = "Neffos|C5L|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: N9810
  */
 final class quantum {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "N9810";
+    public static final String DATA = "ZTE|N9810|";
 }

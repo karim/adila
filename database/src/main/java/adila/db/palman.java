@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-V510
  */
 final class palman {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Pad 8.3 Google Play Edition";
+    public static final String DATA = "LG|G Pad 8.3 Google Play Edition|";
 }

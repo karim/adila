@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ITP-E410W
  */
 final class willow {
-    public static final String MANUFACTURER = "SK Telesys";
-    public static final String NAME = "ITP-E410W";
+    public static final String DATA = "SK Telesys|ITP-E410W|";
 }

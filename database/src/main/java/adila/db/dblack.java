@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Dolphin 70e Black
  */
 final class dblack {
-    public static final String MANUFACTURER = "Honeywell";
-    public static final String NAME = "70eL00";
+    public static final String DATA = "Honeywell|70eL00|";
 }

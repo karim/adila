@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-P6201
  */
 final class gt2dp6201_gt2dp6201 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 7.0 Plus";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 7.0 Plus|Galaxy Tab";
 }

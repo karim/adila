@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BGH Joy Smart A3
  */
 final class p172a30_bgh20joy20smart20a3 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "V829";
+    public static final String DATA = "ZTE|V829|";
 }

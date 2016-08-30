@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MoovaShuffle
  */
 final class moovashuffle_moovashuffle {
-    public static final String MANUFACTURER = "Boost";
-    public static final String NAME = "Moova Shuffle";
+    public static final String DATA = "Boost|Moova Shuffle|";
 }

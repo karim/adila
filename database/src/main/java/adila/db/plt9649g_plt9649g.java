@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PLT9649G
  */
 final class plt9649g_plt9649g {
-    public static final String MANUFACTURER = "Proscan";
-    public static final String NAME = "PLT9649G";
+    public static final String DATA = "Proscan|PLT9649G|";
 }

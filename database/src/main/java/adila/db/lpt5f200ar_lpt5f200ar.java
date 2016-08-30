@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LPT_200AR
  */
 final class lpt5f200ar_lpt5f200ar {
-    public static final String MANUFACTURER = "LG CNS";
-    public static final String NAME = "Pepper";
+    public static final String DATA = "LG CNS|Pepper|";
 }

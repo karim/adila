@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Ideos
  */
 final class msm7225_ideos {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

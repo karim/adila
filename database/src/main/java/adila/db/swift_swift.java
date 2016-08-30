@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Swift
  */
 final class swift_swift {
-    public static final String MANUFACTURER = "AG Mobile";
-    public static final String NAME = "Swift";
+    public static final String DATA = "AG Mobile|Swift|";
 }

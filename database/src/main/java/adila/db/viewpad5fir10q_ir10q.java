@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IR10Q
  */
 final class viewpad5fir10q_ir10q {
-    public static final String MANUFACTURER = "ViewSonic";
-    public static final String NAME = "Viewsonic";
+    public static final String DATA = "ViewSonic|Viewsonic|";
 }

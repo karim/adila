@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GTV100
  */
 final class neotv_gtv100 {
-    public static final String MANUFACTURER = "Netgear";
-    public static final String NAME = "NeoTVPrime";
+    public static final String DATA = "Netgear|NeoTVPrime|";
 }

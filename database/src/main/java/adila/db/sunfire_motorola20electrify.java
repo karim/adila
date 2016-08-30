@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Motorola Electrify
  */
 final class sunfire_motorola20electrify {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Photon 4G";
+    public static final String DATA = "Motorola|Photon 4G|";
 }

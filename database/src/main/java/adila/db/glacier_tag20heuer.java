@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TAG Heuer
  */
 final class glacier_tag20heuer {
-    public static final String MANUFACTURER = "TAG Heuer";
-    public static final String NAME = "TAG Heuer Connected";
+    public static final String DATA = "TAG Heuer|TAG Heuer Connected|";
 }

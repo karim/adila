@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M97
  */
 final class oracle_m97 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Matsunichi M97";
+    public static final String DATA = "Anydata|Matsunichi M97|";
 }

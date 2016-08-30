@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Verssed VP1
  */
 final class verssedvp1_verssed20vp1 {
-    public static final String MANUFACTURER = "Edcon";
-    public static final String NAME = "Platiunm vp.1";
+    public static final String DATA = "Edcon|Platiunm vp.1|";
 }

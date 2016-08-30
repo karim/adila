@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MID4X07
  */
 final class rct6773w22_mid4x07 {
-    public static final String MANUFACTURER = "Polaroid";
-    public static final String NAME = "MID4X07";
+    public static final String DATA = "Polaroid|MID4X07|";
 }

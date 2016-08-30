@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: E-TAB
  */
 final class e2dtab_e2dtab {
-    public static final String MANUFACTURER = "Enspert";
+    public static final String DATA = "Enspert||";
 }

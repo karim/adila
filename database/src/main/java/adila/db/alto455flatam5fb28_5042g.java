@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 5042G
  */
 final class alto455flatam5fb28_5042g {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "POP2 (4.5)";
+    public static final String DATA = "Alcatel|POP2 (4.5)|";
 }

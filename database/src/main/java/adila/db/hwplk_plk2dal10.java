@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PLK-AL10
  */
 final class hwplk_plk2dal10 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Honor 7";
+    public static final String DATA = "Huawei|Honor 7|";
 }

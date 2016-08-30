@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Glacier
  */
 final class tm105a_glacier {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "TM105A";
+    public static final String DATA = "Gigabyte|TM105A|";
 }

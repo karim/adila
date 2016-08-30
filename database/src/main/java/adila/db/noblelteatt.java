@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-N920A
  */
 final class noblelteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note 5";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note 5|Galaxy Note";
 }

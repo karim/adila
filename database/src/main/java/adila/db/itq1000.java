@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ITQ1000
  */
 final class itq1000 {
-    public static final String MANUFACTURER = "iRiver";
-    public static final String NAME = "WOW Tab+(ITQ1000)";
+    public static final String DATA = "iRiver|WOW Tab+(ITQ1000)|";
 }

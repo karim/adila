@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G360V
  */
 final class coreprimeltevzw {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core Prime";
+    public static final String DATA = "Samsung|Galaxy Core Prime|";
 }

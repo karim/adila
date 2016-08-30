@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 8742
  */
 final class thor5f6dq_8742 {
-    public static final String MANUFACTURER = "Spectralink";
-    public static final String NAME = "PIVOT 8741/8753";
+    public static final String DATA = "Spectralink|PIVOT 8741/8753|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G7200
  */
 final class grandmaxltechn_sm2dg7200 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Grand Max";
+    public static final String DATA = "Samsung|Galaxy Grand Max|";
 }

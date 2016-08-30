@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G5108Q
  */
 final class kleoslte_sm2dg5108q {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core Max Duos";
+    public static final String DATA = "Samsung|Galaxy Core Max Duos|";
 }

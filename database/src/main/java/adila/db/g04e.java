@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CK07T
  */
 final class g04e {
-    public static final String MANUFACTURER = "ClickN Kids";
-    public static final String NAME = "ClickN Kids";
+    public static final String DATA = "ClickN Kids|ClickN Kids|";
 }

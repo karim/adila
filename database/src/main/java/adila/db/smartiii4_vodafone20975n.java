@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Vodafone 975N
  */
 final class smartiii4_vodafone20975n {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

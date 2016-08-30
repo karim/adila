@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MI-438
  */
 final class spice_mi2d438 {
-    public static final String MANUFACTURER = "Spice";
-    public static final String NAME = "Stellar Mi-438";
+    public static final String DATA = "Spice|Stellar Mi-438|";
 }

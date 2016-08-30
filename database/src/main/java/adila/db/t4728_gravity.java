@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Gravity
  */
 final class t4728_gravity {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Gravity";
+    public static final String DATA = "Explay|Gravity|";
 }

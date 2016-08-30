@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Panasonic P41
  */
 final class p41_panasonic20p41 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "P41";
+    public static final String DATA = "Panasonic|P41|";
 }

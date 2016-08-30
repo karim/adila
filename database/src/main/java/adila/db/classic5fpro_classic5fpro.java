@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Classic_Pro
  */
 final class classic5fpro_classic5fpro {
-    public static final String MANUFACTURER = "GSmart";
-    public static final String NAME = "Classic_Pro";
+    public static final String DATA = "GSmart|Classic_Pro|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: INHON PAPILIO G1
  */
 final class inhon775fcidals {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "PAPILIO G1";
+    public static final String DATA = "Gigabyte|PAPILIO G1|";
 }

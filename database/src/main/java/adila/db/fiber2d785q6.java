@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smart'Tab_7800
  */
 final class fiber2d785q6 {
-    public static final String MANUFACTURER = "EssentielB";
-    public static final String NAME = "EssentielB Smart'TAB 7800";
+    public static final String DATA = "EssentielB|EssentielB Smart'TAB 7800|";
 }

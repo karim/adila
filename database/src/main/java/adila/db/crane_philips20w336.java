@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Philips W336
  */
 final class crane_philips20w336 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Philips W336";
+    public static final String DATA = "Anydata|Philips W336|";
 }

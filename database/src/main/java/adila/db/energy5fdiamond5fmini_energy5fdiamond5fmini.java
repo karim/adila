@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: ENERGY_DIAMOND_MINI
  */
 final class energy5fdiamond5fmini_energy5fdiamond5fmini {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Energy Diamond Mini";
-    public static final String SERIES = "Energy";
+    public static final String DATA = "Blu|Energy Diamond Mini|Energy";
 }

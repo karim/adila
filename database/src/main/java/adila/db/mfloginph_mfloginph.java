@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MFLoginPh
  */
 final class mfloginph_mfloginph {
-    public static final String MANUFACTURER = "MegaFon";
-    public static final String NAME = "MFLoginPh";
+    public static final String DATA = "MegaFon|MFLoginPh|";
 }

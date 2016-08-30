@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SH950C-CM
  */
 final class stb5fcatv5fcnmuhd {
-    public static final String MANUFACTURER = "C&M";
-    public static final String NAME = "SH950C-CM";
+    public static final String DATA = "C&M|SH950C-CM|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DL1010Q
  */
 final class dl1010q_dl1010q {
-    public static final String MANUFACTURER = "DigiLand";
-    public static final String NAME = "DL1010Q";
+    public static final String DATA = "DigiLand|DL1010Q|";
 }

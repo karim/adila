@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: CIUS-7
  */
 final class cius2d7_cius2d7 {
-    public static final String MANUFACTURER = "OpenPeak";
+    public static final String DATA = "OpenPeak||";
 }

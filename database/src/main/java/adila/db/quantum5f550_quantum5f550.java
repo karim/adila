@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: QUANTUM_550
  */
 final class quantum5f550_quantum5f550 {
-    public static final String MANUFACTURER = "GoClever";
-    public static final String NAME = "QUANTUM_550";
+    public static final String DATA = "GoClever|QUANTUM_550|";
 }

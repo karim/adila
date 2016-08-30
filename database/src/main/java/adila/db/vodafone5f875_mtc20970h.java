@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC 970H
  */
 final class vodafone5f875_mtc20970h {
-    public static final String MANUFACTURER = "MTC";
-    public static final String NAME = "Vodafone Smart mini";
+    public static final String DATA = "MTC|Vodafone Smart mini|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HERO_X
  */
 final class hero5fx_hero5fx {
-    public static final String MANUFACTURER = "Mobicel";
-    public static final String NAME = "HERO X";
+    public static final String DATA = "Mobicel|HERO X|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Beeline Smart2
  */
 final class zte2dv811_beeline20smart2 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "V811";
+    public static final String DATA = "ZTE|V811|";
 }

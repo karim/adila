@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NX008HD8G
  */
 final class m8000nd_nx008hd8g {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Nextbook NX008HD8G Tablet";
+    public static final String DATA = "Anydata|Nextbook NX008HD8G Tablet|";
 }

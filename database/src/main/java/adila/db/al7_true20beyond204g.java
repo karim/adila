@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TRUE BEYOND 4G
  */
 final class al7_true20beyond204g {
-    public static final String MANUFACTURER = "Quanta";
-    public static final String NAME = "True Beyond 4G";
+    public static final String DATA = "Quanta|True Beyond 4G|";
 }

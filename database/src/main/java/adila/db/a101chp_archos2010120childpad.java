@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ARCHOS 101 CHILDPAD
  */
 final class a101chp_archos2010120childpad {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "101 Childpad";
+    public static final String DATA = "Archos|101 Childpad|";
 }

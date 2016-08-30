@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DP-X1
  */
 final class rai5fzin5f32_dp2dx1 {
-    public static final String MANUFACTURER = "Onkyo";
-    public static final String NAME = "DP-X1";
+    public static final String DATA = "Onkyo|DP-X1|";
 }

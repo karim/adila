@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nuvola NP-1
  */
 final class nuvola {
-    public static final String MANUFACTURER = "NanoTech";
-    public static final String NAME = "Nuvola NP-1";
+    public static final String DATA = "NanoTech|Nuvola NP-1|";
 }

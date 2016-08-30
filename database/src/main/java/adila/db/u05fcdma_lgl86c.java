@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LGL86C
  */
 final class u05fcdma_lgl86c {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Core";
+    public static final String DATA = "LG|Optimus Core|";
 }

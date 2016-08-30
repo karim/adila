@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: iliumPAD
  */
 final class lanix_iliumpad {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "mexico";
+    public static final String DATA = "Gigabyte|mexico|";
 }

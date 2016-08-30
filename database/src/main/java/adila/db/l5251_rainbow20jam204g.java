@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RAINBOW JAM 4G
  */
 final class l5251_rainbow20jam204g {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "RAINBOW LITE 4G";
+    public static final String DATA = "Wiko|RAINBOW LITE 4G|";
 }

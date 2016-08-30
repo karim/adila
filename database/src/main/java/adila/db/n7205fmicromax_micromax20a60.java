@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Micromax A60
  */
 final class n7205fmicromax_micromax20a60 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

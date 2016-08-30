@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ZTE-C X500
  */
 final class x500mmb_zte2dc20x500 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

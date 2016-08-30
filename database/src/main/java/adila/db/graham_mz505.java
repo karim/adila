@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MZ505
  */
 final class graham_mz505 {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

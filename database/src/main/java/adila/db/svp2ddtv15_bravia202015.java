@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BRAVIA 2015
  */
 final class svp2ddtv15_bravia202015 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "BRAVIA 2015";
+    public static final String DATA = "Sony|BRAVIA 2015|";
 }

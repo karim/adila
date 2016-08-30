@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smart 403
  */
 final class msm8226_smart20403 {
-    public static final String MANUFACTURER = "FarEasTone";
-    public static final String NAME = "Smart 403";
+    public static final String DATA = "FarEasTone|Smart 403|";
 }

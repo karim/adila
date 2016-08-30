@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 8063
  */
 final class pixi42d75fwifi_8063 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "8063";
+    public static final String DATA = "Alcatel|8063|";
 }

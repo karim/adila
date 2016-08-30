@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T1-701ua
  */
 final class hwt1701_t12d701ua {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "MediaPad";
+    public static final String DATA = "Huawei|MediaPad|";
 }

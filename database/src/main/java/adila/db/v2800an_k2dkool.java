@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: K-KOOL
  */
 final class v2800an_k2dkool {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "K-KOOL";
+    public static final String DATA = "Wiko|K-KOOL|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-I896
  */
 final class sgh2di896_sgh2di896 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S Captivate";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S Captivate|Galaxy S";
 }

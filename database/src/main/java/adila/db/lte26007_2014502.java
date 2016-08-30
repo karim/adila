@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 2014502
  */
 final class lte26007_2014502 {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "HM 2A";
+    public static final String DATA = "Xiaomi|HM 2A|";
 }

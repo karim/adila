@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: XT800+
  */
 final class cg5ftita2 {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: eye3
  */
 final class uy32dpcw_eye3 {
-    public static final String MANUFACTURER = "HKT";
-    public static final String NAME = "eye3";
+    public static final String DATA = "HKT|eye3|";
 }

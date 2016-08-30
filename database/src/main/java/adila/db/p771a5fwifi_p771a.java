@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P771A
  */
 final class p771a5fwifi_p771a {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "HKC P771A";
+    public static final String DATA = "Anydata|HKC P771A|";
 }

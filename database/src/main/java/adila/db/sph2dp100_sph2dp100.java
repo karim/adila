@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SPH-P100
  */
 final class sph2dp100_sph2dp100 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 7.0";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 7.0|Galaxy Tab";
 }

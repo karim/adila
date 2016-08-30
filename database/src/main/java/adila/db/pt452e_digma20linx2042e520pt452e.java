@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Digma Linx 4.5 PT452E
  */
 final class pt452e_digma20linx2042e520pt452e {
-    public static final String MANUFACTURER = "BYD";
-    public static final String NAME = "PT452E";
+    public static final String DATA = "BYD|PT452E|";
 }

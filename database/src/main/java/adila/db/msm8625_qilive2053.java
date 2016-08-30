@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Qilive 53
  */
 final class msm8625_qilive2053 {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "Qilive 53";
+    public static final String DATA = "Archos|Qilive 53|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: mymaga CLASS Plus 2
  */
 final class mg101a4t_mymaga20class20plus202 {
-    public static final String MANUFACTURER = "JP Sacouto";
-    public static final String NAME = "mymaga CLASS Plus 2";
+    public static final String DATA = "JP Sacouto|mymaga CLASS Plus 2|";
 }

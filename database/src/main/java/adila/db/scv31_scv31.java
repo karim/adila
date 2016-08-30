@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCV31
  */
 final class scv31_scv31 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S6 Edge";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S6 Edge|Galaxy S";
 }

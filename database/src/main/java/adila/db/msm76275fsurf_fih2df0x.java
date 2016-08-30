@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: FIH-F0X
  */
 final class msm76275fsurf_fih2df0x {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

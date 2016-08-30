@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FMT-NM7116-01
  */
 final class fmt2dnm71162d01_fmt2dnm71162d01 {
-    public static final String MANUFACTURER = "Future Mobile Technology";
-    public static final String NAME = "netsurferDUAL 7";
+    public static final String DATA = "Future Mobile Technology|netsurferDUAL 7|";
 }

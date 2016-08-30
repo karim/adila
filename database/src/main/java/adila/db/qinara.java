@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MB886
  */
 final class qinara {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Atrix HD";
+    public static final String DATA = "Motorola|Atrix HD|";
 }

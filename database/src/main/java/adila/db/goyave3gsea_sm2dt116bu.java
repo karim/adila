@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T116BU
  */
 final class goyave3gsea_sm2dt116bu {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab Plus 7.0";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab Plus 7.0|Galaxy Tab";
 }

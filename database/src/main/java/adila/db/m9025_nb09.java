@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NB09
  */
 final class m9025_nb09 {
-    public static final String MANUFACTURER = "Nobis";
-    public static final String NAME = "Nobis NB09";
+    public static final String DATA = "Nobis|Nobis NB09|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-I747M
  */
 final class d2can_sgh2di747m {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3|Galaxy S";
 }

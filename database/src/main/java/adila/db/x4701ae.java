@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Oysters Pacific 800
  */
 final class x4701ae {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "Oysters Pacific 800";
+    public static final String DATA = "Hisense|Oysters Pacific 800|";
 }

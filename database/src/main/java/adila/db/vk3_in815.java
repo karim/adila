@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IN815
  */
 final class vk3_in815 {
-    public static final String MANUFACTURER = "InFocus";
-    public static final String NAME = "IN815";
+    public static final String DATA = "InFocus|IN815|";
 }

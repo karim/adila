@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F240S
  */
 final class geefhd_lg2df240s {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus G Pro";
+    public static final String DATA = "LG|Optimus G Pro|";
 }

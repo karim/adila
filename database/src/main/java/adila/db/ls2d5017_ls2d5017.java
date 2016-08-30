@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LS-5017
  */
 final class ls2d5017_ls2d5017 {
-    public static final String MANUFACTURER = "Hipstreet";
-    public static final String NAME = "LS-5017";
+    public static final String DATA = "Hipstreet|LS-5017|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ME301T
  */
 final class me301t_me301t {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "MeMO Pad Smart 10";
+    public static final String DATA = "Asus|MeMO Pad Smart 10|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Venus_V3_5040
  */
 final class venus5fv35f5040_venus5fv35f5040 {
-    public static final String MANUFACTURER = "Vestel";
-    public static final String NAME = "Venus V3 5040";
+    public static final String DATA = "Vestel|Venus V3 5040|";
 }

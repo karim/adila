@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ADR6350
  */
 final class vivow_adr6350 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Incredible 2";
+    public static final String DATA = "HTC|Incredible 2|";
 }

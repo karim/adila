@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Deluxe
  */
 final class cell5fc_deluxe {
-    public static final String MANUFACTURER = "Cell C";
-    public static final String NAME = "Deluxe";
+    public static final String DATA = "Cell C|Deluxe|";
 }

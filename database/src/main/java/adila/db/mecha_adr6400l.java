@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ADR6400L
  */
 final class mecha_adr6400l {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Thunderbolt";
+    public static final String DATA = "HTC|Thunderbolt|";
 }

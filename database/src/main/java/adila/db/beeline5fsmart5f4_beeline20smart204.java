@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Beeline Smart 4
  */
 final class beeline5fsmart5f4_beeline20smart204 {
-    public static final String MANUFACTURER = "Hipstreet";
-    public static final String NAME = "Beeline smart 4";
+    public static final String DATA = "Hipstreet|Beeline smart 4|";
 }

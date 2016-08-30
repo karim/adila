@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ST950I-LN
  */
 final class st950i2dln_st950i2dln {
-    public static final String MANUFACTURER = "LinkNet";
-    public static final String NAME = "ST950I-LN";
+    public static final String DATA = "LinkNet|ST950I-LN|";
 }

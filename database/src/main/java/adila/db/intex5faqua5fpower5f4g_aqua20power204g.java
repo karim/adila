@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Aqua Power 4G
  */
 final class intex5faqua5fpower5f4g_aqua20power204g {
-    public static final String MANUFACTURER = "Intex";
-    public static final String NAME = "Aqua Power 4G";
+    public static final String DATA = "Intex|Aqua Power 4G|";
 }

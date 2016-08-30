@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: K016
  */
 final class k0165f4_k016 {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Fonepad 8";
+    public static final String DATA = "Asus|Fonepad 8|";
 }

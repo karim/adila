@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMART 4G HD Voice
  */
 final class hs8916qc_smart204g20hd20voice {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "M821T";
+    public static final String DATA = "Hisense|M821T|";
 }

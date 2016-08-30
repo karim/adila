@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-P920
  */
 final class cosmopolitan_lg2dp920 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus 3D";
+    public static final String DATA = "LG|Optimus 3D|";
 }

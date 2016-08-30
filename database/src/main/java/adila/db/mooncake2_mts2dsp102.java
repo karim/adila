@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MTS-SP102
  */
 final class mooncake2_mts2dsp102 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

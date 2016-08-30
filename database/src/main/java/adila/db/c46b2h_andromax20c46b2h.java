@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Andromax C46B2H
  */
 final class c46b2h_andromax20c46b2h {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "C46B2H";
+    public static final String DATA = "Haier|C46B2H|";
 }

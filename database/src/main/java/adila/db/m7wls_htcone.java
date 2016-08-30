@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTCONE
  */
 final class m7wls_htcone {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One";
+    public static final String DATA = "HTC|One|";
 }

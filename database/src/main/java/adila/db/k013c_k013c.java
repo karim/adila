@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: K013C
  */
 final class k013c_k013c {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "MeMO Pad 7";
+    public static final String DATA = "Asus|MeMO Pad 7|";
 }

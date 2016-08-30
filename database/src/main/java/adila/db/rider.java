@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: HTC_X515E
  */
 final class rider {
-    public static final String MANUFACTURER = "HTC";
+    public static final String DATA = "HTC||";
 }

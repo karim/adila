@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SPH-M820-BST
  */
 final class sph2dm820_sph2dm8202dbst {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Prevail";
+    public static final String DATA = "Samsung|Galaxy Prevail|";
 }

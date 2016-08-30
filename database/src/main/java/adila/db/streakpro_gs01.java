@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: GS01
  */
 final class streakpro_gs01 {
-    public static final String MANUFACTURER = "Dell";
+    public static final String DATA = "Dell||";
 }

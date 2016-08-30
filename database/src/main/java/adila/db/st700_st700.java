@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ST700
  */
 final class st700_st700 {
-    public static final String MANUFACTURER = "SMARTAB";
-    public static final String NAME = "SMARTAB ST700";
+    public static final String DATA = "SMARTAB|SMARTAB ST700|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MOBICEL METRO2
  */
 final class metro2_mobicel20metro2 {
-    public static final String MANUFACTURER = "Mobicel";
-    public static final String NAME = "METRO2";
+    public static final String DATA = "Mobicel|METRO2|";
 }

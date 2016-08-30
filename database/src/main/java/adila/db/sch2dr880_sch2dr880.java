@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-R880
  */
 final class sch2dr880_sch2dr880 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Acclaim";
+    public static final String DATA = "Samsung|Acclaim|";
 }

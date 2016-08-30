@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Yupiroid
  */
 final class yupiroid_yupiroid {
-    public static final String MANUFACTURER = "Hipstreet";
-    public static final String NAME = "Yupiroid";
+    public static final String DATA = "Hipstreet|Yupiroid|";
 }

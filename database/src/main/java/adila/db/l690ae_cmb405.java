@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CMB405
  */
 final class l690ae_cmb405 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "CMB405";
+    public static final String DATA = "Hisense|CMB405|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-P720
  */
 final class cx2_lg2dp720 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus 3D MAX";
+    public static final String DATA = "LG|Optimus 3D MAX|";
 }

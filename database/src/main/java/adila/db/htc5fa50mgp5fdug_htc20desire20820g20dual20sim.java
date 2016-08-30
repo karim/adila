@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Desire 820G dual sim
  */
 final class htc5fa50mgp5fdug_htc20desire20820g20dual20sim {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire 820G PLUS dual sim";
+    public static final String DATA = "HTC|Desire 820G PLUS dual sim|";
 }

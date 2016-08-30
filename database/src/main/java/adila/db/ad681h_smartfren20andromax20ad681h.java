@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smartfren Andromax AD681H
  */
 final class ad681h_smartfren20andromax20ad681h {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "Smartfren Andromax AD681H";
+    public static final String DATA = "Haier|Smartfren Andromax AD681H|";
 }

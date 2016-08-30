@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I829
  */
 final class aruba3gduosctc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Style Duos";
+    public static final String DATA = "Samsung|Galaxy Style Duos|";
 }

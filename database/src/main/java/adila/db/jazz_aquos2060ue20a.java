@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AQUOS 60UE20A
  */
 final class jazz_aquos2060ue20a {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "LenovoTV";
+    public static final String DATA = "Lenovo|LenovoTV|";
 }

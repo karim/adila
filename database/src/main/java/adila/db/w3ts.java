@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-D180f
  */
 final class w3ts {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus L40";
+    public static final String DATA = "LG|Optimus L40|";
 }

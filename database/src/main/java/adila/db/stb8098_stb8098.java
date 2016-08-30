@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STB8098
  */
 final class stb8098_stb8098 {
-    public static final String MANUFACTURER = "Avoca";
-    public static final String NAME = "STB8098";
+    public static final String DATA = "Avoca|STB8098|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ST27a
  */
 final class st27a_st27a {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia Go";
+    public static final String DATA = "Sony|Xperia Go|";
 }

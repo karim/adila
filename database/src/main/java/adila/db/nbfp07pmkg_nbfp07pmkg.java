@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NBFP07PMKG
  */
 final class nbfp07pmkg_nbfp07pmkg {
-    public static final String MANUFACTURER = "Nabi";
-    public static final String NAME = "Fisher Price Learning Tablet";
+    public static final String DATA = "Nabi|Fisher Price Learning Tablet|";
 }

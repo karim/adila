@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Tado
  */
 final class p172f10_orange20tado {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade G Lux";
+    public static final String DATA = "ZTE|Blade G Lux|";
 }

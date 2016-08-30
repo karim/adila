@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Hisense E70-T
  */
 final class hs8929qc_hisense20e702dt {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "E70-T";
+    public static final String DATA = "Hisense|E70-T|";
 }

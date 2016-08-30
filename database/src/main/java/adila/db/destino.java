@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: i867
  */
 final class destino {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

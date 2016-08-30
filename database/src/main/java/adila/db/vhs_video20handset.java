@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Video Handset
  */
 final class vhs_video20handset {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "VHS v2";
+    public static final String DATA = "Panasonic|VHS v2|";
 }

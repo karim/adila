@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: K1
  */
 final class ventana_k1 {
-    public static final String MANUFACTURER = "Lenovo";
+    public static final String DATA = "Lenovo||";
 }

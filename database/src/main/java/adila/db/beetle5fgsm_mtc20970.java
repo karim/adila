@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC 970
  */
 final class beetle5fgsm_mtc20970 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "MTC 970";
+    public static final String DATA = "Alcatel|MTC 970|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 202K
  */
 final class _202k_202k {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "DIGNO R";
+    public static final String DATA = "Kyocera|DIGNO R|";
 }

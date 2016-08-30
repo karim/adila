@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: skipper
  */
 final class dwt765ti {
-    public static final String MANUFACTURER = "TIM";
-    public static final String NAME = "TIMvision";
+    public static final String DATA = "TIM|TIMvision|";
 }

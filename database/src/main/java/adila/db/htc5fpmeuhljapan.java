@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTV32
  */
 final class htc5fpmeuhljapan {
-    public static final String MANUFACTURER = "KDDI";
-    public static final String NAME = "HTV32";
+    public static final String DATA = "KDDI|HTV32|";
 }

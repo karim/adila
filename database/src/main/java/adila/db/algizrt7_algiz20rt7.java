@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Algiz RT7
  */
 final class algizrt7_algiz20rt7 {
-    public static final String MANUFACTURER = "Handheld Group";
-    public static final String NAME = "Algiz RT7";
+    public static final String DATA = "Handheld Group|Algiz RT7|";
 }

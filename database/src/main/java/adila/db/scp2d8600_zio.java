@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Zio
  */
 final class scp2d8600_zio {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "Zio";
+    public static final String DATA = "Kyocera|Zio|";
 }

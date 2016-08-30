@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BS472
  */
 final class diablohd5flte_bs472 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Idol S";
+    public static final String DATA = "Alcatel|Idol S|";
 }

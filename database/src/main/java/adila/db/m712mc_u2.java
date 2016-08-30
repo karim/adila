@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: U2
  */
 final class m712mc_u2 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "HCL ME TABLET PC U2";
+    public static final String DATA = "Anydata|HCL ME TABLET PC U2|";
 }

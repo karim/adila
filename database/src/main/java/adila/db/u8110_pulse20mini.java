@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Pulse Mini
  */
 final class u8110_pulse20mini {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

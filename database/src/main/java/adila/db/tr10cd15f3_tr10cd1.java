@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TR10CD1
  */
 final class tr10cd15f3_tr10cd1 {
-    public static final String MANUFACTURER = "THTF";
-    public static final String NAME = "TSINGHUA TONGFANG CO., LTD.";
+    public static final String DATA = "THTF|TSINGHUA TONGFANG CO., LTD.|";
 }

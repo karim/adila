@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P008
  */
 final class p008_p008 {
-    public static final String MANUFACTURER = "Verizon Wireless";
-    public static final String NAME = "ASUS ZenPad Z8";
+    public static final String DATA = "Verizon Wireless|ASUS ZenPad Z8|";
 }

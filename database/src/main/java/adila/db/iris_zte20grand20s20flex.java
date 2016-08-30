@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Grand S Flex
  */
 final class iris_zte20grand20s20flex {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Grand S Flex";
+    public static final String DATA = "ZTE|Grand S Flex|";
 }

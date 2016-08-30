@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ISW13HT
  */
 final class valentewx {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "ISW13HT";
+    public static final String DATA = "HTC|ISW13HT|";
 }

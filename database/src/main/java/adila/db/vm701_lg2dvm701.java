@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-VM701
  */
 final class vm701_lg2dvm701 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Slider";
+    public static final String DATA = "LG|Optimus Slider|";
 }

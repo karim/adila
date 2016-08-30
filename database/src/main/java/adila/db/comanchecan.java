@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SGH-I547C
  */
 final class comanchecan {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Rugby";
+    public static final String DATA = "Samsung|Galaxy Rugby|";
 }

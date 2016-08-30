@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL T500L
  */
 final class evoque5fcn {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL T500L";
+    public static final String DATA = "Alcatel|TCL T500L|";
 }

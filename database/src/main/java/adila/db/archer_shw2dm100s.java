@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHW-M100S
  */
 final class archer_shw2dm100s {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy A";
+    public static final String DATA = "Samsung|Galaxy A|";
 }

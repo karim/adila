@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7710
  */
 final class skomer_gt2ds7710 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Xcover 2";
+    public static final String DATA = "Samsung|Galaxy Xcover 2|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC SMART Run 4G
  */
 final class p632t31_mtc20smart20run204g {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "MTC SMART Run 4G";
+    public static final String DATA = "ZTE|MTC SMART Run 4G|";
 }

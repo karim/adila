@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P4_eMagic_TM
  */
 final class p45femagic_p45femagic5ftm {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "P4 eMagic";
+    public static final String DATA = "AllView|P4 eMagic|";
 }

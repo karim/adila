@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MICROSTAR_E10319
  */
 final class lifetab5fe10320_microstar5fe10319 {
-    public static final String MANUFACTURER = "Medion";
-    public static final String NAME = "LIFETAB E10320";
+    public static final String DATA = "Medion|LIFETAB E10320|";
 }

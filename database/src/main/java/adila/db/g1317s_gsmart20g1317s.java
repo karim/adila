@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: GSmart G1317S
  */
 final class g1317s_gsmart20g1317s {
-    public static final String MANUFACTURER = "Gigabyte";
+    public static final String DATA = "Gigabyte||";
 }

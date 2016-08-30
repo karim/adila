@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: U FEEL LITE
  */
 final class p4601an_u20feel20lite {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "U FEEL LITE";
+    public static final String DATA = "Wiko|U FEEL LITE|";
 }

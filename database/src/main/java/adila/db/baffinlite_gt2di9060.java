@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I9060
  */
 final class baffinlite_gt2di9060 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Grand Neo";
+    public static final String DATA = "Samsung|Galaxy Grand Neo|";
 }

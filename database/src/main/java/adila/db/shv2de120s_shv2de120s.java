@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SHV-E120S
  */
 final class shv2de120s_shv2de120s {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2 HD LTE";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2 HD LTE|Galaxy S";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ZTE-C N780
  */
 final class banana {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TrekStor SurfTab breeze 9.6 quad
  */
 final class surftab_trekstor20surftab20breeze2092e620quad {
-    public static final String MANUFACTURER = "Trekstor";
-    public static final String NAME = "SurfTab breeze 9.6 quad";
+    public static final String DATA = "Trekstor|SurfTab breeze 9.6 quad|";
 }

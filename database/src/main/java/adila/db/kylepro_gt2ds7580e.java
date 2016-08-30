@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7580E
  */
 final class kylepro_gt2ds7580e {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Trend Plus";
+    public static final String DATA = "Samsung|Galaxy Trend Plus|";
 }

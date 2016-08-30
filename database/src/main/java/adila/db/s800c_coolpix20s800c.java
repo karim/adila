@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: COOLPIX S800c
  */
 final class s800c_coolpix20s800c {
-    public static final String MANUFACTURER = "Nikon";
-    public static final String NAME = "COOLPIX";
+    public static final String DATA = "Nikon|COOLPIX|";
 }

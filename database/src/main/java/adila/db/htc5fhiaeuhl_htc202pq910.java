@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC 2PQ910
  */
 final class htc5fhiaeuhl_htc202pq910 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Telstra Signature Premium";
+    public static final String DATA = "HTC|Telstra Signature Premium|";
 }

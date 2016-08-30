@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 825_T-Mobile
  */
 final class _825a_8255ft2dmobile {
-    public static final String MANUFACTURER = "Doro";
-    public static final String NAME = "Doro Liberto 825";
+    public static final String DATA = "Doro|Doro Liberto 825|";
 }

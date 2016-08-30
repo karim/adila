@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-B9388
  */
 final class ironcmcc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "GT-B9388";
+    public static final String DATA = "Samsung|GT-B9388|";
 }

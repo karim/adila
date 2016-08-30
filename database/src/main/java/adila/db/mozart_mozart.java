@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Mozart
  */
 final class mozart_mozart {
-    public static final String MANUFACTURER = "Toshiba";
-    public static final String NAME = "tt300/tt301/tt302";
+    public static final String DATA = "Toshiba|tt300/tt301/tt302|";
 }

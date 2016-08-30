@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Sony Tablet S
  */
 final class nbx03 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Tablet S";
+    public static final String DATA = "Sony|Tablet S|";
 }

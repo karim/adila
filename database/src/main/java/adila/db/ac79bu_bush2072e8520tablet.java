@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BUSH 7.85 TABLET
  */
 final class ac79bu_bush2072e8520tablet {
-    public static final String MANUFACTURER = "Bush";
-    public static final String NAME = "MyTablet 79";
+    public static final String DATA = "Bush|MyTablet 79|";
 }

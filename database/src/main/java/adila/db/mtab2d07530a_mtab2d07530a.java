@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTAB-07530A
  */
 final class mtab2d07530a_mtab2d07530a {
-    public static final String MANUFACTURER = "Memorex";
-    public static final String NAME = "Memorex MTAB-07530A";
+    public static final String DATA = "Memorex|Memorex MTAB-07530A|";
 }

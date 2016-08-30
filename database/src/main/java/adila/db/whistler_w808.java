@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: W808
  */
 final class whistler_w808 {
-    public static final String MANUFACTURER = "K-Touch";
+    public static final String DATA = "K-Touch||";
 }

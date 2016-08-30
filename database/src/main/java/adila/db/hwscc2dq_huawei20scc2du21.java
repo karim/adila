@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI SCC-U21
  */
 final class hwscc2dq_huawei20scc2du21 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y6";
+    public static final String DATA = "Huawei|Y6|";
 }

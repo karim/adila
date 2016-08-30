@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL P360W
  */
 final class focus55fcu_tcl20p360w {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL P360W";
+    public static final String DATA = "Alcatel|TCL P360W|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: arc 7HD
  */
 final class cardhu_arc207hd {
-    public static final String MANUFACTURER = "Kobo";
-    public static final String NAME = "Arc 7HD";
+    public static final String DATA = "Kobo|Arc 7HD|";
 }

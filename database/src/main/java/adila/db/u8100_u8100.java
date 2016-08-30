@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: U8100
  */
 final class u8100_u8100 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "T-Mobile Pulse";
+    public static final String DATA = "Huawei|T-Mobile Pulse|";
 }

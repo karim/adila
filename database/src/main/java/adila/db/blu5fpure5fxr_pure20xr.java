@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Pure XR
  */
 final class blu5fpure5fxr_pure20xr {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "PURE XR";
+    public static final String DATA = "Blu|PURE XR|";
 }

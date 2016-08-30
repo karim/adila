@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E3_Sign
  */
 final class e35fsign_e35fsign {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "E3 Sign";
+    public static final String DATA = "AllView|E3 Sign|";
 }

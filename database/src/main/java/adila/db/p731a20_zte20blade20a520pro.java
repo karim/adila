@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE BLADE A5 PRO
  */
 final class p731a20_zte20blade20a520pro {
-    public static final String MANUFACTURER = "Zuk";
-    public static final String NAME = "BLADE A5 PRO";
+    public static final String DATA = "Zuk|BLADE A5 PRO|";
 }

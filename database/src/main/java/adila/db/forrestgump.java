@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MiBOX_mini
  */
 final class forrestgump {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "MiBOX_mini";
+    public static final String DATA = "Xiaomi|MiBOX_mini|";
 }

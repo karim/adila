@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AG Go-Tab Access
  */
 final class md789hwag {
-    public static final String MANUFACTURER = "AG Mobile";
-    public static final String NAME = "AG_Go-Tab_Access";
+    public static final String DATA = "AG Mobile|AG_Go-Tab_Access|";
 }

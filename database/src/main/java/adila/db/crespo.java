@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nexus S
  */
 final class crespo {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Nexus S";
+    public static final String DATA = "Samsung|Nexus S|";
 }

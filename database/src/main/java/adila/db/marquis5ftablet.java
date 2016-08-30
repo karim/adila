@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Marquis_MP977
  */
 final class marquis5ftablet {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Marquis Tablet";
+    public static final String DATA = "Anydata|Marquis Tablet|";
 }

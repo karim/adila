@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8258
  */
 final class vastoicmcc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy M Style";
+    public static final String DATA = "Samsung|Galaxy M Style|";
 }

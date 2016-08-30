@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Archos 64 Xenon
  */
 final class ac64xe {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "64 Xenon";
+    public static final String DATA = "Archos|64 Xenon|";
 }

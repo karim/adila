@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EG970
  */
 final class eg970tw_eg970 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "EG970";
+    public static final String DATA = "Hisense|EG970|";
 }

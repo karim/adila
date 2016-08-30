@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PI3105
  */
 final class pi3105_pi3105 {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "PI3105";
+    public static final String DATA = "Philips|PI3105|";
 }

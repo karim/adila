@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: LG-AS855
  */
 final class as855_lg2das855 {
-    public static final String MANUFACTURER = "LG";
+    public static final String DATA = "LG||";
 }

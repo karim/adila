@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NID_7010
  */
 final class storex7526_nid5f7010 {
-    public static final String MANUFACTURER = "STOREX";
-    public static final String NAME = "eZee'Tab7D14-S";
+    public static final String DATA = "STOREX|eZee'Tab7D14-S|";
 }

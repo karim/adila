@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT920
  */
 final class hawk405fumts_xt920 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "RAZR D3";
+    public static final String DATA = "Motorola|RAZR D3|";
 }

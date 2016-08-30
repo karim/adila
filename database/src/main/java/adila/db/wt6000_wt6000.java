@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WT6000
  */
 final class wt6000_wt6000 {
-    public static final String MANUFACTURER = "Zebra";
-    public static final String NAME = "WT6000";
+    public static final String DATA = "Zebra|WT6000|";
 }

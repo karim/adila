@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LGS01
  */
 final class cf_lgs01 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Wine Smart";
+    public static final String DATA = "LG|Wine Smart|";
 }

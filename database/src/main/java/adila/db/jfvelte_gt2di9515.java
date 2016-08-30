@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I9515
  */
 final class jfvelte_gt2di9515 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S4";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S4|Galaxy S";
 }

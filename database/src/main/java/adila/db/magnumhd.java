@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: cherry-MagnumHD
  */
 final class magnumhd {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

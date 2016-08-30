@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5300L
  */
 final class gt2ds5300l_gt2ds5300l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Pocket";
+    public static final String DATA = "Samsung|Galaxy Pocket|";
 }

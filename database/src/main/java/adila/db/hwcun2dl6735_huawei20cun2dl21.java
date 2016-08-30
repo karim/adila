@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI CUN-L21
  */
 final class hwcun2dl6735_huawei20cun2dl21 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y5II";
+    public static final String DATA = "Huawei|Y5II|";
 }

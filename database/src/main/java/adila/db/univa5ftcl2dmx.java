@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-E510f
  */
 final class univa5ftcl2dmx {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Hub";
+    public static final String DATA = "LG|Optimus Hub|";
 }

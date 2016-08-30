@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PAD722
  */
 final class pad722_pad722 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "PAD722";
+    public static final String DATA = "Haier|PAD722|";
 }

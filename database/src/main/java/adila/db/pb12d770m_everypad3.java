@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EveryPad3
  */
 final class pb12d770m_everypad3 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "PB1-770M/PHAB Plus";
+    public static final String DATA = "Lenovo|PB1-770M/PHAB Plus|";
 }

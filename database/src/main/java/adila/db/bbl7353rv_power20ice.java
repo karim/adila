@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Power Ice
  */
 final class bbl7353rv_power20ice {
-    public static final String MANUFACTURER = "HighScreen";
-    public static final String NAME = "Power Ice";
+    public static final String DATA = "HighScreen|Power Ice|";
 }

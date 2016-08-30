@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL M2U
  */
 final class cross2_tcl20m2u {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL M2U";
+    public static final String DATA = "Alcatel|TCL M2U|";
 }

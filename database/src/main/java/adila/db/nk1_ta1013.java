@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: TA1013
  */
 final class nk1_ta1013 {
-    public static final String MANUFACTURER = "Quanta";
+    public static final String DATA = "Quanta||";
 }

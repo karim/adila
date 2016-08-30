@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Bs 451
  */
 final class bs5f451_bs20451 {
-    public static final String MANUFACTURER = "Bouygues Telecom";
-    public static final String NAME = "Bouygues Telecom Bs 451";
+    public static final String DATA = "Bouygues Telecom|Bouygues Telecom Bs 451|";
 }

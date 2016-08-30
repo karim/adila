@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-LS720
  */
 final class fx3_lg2dls720 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus F3";
+    public static final String DATA = "LG|Optimus F3|";
 }

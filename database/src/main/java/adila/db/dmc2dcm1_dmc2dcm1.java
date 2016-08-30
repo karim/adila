@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DMC-CM1
  */
 final class dmc2dcm1_dmc2dcm1 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "LUMIX CM1";
+    public static final String DATA = "Panasonic|LUMIX CM1|";
 }

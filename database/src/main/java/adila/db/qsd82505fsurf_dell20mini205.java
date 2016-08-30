@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Dell Mini 5
  */
 final class qsd82505fsurf_dell20mini205 {
-    public static final String MANUFACTURER = "Dell";
+    public static final String DATA = "Dell||";
 }

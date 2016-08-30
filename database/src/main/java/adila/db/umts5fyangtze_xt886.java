@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT886
  */
 final class umts5fyangtze_xt886 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Razr V";
+    public static final String DATA = "Motorola|Razr V|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7390
  */
 final class kyleve_gt2ds7390 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Trend Duos";
+    public static final String DATA = "Samsung|Galaxy Trend Duos|";
 }

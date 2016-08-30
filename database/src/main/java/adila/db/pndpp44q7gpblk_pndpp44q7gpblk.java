@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PNDPP44Q7GPBLK
  */
 final class pndpp44q7gpblk_pndpp44q7gpblk {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "PNDPP44Q7GPBLK";
+    public static final String DATA = "Haier|PNDPP44Q7GPBLK|";
 }

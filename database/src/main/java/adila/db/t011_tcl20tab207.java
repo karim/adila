@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL TAB 7
  */
 final class t011_tcl20tab207 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONE TOUCH TAB 7";
+    public static final String DATA = "Alcatel|ONE TOUCH TAB 7|";
 }

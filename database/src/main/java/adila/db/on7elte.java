@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G600F
  */
 final class on7elte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy On7";
+    public static final String DATA = "Samsung|Galaxy On7|";
 }

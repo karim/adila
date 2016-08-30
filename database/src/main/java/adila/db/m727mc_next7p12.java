@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Next7P12
  */
 final class m727mc_next7p12 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Nextbook Next7P12";
+    public static final String DATA = "Anydata|Nextbook Next7P12|";
 }

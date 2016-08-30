@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Quechua Phone 5
  */
 final class a50rg11_quechua20phone205 {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "Quechua Phone 5";
+    public static final String DATA = "Archos|Quechua Phone 5|";
 }

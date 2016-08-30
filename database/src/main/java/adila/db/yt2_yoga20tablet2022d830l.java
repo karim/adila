@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: YOGA Tablet 2-830L
  */
 final class yt2_yoga20tablet2022d830l {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "YOGA Tablet Pro-830L/Yoga Tablet 2";
+    public static final String DATA = "Lenovo|YOGA Tablet Pro-830L/Yoga Tablet 2|";
 }

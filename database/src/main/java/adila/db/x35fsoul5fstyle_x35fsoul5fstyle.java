@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X3_Soul_Style
  */
 final class x35fsoul5fstyle_x35fsoul5fstyle {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "X3 Soul Style";
+    public static final String DATA = "AllView|X3 Soul Style|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CHC-U03
  */
 final class hwchc2dh_chc2du03 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "G Play Mini";
+    public static final String DATA = "Huawei|G Play Mini|";
 }

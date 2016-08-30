@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HT-I860
  */
 final class ht2di860_ht2di860 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "HT-I860";
+    public static final String DATA = "Haier|HT-I860|";
 }

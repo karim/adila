@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FAR70B
  */
 final class far70b_far70b {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "ARROWS Tab Wi-Fi FAR70B";
+    public static final String DATA = "Fujitsu|ARROWS Tab Wi-Fi FAR70B|";
 }

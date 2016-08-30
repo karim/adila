@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCC893X_EVM
  */
 final class koecn {
-    public static final String MANUFACTURER = "Hyundai";
-    public static final String NAME = "CAR AVN SYSTEM";
+    public static final String DATA = "Hyundai|CAR AVN SYSTEM|";
 }

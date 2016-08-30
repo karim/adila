@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTX21
  */
 final class imnj {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "KDDI Infobar A02";
+    public static final String DATA = "HTC|KDDI Infobar A02|";
 }

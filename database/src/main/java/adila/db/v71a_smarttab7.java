@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SmartTab7
  */
 final class v71a_smarttab7 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "SmartTab7";
+    public static final String DATA = "ZTE|SmartTab7|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T705
  */
 final class klimtlte_sm2dt705 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab S 8.4";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab S 8.4|Galaxy Tab";
 }

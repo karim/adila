@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VS870 4G
  */
 final class l1v_vs870204g {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Lucid 2";
+    public static final String DATA = "LG|Lucid 2|";
 }

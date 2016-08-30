@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A728_XP2
  */
 final class a7285fxp2_a7285fxp2 {
-    public static final String MANUFACTURER = "Gtel";
-    public static final String NAME = "A728_XP2";
+    public static final String DATA = "Gtel|A728_XP2|";
 }

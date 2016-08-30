@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: HTC Incredible E S715e
  */
 final class tagh {
-    public static final String MANUFACTURER = "HTC";
+    public static final String DATA = "HTC||";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: IS12M
  */
 final class cdma5fspyder_is12m {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

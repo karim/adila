@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IS03
  */
 final class shi03_is03 {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "IS03";
+    public static final String DATA = "Sharp|IS03|";
 }

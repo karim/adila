@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ISW11M
  */
 final class sunfire_isw11m {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Photon 4G";
+    public static final String DATA = "Motorola|Photon 4G|";
 }

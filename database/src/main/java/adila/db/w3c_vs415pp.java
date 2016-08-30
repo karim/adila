@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VS415PP
  */
 final class w3c_vs415pp {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Zone 2";
+    public static final String DATA = "LG|Optimus Zone 2|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X10
  */
 final class octopus2dmasu {
-    public static final String MANUFACTURER = "iRulu";
-    public static final String NAME = "Irulu";
+    public static final String DATA = "iRulu|Irulu|";
 }

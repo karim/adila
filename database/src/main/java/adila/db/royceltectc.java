@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-W2016
  */
 final class royceltectc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "W2016";
+    public static final String DATA = "Samsung|W2016|";
 }

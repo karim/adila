@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodacom Power Tab 10
  */
 final class voda5ftab_vodacom20power20tab2010 {
-    public static final String MANUFACTURER = "Vodafone";
-    public static final String NAME = "VF-1296";
+    public static final String DATA = "Vodafone|VF-1296|";
 }

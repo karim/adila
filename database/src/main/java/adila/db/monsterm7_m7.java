@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M7
  */
 final class monsterm7_m7 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Monster M7 Tablet";
+    public static final String DATA = "Anydata|Monster M7 Tablet|";
 }

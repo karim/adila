@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E4010
  */
 final class boost2_e4010 {
-    public static final String MANUFACTURER = "AG Mobile";
-    public static final String NAME = "AG BOOST 2";
+    public static final String DATA = "AG Mobile|AG BOOST 2|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VP73_Telefunken
  */
 final class telefunken_vp735ftelefunken {
-    public static final String MANUFACTURER = "Telefunken";
-    public static final String NAME = "VP73_Telefunken";
+    public static final String DATA = "Telefunken|VP73_Telefunken|";
 }

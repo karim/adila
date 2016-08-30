@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Desire P
  */
 final class magniu {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire P";
+    public static final String DATA = "HTC|Desire P|";
 }

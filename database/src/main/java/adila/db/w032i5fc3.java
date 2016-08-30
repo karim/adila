@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: W032I_C3
  */
 final class w032i5fc3 {
-    public static final String MANUFACTURER = "Tesco";
-    public static final String NAME = "W032I_C3";
+    public static final String DATA = "Tesco|W032I_C3|";
 }

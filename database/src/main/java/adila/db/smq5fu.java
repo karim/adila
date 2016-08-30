@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: XT905
  */
 final class smq5fu {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

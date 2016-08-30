@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1063
  */
 final class thea5fumtsds_xt1063 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto G with 4G LTE (2nd Gen)";
+    public static final String DATA = "Motorola|Moto G with 4G LTE (2nd Gen)|";
 }

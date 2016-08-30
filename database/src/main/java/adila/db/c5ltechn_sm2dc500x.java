@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-C500X
  */
 final class c5ltechn_sm2dc500x {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy C5";
+    public static final String DATA = "Samsung|Galaxy C5|";
 }

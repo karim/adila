@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I9235
  */
 final class ks02lte_gt2di9235 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Golden";
+    public static final String DATA = "Samsung|Galaxy Golden|";
 }

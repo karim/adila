@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: iphone C600
  */
 final class gbc5fbravo_iphone20c600 {
-    public static final String MANUFACTURER = "Gradiente";
-    public static final String NAME = "iphone C600";
+    public static final String DATA = "Gradiente|iphone C600|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DARKFULL
  */
 final class s9311_darkfull {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "DARKFULL";
+    public static final String DATA = "Wiko|DARKFULL|";
 }

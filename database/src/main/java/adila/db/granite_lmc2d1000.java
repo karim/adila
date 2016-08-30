@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LMC-1000
  */
 final class granite_lmc2d1000 {
-    public static final String MANUFACTURER = "Harris";
-    public static final String NAME = "LMC-1000";
+    public static final String DATA = "Harris|LMC-1000|";
 }

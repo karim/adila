@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SPH-M950
  */
 final class iconvmu {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Reverb";
+    public static final String DATA = "Samsung|Galaxy Reverb|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL Xess P17AA
  */
 final class xess_tcl20xess20p17aa {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL_Xess_P17AA";
+    public static final String DATA = "Alcatel|TCL_Xess_P17AA|";
 }

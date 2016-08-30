@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VS930 4G
  */
 final class d1lv {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Spectrum 2";
+    public static final String DATA = "LG|Spectrum 2|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5283B
  */
 final class mintts {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Star Trios";
+    public static final String DATA = "Samsung|Galaxy Star Trios|";
 }

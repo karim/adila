@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: INGO-TAB
  */
 final class ingo2dtab_ingo2dtab {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "INGO-TAB";
+    public static final String DATA = "Haier|INGO-TAB|";
 }

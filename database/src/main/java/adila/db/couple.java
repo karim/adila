@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: COUPLE
  */
 final class couple {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "MUSN COUPLE";
+    public static final String DATA = "Foxconn|MUSN COUPLE|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Pantech V950
  */
 final class hs8929qc_pantech20v950 {
-    public static final String MANUFACTURER = "Pantech";
-    public static final String NAME = "v950";
+    public static final String DATA = "Pantech|v950|";
 }

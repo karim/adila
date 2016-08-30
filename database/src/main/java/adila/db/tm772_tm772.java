@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TM772
  */
 final class tm772_tm772 {
-    public static final String MANUFACTURER = "Apex";
-    public static final String NAME = "TM772";
+    public static final String DATA = "Apex|TM772|";
 }

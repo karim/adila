@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Fly Ego Art 2
  */
 final class fly5fego5fart5f2_fly20ego20art202 {
-    public static final String MANUFACTURER = "Fly";
-    public static final String NAME = "Ego Art 2";
+    public static final String DATA = "Fly|Ego Art 2|";
 }

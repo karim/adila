@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-V498S1
  */
 final class t8wifi_lg2dv498s1 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Pad II 8.0";
+    public static final String DATA = "LG|G Pad II 8.0|";
 }

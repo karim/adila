@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL i806
  */
 final class idol3_tcl20i806 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONETOUCH IDOL 3 (5.5)";
+    public static final String DATA = "Alcatel|ONETOUCH IDOL 3 (5.5)|";
 }

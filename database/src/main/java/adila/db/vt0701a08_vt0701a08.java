@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VT0701A08
  */
 final class vt0701a08_vt0701a08 {
-    public static final String MANUFACTURER = "Vulcan";
-    public static final String NAME = "Vulcan Pulse 7";
+    public static final String DATA = "Vulcan|Vulcan Pulse 7|";
 }

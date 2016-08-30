@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ADR6425LVW
  */
 final class vigor {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "ADR6425LVW";
+    public static final String DATA = "HTC|ADR6425LVW|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: UVP-X
  */
 final class grizzlies5ftelefi4x {
-    public static final String MANUFACTURER = "Ubiquiti";
-    public static final String NAME = "UVP-X";
+    public static final String DATA = "Ubiquiti|UVP-X|";
 }

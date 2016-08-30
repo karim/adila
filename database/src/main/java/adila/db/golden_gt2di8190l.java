@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I8190L
  */
 final class golden_gt2di8190l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3 Mini";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3 Mini|Galaxy S";
 }

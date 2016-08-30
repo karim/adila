@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-D331AR
  */
 final class luv80ss_lg2dd331ar {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "LBello";
+    public static final String DATA = "LG|LBello|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: OWN S5030
  */
 final class eos5flte_own20s5030 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "IDOL 2 S";
+    public static final String DATA = "Alcatel|IDOL 2 S|";
 }

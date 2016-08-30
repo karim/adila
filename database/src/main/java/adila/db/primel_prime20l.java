@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Prime L
  */
 final class primel_prime20l {
-    public static final String MANUFACTURER = "HighScreen";
-    public static final String NAME = "Prime L";
+    public static final String DATA = "HighScreen|Prime L|";
 }

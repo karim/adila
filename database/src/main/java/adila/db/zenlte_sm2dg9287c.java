@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G9287C
  */
 final class zenlte_sm2dg9287c {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S6 Edge+";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S6 Edge+|Galaxy S";
 }

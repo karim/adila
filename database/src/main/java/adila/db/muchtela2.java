@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MUCHTEL-A2
  */
 final class muchtela2 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

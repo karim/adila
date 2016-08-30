@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ThinkVision28
  */
 final class thinkvision28_thinkvision28 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "ThinkVision28";
+    public static final String DATA = "Lenovo|ThinkVision28|";
 }

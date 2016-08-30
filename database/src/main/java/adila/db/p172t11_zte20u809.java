@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE U809
  */
 final class p172t11_zte20u809 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "U809";
+    public static final String DATA = "ZTE|U809|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ForwardZero
  */
 final class forwardzero_forwardzero {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "Forward Zero";
+    public static final String DATA = "NGM|Forward Zero|";
 }

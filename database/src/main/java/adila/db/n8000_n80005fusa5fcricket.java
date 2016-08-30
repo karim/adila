@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: N8000_USA_Cricket
  */
 final class n8000_n80005fusa5fcricket {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "N8000_USA_Cricket";
+    public static final String DATA = "ZTE|N8000_USA_Cricket|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-S738C
  */
 final class amazing3gtrf {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Centura";
+    public static final String DATA = "Samsung|Galaxy Centura|";
 }

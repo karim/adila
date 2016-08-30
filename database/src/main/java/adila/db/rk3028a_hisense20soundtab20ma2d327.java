@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Hisense SoundTab MA-327
  */
 final class rk3028a_hisense20soundtab20ma2d327 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "SoundTab MA-327";
+    public static final String DATA = "Hisense|SoundTab MA-327|";
 }

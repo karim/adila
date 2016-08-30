@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TAB-750_G
  */
 final class tab2d7505fg_tab2d7505fg {
-    public static final String MANUFACTURER = "Sophix_Digix";
-    public static final String NAME = "TAB-750_G";
+    public static final String DATA = "Sophix_Digix|TAB-750_G|";
 }

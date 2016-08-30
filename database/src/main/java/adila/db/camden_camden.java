@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Camden
  */
 final class camden_camden {
-    public static final String MANUFACTURER = "INQ Mobile";
+    public static final String DATA = "INQ Mobile||";
 }

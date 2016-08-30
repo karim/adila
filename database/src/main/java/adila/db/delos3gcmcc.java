@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8558
  */
 final class delos3gcmcc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Win";
+    public static final String DATA = "Samsung|Galaxy Win|";
 }

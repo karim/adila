@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMART 4G 5.5 Enterprise
  */
 final class m812_smart204g2052e520enterprise {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "SMART 4G 5.5 Enterprise";
+    public static final String DATA = "Alcatel|SMART 4G 5.5 Enterprise|";
 }

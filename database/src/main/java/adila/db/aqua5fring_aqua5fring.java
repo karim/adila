@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Aqua_Ring
  */
 final class aqua5fring_aqua5fring {
-    public static final String MANUFACTURER = "Intex";
-    public static final String NAME = "Aqua Ring";
+    public static final String DATA = "Intex|Aqua Ring|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SLIDE2
  */
 final class s5260_slide2 {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "PULP FAB";
+    public static final String DATA = "Wiko|PULP FAB|";
 }

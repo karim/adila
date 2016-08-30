@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NGM Orion
  */
 final class orion {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "orion";
+    public static final String DATA = "Enspert|orion|";
 }

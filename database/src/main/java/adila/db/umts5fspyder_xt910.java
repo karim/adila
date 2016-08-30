@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT910
  */
 final class umts5fspyder_xt910 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Droid RAZR";
+    public static final String DATA = "Motorola|Droid RAZR|";
 }

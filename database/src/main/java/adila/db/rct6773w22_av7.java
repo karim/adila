@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AV7
  */
 final class rct6773w22_av7 {
-    public static final String MANUFACTURER = "AV";
-    public static final String NAME = "AV7";
+    public static final String DATA = "AV|AV7|";
 }

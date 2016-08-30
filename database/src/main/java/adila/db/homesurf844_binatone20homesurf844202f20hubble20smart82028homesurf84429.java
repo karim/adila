@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Binatone Homesurf844 / Hubble Smart8 (Homesurf844)
  */
 final class homesurf844_binatone20homesurf844202f20hubble20smart82028homesurf84429 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "Homesurf844";
+    public static final String DATA = "Haier|Homesurf844|";
 }

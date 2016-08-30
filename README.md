@@ -23,7 +23,7 @@ Setup
 Gradle:
 
 ```groovy
-compile 'com.karimeldeeb.adila:library:16.8.14'
+compile 'com.karimeldeeb.adila:library:16.8.30'
 compile 'com.karimeldeeb.adila:database:+'
 ```
 

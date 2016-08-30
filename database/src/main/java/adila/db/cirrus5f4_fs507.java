@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FS507
  */
 final class cirrus5f4_fs507 {
-    public static final String MANUFACTURER = "Fly";
-    public static final String NAME = "Cirrus 4";
+    public static final String DATA = "Fly|Cirrus 4|";
 }

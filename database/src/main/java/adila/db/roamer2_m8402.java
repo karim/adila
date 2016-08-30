@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M8402
  */
 final class roamer2_m8402 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "M8402";
+    public static final String DATA = "ZTE|M8402|";
 }

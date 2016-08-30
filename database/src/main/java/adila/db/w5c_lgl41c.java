@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LGL41C
  */
 final class w5c_lgl41c {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "L70 CDMA";
+    public static final String DATA = "LG|L70 CDMA|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CLP293
  */
 final class clp293_clp293 {
-    public static final String MANUFACTURER = "iCraig";
-    public static final String NAME = "CLP293";
+    public static final String DATA = "iCraig|CLP293|";
 }

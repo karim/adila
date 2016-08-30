@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MS4B
  */
 final class viper5flte_ms4b {
-    public static final String MANUFACTURER = "MegaFon";
-    public static final String NAME = "MS4B";
+    public static final String DATA = "MegaFon|MS4B|";
 }

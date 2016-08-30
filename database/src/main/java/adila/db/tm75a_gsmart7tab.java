@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GSmart7Tab
  */
 final class tm75a_gsmart7tab {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "TM75A";
+    public static final String DATA = "Gigabyte|TM75A|";
 }

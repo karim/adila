@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ForwardEndurance
  */
 final class forwardendurance_forwardendurance {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "Forward Endurance";
+    public static final String DATA = "NGM|Forward Endurance|";
 }

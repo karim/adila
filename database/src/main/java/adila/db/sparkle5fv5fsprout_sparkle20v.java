@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Sparkle V
  */
 final class sparkle5fv5fsprout_sparkle20v {
-    public static final String MANUFACTURER = "Karbonn";
-    public static final String NAME = "Sparkle V";
+    public static final String DATA = "Karbonn|Sparkle V|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WM8
  */
 final class wm8980s {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "WM8";
+    public static final String DATA = "Hisense|WM8|";
 }

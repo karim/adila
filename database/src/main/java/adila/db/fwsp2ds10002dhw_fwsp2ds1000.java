@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FWSP-S1000
  */
 final class fwsp2ds10002dhw_fwsp2ds1000 {
-    public static final String MANUFACTURER = "Finggo";
-    public static final String NAME = "FWSP-S1000";
+    public static final String DATA = "Finggo|FWSP-S1000|";
 }

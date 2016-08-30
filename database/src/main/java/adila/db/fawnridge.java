@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: i940
  */
 final class fawnridge {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

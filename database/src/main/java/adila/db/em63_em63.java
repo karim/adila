@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EM63
  */
 final class em63_em63 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Carrefour CT720 / Emdoor EM63 Tablet";
+    public static final String DATA = "Anydata|Carrefour CT720 / Emdoor EM63 Tablet|";
 }

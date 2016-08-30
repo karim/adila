@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Z815
  */
 final class sheen {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Fanfare 2";
+    public static final String DATA = "ZTE|Fanfare 2|";
 }

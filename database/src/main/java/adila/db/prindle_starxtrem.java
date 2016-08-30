@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STARXTREM
  */
 final class prindle_starxtrem {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "STARXTREM";
+    public static final String DATA = "ZTE|STARXTREM|";
 }

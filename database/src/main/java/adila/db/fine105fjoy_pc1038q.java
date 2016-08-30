@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PC1038Q
  */
 final class fine105fjoy_pc1038q {
-    public static final String MANUFACTURER = "Allfine";
-    public static final String NAME = "Allfine PC1038Q";
+    public static final String DATA = "Allfine|Allfine PC1038Q|";
 }

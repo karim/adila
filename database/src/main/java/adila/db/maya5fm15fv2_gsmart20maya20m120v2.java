@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GSmart Maya M1 v2
  */
 final class maya5fm15fv2_gsmart20maya20m120v2 {
-    public static final String MANUFACTURER = "GSmart";
-    public static final String NAME = "Maya M1 v2";
+    public static final String DATA = "GSmart|Maya M1 v2|";
 }

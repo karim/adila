@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS_Z00LDC
  */
 final class asus5fz00l5f63_asus5fz00ldc {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "ZenFone 2 Laser (ZE550KL)";
+    public static final String DATA = "Asus|ZenFone 2 Laser (ZE550KL)|";
 }

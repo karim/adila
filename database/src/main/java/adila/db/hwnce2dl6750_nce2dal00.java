@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NCE-AL00
  */
 final class hwnce2dl6750_nce2dal00 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "NCE-AL00";
+    public static final String DATA = "Huawei|NCE-AL00|";
 }

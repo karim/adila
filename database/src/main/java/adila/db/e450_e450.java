@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E450
  */
 final class e450_e450 {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "Dynamic E450";
+    public static final String DATA = "NGM|Dynamic E450|";
 }

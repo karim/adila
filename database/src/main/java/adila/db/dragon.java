@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Pixel C
  */
 final class dragon {
-    public static final String MANUFACTURER = "Google";
-    public static final String NAME = "Pixel C";
+    public static final String DATA = "Google|Pixel C|";
 }

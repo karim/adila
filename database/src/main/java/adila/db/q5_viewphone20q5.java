@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Viewphone Q5
  */
 final class q5_viewphone20q5 {
-    public static final String MANUFACTURER = "ViewSonic";
-    public static final String NAME = "Q5";
+    public static final String DATA = "ViewSonic|Q5|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smart_TAB_1003s
  */
 final class t1882r_smart5ftab5f1003s {
-    public static final String MANUFACTURER = "Sourcing Creation";
-    public static final String NAME = "ST1003S";
+    public static final String DATA = "Sourcing Creation|ST1003S|";
 }

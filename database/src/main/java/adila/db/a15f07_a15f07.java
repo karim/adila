@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: A1_07
  */
 final class a15f07_a15f07 {
-    public static final String MANUFACTURER = "Lenovo";
+    public static final String DATA = "Lenovo||";
 }

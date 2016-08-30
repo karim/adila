@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ATLAS W
  */
 final class blade2_atlas20w {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

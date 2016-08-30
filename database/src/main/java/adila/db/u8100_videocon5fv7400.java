@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Videocon_V7400
  */
 final class u8100_videocon5fv7400 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "T-Mobile Pulse";
+    public static final String DATA = "Huawei|T-Mobile Pulse|";
 }

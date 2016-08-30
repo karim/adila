@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G389F
  */
 final class xcover3velte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Xcover 3";
+    public static final String DATA = "Samsung|Galaxy Xcover 3|";
 }

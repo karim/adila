@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SPH-D710BST
  */
 final class sph2dd710bst_sph2dd710bst {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2 Epic";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2 Epic|Galaxy S";
 }

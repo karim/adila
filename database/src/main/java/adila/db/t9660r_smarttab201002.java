@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SmartTAB 1002
  */
 final class t9660r_smarttab201002 {
-    public static final String MANUFACTURER = "Teleepoch";
-    public static final String NAME = "Essentiel B SmartTab 1002";
+    public static final String DATA = "Teleepoch|Essentiel B SmartTab 1002|";
 }

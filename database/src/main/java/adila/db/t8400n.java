@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DMTAB-NV08B
  */
 final class t8400n {
-    public static final String MANUFACTURER = "Nabi";
-    public static final String NAME = "DreamTab HD8 Tablet";
+    public static final String DATA = "Nabi|DreamTab HD8 Tablet|";
 }

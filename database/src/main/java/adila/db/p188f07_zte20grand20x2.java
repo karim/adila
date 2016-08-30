@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Grand X2
  */
 final class p188f07_zte20grand20x2 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Grand X Quad Lite";
+    public static final String DATA = "ZTE|Grand X Quad Lite|";
 }

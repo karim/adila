@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Blade L3
  */
 final class p182a20_blade20l3 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade L3";
+    public static final String DATA = "ZTE|Blade L3|";
 }

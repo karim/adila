@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E2105
  */
 final class e2105_e2105 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia E4";
+    public static final String DATA = "Sony|Xperia E4|";
 }

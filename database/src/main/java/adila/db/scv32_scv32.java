@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCV32
  */
 final class scv32_scv32 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy A8";
-    public static final String SERIES = "Galaxy A";
+    public static final String DATA = "Samsung|Galaxy A8|Galaxy A";
 }

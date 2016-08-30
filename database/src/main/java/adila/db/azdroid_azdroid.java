@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AZDroid
  */
 final class azdroid_azdroid {
-    public static final String MANUFACTURER = "AZBox";
-    public static final String NAME = "AZDroid";
+    public static final String DATA = "AZBox|AZDroid|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Archos Chefpad
  */
 final class a97cfp_archos20chefpad {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "ChefPad";
+    public static final String DATA = "Archos|ChefPad|";
 }

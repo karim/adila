@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CA-201L
  */
 final class ca201l_ca2d201l {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "G'zOne CA-201L";
+    public static final String DATA = "NEC|G'zOne CA-201L|";
 }

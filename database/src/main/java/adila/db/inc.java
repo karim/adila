@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ADR6300
  */
 final class inc {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Droid Incredible";
+    public static final String DATA = "HTC|Droid Incredible|";
 }

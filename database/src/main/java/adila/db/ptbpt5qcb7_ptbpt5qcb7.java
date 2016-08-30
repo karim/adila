@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PTBPT5QCB7
  */
 final class ptbpt5qcb7_ptbpt5qcb7 {
-    public static final String MANUFACTURER = "Protab";
-    public static final String NAME = "PTBPT5QCB7";
+    public static final String DATA = "Protab|PTBPT5QCB7|";
 }

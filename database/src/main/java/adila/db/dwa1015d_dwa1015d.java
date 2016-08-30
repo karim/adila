@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DWA1015D
  */
 final class dwa1015d_dwa1015d {
-    public static final String MANUFACTURER = "DigitalStream";
-    public static final String NAME = "DWA1015D Tablet";
+    public static final String DATA = "DigitalStream|DWA1015D Tablet|";
 }

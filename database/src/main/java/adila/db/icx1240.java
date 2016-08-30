@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WALKMAN
  */
 final class icx1240 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "NW-ZX1";
+    public static final String DATA = "Sony|NW-ZX1|";
 }

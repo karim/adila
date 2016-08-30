@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: GM FOX
  */
 final class hwu8350_gm20fox {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

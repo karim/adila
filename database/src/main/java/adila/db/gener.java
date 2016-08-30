@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: RY-AP1
  */
 final class gener {
-    public static final String MANUFACTURER = "JVC Kenwood";
+    public static final String DATA = "JVC Kenwood||";
 }

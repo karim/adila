@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Trio-Stealth-G4-7.85
  */
 final class trio2dstealth2dg42d785_trio2dstealth2dg42d72e85 {
-    public static final String MANUFACTURER = "Trio";
-    public static final String NAME = "Stealth-G4-7.85";
+    public static final String DATA = "Trio|Stealth-G4-7.85|";
 }

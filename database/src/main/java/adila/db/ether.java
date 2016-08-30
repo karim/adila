@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Robin
  */
 final class ether {
-    public static final String MANUFACTURER = "Nextbit";
-    public static final String NAME = "Robin";
+    public static final String DATA = "Nextbit|Robin|";
 }

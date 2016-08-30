@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5570I
  */
 final class gt2ds5570i_gt2ds5570i {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Mini";
+    public static final String DATA = "Samsung|Galaxy Mini|";
 }

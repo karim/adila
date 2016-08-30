@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EveryPad
  */
 final class a3000_everypad {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "EveryPad";
+    public static final String DATA = "Lenovo|EveryPad|";
 }

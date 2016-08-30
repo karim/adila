@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1225
  */
 final class quark5fumts {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto MAXX";
+    public static final String DATA = "Motorola|Moto MAXX|";
 }

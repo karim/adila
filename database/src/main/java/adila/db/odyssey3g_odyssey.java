@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ODYSSEY
  */
 final class odyssey3g_odyssey {
-    public static final String MANUFACTURER = "Crosscall";
-    public static final String NAME = "ODYSSEY";
+    public static final String DATA = "Crosscall|ODYSSEY|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Philips W8510
  */
 final class topaz_philips20w8510 {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "Philips W8510";
+    public static final String DATA = "Philips|Philips W8510|";
 }

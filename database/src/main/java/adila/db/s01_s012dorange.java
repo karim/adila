@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S01-orange
  */
 final class s01_s012dorange {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "STYLISTIC S01";
+    public static final String DATA = "Fujitsu|STYLISTIC S01|";
 }

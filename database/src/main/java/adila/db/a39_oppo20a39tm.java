@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: OPPO A39tm
  */
 final class a39_oppo20a39tm {
-    public static final String MANUFACTURER = "Oppo";
-    public static final String NAME = "A39tm";
+    public static final String DATA = "Oppo|A39tm|";
 }

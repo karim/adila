@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T560NU
  */
 final class gtelwifiue {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab E 9.6";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab E 9.6|Galaxy Tab";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SKY IM-A630K
  */
 final class sp33k {
-    public static final String MANUFACTURER = "Pantech";
-    public static final String NAME = "Izar";
+    public static final String DATA = "Pantech|Izar|";
 }

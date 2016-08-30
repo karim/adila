@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TR10CD1
  */
 final class tr10cd15f7_tr10cd1 {
-    public static final String MANUFACTURER = "ICL-KME CS OJSC";
-    public static final String NAME = "TR10CD1";
+    public static final String DATA = "ICL-KME CS OJSC|TR10CD1|";
 }

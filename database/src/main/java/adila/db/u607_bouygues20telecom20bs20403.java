@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Bouygues Telecom Bs 403
  */
 final class u607_bouygues20telecom20bs20403 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "U607";
+    public static final String DATA = "Hisense|U607|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS K00S
  */
 final class asus2dk00s_asus20k00s {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "MeMO Pad HD7 Dual SIM (ME175KG)";
+    public static final String DATA = "Asus|MeMO Pad HD7 Dual SIM (ME175KG)|";
 }

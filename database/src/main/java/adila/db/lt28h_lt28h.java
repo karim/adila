@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LT28h
  */
 final class lt28h_lt28h {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia Ion";
+    public static final String DATA = "Sony|Xperia Ion|";
 }

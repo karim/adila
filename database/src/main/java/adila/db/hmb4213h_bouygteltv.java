@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BouygtelTV
  */
 final class hmb4213h_bouygteltv {
-    public static final String MANUFACTURER = "Bouygues Telecom";
-    public static final String NAME = "Bbox Miami";
+    public static final String DATA = "Bouygues Telecom|Bbox Miami|";
 }

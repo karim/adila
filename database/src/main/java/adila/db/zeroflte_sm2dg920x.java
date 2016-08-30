@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G920X
  */
 final class zeroflte_sm2dg920x {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S6";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S6|Galaxy S";
 }

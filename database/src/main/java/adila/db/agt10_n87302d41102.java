@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: N8730-41102
  */
 final class agt10_n87302d41102 {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "AGT10";
+    public static final String DATA = "NEC|AGT10|";
 }

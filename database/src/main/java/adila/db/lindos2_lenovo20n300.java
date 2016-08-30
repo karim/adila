@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo N300
  */
 final class lindos2_lenovo20n300 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "N300";
+    public static final String DATA = "Lenovo|N300|";
 }

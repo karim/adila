@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ZTE-Mimosa X
  */
 final class whistler_zte2dmimosa20x {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MEO Smart A80
  */
 final class p182a20_meo20smart20a80 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade L3";
+    public static final String DATA = "ZTE|Blade L3|";
 }

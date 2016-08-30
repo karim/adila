@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SOSMART_T5
  */
 final class sosmart5ft5_sosmart5ft5 {
-    public static final String MANUFACTURER = "SOSMART";
-    public static final String NAME = "SOSMART T5";
+    public static final String DATA = "SOSMART|SOSMART T5|";
 }

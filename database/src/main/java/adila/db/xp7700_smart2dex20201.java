@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smart-Ex 201
  */
 final class xp7700_smart2dex20201 {
-    public static final String MANUFACTURER = "Sonim";
-    public static final String NAME = "XP7";
+    public static final String DATA = "Sonim|XP7|";
 }

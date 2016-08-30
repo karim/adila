@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PSP3456DUO
  */
 final class psp3456duo_psp3456duo {
-    public static final String MANUFACTURER = "Prestigio";
-    public static final String NAME = "PSP3456DUO";
+    public static final String DATA = "Prestigio|PSP3456DUO|";
 }

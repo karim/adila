@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Karbonn Titanium S5 Plus
  */
 final class karbonn_karbonn20titanium20s520plus {
-    public static final String MANUFACTURER = "Coolpad";
-    public static final String NAME = "Karbonn Titanium S5 Plus";
+    public static final String DATA = "Coolpad|Karbonn Titanium S5 Plus|";
 }

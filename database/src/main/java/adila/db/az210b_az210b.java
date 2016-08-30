@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AZ210B
  */
 final class az210b_az210b {
-    public static final String MANUFACTURER = "Intel";
-    public static final String NAME = "Orange avec Intel Inside";
+    public static final String DATA = "Intel|Orange avec Intel Inside|";
 }

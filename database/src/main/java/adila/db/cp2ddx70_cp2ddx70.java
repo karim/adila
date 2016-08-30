@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CP-DX70
  */
 final class cp2ddx70_cp2ddx70 {
-    public static final String MANUFACTURER = "Cisco";
-    public static final String NAME = "Cisco DX70";
+    public static final String DATA = "Cisco|Cisco DX70|";
 }

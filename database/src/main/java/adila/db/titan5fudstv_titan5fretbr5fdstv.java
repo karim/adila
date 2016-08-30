@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: titan_retbr_dstv
  */
 final class titan5fudstv_titan5fretbr5fdstv {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto G (2nd Gen)";
+    public static final String DATA = "Motorola|Moto G (2nd Gen)|";
 }

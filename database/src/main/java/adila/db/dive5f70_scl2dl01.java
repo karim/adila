@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCL-L01
  */
 final class dive5f70_scl2dl01 {
-    public static final String MANUFACTURER = "Orange";
-    public static final String NAME = "Dive_70";
+    public static final String DATA = "Orange|Dive_70|";
 }

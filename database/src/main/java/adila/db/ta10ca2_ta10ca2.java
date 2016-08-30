@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TA10CA2
  */
 final class ta10ca2_ta10ca2 {
-    public static final String MANUFACTURER = "ECS";
-    public static final String NAME = "NBX-T1014N";
+    public static final String DATA = "ECS|NBX-T1014N|";
 }

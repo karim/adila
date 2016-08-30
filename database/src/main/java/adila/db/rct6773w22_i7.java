@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: i7
  */
 final class rct6773w22_i7 {
-    public static final String MANUFACTURER = "Venturer";
-    public static final String NAME = "i7";
+    public static final String DATA = "Venturer|i7|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GSmart G1362
  */
 final class g1362_gsmart20g1362 {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "GSmart G1362";
+    public static final String DATA = "Gigabyte|GSmart G1362|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Freebox Player Mini
  */
 final class fbx6lc {
-    public static final String MANUFACTURER = "Freebox";
-    public static final String NAME = "Freebox Mini 4K";
+    public static final String DATA = "Freebox|Freebox Mini 4K|";
 }

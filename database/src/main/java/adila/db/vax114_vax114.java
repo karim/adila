@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VAX114
  */
 final class vax114_vax114 {
-    public static final String MANUFACTURER = "Vaxcare";
-    public static final String NAME = "VAX114";
+    public static final String DATA = "Vaxcare|VAX114|";
 }

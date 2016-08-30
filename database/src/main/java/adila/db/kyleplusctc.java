@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I739
  */
 final class kyleplusctc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Trend 2";
+    public static final String DATA = "Samsung|Galaxy Trend 2|";
 }

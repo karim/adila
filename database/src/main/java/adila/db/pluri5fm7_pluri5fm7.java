@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Pluri_M7
  */
 final class pluri5fm7_pluri5fm7 {
-    public static final String MANUFACTURER = "Vonino";
-    public static final String NAME = "Pluri M7";
+    public static final String DATA = "Vonino|Pluri M7|";
 }

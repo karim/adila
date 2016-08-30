@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T700
  */
 final class t7005ftablet_t700 {
-    public static final String MANUFACTURER = "Toughshield";
-    public static final String NAME = "T700_TABLET";
+    public static final String DATA = "Toughshield|T700_TABLET|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Newman N2
  */
 final class c8690_newman20n2 {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "Newman N2";
+    public static final String DATA = "Cellon|Newman N2|";
 }

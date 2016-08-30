@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MB855
  */
 final class sunfire_mb855 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Photon 4G";
+    public static final String DATA = "Motorola|Photon 4G|";
 }

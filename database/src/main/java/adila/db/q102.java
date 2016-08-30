@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Rubik 10.1 II
  */
 final class q102 {
-    public static final String MANUFACTURER = "Plaisio";
-    public static final String NAME = "RubikII 10\"";
+    public static final String DATA = "Plaisio|RubikII 10\"|";
 }

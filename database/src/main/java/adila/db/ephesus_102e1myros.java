@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 10.1Myros
  */
 final class ephesus_102e1myros {
-    public static final String MANUFACTURER = "Vestel";
-    public static final String NAME = "VP100+";
+    public static final String DATA = "Vestel|VP100+|";
 }

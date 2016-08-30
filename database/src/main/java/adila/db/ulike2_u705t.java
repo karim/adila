@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: U705T
  */
 final class ulike2_u705t {
-    public static final String MANUFACTURER = "Oppo";
-    public static final String NAME = "Ulike2";
+    public static final String DATA = "Oppo|Ulike2|";
 }

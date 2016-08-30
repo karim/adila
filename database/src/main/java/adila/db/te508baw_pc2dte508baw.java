@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PC-TE508BAW
  */
 final class te508baw_pc2dte508baw {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "LaVieTab PC-TE508BAW";
+    public static final String DATA = "NEC|LaVieTab PC-TE508BAW|";
 }

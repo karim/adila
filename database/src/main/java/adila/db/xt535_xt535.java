@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT535
  */
 final class xt535_xt535 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto Defy XT";
+    public static final String DATA = "Motorola|Moto Defy XT|";
 }

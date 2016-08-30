@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Konnect_350
  */
 final class konnect5f350_konnect5f350 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "Konnect_350";
+    public static final String DATA = "Haier|Konnect_350|";
 }

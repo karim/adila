@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC 919d
  */
 final class dlpdwg {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "919d";
+    public static final String DATA = "HTC|919d|";
 }

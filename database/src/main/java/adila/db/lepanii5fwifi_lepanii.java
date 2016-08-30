@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LePanII
  */
 final class lepanii5fwifi_lepanii {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "LePanII";
+    public static final String DATA = "Anydata|LePanII|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EVA-CL00
  */
 final class hweva_eva2dcl00 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "P9";
+    public static final String DATA = "Huawei|P9|";
 }

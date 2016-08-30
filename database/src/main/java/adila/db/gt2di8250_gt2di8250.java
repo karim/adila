@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8250
  */
 final class gt2di8250_gt2di8250 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Beam";
+    public static final String DATA = "Samsung|Galaxy Beam|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Moto G (4)
  */
 final class athene5ff {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto G (4) Plus";
+    public static final String DATA = "Motorola|Moto G (4) Plus|";
 }

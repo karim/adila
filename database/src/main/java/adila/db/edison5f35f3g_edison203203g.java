@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Edison 3 3G
  */
 final class edison5f35f3g_edison203203g {
-    public static final String MANUFACTURER = "bq";
-    public static final String NAME = "bq Edison 3 3G";
+    public static final String DATA = "bq|bq Edison 3 3G|";
 }

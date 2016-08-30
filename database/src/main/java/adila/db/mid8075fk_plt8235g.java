@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PLT8235G
  */
 final class mid8075fk_plt8235g {
-    public static final String MANUFACTURER = "Proscan";
-    public static final String NAME = "PROSCAN PLT8235G Tablet";
+    public static final String DATA = "Proscan|PROSCAN PLT8235G Tablet|";
 }

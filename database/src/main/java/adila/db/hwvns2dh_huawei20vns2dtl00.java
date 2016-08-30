@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI VNS-TL00
  */
 final class hwvns2dh_huawei20vns2dtl00 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "G9 Youth Edition";
+    public static final String DATA = "Huawei|G9 Youth Edition|";
 }

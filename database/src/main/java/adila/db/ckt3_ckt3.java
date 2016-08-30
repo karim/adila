@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CKT3
  */
 final class ckt3_ckt3 {
-    public static final String MANUFACTURER = "ESI Enterprises";
-    public static final String NAME = "CKT3";
+    public static final String DATA = "ESI Enterprises|CKT3|";
 }

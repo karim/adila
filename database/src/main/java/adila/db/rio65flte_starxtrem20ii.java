@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STARXTREM II
  */
 final class rio65flte_starxtrem20ii {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "POP S9";
+    public static final String DATA = "Alcatel|POP S9|";
 }

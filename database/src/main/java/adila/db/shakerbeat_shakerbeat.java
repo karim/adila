@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ShakerBeat
  */
 final class shakerbeat_shakerbeat {
-    public static final String MANUFACTURER = "Boost";
-    public static final String NAME = "ShakerBeat";
+    public static final String DATA = "Boost|ShakerBeat|";
 }

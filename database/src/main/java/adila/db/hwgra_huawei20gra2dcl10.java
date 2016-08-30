@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI GRA-CL10
  */
 final class hwgra_huawei20gra2dcl10 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "P8";
+    public static final String DATA = "Huawei|P8|";
 }

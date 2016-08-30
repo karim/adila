@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP 7
  */
 final class mesquite_hp207 {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "7 Tablet";
+    public static final String DATA = "HP|7 Tablet|";
 }

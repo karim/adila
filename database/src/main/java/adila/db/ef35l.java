@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IM-A780L
  */
 final class ef35l {
-    public static final String MANUFACTURER = "Pantech";
-    public static final String NAME = "EF35L";
+    public static final String DATA = "Pantech|EF35L|";
 }

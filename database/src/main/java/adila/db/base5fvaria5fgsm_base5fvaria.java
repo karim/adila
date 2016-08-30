@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: BASE_Varia
  */
 final class base5fvaria5fgsm_base5fvaria {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

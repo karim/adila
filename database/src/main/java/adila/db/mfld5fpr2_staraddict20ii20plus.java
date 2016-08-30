@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STARADDICT II Plus
  */
 final class mfld5fpr2_staraddict20ii20plus {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Grand X In";
+    public static final String DATA = "ZTE|Grand X In|";
 }

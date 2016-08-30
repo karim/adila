@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1033
  */
 final class falcon5fumtsds {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto G (1st Gen)";
+    public static final String DATA = "Motorola|Moto G (1st Gen)|";
 }

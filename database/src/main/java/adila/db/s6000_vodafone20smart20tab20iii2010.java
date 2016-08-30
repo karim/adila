@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodafone Smart Tab III 10
  */
 final class s6000_vodafone20smart20tab20iii2010 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "IdeaTab S6000";
+    public static final String DATA = "Lenovo|IdeaTab S6000|";
 }

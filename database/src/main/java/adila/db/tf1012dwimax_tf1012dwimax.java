@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TF101-WiMAX
  */
 final class tf1012dwimax_tf1012dwimax {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Eee Pad TF101-WiMAX";
+    public static final String DATA = "Asus|Eee Pad TF101-WiMAX|";
 }

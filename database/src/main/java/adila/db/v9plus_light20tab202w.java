@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Light Tab 2W
  */
 final class v9plus_light20tab202w {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

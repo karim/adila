@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: KPN Smart 200
  */
 final class skate_kpn20smart20200 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

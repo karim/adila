@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G930L
  */
 final class heroltelgt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S7";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S7|Galaxy S";
 }

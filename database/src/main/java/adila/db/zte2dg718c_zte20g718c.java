@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE G718C
  */
 final class zte2dg718c_zte20g718c {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "G718C";
+    public static final String DATA = "ZTE|G718C|";
 }

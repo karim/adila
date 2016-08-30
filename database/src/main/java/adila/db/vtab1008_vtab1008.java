@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VTAB1008
  */
 final class vtab1008_vtab1008 {
-    public static final String MANUFACTURER = "Vizio";
-    public static final String NAME = "VTAB1008";
+    public static final String DATA = "Vizio|VTAB1008|";
 }

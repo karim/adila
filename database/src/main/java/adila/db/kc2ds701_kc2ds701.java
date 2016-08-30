@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KC-S701
  */
 final class kc2ds701_kc2ds701 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "TORQUE(KC-S701)";
+    public static final String DATA = "Kyocera|TORQUE(KC-S701)|";
 }

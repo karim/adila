@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC One VX
  */
 final class totemc2 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One VX";
+    public static final String DATA = "HTC|One VX|";
 }

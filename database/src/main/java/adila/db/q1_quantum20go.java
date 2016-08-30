@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Quantum Go
  */
 final class q1_quantum20go {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "Quantum Go";
+    public static final String DATA = "Positivo|Quantum Go|";
 }

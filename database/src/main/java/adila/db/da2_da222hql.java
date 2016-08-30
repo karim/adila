@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DA222HQL
  */
 final class da2_da222hql {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "DA222HQL";
+    public static final String DATA = "Acer|DA222HQL|";
 }

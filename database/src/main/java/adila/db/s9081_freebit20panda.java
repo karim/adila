@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: freebit PandA
  */
 final class s9081_freebit20panda {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "CINK KING";
+    public static final String DATA = "Enspert|CINK KING|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T813
  */
 final class gts210vewifi {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab S2 9.7";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab S2 9.7|Galaxy Tab";
 }

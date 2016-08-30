@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 9020A
  */
 final class tint85fatt {
-    public static final String MANUFACTURER = "AT&T";
-    public static final String NAME = "9020A";
+    public static final String DATA = "AT&T|9020A|";
 }

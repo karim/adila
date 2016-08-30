@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HS-10DTB41-8GB
  */
 final class hs2d10dtb412d8gb_hs2d10dtb412d8gb {
-    public static final String MANUFACTURER = "Hipstreet";
-    public static final String NAME = "HS-10DTB41";
+    public static final String DATA = "Hipstreet|HS-10DTB41|";
 }

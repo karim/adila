@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Blade Q Maxi
  */
 final class p172d10_zte20blade20q20maxi {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Orange Reyo";
+    public static final String DATA = "ZTE|Orange Reyo|";
 }

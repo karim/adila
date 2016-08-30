@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: IGS-1000
  */
 final class nk1_igs2d1000 {
-    public static final String MANUFACTURER = "Quanta";
+    public static final String DATA = "Quanta||";
 }

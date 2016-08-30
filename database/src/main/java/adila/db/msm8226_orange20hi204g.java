@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Hi 4G
  */
 final class msm8226_orange20hi204g {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Orange Hi 4G";
+    public static final String DATA = "ZTE|Orange Hi 4G|";
 }

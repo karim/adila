@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Dive 50
  */
 final class pixi35f455f4g5forange_orange20dive2050 {
-    public static final String MANUFACTURER = "Orange";
-    public static final String NAME = "Dive 50";
+    public static final String DATA = "Orange|Dive 50|";
 }

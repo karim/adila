@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NS-15T8LTE
  */
 final class ns5f15t8lte {
-    public static final String MANUFACTURER = "Insignia";
-    public static final String NAME = "INSIGNIA FLEX 8'' LTE Android Tablet";
+    public static final String DATA = "Insignia|INSIGNIA FLEX 8'' LTE Android Tablet|";
 }

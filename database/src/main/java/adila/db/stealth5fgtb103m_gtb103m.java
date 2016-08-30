@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GTB103M
  */
 final class stealth5fgtb103m_gtb103m {
-    public static final String MANUFACTURER = "Ematic";
-    public static final String NAME = "GTB103B";
+    public static final String DATA = "Ematic|GTB103B|";
 }

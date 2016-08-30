@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Wildfire S A510b
  */
 final class marvel_htc20wildfire20s20a510b {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Wildfire S";
+    public static final String DATA = "HTC|Wildfire S|";
 }

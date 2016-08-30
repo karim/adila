@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-B7510B
  */
 final class gt2db7510b_gt2db7510b {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Pro";
+    public static final String DATA = "Samsung|Galaxy Pro|";
 }

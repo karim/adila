@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TM700A520L
  */
 final class tm700a_tm700a520l {
-    public static final String MANUFACTURER = "Nuvision";
-    public static final String NAME = "TM700A520L";
+    public static final String DATA = "Nuvision|TM700A520L|";
 }

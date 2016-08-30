@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LifeStick
  */
 final class ts201_lifestick {
-    public static final String MANUFACTURER = "CCC";
-    public static final String NAME = "LifeStick";
+    public static final String DATA = "CCC|LifeStick|";
 }

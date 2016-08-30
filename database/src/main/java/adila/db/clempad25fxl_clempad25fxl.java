@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Clempad2_XL
  */
 final class clempad25fxl_clempad25fxl {
-    public static final String MANUFACTURER = "Clementoni";
-    public static final String NAME = "Clempad 4.4 XL";
+    public static final String DATA = "Clementoni|Clempad 4.4 XL|";
 }

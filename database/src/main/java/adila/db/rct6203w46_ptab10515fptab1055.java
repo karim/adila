@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PTAB1051_PTAB1055
  */
 final class rct6203w46_ptab10515fptab1055 {
-    public static final String MANUFACTURER = "Polaroid";
-    public static final String NAME = "PTAB1051-PTAB1055";
+    public static final String DATA = "Polaroid|PTAB1051-PTAB1055|";
 }

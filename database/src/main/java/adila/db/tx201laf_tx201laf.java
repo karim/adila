@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TX201LAF
  */
 final class tx201laf_tx201laf {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "TX201LAF";
+    public static final String DATA = "Asus|TX201LAF|";
 }

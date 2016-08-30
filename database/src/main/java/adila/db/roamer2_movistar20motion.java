@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Movistar Motion
  */
 final class roamer2_movistar20motion {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Movistar Motion";
+    public static final String DATA = "ZTE|Movistar Motion|";
 }

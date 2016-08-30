@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTN-L860
  */
 final class mtn2dl860_mtn2dl860 {
-    public static final String MANUFACTURER = "MTN Group";
-    public static final String NAME = "Sm@rt L860";
+    public static final String DATA = "MTN Group|Sm@rt L860|";
 }

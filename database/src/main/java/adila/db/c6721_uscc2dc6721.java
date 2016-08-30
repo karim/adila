@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: USCC-C6721
  */
 final class c6721_uscc2dc6721 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "Hydro XTRM";
+    public static final String DATA = "Kyocera|Hydro XTRM|";
 }

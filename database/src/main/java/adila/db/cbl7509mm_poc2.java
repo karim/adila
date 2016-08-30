@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: POC2
  */
 final class cbl7509mm_poc2 {
-    public static final String MANUFACTURER = "POC";
-    public static final String NAME = "POC2";
+    public static final String DATA = "POC|POC2|";
 }

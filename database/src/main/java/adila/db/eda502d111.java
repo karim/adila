@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Glory50
  */
 final class eda502d111 {
-    public static final String MANUFACTURER = "Honeywell";
-    public static final String NAME = "EDA50";
+    public static final String DATA = "Honeywell|EDA50|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: V.45
  */
 final class up065fh265fv45 {
-    public static final String MANUFACTURER = "Mobiwire";
-    public static final String NAME = "VSN V.45";
+    public static final String DATA = "Mobiwire|VSN V.45|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: EV-S110
  */
 final class msm76275fsurf_ev2ds110 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: N9518
  */
 final class warp6 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "N9518";
+    public static final String DATA = "ZTE|N9518|";
 }

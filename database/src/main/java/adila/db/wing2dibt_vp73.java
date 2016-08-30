@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VP73
  */
 final class wing2dibt_vp73 {
-    public static final String MANUFACTURER = "Vestel";
-    public static final String NAME = "VP73";
+    public static final String DATA = "Vestel|VP73|";
 }

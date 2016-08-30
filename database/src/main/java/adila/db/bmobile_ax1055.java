@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AX1055
  */
 final class bmobile_ax1055 {
-    public static final String MANUFACTURER = "BMobile";
-    public static final String NAME = "AX1055";
+    public static final String DATA = "BMobile|AX1055|";
 }

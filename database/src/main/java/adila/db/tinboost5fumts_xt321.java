@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT321
  */
 final class tinboost5fumts_xt321 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Defy Mini";
+    public static final String DATA = "Motorola|Defy Mini|";
 }

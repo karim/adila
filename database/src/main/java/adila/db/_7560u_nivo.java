@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Nivo
  */
 final class _7560u_nivo {
-    public static final String MANUFACTURER = "Coolpad";
+    public static final String DATA = "Coolpad||";
 }

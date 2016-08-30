@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WETAB700DG
  */
 final class wetab700dg_wetab700dg {
-    public static final String MANUFACTURER = "W.e.";
-    public static final String NAME = "WETAB700DG";
+    public static final String DATA = "W.e.|WETAB700DG|";
 }

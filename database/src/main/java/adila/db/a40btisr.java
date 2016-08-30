@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Archos 40b Titanium Surround
  */
 final class a40btisr {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "40b Titanium";
+    public static final String DATA = "Archos|40b Titanium|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Movistar Express
  */
 final class qb7211_movistar20express {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Movistar Express";
+    public static final String DATA = "ZTE|Movistar Express|";
 }

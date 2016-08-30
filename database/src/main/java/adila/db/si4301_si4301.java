@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SI4301
  */
 final class si4301_si4301 {
-    public static final String MANUFACTURER = "BYD";
-    public static final String NAME = "SI4301";
+    public static final String DATA = "BYD|SI4301|";
 }

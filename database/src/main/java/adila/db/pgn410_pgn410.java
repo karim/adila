@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PGN410
  */
 final class pgn410_pgn410 {
-    public static final String MANUFACTURER = "Condor";
-    public static final String NAME = "PGN410";
+    public static final String DATA = "Condor|PGN410|";
 }

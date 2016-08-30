@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI NMO-L31
  */
 final class hwnmo2dh_huawei20nmo2dl31 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "GT3";
+    public static final String DATA = "Huawei|GT3|";
 }

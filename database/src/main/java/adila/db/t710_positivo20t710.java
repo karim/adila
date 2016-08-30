@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Positivo T710
  */
 final class t710_positivo20t710 {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "T710";
+    public static final String DATA = "Positivo|T710|";
 }

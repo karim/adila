@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI G506-U151
  */
 final class hwg5062du151_huawei20g5062du151 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "G506";
+    public static final String DATA = "Huawei|G506|";
 }

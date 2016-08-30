@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RIDGE FAB 4G
  */
 final class l5320 {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "RIDGE FAB 4G";
+    public static final String DATA = "Wiko|RIDGE FAB 4G|";
 }

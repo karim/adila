@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LT700 PRO
  */
 final class lt7005fpro_lt70020pro {
-    public static final String MANUFACTURER = "QMobile";
-    public static final String NAME = "LT700 PRO";
+    public static final String DATA = "QMobile|LT700 PRO|";
 }

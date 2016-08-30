@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Chronos_10
  */
 final class chronos5f10_chronos5f10 {
-    public static final String MANUFACTURER = "Njoy";
-    public static final String NAME = "Chronos_10";
+    public static final String DATA = "Njoy|Chronos_10|";
 }

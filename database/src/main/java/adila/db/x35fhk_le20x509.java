@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Le X509
  */
 final class x35fhk_le20x509 {
-    public static final String MANUFACTURER = "LeTV";
-    public static final String NAME = "Le X509";
+    public static final String DATA = "LeTV|Le X509|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-VS450PP
  */
 final class w5c_lg2dvs450pp {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Exceed 2";
+    public static final String DATA = "LG|Optimus Exceed 2|";
 }

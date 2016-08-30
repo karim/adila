@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MID7055
  */
 final class mid7055_mid7055 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "COBY MID7055";
+    public static final String DATA = "Anydata|COBY MID7055|";
 }

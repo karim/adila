@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodafone 975N
  */
 final class vodafone5f975n_vodafone20975n {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Vodafone Smart III (with NFC)";
+    public static final String DATA = "Alcatel|Vodafone Smart III (with NFC)|";
 }

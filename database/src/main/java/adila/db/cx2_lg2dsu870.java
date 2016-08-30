@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-SU870
  */
 final class cx2_lg2dsu870 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus 3D Cube";
+    public static final String DATA = "LG|Optimus 3D Cube|";
 }

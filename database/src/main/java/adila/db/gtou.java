@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Desire 200
  */
 final class gtou {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire 200";
+    public static final String DATA = "HTC|Desire 200|";
 }

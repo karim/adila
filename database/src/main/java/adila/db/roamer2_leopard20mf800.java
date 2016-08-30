@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Leopard MF800
  */
 final class roamer2_leopard20mf800 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Leopard MF800";
+    public static final String DATA = "ZTE|Leopard MF800|";
 }

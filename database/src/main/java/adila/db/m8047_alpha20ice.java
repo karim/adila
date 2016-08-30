@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Alpha Ice
  */
 final class m8047_alpha20ice {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "Alpha Ice";
+    public static final String DATA = "Cellon|Alpha Ice|";
 }

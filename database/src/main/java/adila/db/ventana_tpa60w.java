@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TPA60W
  */
 final class ventana_tpa60w {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "Picasso";
+    public static final String DATA = "Acer|Picasso|";
 }

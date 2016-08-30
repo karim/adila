@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: YP-GI2
  */
 final class hendrix {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy 070";
+    public static final String DATA = "Samsung|Galaxy 070|";
 }

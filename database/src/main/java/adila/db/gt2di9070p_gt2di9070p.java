@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I9070P
  */
 final class gt2di9070p_gt2di9070p {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S Advance";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S Advance|Galaxy S";
 }

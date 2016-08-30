@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Graphos A10
  */
 final class graphos5fa10_graphos20a10 {
-    public static final String MANUFACTURER = "Olivetti";
-    public static final String NAME = "Graphos A10";
+    public static final String DATA = "Olivetti|Graphos A10|";
 }

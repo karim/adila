@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Andromax I56D2G
  */
 final class hs8929qc_andromax20i56d2g {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "I56D2G";
+    public static final String DATA = "Hisense|I56D2G|";
 }

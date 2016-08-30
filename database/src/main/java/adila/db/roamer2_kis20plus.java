@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KIS PLUS
  */
 final class roamer2_kis20plus {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "KIS PLUS";
+    public static final String DATA = "ZTE|KIS PLUS|";
 }

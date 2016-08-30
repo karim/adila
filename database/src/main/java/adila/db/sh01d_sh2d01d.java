@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SH-01D
  */
 final class sh01d_sh2d01d {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "AQUOS PHONE SH-01D";
+    public static final String DATA = "Sharp|AQUOS PHONE SH-01D|";
 }

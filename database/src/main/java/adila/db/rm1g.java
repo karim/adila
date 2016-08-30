@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Remix Mini
  */
 final class rm1g {
-    public static final String MANUFACTURER = "Jide";
-    public static final String NAME = "Remix Mini";
+    public static final String DATA = "Jide|Remix Mini|";
 }

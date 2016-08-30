@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-T285YD
  */
 final class gtexslteswa {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab A 7.0";
+    public static final String DATA = "Samsung|Galaxy Tab A 7.0|";
 }

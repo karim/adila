@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Omnis One
  */
 final class omnisone_omnis20one {
-    public static final String MANUFACTURER = "tecmobile";
-    public static final String NAME = "OmnisOne";
+    public static final String DATA = "tecmobile|OmnisOne|";
 }

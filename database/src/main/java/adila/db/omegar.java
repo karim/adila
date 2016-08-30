@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F310LR
  */
 final class omegar {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Gx";
+    public static final String DATA = "LG|Gx|";
 }

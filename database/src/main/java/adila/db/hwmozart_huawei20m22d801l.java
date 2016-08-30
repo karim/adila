@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI M2-801L
  */
 final class hwmozart_huawei20m22d801l {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "M2";
+    public static final String DATA = "Huawei|M2|";
 }

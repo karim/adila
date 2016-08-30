@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TM9S775
  */
 final class mid908a2dk_tm9s775 {
-    public static final String MANUFACTURER = "TMAX";
-    public static final String NAME = "TMAX TM9S775";
+    public static final String DATA = "TMAX|TMAX TM9S775|";
 }

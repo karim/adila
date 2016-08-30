@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC PG09410
  */
 final class puccinilte_htc20pg09410 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Puccini";
+    public static final String DATA = "HTC|Puccini|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EK-GC200
  */
 final class sf2wifi {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Camera 2";
+    public static final String DATA = "Samsung|Galaxy Camera 2|";
 }

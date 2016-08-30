@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: dopod A6288
  */
 final class hero_dopod20a6288 {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Hero";
+    public static final String DATA = "HTC|Hero|";
 }

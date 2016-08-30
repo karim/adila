@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Philips V377
  */
 final class philips5fv377_philips20v377 {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "Xenium V377";
+    public static final String DATA = "Philips|Xenium V377|";
 }

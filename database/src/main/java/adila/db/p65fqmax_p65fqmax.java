@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P6_Qmax
  */
 final class p65fqmax_p65fqmax {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "P6 Qmax";
+    public static final String DATA = "AllView|P6 Qmax|";
 }

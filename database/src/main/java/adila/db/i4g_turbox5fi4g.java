@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TURBOX_I4G
  */
 final class i4g_turbox5fi4g {
-    public static final String MANUFACTURER = "Plaisio";
-    public static final String NAME = "I4G";
+    public static final String DATA = "Plaisio|I4G|";
 }

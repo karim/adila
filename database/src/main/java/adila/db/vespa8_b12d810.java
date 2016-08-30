@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: B1-810
  */
 final class vespa8_b12d810 {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "Iconia One 8";
+    public static final String DATA = "Acer|Iconia One 8|";
 }

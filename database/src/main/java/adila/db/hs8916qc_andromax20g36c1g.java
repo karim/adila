@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Andromax G36C1G
  */
 final class hs8916qc_andromax20g36c1g {
-    public static final String MANUFACTURER = "Smartfren";
-    public static final String NAME = "G36C1G";
+    public static final String DATA = "Smartfren|G36C1G|";
 }

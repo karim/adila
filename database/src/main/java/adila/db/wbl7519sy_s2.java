@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S2
  */
 final class wbl7519sy_s2 {
-    public static final String MANUFACTURER = "Helio";
-    public static final String NAME = "S2";
+    public static final String DATA = "Helio|S2|";
 }

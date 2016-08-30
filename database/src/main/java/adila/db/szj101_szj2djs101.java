@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SZJ-JS101
  */
 final class szj101_szj2djs101 {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "SZJ-JS101";
+    public static final String DATA = "Fujitsu|SZJ-JS101|";
 }

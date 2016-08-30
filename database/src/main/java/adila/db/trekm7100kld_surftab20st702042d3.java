@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SurfTab ST70204-3
  */
 final class trekm7100kld_surftab20st702042d3 {
-    public static final String MANUFACTURER = "Trekstor";
-    public static final String NAME = "SurfTab ST70204-3";
+    public static final String DATA = "Trekstor|SurfTab ST70204-3|";
 }

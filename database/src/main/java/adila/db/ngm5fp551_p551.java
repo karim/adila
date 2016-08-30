@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P551
  */
 final class ngm5fp551_p551 {
-    public static final String MANUFACTURER = "NGM";
-    public static final String NAME = "You Color P551";
+    public static final String DATA = "NGM|You Color P551|";
 }

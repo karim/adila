@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Q5002
  */
 final class starq5fq5002_q5002 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "StarQ_Q5002";
+    public static final String DATA = "Haier|StarQ_Q5002|";
 }

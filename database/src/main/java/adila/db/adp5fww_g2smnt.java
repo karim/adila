@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: G2SMNT
  */
 final class adp5fww_g2smnt {
-    public static final String MANUFACTURER = "Alphascan";
-    public static final String NAME = "SAT2242 WorkTab";
+    public static final String DATA = "Alphascan|SAT2242 WorkTab|";
 }

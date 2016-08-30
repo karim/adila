@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E81
  */
 final class bt5fhome5fsmartphone5fiii_e81 {
-    public static final String MANUFACTURER = "British Telecom";
-    public static final String NAME = "BT Home SmartPhone III";
+    public static final String DATA = "British Telecom|BT Home SmartPhone III|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE W1010
  */
 final class rolex_zte20w1010 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "AXON WATCH";
+    public static final String DATA = "ZTE|AXON WATCH|";
 }

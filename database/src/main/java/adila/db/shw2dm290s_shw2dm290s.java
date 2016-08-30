@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHW-M290S
  */
 final class shw2dm290s_shw2dm290s {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Gio";
+    public static final String DATA = "Samsung|Galaxy Gio|";
 }

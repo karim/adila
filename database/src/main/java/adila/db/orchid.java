@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE C2016
  */
 final class orchid {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "C2016";
+    public static final String DATA = "ZTE|C2016|";
 }

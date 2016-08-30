@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-T677A
  */
 final class gvlteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy View";
+    public static final String DATA = "Samsung|Galaxy View|";
 }

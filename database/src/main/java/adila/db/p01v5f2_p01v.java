@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P01V
  */
 final class p01v5f2_p01v {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "ZenPad 7.0 (Z370CG)";
+    public static final String DATA = "Asus|ZenPad 7.0 (Z370CG)|";
 }

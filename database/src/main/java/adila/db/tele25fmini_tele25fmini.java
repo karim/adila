@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Tele2_Mini
  */
 final class tele25fmini_tele25fmini {
-    public static final String MANUFACTURER = "Tele2";
-    public static final String NAME = "Tele2 Mini";
+    public static final String DATA = "Tele2|Tele2 Mini|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MEDION E4002
  */
 final class e4002_medion20e4002 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "E4002";
+    public static final String DATA = "Lenovo|E4002|";
 }

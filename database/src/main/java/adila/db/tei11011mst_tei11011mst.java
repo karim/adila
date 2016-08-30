@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TEI11011MST
  */
 final class tei11011mst_tei11011mst {
-    public static final String MANUFACTURER = "Mecer";
-    public static final String NAME = "TEI11011";
+    public static final String DATA = "Mecer|TEI11011|";
 }

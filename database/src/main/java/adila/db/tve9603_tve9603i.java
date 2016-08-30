@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TVE9603I
  */
 final class tve9603_tve9603i {
-    public static final String MANUFACTURER = "Carrefour";
-    public static final String NAME = "CT1050";
+    public static final String DATA = "Carrefour|CT1050|";
 }

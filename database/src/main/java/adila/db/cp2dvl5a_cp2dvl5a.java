@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CP-VL5A
  */
 final class cp2dvl5a_cp2dvl5a {
-    public static final String MANUFACTURER = "Hipstreet";
-    public static final String NAME = "CP-VL5A";
+    public static final String DATA = "Hipstreet|CP-VL5A|";
 }

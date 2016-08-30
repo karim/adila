@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-K550
  */
 final class ph2n_lg2dk550 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Stylo 2 Plus";
+    public static final String DATA = "LG|Stylo 2 Plus|";
 }

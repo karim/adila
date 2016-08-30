@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EK-GN120A
  */
 final class u0lte_ek2dgn120a {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy NX";
+    public static final String DATA = "Samsung|Galaxy NX|";
 }

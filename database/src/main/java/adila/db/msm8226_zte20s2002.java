@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE S2002
  */
 final class msm8226_zte20s2002 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "STAR";
+    public static final String DATA = "ZTE|STAR|";
 }

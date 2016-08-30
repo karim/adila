@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PantechP9070
  */
 final class presto {
-    public static final String MANUFACTURER = "Pantech";
-    public static final String NAME = "Burst";
+    public static final String DATA = "Pantech|Burst|";
 }

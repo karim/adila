@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LAP255U
  */
 final class hg25fiot {
-    public static final String MANUFACTURER = "LGU+";
-    public static final String NAME = "tvG woofer";
+    public static final String DATA = "LGU+|tvG woofer|";
 }

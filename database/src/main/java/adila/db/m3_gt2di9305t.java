@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I9305T
  */
 final class m3_gt2di9305t {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3|Galaxy S";
 }

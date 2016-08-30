@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I9082
  */
 final class baffin_gt2di9082 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Grand Duos";
+    public static final String DATA = "Samsung|Galaxy Grand Duos|";
 }

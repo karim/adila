@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS_T00Q
  */
 final class asus5ft00q_asus5ft00q {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "ZenFone 4 (A450CG)";
+    public static final String DATA = "Asus|ZenFone 4 (A450CG)|";
 }

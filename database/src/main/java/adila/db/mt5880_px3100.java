@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PX3100
  */
 final class mt5880_px3100 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "PX3100";
+    public static final String DATA = "Hisense|PX3100|";
 }

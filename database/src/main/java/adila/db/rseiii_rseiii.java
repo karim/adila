@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RSEIII
  */
 final class rseiii_rseiii {
-    public static final String MANUFACTURER = "Audi AG";
-    public static final String NAME = "RSE-III";
+    public static final String DATA = "Audi AG|RSE-III|";
 }

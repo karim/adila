@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Redmi Note 4
  */
 final class nikel {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "Redmi Note 4";
+    public static final String DATA = "Xiaomi|Redmi Note 4|";
 }

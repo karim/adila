@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NEBUPOS3
  */
 final class uy3a_nebupos3 {
-    public static final String MANUFACTURER = "EBN";
-    public static final String NAME = "NEBUPOS3";
+    public static final String DATA = "EBN|NEBUPOS3|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DAA730R
  */
 final class md7081_daa730r {
-    public static final String MANUFACTURER = "RCA";
-    public static final String NAME = "DAA730R / DAA738R";
+    public static final String DATA = "RCA|DAA730R / DAA738R|";
 }

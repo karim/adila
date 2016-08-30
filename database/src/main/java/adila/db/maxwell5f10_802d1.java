@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 80-1
  */
 final class maxwell5f10_802d1 {
-    public static final String MANUFACTURER = "Gigaset";
-    public static final String NAME = "Maxwell 10";
+    public static final String DATA = "Gigaset|Maxwell 10|";
 }

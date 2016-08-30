@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Blade V2 Lite
  */
 final class p632t31_zte20blade20v220lite {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Q509T";
+    public static final String DATA = "ZTE|Q509T|";
 }

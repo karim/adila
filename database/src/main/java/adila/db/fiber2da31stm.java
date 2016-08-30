@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CT825
  */
 final class fiber2da31stm {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "CT825";
+    public static final String DATA = "Haier|CT825|";
 }

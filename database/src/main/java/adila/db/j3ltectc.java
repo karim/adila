@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-J3109
  */
 final class j3ltectc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy J3";
-    public static final String SERIES = "Galaxy J";
+    public static final String DATA = "Samsung|Galaxy J3|Galaxy J";
 }

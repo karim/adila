@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC One max
  */
 final class t6ul_htc20one20max {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One max";
+    public static final String DATA = "HTC|One max|";
 }

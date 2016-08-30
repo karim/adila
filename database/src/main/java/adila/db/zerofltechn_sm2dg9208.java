@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G9208
  */
 final class zerofltechn_sm2dg9208 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S6";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S6|Galaxy S";
 }

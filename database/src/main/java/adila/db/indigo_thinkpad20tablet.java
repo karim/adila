@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ThinkPad Tablet
  */
 final class indigo_thinkpad20tablet {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "Indigo";
+    public static final String DATA = "Lenovo|Indigo|";
 }

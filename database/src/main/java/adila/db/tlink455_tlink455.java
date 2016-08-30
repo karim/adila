@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TLINK455
  */
 final class tlink455_tlink455 {
-    public static final String MANUFACTURER = "Thomson";
-    public static final String NAME = "TLink 455";
+    public static final String DATA = "Thomson|TLink 455|";
 }

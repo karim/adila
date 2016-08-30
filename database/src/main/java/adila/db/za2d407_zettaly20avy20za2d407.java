@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Zettaly Avy ZA-407
  */
 final class za2d407_zettaly20avy20za2d407 {
-    public static final String MANUFACTURER = "Zettaly";
-    public static final String NAME = "ZA-407";
+    public static final String DATA = "Zettaly|ZA-407|";
 }

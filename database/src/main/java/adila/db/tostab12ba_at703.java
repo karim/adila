@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AT703
  */
 final class tostab12ba_at703 {
-    public static final String MANUFACTURER = "Toshiba";
-    public static final String NAME = "AT10LE-A/AT15LE-A/AT10PE-A/AT15PE-A  (Japan: AT703)";
+    public static final String DATA = "Toshiba|AT10LE-A/AT15LE-A/AT10PE-A/AT15PE-A  (Japan: AT703)|";
 }

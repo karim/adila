@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SBM009SHY
  */
 final class sbm009shy_sbm009shy {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "Yahoo! Phone SoftBank 009SH Y";
+    public static final String DATA = "Sharp|Yahoo! Phone SoftBank 009SH Y|";
 }

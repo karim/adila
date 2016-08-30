@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Spice Mi-515
  */
 final class coolpad7295i_spice20mi2d515 {
-    public static final String MANUFACTURER = "Coolpad";
-    public static final String NAME = "7295I";
+    public static final String DATA = "Coolpad|7295I|";
 }

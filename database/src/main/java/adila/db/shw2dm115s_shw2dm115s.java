@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHW-M115S
  */
 final class shw2dm115s_shw2dm115s {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "SHW-M115S";
+    public static final String DATA = "Samsung|SHW-M115S|";
 }

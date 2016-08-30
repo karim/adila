@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: enV Pro
  */
 final class envt2_env20pro {
-    public static final String MANUFACTURER = "LG";
+    public static final String DATA = "LG||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHIELD Console
  */
 final class foster_shield20console {
-    public static final String MANUFACTURER = "NVidia";
-    public static final String NAME = "SHIELD Android TV";
+    public static final String DATA = "NVidia|SHIELD Android TV|";
 }

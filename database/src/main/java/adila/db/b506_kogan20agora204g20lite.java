@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Kogan Agora 4G Lite
  */
 final class b506_kogan20agora204g20lite {
-    public static final String MANUFACTURER = "BenQ";
-    public static final String NAME = "Kogan Agora 4G Lite";
+    public static final String DATA = "BenQ|Kogan Agora 4G Lite|";
 }

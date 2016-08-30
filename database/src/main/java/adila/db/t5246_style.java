@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Style
  */
 final class t5246_style {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Style";
+    public static final String DATA = "Explay|Style|";
 }

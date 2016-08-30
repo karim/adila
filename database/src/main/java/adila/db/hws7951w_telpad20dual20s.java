@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Telpad Dual S
  */
 final class hws7951w_telpad20dual20s {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "S7";
+    public static final String DATA = "Huawei|S7|";
 }

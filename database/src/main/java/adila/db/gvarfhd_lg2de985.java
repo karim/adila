@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-E985
  */
 final class gvarfhd_lg2de985 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "LG-E985T";
+    public static final String DATA = "LG|LG-E985T|";
 }

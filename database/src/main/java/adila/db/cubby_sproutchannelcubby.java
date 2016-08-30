@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SproutChannelCubby
  */
 final class cubby_sproutchannelcubby {
-    public static final String MANUFACTURER = "Ematic";
-    public static final String NAME = "Sprout Channel Cubby";
+    public static final String DATA = "Ematic|Sprout Channel Cubby|";
 }

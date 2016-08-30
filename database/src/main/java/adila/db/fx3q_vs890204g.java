@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VS890 4G
  */
 final class fx3q_vs890204g {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Enact";
+    public static final String DATA = "LG|Enact|";
 }

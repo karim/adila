@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HUAWEI TAG-L13
  */
 final class hwtag2dl6753_huawei20tag2dl13 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "GR3";
+    public static final String DATA = "Huawei|GR3|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTN-S620
  */
 final class mtn2ds620_mtn2ds620 {
-    public static final String MANUFACTURER = "MTN";
-    public static final String NAME = "MTN-S620";
+    public static final String DATA = "MTN|MTN-S620|";
 }

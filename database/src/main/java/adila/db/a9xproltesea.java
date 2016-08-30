@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-A910F
  */
 final class a9xproltesea {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy A9 Pro";
-    public static final String SERIES = "Galaxy A";
+    public static final String DATA = "Samsung|Galaxy A9 Pro|Galaxy A";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TM1088
  */
 final class fiber2dwifibt_tm1088 {
-    public static final String MANUFACTURER = "Nuvision";
-    public static final String NAME = "TM1088";
+    public static final String DATA = "Nuvision|TM1088|";
 }

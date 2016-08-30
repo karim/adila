@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ALCATEL ONE TOUCH 993D
  */
 final class one5ftouch5f993d5fgsm_alcatel20one20touch20993d {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL A988";
+    public static final String DATA = "Alcatel|TCL A988|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Dell Streak
  */
 final class qsd82505fsurf_dell20streak {
-    public static final String MANUFACTURER = "Dell";
+    public static final String DATA = "Dell||";
 }

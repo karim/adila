@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TDA02
  */
 final class mx24_tda02 {
-    public static final String MANUFACTURER = "FBC";
-    public static final String NAME = "M24IS810";
+    public static final String DATA = "FBC|M24IS810|";
 }

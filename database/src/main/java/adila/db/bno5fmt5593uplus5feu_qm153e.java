@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: QM153E
  */
 final class bno5fmt5593uplus5feu_qm153e {
-    public static final String MANUFACTURER = "Bang & Olufsen";
-    public static final String NAME = "BeoVision";
+    public static final String DATA = "Bang & Olufsen|BeoVision|";
 }

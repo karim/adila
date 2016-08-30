@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: U670C
  */
 final class u670c_u670c {
-    public static final String MANUFACTURER = "Teleepoch";
+    public static final String DATA = "Teleepoch||";
 }

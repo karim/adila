@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ypy 7 - TB07STA
  */
 final class tb07sta_ypy207202d20tb07sta {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "YPY7 wifi";
+    public static final String DATA = "Positivo|YPY7 wifi|";
 }

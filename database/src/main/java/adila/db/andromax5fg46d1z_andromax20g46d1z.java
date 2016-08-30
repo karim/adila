@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Andromax G46D1Z
  */
 final class andromax5fg46d1z_andromax20g46d1z {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Andromax G46D1Z";
+    public static final String DATA = "ZTE|Andromax G46D1Z|";
 }

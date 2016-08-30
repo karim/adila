@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NABIXD-NV10C
  */
 final class xd_nabixd2dnv10c {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "nabi_XD";
+    public static final String DATA = "Foxconn|nabi_XD|";
 }

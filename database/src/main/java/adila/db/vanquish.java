@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DROID RAZR HD
  */
 final class vanquish {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "DROID RAZR HD";
+    public static final String DATA = "Motorola|DROID RAZR HD|";
 }

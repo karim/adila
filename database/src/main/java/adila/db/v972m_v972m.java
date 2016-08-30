@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: V972M
  */
 final class v972m_v972m {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "LEO S1";
+    public static final String DATA = "ZTE|LEO S1|";
 }

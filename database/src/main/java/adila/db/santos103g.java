@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-P5200
  */
 final class santos103g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 3 10.1";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 3 10.1|Galaxy Tab";
 }

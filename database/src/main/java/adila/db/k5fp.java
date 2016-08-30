@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo K51c78
  */
 final class k5fp {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "VIBE X3 Lite";
+    public static final String DATA = "Lenovo|VIBE X3 Lite|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NEO8-1
  */
 final class neo82d1_neo82d1 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "NEO8-1";
+    public static final String DATA = "Haier|NEO8-1|";
 }

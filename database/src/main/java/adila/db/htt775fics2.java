@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Fly
  */
 final class htt775fics2 {
-    public static final String MANUFACTURER = "SK Telesys";
-    public static final String NAME = "Fly";
+    public static final String DATA = "SK Telesys|Fly|";
 }

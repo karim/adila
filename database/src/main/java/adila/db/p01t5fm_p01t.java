@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: P01T
  */
 final class p01t5fm_p01t {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "PRO Tablet-M1000CL";
+    public static final String DATA = "Asus|PRO Tablet-M1000CL|";
 }

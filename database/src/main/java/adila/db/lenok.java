@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: G Watch R
  */
 final class lenok {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Watch R";
+    public static final String DATA = "LG|G Watch R|";
 }

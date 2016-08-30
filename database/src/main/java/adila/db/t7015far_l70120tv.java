@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L701 TV
  */
 final class t7015far_l70120tv {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "Ypy";
+    public static final String DATA = "Positivo|Ypy|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: JT1241
  */
 final class jt1241_jt1241 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Jiateng JT1241";
+    public static final String DATA = "Anydata|Jiateng JT1241|";
 }

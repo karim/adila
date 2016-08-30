@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MT-733G
  */
 final class mt2d733g_mt2d733g {
-    public static final String MANUFACTURER = "MiiA";
-    public static final String NAME = "MiiA MT-733G";
+    public static final String DATA = "MiiA|MiiA MT-733G|";
 }

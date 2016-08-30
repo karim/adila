@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: S7
  */
 final class hv1a_s7 {
-    public static final String MANUFACTURER = "Aikun";
-    public static final String NAME = "Solely Tab S7";
+    public static final String DATA = "Aikun|Solely Tab S7|";
 }

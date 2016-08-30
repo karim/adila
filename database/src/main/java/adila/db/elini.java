@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L-04C
  */
 final class elini {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus chat";
+    public static final String DATA = "LG|Optimus chat|";
 }

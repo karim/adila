@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-J500Y
  */
 final class j5ylte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy J5";
-    public static final String SERIES = "Galaxy J";
+    public static final String DATA = "Samsung|Galaxy J5|Galaxy J";
 }

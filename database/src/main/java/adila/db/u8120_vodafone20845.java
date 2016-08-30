@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodafone 845
  */
 final class u8120_vodafone20845 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "U8120";
+    public static final String DATA = "Huawei|U8120|";
 }

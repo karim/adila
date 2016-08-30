@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Sensation Z710a
  */
 final class pyramid_htc20sensation20z710a {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Sensation 4G";
+    public static final String DATA = "HTC|Sensation 4G|";
 }

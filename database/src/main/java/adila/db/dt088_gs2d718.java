@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GS-718
  */
 final class dt088_gs2d718 {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "DOPO GMS-718 Tablet / Discovery";
+    public static final String DATA = "Anydata|DOPO GMS-718 Tablet / Discovery|";
 }

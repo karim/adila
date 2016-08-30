@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Hive V 3G
  */
 final class mg978 {
-    public static final String MANUFACTURER = "Plaisio";
-    public static final String NAME = "Hive V 3G";
+    public static final String DATA = "Plaisio|Hive V 3G|";
 }

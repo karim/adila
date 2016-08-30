@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-I257M
  */
 final class serranoltebmc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S4 Mini";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S4 Mini|Galaxy S";
 }

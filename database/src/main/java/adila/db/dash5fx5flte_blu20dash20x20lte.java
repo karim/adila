@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: BLU DASH X LTE
  */
 final class dash5fx5flte_blu20dash20x20lte {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Dash X LTE";
-    public static final String SERIES = "Dash";
+    public static final String DATA = "Blu|Dash X LTE|Dash";
 }

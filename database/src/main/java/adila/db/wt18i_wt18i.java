@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: WT18i
  */
 final class wt18i_wt18i {
-    public static final String MANUFACTURER = "Sony Ericsson";
+    public static final String DATA = "Sony Ericsson||";
 }

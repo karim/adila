@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL J928
  */
 final class prius_tcl20j928 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL J928";
+    public static final String DATA = "Alcatel|TCL J928|";
 }

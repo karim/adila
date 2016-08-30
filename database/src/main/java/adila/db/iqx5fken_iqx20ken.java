@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IQX KEN
  */
 final class iqx5fken_iqx20ken {
-    public static final String MANUFACTURER = "i-mobile";
-    public static final String NAME = "IQX KEN";
+    public static final String DATA = "i-mobile|IQX KEN|";
 }

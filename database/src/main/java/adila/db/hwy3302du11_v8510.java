@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: V8510
  */
 final class hwy3302du11_v8510 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y330-U11";
+    public static final String DATA = "Huawei|Y330-U11|";
 }

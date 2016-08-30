@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-N910A
  */
 final class trlteatt_samsung2dsm2dn910a {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note 4";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note 4|Galaxy Note";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Telekom Puls
  */
 final class t2dtab_telekom20puls {
-    public static final String MANUFACTURER = "T-Mobile";
-    public static final String NAME = "Telekom_Puls";
+    public static final String DATA = "T-Mobile|Telekom_Puls|";
 }

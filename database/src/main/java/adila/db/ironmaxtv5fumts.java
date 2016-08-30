@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT687
  */
 final class ironmaxtv5fumts {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Motoluxe";
+    public static final String DATA = "Motorola|Motoluxe|";
 }

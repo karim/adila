@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-I9010
  */
 final class gt2di9010_gt2di9010 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S (Giorgio Armani)";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S (Giorgio Armani)|Galaxy S";
 }

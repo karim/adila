@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cinema
  */
 final class s9301_cinema {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "DARKSIDE";
+    public static final String DATA = "Enspert|DARKSIDE|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-N7500Q
  */
 final class hl3g_sm2dn7500q {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note 3 Neo";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note 3 Neo|Galaxy Note";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 6036X
  */
 final class miata5flte_6036x {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "Idol2 MINI S";
+    public static final String DATA = "Alcatel|Idol2 MINI S|";
 }

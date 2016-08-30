@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Slate 21
  */
 final class phobos {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate21";
+    public static final String DATA = "HP|Slate21|";
 }

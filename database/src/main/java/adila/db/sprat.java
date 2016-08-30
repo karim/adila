@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Gear Live
  */
 final class sprat {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Gear Live";
+    public static final String DATA = "Samsung|Gear Live|";
 }

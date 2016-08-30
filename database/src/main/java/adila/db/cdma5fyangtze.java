@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT881
  */
 final class cdma5fyangtze {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "ELECTRIFY 2";
+    public static final String DATA = "Motorola|ELECTRIFY 2|";
 }

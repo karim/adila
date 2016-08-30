@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Skill
  */
 final class skill_skill {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "Skill";
+    public static final String DATA = "Haier|Skill|";
 }

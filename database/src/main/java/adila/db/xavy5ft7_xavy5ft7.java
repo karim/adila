@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Xavy_T7
  */
 final class xavy5ft7_xavy5ft7 {
-    public static final String MANUFACTURER = "Vonino";
-    public static final String NAME = "Xavy_T7";
+    public static final String DATA = "Vonino|Xavy_T7|";
 }

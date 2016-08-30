@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AND1E
  */
 final class philipstv {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "Philips Android 2014";
+    public static final String DATA = "Philips|Philips Android 2014|";
 }

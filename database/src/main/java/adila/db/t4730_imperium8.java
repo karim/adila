@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Imperium8
  */
 final class t4730_imperium8 {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Imperium 8";
+    public static final String DATA = "Explay|Imperium 8|";
 }

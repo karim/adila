@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nexus 7
  */
 final class flo {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Nexus 7 (2013)";
+    public static final String DATA = "Asus|Nexus 7 (2013)|";
 }

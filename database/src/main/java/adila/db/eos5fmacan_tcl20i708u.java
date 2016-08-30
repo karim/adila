@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL i708U
  */
 final class eos5fmacan_tcl20i708u {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL i708U";
+    public static final String DATA = "Alcatel|TCL i708U|";
 }

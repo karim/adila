@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MegaFon SP-A5
  */
 final class blade_megafon20sp2da5 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

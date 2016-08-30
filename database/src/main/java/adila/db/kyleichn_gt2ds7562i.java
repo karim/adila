@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7562i
  */
 final class kyleichn_gt2ds7562i {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Trend Duos";
+    public static final String DATA = "Samsung|Galaxy Trend Duos|";
 }

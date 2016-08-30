@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FTJ152C
  */
 final class ftj152c_ftj152c {
-    public static final String MANUFACTURER = "Plusone";
-    public static final String NAME = "FTJ152C";
+    public static final String DATA = "Plusone|FTJ152C|";
 }

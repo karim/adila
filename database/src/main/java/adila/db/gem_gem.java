@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GEM
  */
 final class gem_gem {
-    public static final String MANUFACTURER = "Mobicell";
-    public static final String NAME = "GEM";
+    public static final String DATA = "Mobicell|GEM|";
 }

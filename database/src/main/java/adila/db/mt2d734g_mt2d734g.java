@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MT-734G
  */
 final class mt2d734g_mt2d734g {
-    public static final String MANUFACTURER = "Apex";
-    public static final String NAME = "MT-734G";
+    public static final String DATA = "Apex|MT-734G|";
 }

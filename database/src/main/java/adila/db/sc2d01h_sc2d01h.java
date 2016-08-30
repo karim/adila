@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SC-01H
  */
 final class sc2d01h_sc2d01h {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Active neo";
+    public static final String DATA = "Samsung|Galaxy Active neo|";
 }

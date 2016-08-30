@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE U988S
  */
 final class pluto {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "U988S";
+    public static final String DATA = "ZTE|U988S|";
 }

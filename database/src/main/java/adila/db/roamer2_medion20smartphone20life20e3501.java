@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MEDION Smartphone LIFE E3501
  */
 final class roamer2_medion20smartphone20life20e3501 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "MEDION Smartphone LIFE E3501";
+    public static final String DATA = "ZTE|MEDION Smartphone LIFE E3501|";
 }

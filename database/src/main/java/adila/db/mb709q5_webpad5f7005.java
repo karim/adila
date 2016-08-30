@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Webpad_7005
  */
 final class mb709q5_webpad5f7005 {
-    public static final String MANUFACTURER = "Sourcing Creation";
-    public static final String NAME = "webpad_7005";
+    public static final String DATA = "Sourcing Creation|webpad_7005|";
 }

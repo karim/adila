@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BP-1001
  */
 final class bp2d1001_bp2d1001 {
-    public static final String MANUFACTURER = "Woongjin";
-    public static final String NAME = "WoongjinThinkbig";
+    public static final String DATA = "Woongjin|WoongjinThinkbig|";
 }

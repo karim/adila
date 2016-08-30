@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TM75A-V
  */
 final class tm75a2dv_tm75a2dv {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "TM75A-V";
+    public static final String DATA = "Gigabyte|TM75A-V|";
 }

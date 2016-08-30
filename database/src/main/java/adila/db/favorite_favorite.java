@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Favorite
  */
 final class favorite_favorite {
-    public static final String MANUFACTURER = "Explay";
-    public static final String NAME = "Favorite";
+    public static final String DATA = "Explay|Favorite|";
 }

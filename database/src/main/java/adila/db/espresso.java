@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T-Mobile myTouch 3G Slide
  */
 final class espresso {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "myTouch 3G Slide";
+    public static final String DATA = "HTC|myTouch 3G Slide|";
 }

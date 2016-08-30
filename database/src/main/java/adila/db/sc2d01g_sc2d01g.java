@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SC-01G
  */
 final class sc2d01g_sc2d01g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note Edge";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note Edge|Galaxy Note";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ITP-R208W
  */
 final class rk30sdk {
-    public static final String MANUFACTURER = "SK Telesys";
-    public static final String NAME = "ITP-R208W";
+    public static final String DATA = "SK Telesys|ITP-R208W|";
 }

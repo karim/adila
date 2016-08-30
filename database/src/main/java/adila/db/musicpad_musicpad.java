@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MusicPAD
  */
 final class musicpad_musicpad {
-    public static final String MANUFACTURER = "Vonino";
-    public static final String NAME = "MusicPAD";
+    public static final String DATA = "Vonino|MusicPAD|";
 }

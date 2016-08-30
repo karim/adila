@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LS-5021
  */
 final class zte5ft920_ls2d5021 {
-    public static final String MANUFACTURER = "Lyf";
-    public static final String NAME = "LS-5021";
+    public static final String DATA = "Lyf|LS-5021|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: N9520
  */
 final class stormer {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "N9520";
+    public static final String DATA = "ZTE|N9520|";
 }

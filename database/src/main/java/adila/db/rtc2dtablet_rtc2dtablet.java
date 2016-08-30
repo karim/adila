@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RTC-tablet
  */
 final class rtc2dtablet_rtc2dtablet {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "RTC-700A";
+    public static final String DATA = "Asus|RTC-700A|";
 }

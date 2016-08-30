@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Lenovo A765e
  */
 final class aruba {
-    public static final String MANUFACTURER = "Lenovo";
+    public static final String DATA = "Lenovo||";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-T999N
  */
 final class d2ltemetropcs_sgh2dt999n {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S3";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S3|Galaxy S";
 }

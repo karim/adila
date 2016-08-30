@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LC-Ux30US
  */
 final class sharp5f2k155fus5fandroid {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "LC-**UH30U";
+    public static final String DATA = "Sharp|LC-**UH30U|";
 }

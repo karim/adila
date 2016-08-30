@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-S720C
  */
 final class sch2ds720c_sch2ds720c {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Proclaim";
+    public static final String DATA = "Samsung|Galaxy Proclaim|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Agora Lite
  */
 final class agora5flite_agora20lite {
-    public static final String MANUFACTURER = "BenQ";
-    public static final String NAME = "Agora_Lite";
+    public static final String DATA = "BenQ|Agora_Lite|";
 }

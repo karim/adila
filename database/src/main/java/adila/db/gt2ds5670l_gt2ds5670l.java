@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5670L
  */
 final class gt2ds5670l_gt2ds5670l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Fit";
+    public static final String DATA = "Samsung|Galaxy Fit|";
 }

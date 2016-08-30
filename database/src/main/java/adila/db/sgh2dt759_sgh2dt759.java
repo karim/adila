@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SGH-T759
  */
 final class sgh2dt759_sgh2dt759 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Exhibit";
+    public static final String DATA = "Samsung|Exhibit|";
 }

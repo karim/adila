@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TC80RA1
  */
 final class tc80ra15f3_tc80ra1 {
-    public static final String MANUFACTURER = "Ceibal";
-    public static final String NAME = "TC80RA1";
+    public static final String DATA = "Ceibal|TC80RA1|";
 }

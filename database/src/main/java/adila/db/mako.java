@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nexus 4
  */
 final class mako {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Nexus 4";
+    public static final String DATA = "LG|Nexus 4|";
 }

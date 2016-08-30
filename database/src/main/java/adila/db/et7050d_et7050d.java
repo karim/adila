@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ET7050D
  */
 final class et7050d_et7050d {
-    public static final String MANUFACTURER = "Impecca";
-    public static final String NAME = "ET7050D";
+    public static final String DATA = "Impecca|ET7050D|";
 }

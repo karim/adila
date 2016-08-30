@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMART_PLUS
  */
 final class pixi45f555f3g_smart5fplus {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "SMART_PLUS";
+    public static final String DATA = "Alcatel|SMART_PLUS|";
 }

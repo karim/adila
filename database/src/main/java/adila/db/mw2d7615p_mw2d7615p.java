@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MW-7615P
  */
 final class mw2d7615p_mw2d7615p {
-    public static final String MANUFACTURER = "Lazer";
-    public static final String NAME = "MW-7615P";
+    public static final String DATA = "Lazer|MW-7615P|";
 }

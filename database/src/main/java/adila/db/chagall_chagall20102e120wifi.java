@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Chagall 10.1 WiFi
  */
 final class chagall_chagall20102e120wifi {
-    public static final String MANUFACTURER = "Pegatron";
-    public static final String NAME = "chagall";
+    public static final String DATA = "Pegatron|chagall|";
 }

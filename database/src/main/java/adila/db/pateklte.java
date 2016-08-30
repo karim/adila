@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-W2015
  */
 final class pateklte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Golden 2";
+    public static final String DATA = "Samsung|Galaxy Golden 2|";
 }

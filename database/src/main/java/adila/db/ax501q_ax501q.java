@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AX501Q
  */
 final class ax501q_ax501q {
-    public static final String MANUFACTURER = "AllView";
-    public static final String NAME = "AX501Q";
+    public static final String DATA = "AllView|AX501Q|";
 }

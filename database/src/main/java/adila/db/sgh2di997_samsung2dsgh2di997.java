@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SGH-I997
  */
 final class sgh2di997_samsung2dsgh2di997 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Infuse";
+    public static final String DATA = "Samsung|Infuse|";
 }

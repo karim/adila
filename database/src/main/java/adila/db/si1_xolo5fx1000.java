@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XOLO_X1000
  */
 final class si1_xolo5fx1000 {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "XOLO_X1000";
+    public static final String DATA = "Foxconn|XOLO_X1000|";
 }

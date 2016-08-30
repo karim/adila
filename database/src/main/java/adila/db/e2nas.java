@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LGLS660
  */
 final class e2nas {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "F60";
+    public static final String DATA = "LG|F60|";
 }

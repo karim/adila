@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VP700
  */
 final class s1u_vp700 {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "vizio VP700";
+    public static final String DATA = "Foxconn|vizio VP700|";
 }

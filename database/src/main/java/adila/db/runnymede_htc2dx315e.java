@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC-X315E
  */
 final class runnymede_htc2dx315e {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Sensation XL with Beats Audio X315e";
+    public static final String DATA = "HTC|Sensation XL with Beats Audio X315e|";
 }

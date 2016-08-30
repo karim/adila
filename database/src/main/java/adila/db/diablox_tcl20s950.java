@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL S950
  */
 final class diablox_tcl20s950 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONE TOUCH 6040D";
+    public static final String DATA = "Alcatel|ONE TOUCH 6040D|";
 }

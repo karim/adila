@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Kis Pro
  */
 final class nice_zte20kis20pro {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Kis Pro";
+    public static final String DATA = "ZTE|Kis Pro|";
 }

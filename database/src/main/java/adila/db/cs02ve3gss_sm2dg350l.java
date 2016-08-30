@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G350L
  */
 final class cs02ve3gss_sm2dg350l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core Plus";
+    public static final String DATA = "Samsung|Galaxy Core Plus|";
 }

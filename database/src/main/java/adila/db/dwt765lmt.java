@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: skipper
  */
 final class dwt765lmt {
-    public static final String MANUFACTURER = "Technicolor";
-    public static final String NAME = "LMT viedtelevizijas iekarta";
+    public static final String DATA = "Technicolor|LMT viedtelevizijas iekarta|";
 }

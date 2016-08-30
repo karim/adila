@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TGW801L
  */
 final class tgw801l_tgw801l {
-    public static final String MANUFACTURER = "Condor";
-    public static final String NAME = "Condor TGW801L";
+    public static final String DATA = "Condor|Condor TGW801L|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ME501
  */
 final class zeppelin_me501 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Cliq-XT";
+    public static final String DATA = "Motorola|Cliq-XT|";
 }

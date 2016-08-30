@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Discovery Air
  */
 final class discovery5fair_discovery20air {
-    public static final String MANUFACTURER = "General Mobile";
-    public static final String NAME = "Discovery Air";
+    public static final String DATA = "General Mobile|Discovery Air|";
 }

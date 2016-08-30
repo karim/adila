@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SF550
  */
 final class sf550_sf550 {
-    public static final String MANUFACTURER = "Bluebird";
-    public static final String NAME = "SF550";
+    public static final String DATA = "Bluebird|SF550|";
 }

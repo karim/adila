@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 8744
  */
 final class thor5f6dq_8744 {
-    public static final String MANUFACTURER = "Spectralink";
-    public static final String NAME = "8744";
+    public static final String DATA = "Spectralink|8744|";
 }

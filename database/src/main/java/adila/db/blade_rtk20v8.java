@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RTK V8
  */
 final class blade_rtk20v8 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade";
+    public static final String DATA = "ZTE|Blade|";
 }

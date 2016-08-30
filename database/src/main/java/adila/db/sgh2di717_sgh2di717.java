@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-I717
  */
 final class sgh2di717_sgh2di717 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note|Galaxy Note";
 }

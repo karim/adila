@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VS910 4G
  */
 final class bryce {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Revolution";
+    public static final String DATA = "LG|Revolution|";
 }

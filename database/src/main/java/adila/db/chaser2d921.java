@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Chaser
  */
 final class chaser2d921 {
-    public static final String MANUFACTURER = "Teleepoch";
+    public static final String DATA = "Teleepoch||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Fuel F2
  */
 final class iff2_fuel20f2 {
-    public static final String MANUFACTURER = "Lava";
-    public static final String NAME = "Iris Fuel F2";
+    public static final String DATA = "Lava|Iris Fuel F2|";
 }

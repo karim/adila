@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS_Z017D
  */
 final class asus5fz017d5f1_asus5fz017d {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "ZenFone3";
+    public static final String DATA = "Asus|ZenFone3|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Movitel M8410
  */
 final class p172d04_movitel20m8410 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "C310";
+    public static final String DATA = "ZTE|C310|";
 }

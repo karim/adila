@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Dtac phone Joey Jet 2
  */
 final class joey5fjet5f2_dtac20phone20joey20jet202 {
-    public static final String MANUFACTURER = "Hipstreet";
-    public static final String NAME = "Joey Jet 2";
+    public static final String DATA = "Hipstreet|Joey Jet 2|";
 }

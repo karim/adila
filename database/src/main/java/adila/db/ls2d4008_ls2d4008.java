@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LS-4008
  */
 final class ls2d4008_ls2d4008 {
-    public static final String MANUFACTURER = "Reliance";
-    public static final String NAME = "LS-4008";
+    public static final String DATA = "Reliance|LS-4008|";
 }

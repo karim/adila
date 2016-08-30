@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: RAINBOW JAM
  */
 final class s5254ap24k_rainbow20jam {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "RAINBOW JAM";
+    public static final String DATA = "Wiko|RAINBOW JAM|";
 }

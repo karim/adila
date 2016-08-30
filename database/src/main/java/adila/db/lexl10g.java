@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LEX L10g
  */
 final class lexl10g {
-    public static final String MANUFACTURER = "Motorola Solutions";
-    public static final String NAME = "LEX L10g";
+    public static final String DATA = "Motorola Solutions|LEX L10g|";
 }

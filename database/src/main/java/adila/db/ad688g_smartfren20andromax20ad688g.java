@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smartfren Andromax AD688G
  */
 final class ad688g_smartfren20andromax20ad688g {
-    public static final String MANUFACTURER = "Smartfren";
-    public static final String NAME = "AD688G";
+    public static final String DATA = "Smartfren|AD688G|";
 }

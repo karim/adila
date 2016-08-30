@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: OCTA
  */
 final class octa_octa {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "OCTA";
+    public static final String DATA = "Positivo|OCTA|";
 }

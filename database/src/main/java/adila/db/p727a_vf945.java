@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: VF945
  */
 final class p727a_vf945 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

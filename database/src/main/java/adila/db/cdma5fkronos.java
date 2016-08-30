@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MB612
  */
 final class cdma5fkronos {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Rono
  */
 final class vec4g_orange20rono {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Orange Rono";
+    public static final String DATA = "ZTE|Orange Rono|";
 }

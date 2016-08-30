@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Dialog Q143L
  */
 final class frosty_dialog20q143l {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Dialog Q143L";
+    public static final String DATA = "ZTE|Dialog Q143L|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MotoE2(4G-LTE)
  */
 final class surnia5fudstv {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto E with 4G LTE (2nd Gen)";
+    public static final String DATA = "Motorola|Moto E with 4G LTE (2nd Gen)|";
 }

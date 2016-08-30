@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DSlide750
  */
 final class danew5fdslide750_dslide750 {
-    public static final String MANUFACTURER = "Danew";
-    public static final String NAME = "Danew DSlide 750";
+    public static final String DATA = "Danew|Danew DSlide 750|";
 }

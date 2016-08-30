@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo PB1-750M
  */
 final class pb12d750m_lenovo20pb12d750m {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "PB1-750M/PHAB";
+    public static final String DATA = "Lenovo|PB1-750M/PHAB|";
 }

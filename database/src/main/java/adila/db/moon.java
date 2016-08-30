@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PantechP8000
  */
 final class moon {
-    public static final String MANUFACTURER = "Pantech";
-    public static final String NAME = "Crossover";
+    public static final String DATA = "Pantech|Crossover|";
 }

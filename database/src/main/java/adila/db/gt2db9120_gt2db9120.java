@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-B9120
  */
 final class gt2db9120_gt2db9120 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Absolute";
+    public static final String DATA = "Samsung|Absolute|";
 }

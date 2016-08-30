@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC_M8Sy
  */
 final class htc5fmecdug_htc5fm8sy {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One (E8) dual sim";
+    public static final String DATA = "HTC|One (E8) dual sim|";
 }

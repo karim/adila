@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EB-L76G-B
  */
 final class eb2dl76g2db_eb2dl76g2db {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "Media Tablet";
+    public static final String DATA = "Sharp|Media Tablet|";
 }

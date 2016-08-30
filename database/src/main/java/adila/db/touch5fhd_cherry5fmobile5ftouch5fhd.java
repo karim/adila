@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cherry_Mobile_Touch_HD
  */
 final class touch5fhd_cherry5fmobile5ftouch5fhd {
-    public static final String MANUFACTURER = "Cherry Mobile";
-    public static final String NAME = "Touch HD";
+    public static final String DATA = "Cherry Mobile|Touch HD|";
 }

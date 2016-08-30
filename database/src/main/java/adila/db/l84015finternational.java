@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MACARON
  */
 final class l84015finternational {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "MACARON";
+    public static final String DATA = "Wiko|MACARON|";
 }

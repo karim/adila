@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 6042D
  */
 final class crossapac_6042d {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "6042D";
+    public static final String DATA = "Alcatel|6042D|";
 }

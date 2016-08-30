@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: STUDIO 5.5 HD
  */
 final class s150_studio2052e520hd {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Studio 5.5 HD";
-    public static final String SERIES = "Studio";
+    public static final String DATA = "Blu|Studio 5.5 HD|Studio";
 }

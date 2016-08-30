@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T535
  */
 final class matisselte {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 4 10.0";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 4 10.0|Galaxy Tab";
 }

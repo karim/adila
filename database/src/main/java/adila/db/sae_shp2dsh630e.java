@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHP-SH630E
  */
 final class sae_shp2dsh630e {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "SHARP SH630E";
+    public static final String DATA = "Foxconn|SHARP SH630E|";
 }

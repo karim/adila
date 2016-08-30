@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GoTab_GBT10
  */
 final class gbt10_gotab5fgbt10 {
-    public static final String MANUFACTURER = "My Go";
-    public static final String NAME = "GoTab GBT10";
+    public static final String DATA = "My Go|GoTab GBT10|";
 }

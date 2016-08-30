@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo TAB 2 A10-70L
  */
 final class a102d70l_lenovo20tab20220a102d70l {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "TAB 2 A10";
+    public static final String DATA = "Lenovo|TAB 2 A10|";
 }

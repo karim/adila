@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: T-Hub2
  */
 final class omap45fwt3_t2dhub2 {
-    public static final String MANUFACTURER = "Technicolor";
+    public static final String DATA = "Technicolor||";
 }

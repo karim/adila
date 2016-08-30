@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-P7500M
  */
 final class gt2dp7500m_gt2dp7500m {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 10.1";
+    public static final String DATA = "Samsung|Galaxy Tab 10.1|";
 }

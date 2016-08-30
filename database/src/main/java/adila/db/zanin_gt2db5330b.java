@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-B5330B
  */
 final class zanin_gt2db5330b {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Chat";
+    public static final String DATA = "Samsung|Galaxy Chat|";
 }

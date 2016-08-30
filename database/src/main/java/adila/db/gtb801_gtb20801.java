@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GTB 801
  */
 final class gtb801_gtb20801 {
-    public static final String MANUFACTURER = "Grundig";
-    public static final String NAME = "TC69CA2";
+    public static final String DATA = "Grundig|TC69CA2|";
 }

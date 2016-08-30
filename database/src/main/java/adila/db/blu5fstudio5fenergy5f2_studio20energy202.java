@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: STUDIO ENERGY 2
  */
 final class blu5fstudio5fenergy5f2_studio20energy202 {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Studio Energy 2";
-    public static final String SERIES = "Studio";
+    public static final String DATA = "Blu|Studio Energy 2|Studio";
 }

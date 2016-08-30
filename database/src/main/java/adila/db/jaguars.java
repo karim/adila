@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHV-E170S
  */
 final class jaguars {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy R-Style";
+    public static final String DATA = "Samsung|Galaxy R-Style|";
 }

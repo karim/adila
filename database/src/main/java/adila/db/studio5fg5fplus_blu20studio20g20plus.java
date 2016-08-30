@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: BLU STUDIO G PLUS
  */
 final class studio5fg5fplus_blu20studio20g20plus {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Studio G Plus";
-    public static final String SERIES = "Studio";
+    public static final String DATA = "Blu|Studio G Plus|Studio";
 }

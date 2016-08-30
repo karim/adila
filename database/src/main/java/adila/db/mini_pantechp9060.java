@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PantechP9060
  */
 final class mini_pantechp9060 {
-    public static final String MANUFACTURER = "Pantech";
-    public static final String NAME = "Pocket";
+    public static final String DATA = "Pantech|Pocket|";
 }

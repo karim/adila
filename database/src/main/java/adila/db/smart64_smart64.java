@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SMART64
  */
 final class smart64_smart64 {
-    public static final String MANUFACTURER = "Binatone";
-    public static final String NAME = "SMART64";
+    public static final String DATA = "Binatone|SMART64|";
 }

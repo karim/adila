@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Freedom Plus LTE
  */
 final class freedom5fplus5flte_freedom20plus20lte {
-    public static final String MANUFACTURER = "AG Mobile";
-    public static final String NAME = "Freedom Plus LTE";
+    public static final String DATA = "AG Mobile|Freedom Plus LTE|";
 }

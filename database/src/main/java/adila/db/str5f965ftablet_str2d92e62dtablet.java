@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STR-9.6-Tablet
  */
 final class str5f965ftablet_str2d92e62dtablet {
-    public static final String MANUFACTURER = "MachSpeed";
-    public static final String NAME = "STR-9.6-Tablet";
+    public static final String DATA = "MachSpeed|STR-9.6-Tablet|";
 }

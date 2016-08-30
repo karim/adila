@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: C15150m
  */
 final class pixi32d75fkd_c15150m {
-    public static final String MANUFACTURER = "KD Interactive";
-    public static final String NAME = "C15150m";
+    public static final String DATA = "KD Interactive|C15150m|";
 }

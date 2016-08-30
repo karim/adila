@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC EVARE_UL
  */
 final class evitareul_htc20evare5ful {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "AT&T HTC One X+";
+    public static final String DATA = "HTC|AT&T HTC One X+|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G7102
  */
 final class ms013g_sm2dg7102 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Grand 2";
+    public static final String DATA = "Samsung|Galaxy Grand 2|";
 }

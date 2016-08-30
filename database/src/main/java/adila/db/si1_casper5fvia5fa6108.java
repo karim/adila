@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Casper_VIA_A6108
  */
 final class si1_casper5fvia5fa6108 {
-    public static final String MANUFACTURER = "Foxconn";
-    public static final String NAME = "Casper_VIA_A6108";
+    public static final String DATA = "Foxconn|Casper_VIA_A6108|";
 }

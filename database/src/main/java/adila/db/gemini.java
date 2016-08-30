@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MI 5
  */
 final class gemini {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "Mi 5";
+    public static final String DATA = "Xiaomi|Mi 5|";
 }

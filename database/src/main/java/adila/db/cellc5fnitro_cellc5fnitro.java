@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CELLC_Nitro
  */
 final class cellc5fnitro_cellc5fnitro {
-    public static final String MANUFACTURER = "Cell C";
-    public static final String NAME = "Nitro";
+    public static final String DATA = "Cell C|Nitro|";
 }

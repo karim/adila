@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: CSL-MI410
  */
 final class mi410 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

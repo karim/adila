@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TOSPASB
  */
 final class tospasb_tospasb {
-    public static final String MANUFACTURER = "Toshiba";
-    public static final String NAME = "STB10";
+    public static final String DATA = "Toshiba|STB10|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X3-55 Pro
  */
 final class l553an5fus_x32d5520pro {
-    public static final String MANUFACTURER = "LeTV";
-    public static final String NAME = "Super TV X3-55 Pro";
+    public static final String DATA = "LeTV|Super TV X3-55 Pro|";
 }

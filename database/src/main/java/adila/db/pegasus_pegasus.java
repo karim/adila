@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Pegasus
  */
 final class pegasus_pegasus {
-    public static final String MANUFACTURER = "Mobiwire";
-    public static final String NAME = "Pegasus";
+    public static final String DATA = "Mobiwire|Pegasus|";
 }

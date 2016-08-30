@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-T879
  */
 final class sgh2dt879_sgh2dt879 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note|Galaxy Note";
 }

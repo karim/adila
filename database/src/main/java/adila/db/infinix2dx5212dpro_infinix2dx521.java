@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Infinix-X521
  */
 final class infinix2dx5212dpro_infinix2dx521 {
-    public static final String MANUFACTURER = "Infinix";
-    public static final String NAME = "X521";
+    public static final String DATA = "Infinix|X521|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Smartfren Andromax NC36B1G
  */
 final class hs8610qc_smartfren20andromax20nc36b1g {
-    public static final String MANUFACTURER = "Smartfren";
-    public static final String NAME = "NC36B1G";
+    public static final String DATA = "Smartfren|NC36B1G|";
 }

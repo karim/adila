@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: K-Touch 920
  */
 final class ktouch920_k2dtouch20920 {
-    public static final String MANUFACTURER = "K-Touch";
-    public static final String NAME = "K-Touch920";
+    public static final String DATA = "K-Touch|K-Touch920|";
 }

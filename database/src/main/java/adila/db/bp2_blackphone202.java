@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Blackphone 2
  */
 final class bp2_blackphone202 {
-    public static final String MANUFACTURER = "Silent Circle";
-    public static final String NAME = "Blackphone 2";
+    public static final String DATA = "Silent Circle|Blackphone 2|";
 }

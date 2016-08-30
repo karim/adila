@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Bittium Tough Mobile
  */
 final class granite_bittium20tough20mobile {
-    public static final String MANUFACTURER = "Bittium";
-    public static final String NAME = "Air-Lynx ALS14000";
+    public static final String DATA = "Bittium|Air-Lynx ALS14000|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-M919N
  */
 final class jfltemetropcs_sgh2dm919n {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S4";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S4|Galaxy S";
 }

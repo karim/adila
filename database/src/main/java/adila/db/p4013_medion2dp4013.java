@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MEDION-P4013
  */
 final class p4013_medion2dp4013 {
-    public static final String MANUFACTURER = "Hisense";
+    public static final String DATA = "Hisense||";
 }

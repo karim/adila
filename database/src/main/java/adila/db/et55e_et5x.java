@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ET5X
  */
 final class et55e_et5x {
-    public static final String MANUFACTURER = "Zebra";
-    public static final String NAME = "ET5X";
+    public static final String DATA = "Zebra|ET5X|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MiTV2
  */
 final class entrapment {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "MiTV2";
+    public static final String DATA = "Xiaomi|MiTV2|";
 }

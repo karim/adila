@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: E10319
  */
 final class e10319_e10319 {
-    public static final String MANUFACTURER = "Medion";
-    public static final String NAME = "microstar E10319";
+    public static final String DATA = "Medion|microstar E10319|";
 }

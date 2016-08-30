@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ME863
  */
 final class umts5fsolana_me863 {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

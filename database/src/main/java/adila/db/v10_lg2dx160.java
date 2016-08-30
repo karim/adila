@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-X160
  */
 final class v10_lg2dx160 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Max";
+    public static final String DATA = "LG|Max|";
 }

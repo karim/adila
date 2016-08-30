@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: USS
  */
 final class grizzlies5ftelefi4wm {
-    public static final String MANUFACTURER = "Ubiquiti";
-    public static final String NAME = "USS";
+    public static final String DATA = "Ubiquiti|USS|";
 }

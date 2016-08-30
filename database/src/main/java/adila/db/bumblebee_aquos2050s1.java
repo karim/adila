@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AQUOS 50S1
  */
 final class bumblebee_aquos2050s1 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "AQUOS LCD-50S1A";
+    public static final String DATA = "Lenovo|AQUOS LCD-50S1A|";
 }

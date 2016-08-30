@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP 7 VoiceTab
  */
 final class klondike {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "7 Voice Tab";
+    public static final String DATA = "HP|7 Voice Tab|";
 }

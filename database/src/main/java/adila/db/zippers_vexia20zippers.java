@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vexia Zippers
  */
 final class zippers_vexia20zippers {
-    public static final String MANUFACTURER = "BYD";
-    public static final String NAME = "Zippers";
+    public static final String DATA = "BYD|Zippers|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F100S
  */
 final class batman_lg2df100s {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Vu";
+    public static final String DATA = "LG|Optimus Vu|";
 }

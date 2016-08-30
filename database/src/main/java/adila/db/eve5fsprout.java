@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 507SH
  */
 final class eve5fsprout {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "507SH";
+    public static final String DATA = "Sharp|507SH|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M823
  */
 final class m8235fcmcc {
-    public static final String MANUFACTURER = "China Mobile";
-    public static final String NAME = "n1 max";
+    public static final String DATA = "China Mobile|n1 max|";
 }

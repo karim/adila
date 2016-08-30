@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LED50K380U
  */
 final class msd6a918_led50k380u {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "LED50K380U";
+    public static final String DATA = "Hisense|LED50K380U|";
 }

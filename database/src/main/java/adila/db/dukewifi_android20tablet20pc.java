@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Android Tablet PC
  */
 final class dukewifi_android20tablet20pc {
-    public static final String MANUFACTURER = "Pegatron";
+    public static final String DATA = "Pegatron||";
 }

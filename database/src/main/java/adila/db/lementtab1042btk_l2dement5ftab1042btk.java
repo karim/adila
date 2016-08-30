@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L-EMENT_TAB1042BTK
  */
 final class lementtab1042btk_l2dement5ftab1042btk {
-    public static final String MANUFACTURER = "Logicom";
-    public static final String NAME = "L-EMENTTAB1042";
+    public static final String DATA = "Logicom|L-EMENTTAB1042|";
 }

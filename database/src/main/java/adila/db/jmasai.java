@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: IS06
  */
 final class jmasai {
-    public static final String MANUFACTURER = "Pantech";
-    public static final String NAME = "SIRIUS";
+    public static final String DATA = "Pantech|SIRIUS|";
 }

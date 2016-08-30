@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHIELD
  */
 final class roth {
-    public static final String MANUFACTURER = "NVidia";
-    public static final String NAME = "Shield";
+    public static final String DATA = "NVidia|Shield|";
 }

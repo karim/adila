@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EVO
  */
 final class jewel {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "EVO 4G LTE";
+    public static final String DATA = "HTC|EVO 4G LTE|";
 }

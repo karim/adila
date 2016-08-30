@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Essentielb-Black Diamond
  */
 final class bird775fa5fcu5fics2 {
-    public static final String MANUFACTURER = "essentielb";
-    public static final String NAME = "Essentielb- Black Diamond";
+    public static final String DATA = "essentielb|Essentielb- Black Diamond|";
 }

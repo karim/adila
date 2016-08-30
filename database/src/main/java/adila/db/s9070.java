@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SUBLIM
  */
 final class s9070 {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "WIKO SUBLIM";
+    public static final String DATA = "Enspert|WIKO SUBLIM|";
 }

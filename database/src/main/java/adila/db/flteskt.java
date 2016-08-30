@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G910S
  */
 final class flteskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Round";
+    public static final String DATA = "Samsung|Galaxy Round|";
 }

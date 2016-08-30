@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FP-U320-INF-WLTW
  */
 final class u3202dwf_fp2du3202dinf2dwltw {
-    public static final String MANUFACTURER = "InFocus";
-    public static final String NAME = "FP-U320-INF-WLTW";
+    public static final String DATA = "InFocus|FP-U320-INF-WLTW|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1254
  */
 final class quark_xt1254 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Droid Turbo";
+    public static final String DATA = "Motorola|Droid Turbo|";
 }

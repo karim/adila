@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Samba
  */
 final class samba_samba {
-    public static final String MANUFACTURER = "Mobicel";
-    public static final String NAME = "Samba";
+    public static final String DATA = "Mobicel|Samba|";
 }

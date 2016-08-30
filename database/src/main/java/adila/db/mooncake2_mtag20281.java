@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Mtag 281
  */
 final class mooncake2_mtag20281 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

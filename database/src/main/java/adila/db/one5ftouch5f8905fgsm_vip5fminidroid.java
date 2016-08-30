@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Vip_MiniDroid
  */
 final class one5ftouch5f8905fgsm_vip5fminidroid {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Aprix Tab64
  */
 final class aprixtab64_aprix20tab64 {
-    public static final String MANUFACTURER = "Aprix";
-    public static final String NAME = "Tab64";
+    public static final String DATA = "Aprix|Tab64|";
 }

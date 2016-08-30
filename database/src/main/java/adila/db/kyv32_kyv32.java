@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KYV32
  */
 final class kyv32_kyv32 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "BASIO";
+    public static final String DATA = "Kyocera|BASIO|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LenovoTV 50S52
  */
 final class bumblebee_lenovotv2050s52 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "LenovoTV 50S52";
+    public static final String DATA = "Lenovo|LenovoTV 50S52|";
 }

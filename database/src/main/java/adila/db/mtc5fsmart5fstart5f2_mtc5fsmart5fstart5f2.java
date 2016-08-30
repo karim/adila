@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC_SMART_Start_2
  */
 final class mtc5fsmart5fstart5f2_mtc5fsmart5fstart5f2 {
-    public static final String MANUFACTURER = "MobileTeleSystem";
-    public static final String NAME = "SMART Start 2";
+    public static final String DATA = "MobileTeleSystem|SMART Start 2|";
 }

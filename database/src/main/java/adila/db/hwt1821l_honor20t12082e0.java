@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Honor T1 8.0
  */
 final class hwt1821l_honor20t12082e0 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "t1_8p0lte";
+    public static final String DATA = "Huawei|t1_8p0lte|";
 }

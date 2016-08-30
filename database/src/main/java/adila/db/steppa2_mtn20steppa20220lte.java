@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTN Steppa 2 LTE
  */
 final class steppa2_mtn20steppa20220lte {
-    public static final String MANUFACTURER = "MTN Group";
-    public static final String NAME = "Steppa 2 LTE";
+    public static final String DATA = "MTN Group|Steppa 2 LTE|";
 }

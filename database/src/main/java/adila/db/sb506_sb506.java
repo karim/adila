@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SB506
  */
 final class sb506_sb506 {
-    public static final String MANUFACTURER = "Gigabyte";
-    public static final String NAME = "Gigabyte SB506";
+    public static final String DATA = "Gigabyte|Gigabyte SB506|";
 }

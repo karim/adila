@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EB-WX1GJ
  */
 final class galapagos_eb2dwx1gj {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "EB-WX1GJ/EB-W51GJ";
+    public static final String DATA = "Sharp|EB-WX1GJ/EB-W51GJ|";
 }

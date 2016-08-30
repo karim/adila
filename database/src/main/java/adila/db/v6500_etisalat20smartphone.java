@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Etisalat Smartphone
  */
 final class v6500_etisalat20smartphone {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "V6500";
+    public static final String DATA = "ZTE|V6500|";
 }

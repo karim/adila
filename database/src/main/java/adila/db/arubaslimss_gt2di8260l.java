@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8260L
  */
 final class arubaslimss_gt2di8260l {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core";
+    public static final String DATA = "Samsung|Galaxy Core|";
 }

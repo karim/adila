@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ME171
  */
 final class ep71_me171 {
-    public static final String MANUFACTURER = "Asus";
+    public static final String DATA = "Asus||";
 }

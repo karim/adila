@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT540R
  */
 final class swift_gt540r {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Swift";
+    public static final String DATA = "LG|Swift|";
 }

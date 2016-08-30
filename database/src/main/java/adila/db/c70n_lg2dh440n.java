@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-H440n
  */
 final class c70n_lg2dh440n {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Spirit 4G LTE";
+    public static final String DATA = "LG|Spirit 4G LTE|";
 }

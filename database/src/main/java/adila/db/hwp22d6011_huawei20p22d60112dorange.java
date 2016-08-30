@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: HUAWEI P2-6011-orange
  */
 final class hwp22d6011_huawei20p22d60112dorange {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

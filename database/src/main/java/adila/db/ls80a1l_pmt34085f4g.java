@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PMT3408_4G
  */
 final class ls80a1l_pmt34085f4g {
-    public static final String MANUFACTURER = "Prestigio";
-    public static final String NAME = "Multipad Wize 3408 4G";
+    public static final String DATA = "Prestigio|Multipad Wize 3408 4G|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vision20
  */
 final class mt5327_vision20 {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "LED85XT910G3DU";
+    public static final String DATA = "Hisense|LED85XT910G3DU|";
 }

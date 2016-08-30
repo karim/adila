@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHW-M460D
  */
 final class shw2dm460d_shw2dm460d {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Ace Plus";
+    public static final String DATA = "Samsung|Galaxy Ace Plus|";
 }

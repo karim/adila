@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G800HQ
  */
 final class kmini3g_sm2dg800hq {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S5 Mini";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S5 Mini|Galaxy S";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WayteQ Libra
  */
 final class blade_wayteq20libra {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade";
+    public static final String DATA = "ZTE|Blade|";
 }

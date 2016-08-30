@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S5698
  */
 final class gt2ds5698_gt2ds5698 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Xcover";
+    public static final String DATA = "Samsung|Galaxy Xcover|";
 }

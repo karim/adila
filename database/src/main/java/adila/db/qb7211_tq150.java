@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TQ150
  */
 final class qb7211_tq150 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "TQ150";
+    public static final String DATA = "ZTE|TQ150|";
 }

@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-S7582
  */
 final class kyleprods_gt2ds7582 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S Duos 2";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S Duos 2|Galaxy S";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LC-50UE1M
  */
 final class lc2d50ue1m_lc2d50ue1m {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "LC-50UE1M";
+    public static final String DATA = "Sharp|LC-50UE1M|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vodafone Smart ultra 6
  */
 final class p839v55_vodafone20smart20ultra206 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Vodafone Smart ultra 6";
+    public static final String DATA = "ZTE|Vodafone Smart ultra 6|";
 }

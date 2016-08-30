@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE N5L
  */
 final class prmthus {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "N5L";
+    public static final String DATA = "ZTE|N5L|";
 }

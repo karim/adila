@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Avea inTouch 3 Large
  */
 final class p172d10_avea20intouch20320large {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Orange Reyo";
+    public static final String DATA = "ZTE|Orange Reyo|";
 }

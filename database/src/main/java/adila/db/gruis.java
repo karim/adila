@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Z830
  */
 final class gruis {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Z830";
+    public static final String DATA = "ZTE|Z830|";
 }

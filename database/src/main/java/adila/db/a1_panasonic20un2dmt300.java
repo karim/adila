@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Panasonic UN-MT300
  */
 final class a1_panasonic20un2dmt300 {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "UN-MT300";
+    public static final String DATA = "Panasonic|UN-MT300|";
 }

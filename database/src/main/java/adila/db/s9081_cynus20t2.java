@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cynus T2
  */
 final class s9081_cynus20t2 {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "CINK KING";
+    public static final String DATA = "Enspert|CINK KING|";
 }

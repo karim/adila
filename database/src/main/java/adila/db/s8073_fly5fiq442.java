@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Fly_IQ442
  */
 final class s8073_fly5fiq442 {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "CINK SLIM";
+    public static final String DATA = "Enspert|CINK SLIM|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LifeWatch V
  */
 final class hp65775fcts {
-    public static final String MANUFACTURER = "LifeWatch";
-    public static final String NAME = "LifeWatch V , FGL-00004";
+    public static final String DATA = "LifeWatch|LifeWatch V , FGL-00004|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: vivo V3Max+ A
  */
 final class pd1523b_vivo20v3max2b20a {
-    public static final String MANUFACTURER = "Vivo";
-    public static final String NAME = "V3Max + A";
+    public static final String DATA = "Vivo|V3Max + A|";
 }

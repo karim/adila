@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STW2000
  */
 final class h02st1_stw2000 {
-    public static final String MANUFACTURER = "KDDI";
-    public static final String NAME = "STW2000";
+    public static final String DATA = "KDDI|STW2000|";
 }

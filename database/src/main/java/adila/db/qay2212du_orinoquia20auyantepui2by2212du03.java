@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ORINOQUIA Auyantepui+Y221-U03
  */
 final class qay2212du_orinoquia20auyantepui2by2212du03 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Y221-U03";
+    public static final String DATA = "Huawei|Y221-U03|";
 }

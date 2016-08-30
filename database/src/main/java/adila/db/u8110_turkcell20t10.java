@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Turkcell T10
  */
 final class u8110_turkcell20t10 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

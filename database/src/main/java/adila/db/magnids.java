@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Desire SV
  */
 final class magnids {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire SV";
+    public static final String DATA = "HTC|Desire SV|";
 }

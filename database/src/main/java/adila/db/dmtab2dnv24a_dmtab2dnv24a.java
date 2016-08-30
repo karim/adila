@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DMTAB-NV24A
  */
 final class dmtab2dnv24a_dmtab2dnv24a {
-    public static final String MANUFACTURER = "Nabi";
-    public static final String NAME = "Big Tab HD 24\"";
+    public static final String DATA = "Nabi|Big Tab HD 24\"|";
 }

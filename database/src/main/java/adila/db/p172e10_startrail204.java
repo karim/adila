@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STARTRAIL 4
  */
 final class p172e10_startrail204 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "STARTRAIL 4";
+    public static final String DATA = "ZTE|STARTRAIL 4|";
 }

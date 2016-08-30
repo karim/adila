@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: STARTRAIL 6 4G
  */
 final class l681_startrail206204g {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "STARTRAIL 6 4G";
+    public static final String DATA = "Hisense|STARTRAIL 6 4G|";
 }

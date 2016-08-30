@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Vip Racer III
  */
 final class atlas40_vip20racer20iii {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Vip Racer III";
+    public static final String DATA = "ZTE|Vip Racer III|";
 }

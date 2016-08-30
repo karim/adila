@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT1563
  */
 final class lux5fuds_xt1563 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Moto X Play";
+    public static final String DATA = "Motorola|Moto X Play|";
 }

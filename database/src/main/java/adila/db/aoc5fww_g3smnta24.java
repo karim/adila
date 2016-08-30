@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: G3SMNTA24
  */
 final class aoc5fww_g3smnta24 {
-    public static final String MANUFACTURER = "AOC";
-    public static final String NAME = "AOC-A2272PW4T";
+    public static final String DATA = "AOC|AOC-A2272PW4T|";
 }

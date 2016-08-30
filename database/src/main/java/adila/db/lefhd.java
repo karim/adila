@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CHN-UCAN MJ
  */
 final class lefhd {
-    public static final String MANUFACTURER = "CHN TELECOM";
-    public static final String NAME = "CHN-UCAN MJ";
+    public static final String DATA = "CHN TELECOM|CHN-UCAN MJ|";
 }

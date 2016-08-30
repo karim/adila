@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: STK Storm 3
  */
 final class w230_stk20storm203 {
-    public static final String MANUFACTURER = "STK";
-    public static final String NAME = "Storm 3";
-    public static final String SERIES = "Storm";
+    public static final String DATA = "STK|Storm 3|Storm";
 }

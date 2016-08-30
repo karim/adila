@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Quest
  */
 final class quest_quest {
-    public static final String MANUFACTURER = "AG Mobile";
-    public static final String NAME = "Quest";
+    public static final String DATA = "AG Mobile|Quest|";
 }

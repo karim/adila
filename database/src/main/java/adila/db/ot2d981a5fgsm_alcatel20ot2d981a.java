@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Alcatel OT-981A
  */
 final class ot2d981a5fgsm_alcatel20ot2d981a {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

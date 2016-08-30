@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo TB-7703F
  */
 final class tb2d7703f_lenovo20tb2d7703f {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "TAB3 7 Plus";
+    public static final String DATA = "Lenovo|TAB3 7 Plus|";
 }

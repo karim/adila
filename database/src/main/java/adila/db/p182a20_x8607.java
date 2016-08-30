@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X8607
  */
 final class p182a20_x8607 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Blade L3";
+    public static final String DATA = "ZTE|Blade L3|";
 }

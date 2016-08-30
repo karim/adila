@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: tolino tab 8.9
  */
 final class tolino89 {
-    public static final String MANUFACTURER = "TrekStor";
-    public static final String NAME = "TrekStor tolino tab 8.9";
+    public static final String DATA = "TrekStor|TrekStor tolino tab 8.9|";
 }

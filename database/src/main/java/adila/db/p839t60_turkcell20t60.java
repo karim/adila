@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TURKCELL T60
  */
 final class p839t60_turkcell20t60 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "TURKCELL T60";
+    public static final String DATA = "ZTE|TURKCELL T60|";
 }

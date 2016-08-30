@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: SK-S170
  */
 final class k4_sk2ds170 {
-    public static final String MANUFACTURER = "SK Telesys";
+    public static final String DATA = "SK Telesys||";
 }

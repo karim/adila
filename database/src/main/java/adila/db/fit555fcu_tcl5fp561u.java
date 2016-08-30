@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TCL_P561U
  */
 final class fit555fcu_tcl5fp561u {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL_P561U";
+    public static final String DATA = "Alcatel|TCL_P561U|";
 }

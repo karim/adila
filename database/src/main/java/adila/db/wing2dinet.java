@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A720
  */
 final class wing2dinet {
-    public static final String MANUFACTURER = "AZPEN";
-    public static final String NAME = "AZPEN A720";
+    public static final String DATA = "AZPEN|AZPEN A720|";
 }

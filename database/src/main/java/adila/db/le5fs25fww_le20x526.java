@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Le X526
  */
 final class le5fs25fww_le20x526 {
-    public static final String MANUFACTURER = "LeTV";
-    public static final String NAME = "Le 2";
+    public static final String DATA = "LeTV|Le 2|";
 }

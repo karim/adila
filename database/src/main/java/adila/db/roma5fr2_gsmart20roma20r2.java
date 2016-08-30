@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GSmart Roma R2
  */
 final class roma5fr2_gsmart20roma20r2 {
-    public static final String MANUFACTURER = "GSmart";
-    public static final String NAME = "Roma R2";
+    public static final String DATA = "GSmart|Roma R2|";
 }

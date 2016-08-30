@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: D2-721G
  */
 final class d22d721g_d22d721g {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "D2-721G";
+    public static final String DATA = "Anydata|D2-721G|";
 }

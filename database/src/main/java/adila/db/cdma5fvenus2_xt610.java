@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT610
  */
 final class cdma5fvenus2_xt610 {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Droid Pro";
+    public static final String DATA = "Motorola|Droid Pro|";
 }

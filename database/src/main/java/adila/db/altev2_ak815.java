@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: AK815
  */
 final class altev2_ak815 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Pad 8+";
+    public static final String DATA = "LG|G Pad 8+|";
 }

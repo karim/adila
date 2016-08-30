@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TA71CA5
  */
 final class ta71ca55f1_ta71ca5 {
-    public static final String MANUFACTURER = "TA71CA5_JP";
-    public static final String NAME = "JP SA COUTO, S.A. _MG070A2T";
+    public static final String DATA = "TA71CA5_JP|JP SA COUTO, S.A. _MG070A2T|";
 }

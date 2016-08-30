@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NSZ-GS7/GX70
  */
 final class nszgs7_nsz2dgs72fgx70 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "NSZGS7";
+    public static final String DATA = "Sony|NSZGS7|";
 }

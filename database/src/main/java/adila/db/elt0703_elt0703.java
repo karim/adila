@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ELT0703
  */
 final class elt0703_elt0703 {
-    public static final String MANUFACTURER = "ESI Enterprises";
-    public static final String NAME = "EPIK_ELT0703";
+    public static final String DATA = "ESI Enterprises|EPIK_ELT0703|";
 }

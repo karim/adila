@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LED40K681X3DU
  */
 final class msd6a918_led40k681x3du {
-    public static final String MANUFACTURER = "Hisense";
-    public static final String NAME = "LED40K681X3DU";
+    public static final String DATA = "Hisense|LED40K681X3DU|";
 }

@@ -80,15 +80,16 @@ with open('../devices.csv', newline='') as f:
             content += ' */\n'
             # Class
             content += 'final class ' + classname + ' {\n'
-            # Fields
-            if manufacturer:
-                content += '    public static final String MANUFACTURER = "' + manufacturer + '";\n'
-            if name:
-                content += '    public static final String NAME = "' + name.replace('"', '\\"') + '";\n'
-            if series:
-                content += '    public static final String SERIES = "' + series + '";\n'
 
-            content += '}\n'
+            # Field
+            content += '    public static final String DATA = "'
+
+            # Data
+            content += manufacturer + '|'             if manufacturer else '|'
+            content += name.replace('"', '\\"') + '|' if name         else '|'
+            content += series                         if series       else ''
+
+            content += '";\n}\n'
 
             javafile.write(content)
 

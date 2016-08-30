@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X75
  */
 final class wbw5613qm_x75 {
-    public static final String MANUFACTURER = "QMobile";
-    public static final String NAME = "X75";
+    public static final String DATA = "QMobile|X75|";
 }

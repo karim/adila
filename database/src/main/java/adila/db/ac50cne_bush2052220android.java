@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Bush 5" Android
  */
 final class ac50cne_bush2052220android {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "Bush 5\" Android";
+    public static final String DATA = "Archos|Bush 5\" Android|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: STARADDICT II
  */
 final class whistler_staraddict20ii {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S7390E
  */
 final class kylevess_gt2ds7390e {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Fresh";
+    public static final String DATA = "Samsung|Galaxy Fresh|";
 }

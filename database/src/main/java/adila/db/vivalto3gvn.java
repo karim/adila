@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-G313HZ
  */
 final class vivalto3gvn {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S Duos 3";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S Duos 3|Galaxy S";
 }

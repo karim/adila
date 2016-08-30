@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Android Edition StarText
  */
 final class turies_android20edition20startext {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Optimus Monte Carlo
  */
 final class skate_optimus20monte20carlo {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

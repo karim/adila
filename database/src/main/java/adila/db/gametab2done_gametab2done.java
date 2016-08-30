@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GAMETAB-ONE
  */
 final class gametab2done_gametab2done {
-    public static final String MANUFACTURER = "Bigben";
-    public static final String NAME = "GAMETAB-ONE";
+    public static final String DATA = "Bigben|GAMETAB-ONE|";
 }

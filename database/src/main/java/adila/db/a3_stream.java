@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Stream
  */
 final class a3_stream {
-    public static final String MANUFACTURER = "Acer";
+    public static final String DATA = "Acer||";
 }

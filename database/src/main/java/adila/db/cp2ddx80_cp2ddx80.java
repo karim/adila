@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CP-DX80
  */
 final class cp2ddx80_cp2ddx80 {
-    public static final String MANUFACTURER = "Cisco";
-    public static final String NAME = "Cisco Desktop Collaboration Experience DX80";
+    public static final String DATA = "Cisco|Cisco Desktop Collaboration Experience DX80|";
 }

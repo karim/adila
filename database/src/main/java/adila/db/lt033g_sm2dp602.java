@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-P602
  */
 final class lt033g_sm2dp602 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note 10.1";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note 10.1|Galaxy Note";
 }

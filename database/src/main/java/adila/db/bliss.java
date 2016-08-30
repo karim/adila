@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Rhyme S510b
  */
 final class bliss {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Rhyme S510b";
+    public static final String DATA = "HTC|Rhyme S510b|";
 }

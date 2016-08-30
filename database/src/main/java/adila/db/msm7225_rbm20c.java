@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: RBM C
  */
 final class msm7225_rbm20c {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

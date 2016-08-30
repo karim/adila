@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T365M
  */
 final class rubenslte_sm2dt365m {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 4 Active";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 4 Active|Galaxy Tab";
 }

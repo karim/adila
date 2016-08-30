@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8580
  */
 final class cane3g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Core Advance";
+    public static final String DATA = "Samsung|Galaxy Core Advance|";
 }

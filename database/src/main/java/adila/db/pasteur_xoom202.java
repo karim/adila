@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: XOOM 2
  */
 final class pasteur_xoom202 {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

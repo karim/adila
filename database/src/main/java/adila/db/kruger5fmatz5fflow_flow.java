@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FLOW
  */
 final class kruger5fmatz5fflow_flow {
-    public static final String MANUFACTURER = "Lechpol";
-    public static final String NAME = "FLOW";
+    public static final String DATA = "Lechpol|FLOW|";
 }

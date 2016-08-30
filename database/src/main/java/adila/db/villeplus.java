@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC One S Special Edition
  */
 final class villeplus {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "One S Special Edition";
+    public static final String DATA = "HTC|One S Special Edition|";
 }

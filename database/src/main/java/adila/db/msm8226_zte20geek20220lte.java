@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Geek 2 LTE
  */
 final class msm8226_zte20geek20220lte {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Geek 2 LTE";
+    public static final String DATA = "ZTE|Geek 2 LTE|";
 }

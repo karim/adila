@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Archos Smart Home Tablet
  */
 final class hometablet {
-    public static final String MANUFACTURER = "Archos";
-    public static final String NAME = "Smart Home Tablet";
+    public static final String DATA = "Archos|Smart Home Tablet|";
 }

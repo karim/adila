@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Desire X
  */
 final class protou_htc20desire20x {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Desire X";
+    public static final String DATA = "HTC|Desire X|";
 }

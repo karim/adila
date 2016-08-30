@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-FL40L
  */
 final class w3voip {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "070 touch";
+    public static final String DATA = "LG|070 touch|";
 }

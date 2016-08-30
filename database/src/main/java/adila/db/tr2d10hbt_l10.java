@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L10
  */
 final class tr2d10hbt_l10 {
-    public static final String MANUFACTURER = "Camelus";
-    public static final String NAME = "Camelus L10";
+    public static final String DATA = "Camelus|Camelus L10|";
 }

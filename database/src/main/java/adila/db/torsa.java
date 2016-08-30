@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP 10 Plus
  */
 final class torsa {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "10 Plus";
+    public static final String DATA = "HP|10 Plus|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: IDEOS S7 Slim
  */
 final class qsd8k5fslim {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: G Watch
  */
 final class dory {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Watch";
+    public static final String DATA = "LG|G Watch|";
 }

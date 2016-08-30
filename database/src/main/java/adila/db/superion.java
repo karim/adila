@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: cherry mobile-SUPERION
  */
 final class superion {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

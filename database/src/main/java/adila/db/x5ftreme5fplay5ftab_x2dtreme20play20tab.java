@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X-treme Play Tab
  */
 final class x5ftreme5fplay5ftab_x2dtreme20play20tab {
-    public static final String MANUFACTURER = "Mach Speed";
-    public static final String NAME = "xtreme";
+    public static final String DATA = "Mach Speed|xtreme|";
 }

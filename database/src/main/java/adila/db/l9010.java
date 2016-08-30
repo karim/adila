@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HIGHWAY PURE
  */
 final class l9010 {
-    public static final String MANUFACTURER = "Wiko";
-    public static final String NAME = "HIGHWAY PURE";
+    public static final String DATA = "Wiko|HIGHWAY PURE|";
 }

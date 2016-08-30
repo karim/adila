@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ultra Latitude
  */
 final class ultra5flatitude_ultra20latitude {
-    public static final String MANUFACTURER = "Hyundai";
-    public static final String NAME = "Ultra Latitude";
+    public static final String DATA = "Hyundai|Ultra Latitude|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-LU6500
  */
 final class bssq5f4502d06 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Q2";
+    public static final String DATA = "LG|Optimus Q2|";
 }

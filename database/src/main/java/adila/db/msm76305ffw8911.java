@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T2
  */
 final class msm76305ffw8911 {
-    public static final String MANUFACTURER = "Lumigon";
-    public static final String NAME = "T2";
+    public static final String DATA = "Lumigon|T2|";
 }

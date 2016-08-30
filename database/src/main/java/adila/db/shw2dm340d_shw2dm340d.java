@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHW-M340D
  */
 final class shw2dm340d_shw2dm340d {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy M Style";
+    public static final String DATA = "Samsung|Galaxy M Style|";
 }

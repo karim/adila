@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: DROID RAZR
  */
 final class cdma5fspyder_droid20razr {
-    public static final String MANUFACTURER = "Motorola";
+    public static final String DATA = "Motorola||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: USCC-E6762
  */
 final class e6762_uscc2de6762 {
-    public static final String MANUFACTURER = "Kyocera";
-    public static final String NAME = "DuraForce";
+    public static final String DATA = "Kyocera|DuraForce|";
 }

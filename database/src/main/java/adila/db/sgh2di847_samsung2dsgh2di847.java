@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SGH-I847
  */
 final class sgh2di847_samsung2dsgh2di847 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Rugby Smart";
+    public static final String DATA = "Samsung|Rugby Smart|";
 }

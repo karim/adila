@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC first
  */
 final class mystul {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "first";
+    public static final String DATA = "HTC|first|";
 }

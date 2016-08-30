@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A1-840FHD
  */
 final class ducati2fhd {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "Iconia Tab 8";
+    public static final String DATA = "Acer|Iconia Tab 8|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: FAR7
  */
 final class blaze5ftablet_far7 {
-    public static final String MANUFACTURER = "Fujitsu";
-    public static final String NAME = "ARROWS Tab Wi-Fi FAR75A/70A";
+    public static final String DATA = "Fujitsu|ARROWS Tab Wi-Fi FAR75A/70A|";
 }

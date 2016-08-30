@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Linx PS474S
  */
 final class c8690_linx20ps474s {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "Linx PS474S";
+    public static final String DATA = "Cellon|Linx PS474S|";
 }

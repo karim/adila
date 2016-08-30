@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CAM-AL00
  */
 final class hwcam2dq_cam2dal00 {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "Glory Play 5A";
+    public static final String DATA = "Huawei|Glory Play 5A|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Velocity 4G X710s
  */
 final class holiday_htc20velocity204g20x710s {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Velocity 4G";
+    public static final String DATA = "HTC|Velocity 4G|";
 }

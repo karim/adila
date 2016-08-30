@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-X155
  */
 final class v10_lg2dx155 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Bello II";
+    public static final String DATA = "LG|Bello II|";
 }

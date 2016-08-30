@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CINK PEAX
  */
 final class s9091_cink20peax {
-    public static final String MANUFACTURER = "Enspert";
-    public static final String NAME = "WIKO CINK PEAX";
+    public static final String DATA = "Enspert|WIKO CINK PEAX|";
 }

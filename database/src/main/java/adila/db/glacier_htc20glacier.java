@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC Glacier
  */
 final class glacier_htc20glacier {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "myTouch 4G";
+    public static final String DATA = "HTC|myTouch 4G|";
 }

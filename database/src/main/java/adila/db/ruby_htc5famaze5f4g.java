@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC_Amaze_4G
  */
 final class ruby_htc5famaze5f4g {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Amaze_4G";
+    public static final String DATA = "HTC|Amaze_4G|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SGH-I827
  */
 final class sgh2di827_samsung2dsgh2di827 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Appeal";
+    public static final String DATA = "Samsung|Galaxy Appeal|";
 }

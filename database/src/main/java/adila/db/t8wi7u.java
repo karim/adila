@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-V607L
  */
 final class t8wi7u {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Homeboy2";
+    public static final String DATA = "LG|Homeboy2|";
 }

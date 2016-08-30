@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: 9022X
  */
 final class pixi384g_9022x {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "ONETOUCH PIXI 3 (8)";
+    public static final String DATA = "Alcatel|ONETOUCH PIXI 3 (8)|";
 }

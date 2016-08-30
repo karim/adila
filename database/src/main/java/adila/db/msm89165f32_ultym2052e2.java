@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ultym 5.2
  */
 final class msm89165f32_ultym2052e2 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Ultym 5.2";
+    public static final String DATA = "ZTE|Ultym 5.2|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: T1-823L
  */
 final class hwt1823l {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "T1";
+    public static final String DATA = "Huawei|T1|";
 }

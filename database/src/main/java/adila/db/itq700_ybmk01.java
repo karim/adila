@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: YBMK01
  */
 final class itq700_ybmk01 {
-    public static final String MANUFACTURER = "iRiver";
-    public static final String NAME = "Wow(Window of the world)";
+    public static final String DATA = "iRiver|Wow(Window of the world)|";
 }

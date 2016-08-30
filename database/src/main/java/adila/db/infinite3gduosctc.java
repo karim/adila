@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I759
  */
 final class infinite3gduosctc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Infinite";
+    public static final String DATA = "Samsung|Galaxy Infinite|";
 }

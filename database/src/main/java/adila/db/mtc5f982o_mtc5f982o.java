@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC_982O
  */
 final class mtc5f982o_mtc5f982o {
-    public static final String MANUFACTURER = "TPS";
-    public static final String NAME = "MTC 982o";
+    public static final String DATA = "TPS|MTC 982o|";
 }

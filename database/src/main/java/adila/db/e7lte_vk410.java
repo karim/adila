@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VK410
  */
 final class e7lte_vk410 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "GPAD 7.0 LTE";
+    public static final String DATA = "LG|GPAD 7.0 LTE|";
 }

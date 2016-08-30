@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-H443
  */
 final class c70n_lg2dh443 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Escape2";
+    public static final String DATA = "LG|Escape2|";
 }

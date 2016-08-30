@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A500
  */
 final class ventana_a500 {
-    public static final String MANUFACTURER = "Acer";
-    public static final String NAME = "Picasso";
+    public static final String DATA = "Acer|Picasso|";
 }

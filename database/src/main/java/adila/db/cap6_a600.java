@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: A600
  */
 final class cap6_a600 {
-    public static final String MANUFACTURER = "Compal";
+    public static final String DATA = "Compal||";
 }

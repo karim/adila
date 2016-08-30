@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Jax X
  */
 final class jax5fx_jax20x {
-    public static final String MANUFACTURER = "Vonino";
-    public static final String NAME = "Jax X";
+    public static final String DATA = "Vonino|Jax X|";
 }

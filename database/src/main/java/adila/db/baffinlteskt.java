@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHV-E270S
  */
 final class baffinlteskt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Grand";
+    public static final String DATA = "Samsung|Galaxy Grand|";
 }

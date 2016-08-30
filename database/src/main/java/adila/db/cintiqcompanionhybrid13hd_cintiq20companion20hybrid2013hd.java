@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cintiq Companion Hybrid 13HD
  */
 final class cintiqcompanionhybrid13hd_cintiq20companion20hybrid2013hd {
-    public static final String MANUFACTURER = "WACOM";
-    public static final String NAME = "Cintiq Companion Hybrid 13HD";
+    public static final String DATA = "WACOM|Cintiq Companion Hybrid 13HD|";
 }

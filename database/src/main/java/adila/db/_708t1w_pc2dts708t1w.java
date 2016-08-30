@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PC-TS708T1W
  */
 final class _708t1w_pc2dts708t1w {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "PC-708T1W";
+    public static final String DATA = "NEC|PC-708T1W|";
 }

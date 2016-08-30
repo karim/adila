@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SGH-S730G
  */
 final class amazingtrf_sgh2ds730g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Discover";
+    public static final String DATA = "Samsung|Galaxy Discover|";
 }

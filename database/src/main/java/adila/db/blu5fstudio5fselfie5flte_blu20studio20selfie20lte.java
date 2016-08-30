@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: BLU STUDIO SELFIE LTE
  */
 final class blu5fstudio5fselfie5flte_blu20studio20selfie20lte {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Studio Selfie LTE";
-    public static final String SERIES = "Studio";
+    public static final String DATA = "Blu|Studio Selfie LTE|Studio";
 }

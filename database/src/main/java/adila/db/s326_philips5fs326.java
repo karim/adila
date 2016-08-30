@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Philips_S326
  */
 final class s326_philips5fs326 {
-    public static final String MANUFACTURER = "Philips";
-    public static final String NAME = "Philips S326";
+    public static final String DATA = "Philips|Philips S326|";
 }

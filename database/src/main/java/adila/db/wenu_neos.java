@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NEOS
  */
 final class wenu_neos {
-    public static final String MANUFACTURER = "Astak";
-    public static final String NAME = "NEOS";
+    public static final String DATA = "Astak|NEOS|";
 }

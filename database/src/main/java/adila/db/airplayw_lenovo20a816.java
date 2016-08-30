@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo A816
  */
 final class airplayw_lenovo20a816 {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "A816";
+    public static final String DATA = "Lenovo|A816|";
 }

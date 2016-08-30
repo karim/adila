@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S6293T
  */
 final class royssvedtv {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Roy VE DTV";
+    public static final String DATA = "Samsung|Roy VE DTV|";
 }

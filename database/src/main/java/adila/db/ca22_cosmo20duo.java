@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: COSMO DUO
  */
 final class ca22_cosmo20duo {
-    public static final String MANUFACTURER = "Compal";
+    public static final String DATA = "Compal||";
 }

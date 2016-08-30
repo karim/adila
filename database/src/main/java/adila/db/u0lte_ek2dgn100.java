@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: EK-GN100
  */
 final class u0lte_ek2dgn100 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Camera";
+    public static final String DATA = "Samsung|Galaxy Camera|";
 }

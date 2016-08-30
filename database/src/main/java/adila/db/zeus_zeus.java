@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Zeus
  */
 final class zeus_zeus {
-    public static final String MANUFACTURER = "Sony Ericsson";
-    public static final String NAME = "Xperia Play";
+    public static final String DATA = "Sony Ericsson|Xperia Play|";
 }

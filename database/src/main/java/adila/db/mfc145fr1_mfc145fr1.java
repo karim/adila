@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MFC145FR1
  */
 final class mfc145fr1_mfc145fr1 {
-    public static final String MANUFACTURER = "Lexibook";
-    public static final String NAME = "Fluo";
+    public static final String DATA = "Lexibook|Fluo|";
 }

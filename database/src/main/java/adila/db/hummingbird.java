@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BNTV400
  */
 final class hummingbird {
-    public static final String MANUFACTURER = "Barnes and Noble";
-    public static final String NAME = "NOOK HD";
+    public static final String DATA = "Barnes and Noble|NOOK HD|";
 }

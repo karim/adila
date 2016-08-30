@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MegaFon SIM+
  */
 final class simplus_megafon20sim2b {
-    public static final String MANUFACTURER = "Hisense";
+    public static final String DATA = "Hisense||";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Starshine
  */
 final class huaweiu8180_starshine {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

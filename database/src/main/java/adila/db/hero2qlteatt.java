@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SAMSUNG-SM-G935A
  */
 final class hero2qlteatt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S7 Edge";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S7 Edge|Galaxy S";
 }

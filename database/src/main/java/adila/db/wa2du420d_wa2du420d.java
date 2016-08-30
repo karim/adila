@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WA-U420D
  */
 final class wa2du420d_wa2du420d {
-    public static final String MANUFACTURER = "Welgate";
-    public static final String NAME = "WA-U420D";
+    public static final String DATA = "Welgate|WA-U420D|";
 }

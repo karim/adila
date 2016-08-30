@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Preo_P2
  */
 final class preo5fp2_preo5fp2 {
-    public static final String MANUFACTURER = "Teknosa";
-    public static final String NAME = "Preo P2";
+    public static final String DATA = "Teknosa|Preo P2|";
 }

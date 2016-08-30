@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SPH-L300
  */
 final class goghvmu {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Victory";
+    public static final String DATA = "Samsung|Galaxy Victory|";
 }

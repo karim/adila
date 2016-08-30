@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: VSD241
  */
 final class vsd241_vsd241 {
-    public static final String MANUFACTURER = "ViewSonic";
-    public static final String NAME = "VSD241 Smart Display";
+    public static final String DATA = "ViewSonic|VSD241 Smart Display|";
 }

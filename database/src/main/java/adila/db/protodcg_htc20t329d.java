@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC T329d
  */
 final class protodcg_htc20t329d {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "T329d";
+    public static final String DATA = "HTC|T329d|";
 }

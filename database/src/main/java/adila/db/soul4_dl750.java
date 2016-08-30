@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DL750
  */
 final class soul4_dl750 {
-    public static final String MANUFACTURER = "Alcatel";
-    public static final String NAME = "TCL DL750";
+    public static final String DATA = "Alcatel|TCL DL750|";
 }

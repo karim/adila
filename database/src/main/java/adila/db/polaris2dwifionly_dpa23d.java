@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: DPA23D
  */
 final class polaris2dwifionly_dpa23d {
-    public static final String MANUFACTURER = "Dopo";
-    public static final String NAME = "DPA23D";
+    public static final String DATA = "Dopo|DPA23D|";
 }

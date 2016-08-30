@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KAZAM Thunder 350L
  */
 final class thunder5f350l_kazam20thunder20350l {
-    public static final String MANUFACTURER = "KAZAM";
-    public static final String NAME = "Thunder 350L";
+    public static final String DATA = "KAZAM|Thunder 350L|";
 }

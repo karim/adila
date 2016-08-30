@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: YP-GS1
  */
 final class yp2dgs1_yp2dgs1 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Player 3.6";
+    public static final String DATA = "Samsung|Galaxy Player 3.6|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SPH-M580
  */
 final class sph2dm580_sph2dm580 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Replenish";
+    public static final String DATA = "Samsung|Replenish|";
 }

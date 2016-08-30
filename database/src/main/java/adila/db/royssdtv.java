@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S6313T
  */
 final class royssdtv {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Young";
+    public static final String DATA = "Samsung|Galaxy Young|";
 }

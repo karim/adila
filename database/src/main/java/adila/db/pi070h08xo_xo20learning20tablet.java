@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XO Learning tablet
  */
 final class pi070h08xo_xo20learning20tablet {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Vivitar XO Tablet";
+    public static final String DATA = "Anydata|Vivitar XO Tablet|";
 }

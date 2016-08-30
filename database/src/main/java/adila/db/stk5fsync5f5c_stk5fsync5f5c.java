@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: STK_Sync_5c
  */
 final class stk5fsync5f5c_stk5fsync5f5c {
-    public static final String MANUFACTURER = "STK";
-    public static final String NAME = "Sync 5c";
-    public static final String SERIES = "Sync";
+    public static final String DATA = "STK|Sync 5c|Sync";
 }

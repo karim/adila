@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: TSP21
  */
 final class u8110_tsp21 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

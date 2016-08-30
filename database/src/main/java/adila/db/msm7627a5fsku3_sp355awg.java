@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SP355AWG
  */
 final class msm7627a5fsku3_sp355awg {
-    public static final String MANUFACTURER = "BYD";
-    public static final String NAME = "SP355AWG";
+    public static final String DATA = "BYD|SP355AWG|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Kestrel
  */
 final class hwg5352dl11_kestrel {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "G535-L11";
+    public static final String DATA = "Huawei|G535-L11|";
 }

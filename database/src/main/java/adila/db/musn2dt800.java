@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Cherry-MUSN-T800
  */
 final class musn2dt800 {
-    public static final String MANUFACTURER = "Foxconn";
+    public static final String DATA = "Foxconn||";
 }

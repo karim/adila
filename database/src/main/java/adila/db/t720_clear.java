@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Clear
  */
 final class t720_clear {
-    public static final String MANUFACTURER = "SK Telesys";
-    public static final String NAME = "T720";
+    public static final String DATA = "SK Telesys|T720|";
 }

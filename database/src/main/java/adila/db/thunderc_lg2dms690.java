@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-MS690
  */
 final class thunderc_lg2dms690 {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus One";
+    public static final String DATA = "LG|Optimus One|";
 }

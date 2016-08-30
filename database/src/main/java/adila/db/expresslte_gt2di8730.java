@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8730
  */
 final class expresslte_gt2di8730 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Express";
+    public static final String DATA = "Samsung|Galaxy Express|";
 }

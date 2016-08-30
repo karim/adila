@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Wileyfox Spark +
  */
 final class porridge_wileyfox20spark202b {
-    public static final String MANUFACTURER = "Wileyfox";
-    public static final String NAME = "Spark";
+    public static final String DATA = "Wileyfox|Spark|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Kyivstar Shine
  */
 final class racer2_kyivstar20shine {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

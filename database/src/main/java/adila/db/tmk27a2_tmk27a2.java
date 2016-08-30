@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TMK27A2
  */
 final class tmk27a2_tmk27a2 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "TMK27A2";
+    public static final String DATA = "Haier|TMK27A2|";
 }

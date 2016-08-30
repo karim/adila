@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: ALCATEL OT 919 HelloKitty
  */
 final class ot5f9195fhellokitty5fgsm_alcatel20ot2091920hellokitty {
-    public static final String MANUFACTURER = "Alcatel";
+    public static final String DATA = "Alcatel||";
 }

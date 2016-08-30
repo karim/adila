@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CUBOT DINOSAUR
  */
 final class x56235fh60135fcubot {
-    public static final String MANUFACTURER = "Cubot";
-    public static final String NAME = "Dinosaur";
+    public static final String DATA = "Cubot|Dinosaur|";
 }

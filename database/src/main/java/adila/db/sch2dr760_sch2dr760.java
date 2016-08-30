@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SCH-R760
  */
 final class sch2dr760_sch2dr760 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2 Epic";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2 Epic|Galaxy S";
 }

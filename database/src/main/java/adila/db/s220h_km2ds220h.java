@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: KM-S220H
  */
 final class s220h_km2ds220h {
-    public static final String MANUFACTURER = "KT Tech";
+    public static final String DATA = "KT Tech||";
 }

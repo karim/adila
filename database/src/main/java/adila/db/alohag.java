@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-C710h
  */
 final class alohag {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Shine Plus with Google";
+    public static final String DATA = "LG|Shine Plus with Google|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KTAB
  */
 final class ktab_ktab {
-    public static final String MANUFACTURER = "DEA Factory";
-    public static final String NAME = "KTAB";
+    public static final String DATA = "DEA Factory|KTAB|";
 }

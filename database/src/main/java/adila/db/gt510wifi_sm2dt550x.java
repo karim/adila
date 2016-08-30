@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T550X
  */
 final class gt510wifi_sm2dt550x {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab A 9.7";
-    public static final String SERIES = "Galaxy A";
+    public static final String DATA = "Samsung|Galaxy Tab A 9.7|Galaxy A";
 }

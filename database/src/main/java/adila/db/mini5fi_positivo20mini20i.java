@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Positivo Mini I
  */
 final class mini5fi_positivo20mini20i {
-    public static final String MANUFACTURER = "Positivo";
-    public static final String NAME = "Mini I";
+    public static final String DATA = "Positivo|Mini I|";
 }

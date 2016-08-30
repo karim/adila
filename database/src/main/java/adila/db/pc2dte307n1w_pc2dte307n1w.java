@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PC-TE307N1W
  */
 final class pc2dte307n1w_pc2dte307n1w {
-    public static final String MANUFACTURER = "NEC";
-    public static final String NAME = "PC-TE307N1W";
+    public static final String DATA = "NEC|PC-TE307N1W|";
 }

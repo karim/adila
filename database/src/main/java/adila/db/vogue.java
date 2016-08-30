@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Slate 8 Plus
  */
 final class vogue {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate 8 Plus";
+    public static final String DATA = "HP|Slate 8 Plus|";
 }

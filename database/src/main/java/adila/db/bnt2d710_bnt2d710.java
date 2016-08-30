@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BNT-710
  */
 final class bnt2d710_bnt2d710 {
-    public static final String MANUFACTURER = "RCA";
-    public static final String NAME = "BNT-710";
+    public static final String DATA = "RCA|BNT-710|";
 }

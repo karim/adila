@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: StarTrail III
  */
 final class mobiwire5fstartrail3 {
-    public static final String MANUFACTURER = "SFR";
-    public static final String NAME = "Star Trail III";
+    public static final String DATA = "SFR|Star Trail III|";
 }

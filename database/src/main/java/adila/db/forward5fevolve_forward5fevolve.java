@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Forward_EVOLVE
  */
 final class forward5fevolve_forward5fevolve {
-    public static final String MANUFACTURER = "Coolpad";
-    public static final String NAME = "Forward_EVOLVE";
+    public static final String DATA = "Coolpad|Forward_EVOLVE|";
 }

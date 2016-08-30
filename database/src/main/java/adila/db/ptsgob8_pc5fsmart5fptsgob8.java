@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: PC_Smart_PTSGOB8
  */
 final class ptsgob8_pc5fsmart5fptsgob8 {
-    public static final String MANUFACTURER = "PC Smart";
-    public static final String NAME = "PTSGOB8";
+    public static final String DATA = "PC Smart|PTSGOB8|";
 }

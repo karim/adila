@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GSmart Mika M2
  */
 final class mika5fm2_gsmart20mika20m2 {
-    public static final String MANUFACTURER = "GSmart";
-    public static final String NAME = "Mika M2";
+    public static final String DATA = "GSmart|Mika M2|";
 }

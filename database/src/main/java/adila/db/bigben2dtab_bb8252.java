@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BB8252
  */
 final class bigben2dtab_bb8252 {
-    public static final String MANUFACTURER = "Bigben";
-    public static final String NAME = "BB8252";
+    public static final String DATA = "Bigben|BB8252|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CT301_W818
  */
 final class msm7627a_ct3015fw818 {
-    public static final String MANUFACTURER = "Haier";
-    public static final String NAME = "CT301_W818";
+    public static final String DATA = "Haier|CT301_W818|";
 }

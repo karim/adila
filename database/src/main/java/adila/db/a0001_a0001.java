@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A0001
  */
 final class a0001_a0001 {
-    public static final String MANUFACTURER = "OnePlus";
-    public static final String NAME = "OnePlus One";
+    public static final String DATA = "OnePlus|OnePlus One|";
 }

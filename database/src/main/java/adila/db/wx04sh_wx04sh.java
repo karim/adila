@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: WX04SH
  */
 final class wx04sh_wx04sh {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "AQUOS PHONE es WX04SH";
+    public static final String DATA = "Sharp|AQUOS PHONE es WX04SH|";
 }

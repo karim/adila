@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Lenovo A720e
  */
 final class andorrap {
-    public static final String MANUFACTURER = "Lenovo";
-    public static final String NAME = "A720e";
+    public static final String DATA = "Lenovo|A720e|";
 }

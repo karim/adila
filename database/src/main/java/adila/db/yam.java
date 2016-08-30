@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Obi MV1
  */
 final class yam {
-    public static final String MANUFACTURER = "Obi";
-    public static final String NAME = "Obi MV1";
+    public static final String DATA = "Obi|Obi MV1|";
 }

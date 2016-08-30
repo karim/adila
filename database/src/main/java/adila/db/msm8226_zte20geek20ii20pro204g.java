@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE GEEK II Pro 4G
  */
 final class msm8226_zte20geek20ii20pro204g {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "STAR";
+    public static final String DATA = "ZTE|STAR|";
 }

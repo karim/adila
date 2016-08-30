@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S6010
  */
 final class ivoryss_gt2ds6010 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Music";
+    public static final String DATA = "Samsung|Galaxy Music|";
 }

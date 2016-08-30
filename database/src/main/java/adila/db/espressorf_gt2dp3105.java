@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: GT-P3105
  */
 final class espressorf_gt2dp3105 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab 2 7.0";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab 2 7.0|Galaxy Tab";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: F52_09
  */
 final class f52_f525f09 {
-    public static final String MANUFACTURER = "BenQ";
-    public static final String NAME = "F52_09";
+    public static final String DATA = "BenQ|F52_09|";
 }

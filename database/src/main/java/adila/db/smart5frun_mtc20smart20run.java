@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTC SMART Run
  */
 final class smart5frun_mtc20smart20run {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "MTC SMART Run";
+    public static final String DATA = "Cellon|MTC SMART Run|";
 }

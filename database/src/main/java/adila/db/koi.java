@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: CASIO WSD-F10
  */
 final class koi {
-    public static final String MANUFACTURER = "Casio";
-    public static final String NAME = "Smart Outdoor Watch WSD-F10";
+    public static final String DATA = "Casio|Smart Outdoor Watch WSD-F10|";
 }

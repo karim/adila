@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: L-06DJOJO
  */
 final class batman5fdcm_l2d06djojo {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "Optimus Vu";
+    public static final String DATA = "LG|Optimus Vu|";
 }

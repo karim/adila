@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Agora 4G Pro
  */
 final class agora5f4g5fpro_agora204g20pro {
-    public static final String MANUFACTURER = "BenQ";
-    public static final String NAME = "Agora_4G_Pro";
+    public static final String DATA = "BenQ|Agora_4G_Pro|";
 }

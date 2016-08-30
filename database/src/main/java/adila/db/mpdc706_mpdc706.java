@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MPDC706
  */
 final class mpdc706_mpdc706 {
-    public static final String MANUFACTURER = "MPman";
-    public static final String NAME = "MPDC706";
+    public static final String DATA = "MPman|MPDC706|";
 }

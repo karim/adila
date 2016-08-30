@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A7X_PTAB735X
  */
 final class ptab735x_a7x5fptab735x {
-    public static final String MANUFACTURER = "Polaroid";
-    public static final String NAME = "A7X_PTAB735X";
+    public static final String DATA = "Polaroid|A7X_PTAB735X|";
 }

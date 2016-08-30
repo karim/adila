@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MTN-8978P
  */
 final class mtn2d8978p_mtn2d8978p {
-    public static final String MANUFACTURER = "MTN";
-    public static final String NAME = "MTN-8978P";
+    public static final String DATA = "MTN|MTN-8978P|";
 }

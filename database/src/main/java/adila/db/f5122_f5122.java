@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: F5122
  */
 final class f5122_f5122 {
-    public static final String MANUFACTURER = "Sony";
-    public static final String NAME = "Xperia X";
+    public static final String DATA = "Sony|Xperia X|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: GM Ultimate Slim
  */
 final class hwu8510_gm20ultimate20slim {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

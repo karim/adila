@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LBOX500
  */
 final class lbox500 {
-    public static final String MANUFACTURER = "Lexibook";
-    public static final String NAME = "Playdroid";
+    public static final String DATA = "Lexibook|Playdroid|";
 }

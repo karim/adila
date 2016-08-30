@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: RBM_HD
  */
 final class hwu8800pro_rbm5fhd {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

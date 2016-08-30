@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ZTE Switch X1
  */
 final class deepblue_zte20switch20x1 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Switch X1";
+    public static final String DATA = "ZTE|Switch X1|";
 }

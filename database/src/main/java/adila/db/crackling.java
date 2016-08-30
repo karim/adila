@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Wileyfox Swift
  */
 final class crackling {
-    public static final String MANUFACTURER = "Wileyfox";
-    public static final String NAME = "Swift";
+    public static final String DATA = "Wileyfox|Swift|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LIFETAB_P733X
  */
 final class lifetab5fp733x {
-    public static final String MANUFACTURER = "Medion";
-    public static final String NAME = "LIFETAB P733x";
+    public static final String DATA = "Medion|LIFETAB P733x|";
 }

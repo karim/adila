@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SHV-E500L
  */
 final class delosltelgt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Win";
+    public static final String DATA = "Samsung|Galaxy Win|";
 }

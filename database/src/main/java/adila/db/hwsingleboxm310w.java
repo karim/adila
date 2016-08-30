@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: M310
  */
 final class hwsingleboxm310w {
-    public static final String MANUFACTURER = "Huawei";
-    public static final String NAME = "M310";
+    public static final String DATA = "Huawei|M310|";
 }

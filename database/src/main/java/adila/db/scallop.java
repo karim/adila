@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SC-S01
  */
 final class scallop {
-    public static final String MANUFACTURER = "Sharp";
-    public static final String NAME = "SC-S01";
+    public static final String DATA = "Sharp|SC-S01|";
 }

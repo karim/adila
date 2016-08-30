@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: SP-A20i
  */
 final class sp2da20i_sp2da20i {
-    public static final String MANUFACTURER = "Intel";
+    public static final String DATA = "Intel||";
 }

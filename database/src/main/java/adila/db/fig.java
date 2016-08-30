@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HP Slate 8 Pro
  */
 final class fig {
-    public static final String MANUFACTURER = "HP";
-    public static final String NAME = "Slate8 Pro";
+    public static final String DATA = "HP|Slate8 Pro|";
 }

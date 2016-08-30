@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BT230
  */
 final class zeeyabeach_bt230 {
-    public static final String MANUFACTURER = "Intel";
-    public static final String NAME = "Etisalat E-20";
+    public static final String DATA = "Intel|Etisalat E-20|";
 }

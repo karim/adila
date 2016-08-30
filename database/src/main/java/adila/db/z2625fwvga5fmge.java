@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Ice-Phone Forever
  */
 final class z2625fwvga5fmge {
-    public static final String MANUFACTURER = "SK Telesys";
-    public static final String NAME = "Ice-Phone Forever";
+    public static final String DATA = "SK Telesys|Ice-Phone Forever|";
 }

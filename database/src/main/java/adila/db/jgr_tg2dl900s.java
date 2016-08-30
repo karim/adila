@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TG-L900S
  */
 final class jgr_tg2dl900s {
-    public static final String MANUFACTURER = "TG&Co.";
-    public static final String NAME = "TG-L900S";
+    public static final String DATA = "TG&Co.|TG-L900S|";
 }

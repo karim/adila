@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: jupiter
  */
 final class avic5fcz900_jupiter {
-    public static final String MANUFACTURER = "Pioneer";
-    public static final String NAME = "CyberNavi";
+    public static final String DATA = "Pioneer|CyberNavi|";
 }

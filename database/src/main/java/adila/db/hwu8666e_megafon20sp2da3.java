@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: MegaFon SP-A3
  */
 final class hwu8666e_megafon20sp2da3 {
-    public static final String MANUFACTURER = "Huawei";
+    public static final String DATA = "Huawei||";
 }

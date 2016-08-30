@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: MS50M
  */
 final class ms50m_ms50m {
-    public static final String MANUFACTURER = "Multilaser";
-    public static final String NAME = "MS50M";
+    public static final String DATA = "Multilaser|MS50M|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Starmobile KNIGHT
  */
 final class knight_starmobile20knight {
-    public static final String MANUFACTURER = "Cellon";
-    public static final String NAME = "Starmobile KNIGHT";
+    public static final String DATA = "Cellon|Starmobile KNIGHT|";
 }

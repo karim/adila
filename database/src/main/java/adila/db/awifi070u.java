@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-V507L
  */
 final class awifi070u {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G Pad 8.3 homeBoy";
+    public static final String DATA = "LG|G Pad 8.3 homeBoy|";
 }

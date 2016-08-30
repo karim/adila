@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: BLU LIFE MARK
  */
 final class blu5flife5fmark_blu20life20mark {
-    public static final String MANUFACTURER = "Blu";
-    public static final String NAME = "Life Mark";
-    public static final String SERIES = "Life";
+    public static final String DATA = "Blu|Life Mark|Life";
 }

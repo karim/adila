@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Le Pan S
  */
 final class oracle_le20pan20s {
-    public static final String MANUFACTURER = "Anydata";
-    public static final String NAME = "Le Pan S";
+    public static final String DATA = "Anydata|Le Pan S|";
 }

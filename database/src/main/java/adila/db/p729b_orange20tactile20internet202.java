@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Orange Tactile internet 2
  */
 final class p729b_orange20tactile20internet202 {
-    public static final String MANUFACTURER = "ZTE";
+    public static final String DATA = "ZTE||";
 }

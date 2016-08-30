@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NX503A
  */
 final class nx503a_nx503a {
-    public static final String MANUFACTURER = "Nubia";
-    public static final String NAME = "NX503A";
+    public static final String DATA = "Nubia|NX503A|";
 }

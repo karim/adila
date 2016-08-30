@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Karbonn_A1
  */
 final class n721_karbonn5fa1 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Karbonn_A1";
+    public static final String DATA = "ZTE|Karbonn_A1|";
 }

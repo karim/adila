@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ETAB_I7041G
  */
 final class etab5fi7041g_etab5fi7041g {
-    public static final String MANUFACTURER = "Stylis";
-    public static final String NAME = "FUNDA";
+    public static final String DATA = "Stylis|FUNDA|";
 }

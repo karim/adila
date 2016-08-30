@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: INSIGNIA_550i
  */
 final class insignia5f550i_insignia5f550i {
-    public static final String MANUFACTURER = "GoClever";
-    public static final String NAME = "INSIGNIA 550i";
+    public static final String DATA = "GoClever|INSIGNIA 550i|";
 }

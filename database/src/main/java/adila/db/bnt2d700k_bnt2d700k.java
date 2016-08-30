@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: BNT-700K
  */
 final class bnt2d700k_bnt2d700k {
-    public static final String MANUFACTURER = "Bluedot";
-    public static final String NAME = "BLUEDOT BNT-700K";
+    public static final String DATA = "Bluedot|BLUEDOT BNT-700K|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: NXA8QC116
  */
 final class nxa8qc116_nxa8qc116 {
-    public static final String MANUFACTURER = "Nextbook";
-    public static final String NAME = "NXA8QC116";
+    public static final String DATA = "Nextbook|NXA8QC116|";
 }

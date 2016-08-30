@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-I8552
  */
 final class delos3gchn {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Win Duos";
+    public static final String DATA = "Samsung|Galaxy Win Duos|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Orange Dive 30
  */
 final class p635e40_orange20dive2030 {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Orange Dive 30";
+    public static final String DATA = "ZTE|Orange Dive 30|";
 }

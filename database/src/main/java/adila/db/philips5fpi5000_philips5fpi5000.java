@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Philips_PI5000
  */
 final class philips5fpi5000_philips5fpi5000 {
-    public static final String MANUFACTURER = "Philips";
+    public static final String DATA = "Philips||";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SDU
  */
 final class sdu_sdu {
-    public static final String MANUFACTURER = "Panasonic";
-    public static final String NAME = "SDU";
+    public static final String DATA = "Panasonic|SDU|";
 }

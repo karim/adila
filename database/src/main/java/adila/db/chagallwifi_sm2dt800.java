@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SM-T800
  */
 final class chagallwifi_sm2dt800 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Tab S 10.5";
-    public static final String SERIES = "Galaxy Tab";
+    public static final String DATA = "Samsung|Galaxy Tab S 10.5|Galaxy Tab";
 }

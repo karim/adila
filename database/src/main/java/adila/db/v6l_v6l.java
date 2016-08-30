@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: V6L
  */
 final class v6l_v6l {
-    public static final String MANUFACTURER = "Gionee";
-    public static final String NAME = "ForwardZero";
+    public static final String DATA = "Gionee|ForwardZero|";
 }

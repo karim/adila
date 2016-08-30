@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: OWN-I62S
  */
 final class own2di62s_own2di62s {
-    public static final String MANUFACTURER = "Entel";
-    public static final String NAME = "OWN I62S";
+    public static final String DATA = "Entel|OWN I62S|";
 }

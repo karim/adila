@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: V917G
  */
 final class gk2dmid9022_v917g {
-    public static final String MANUFACTURER = "ENVIZEN DIGITAL";
-    public static final String NAME = "ENVIZEN DIGITAL V917G";
+    public static final String DATA = "ENVIZEN DIGITAL|ENVIZEN DIGITAL V917G|";
 }

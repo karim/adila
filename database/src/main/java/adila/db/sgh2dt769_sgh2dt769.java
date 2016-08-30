@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SGH-T769
  */
 final class sgh2dt769_sgh2dt769 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S (Blaze 4G)";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S (Blaze 4G)|Galaxy S";
 }

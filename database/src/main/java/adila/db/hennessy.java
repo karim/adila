@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Redmi Note 3
  */
 final class hennessy {
-    public static final String MANUFACTURER = "Xiaomi";
-    public static final String NAME = "Redmi Note 3";
+    public static final String DATA = "Xiaomi|Redmi Note 3|";
 }

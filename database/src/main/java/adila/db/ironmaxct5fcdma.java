@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Motorola MOT-XT681
  */
 final class ironmaxct5fcdma {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Motoluxe";
+    public static final String DATA = "Motorola|Motoluxe|";
 }

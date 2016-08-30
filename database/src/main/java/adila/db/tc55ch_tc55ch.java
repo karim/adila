@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: TC55CH
  */
 final class tc55ch_tc55ch {
-    public static final String MANUFACTURER = "Motorola Solutions";
-    public static final String NAME = "TC55CH";
+    public static final String DATA = "Motorola Solutions|TC55CH|";
 }

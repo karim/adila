@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Cybook-Tablet
  */
 final class cybtt105fbk {
-    public static final String MANUFACTURER = "Booken";
-    public static final String NAME = "Cybook Tablet";
+    public static final String DATA = "Booken|Cybook Tablet|";
 }

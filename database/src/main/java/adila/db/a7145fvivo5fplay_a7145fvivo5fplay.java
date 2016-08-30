@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: A714_Vivo_Play
  */
 final class a7145fvivo5fplay_a7145fvivo5fplay {
-    public static final String MANUFACTURER = "Gtel";
-    public static final String NAME = "A714 Vivo Play";
+    public static final String DATA = "Gtel|A714 Vivo Play|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: KAZAM Trooper 445L
  */
 final class tr4l4544_kazam20trooper20445l {
-    public static final String MANUFACTURER = "KAZAM";
-    public static final String NAME = "Trooper 445L";
+    public static final String DATA = "KAZAM|Trooper 445L|";
 }

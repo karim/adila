@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Grand Memo
  */
 final class prindle_grand20memo {
-    public static final String MANUFACTURER = "ZTE";
-    public static final String NAME = "Grand Memo";
+    public static final String DATA = "ZTE|Grand Memo|";
 }

@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Kali_8
  */
 final class kali5f8_kali5f8 {
-    public static final String MANUFACTURER = "Njoy";
-    public static final String NAME = "nJoy Kali 8";
+    public static final String DATA = "Njoy|nJoy Kali 8|";
 }

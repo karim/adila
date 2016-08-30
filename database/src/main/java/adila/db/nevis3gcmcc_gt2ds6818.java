@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: GT-S6818
  */
 final class nevis3gcmcc_gt2ds6818 {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Fame";
+    public static final String DATA = "Samsung|Galaxy Fame|";
 }

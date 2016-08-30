@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: Nexus 9
  */
 final class flounder5flte {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "Nexus 9 LTE";
+    public static final String DATA = "HTC|Nexus 9 LTE|";
 }

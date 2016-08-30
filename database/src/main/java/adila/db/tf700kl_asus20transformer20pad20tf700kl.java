@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS Transformer Pad TF700KL
  */
 final class tf700kl_asus20transformer20pad20tf700kl {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "Transformer Pad Infinity";
+    public static final String DATA = "Asus|Transformer Pad Infinity|";
 }

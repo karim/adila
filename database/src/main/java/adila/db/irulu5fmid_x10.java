@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: X10
  */
 final class irulu5fmid_x10 {
-    public static final String MANUFACTURER = "LIAONING YIYATONG";
-    public static final String NAME = "IRULU_MID";
+    public static final String DATA = "LIAONING YIYATONG|IRULU_MID|";
 }

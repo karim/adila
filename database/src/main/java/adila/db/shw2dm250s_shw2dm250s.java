@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SHW-M250S
  */
 final class shw2dm250s_shw2dm250s {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2|Galaxy S";
 }

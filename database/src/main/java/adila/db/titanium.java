@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: XT800
  */
 final class titanium {
-    public static final String MANUFACTURER = "Motorola";
-    public static final String NAME = "Glam XT800";
+    public static final String DATA = "Motorola|Glam XT800|";
 }

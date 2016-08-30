@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: ISW11SC
  */
 final class isw11sc_isw11sc {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy S2 Wimax";
-    public static final String SERIES = "Galaxy S";
+    public static final String DATA = "Samsung|Galaxy S2 Wimax|Galaxy S";
 }

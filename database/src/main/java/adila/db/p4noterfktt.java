@@ -9,7 +9,5 @@ package adila.db;
  * MODEL: SHW-M480K
  */
 final class p4noterfktt {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Note 10.1";
-    public static final String SERIES = "Galaxy Note";
+    public static final String DATA = "Samsung|Galaxy Note 10.1|Galaxy Note";
 }

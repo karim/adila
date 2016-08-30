@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: HTC One M9_Prime Camera Edition
  */
 final class htc5fhimaruhl_htc20one20m95fprime20camera20edition {
-    public static final String MANUFACTURER = "HTC";
-    public static final String NAME = "M9e";
+    public static final String DATA = "HTC|M9e|";
 }

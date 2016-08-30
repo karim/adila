@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: IdeaTab A2107A-H
  */
 final class lenovo755fa25fics {
-    public static final String MANUFACTURER = "Lenovo";
+    public static final String DATA = "Lenovo||";
 }

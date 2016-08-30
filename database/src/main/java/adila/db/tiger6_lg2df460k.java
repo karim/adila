@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: LG-F460K
  */
 final class tiger6_lg2df460k {
-    public static final String MANUFACTURER = "LG";
-    public static final String NAME = "G3 Cat.6";
+    public static final String DATA = "LG|G3 Cat.6|";
 }

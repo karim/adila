@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SCH-I415
  */
 final class aegis2vzw {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Stratosphere 2";
+    public static final String DATA = "Samsung|Galaxy Stratosphere 2|";
 }

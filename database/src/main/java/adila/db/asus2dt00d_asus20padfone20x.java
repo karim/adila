@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: ASUS PadFone X
  */
 final class asus2dt00d_asus20padfone20x {
-    public static final String MANUFACTURER = "Asus";
-    public static final String NAME = "PadFone X (A91)";
+    public static final String DATA = "Asus|PadFone X (A91)|";
 }

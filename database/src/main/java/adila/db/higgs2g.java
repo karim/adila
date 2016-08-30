@@ -9,6 +9,5 @@ package adila.db;
  * MODEL: SM-G350E
  */
 final class higgs2g {
-    public static final String MANUFACTURER = "Samsung";
-    public static final String NAME = "Galaxy Star2 Plus";
+    public static final String DATA = "Samsung|Galaxy Star2 Plus|";
 }
