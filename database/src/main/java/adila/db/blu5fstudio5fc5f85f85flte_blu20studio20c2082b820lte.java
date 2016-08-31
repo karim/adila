@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Blu STUDIO C 8+8 LTE
+ * Blu Studio C 8+8 LTE
  *
  * DEVICE: BLU_STUDIO_C_8_8_LTE
  * MODEL: BLU STUDIO C 8+8 LTE
  */
 final class blu5fstudio5fc5f85f85flte_blu20studio20c2082b820lte {
-    public static final String DATA = "Blu|STUDIO C 8+8 LTE|Studio";
+    public static final String DATA = "Blu|Studio C 8+8 LTE|Studio";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: BLU R1 HD
  */
 final class blu5fr15fhd_blu20r120hd {
-    public static final String DATA = "Blu|R1 HD|";
+    public static final String DATA = "Blu|R1 HD|Specialty";
 }

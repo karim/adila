@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Motorola Moto 360 (2nd Gen)
+ * Motorola Moto 360 Sport
  *
  * DEVICE: carp
  * MODEL: Moto 360
  */
 final class carp {
-    public static final String DATA = "Motorola|Moto 360 (2nd Gen)|";
+    public static final String DATA = "Motorola|Moto 360 Sport|";
 }

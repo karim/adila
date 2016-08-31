@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: DIAMOND M
  */
 final class blu5fdiamond5fm_diamond20m {
-    public static final String DATA = "Blu|Diamond M|";
+    public static final String DATA = "Blu|Diamond M|Specialty";
 }

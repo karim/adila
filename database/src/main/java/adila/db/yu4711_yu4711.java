@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * YU YUNIQUE
+ * YU Yunique
  *
  * DEVICE: YU4711
  * MODEL: YU4711
  */
 final class yu4711_yu4711 {
-    public static final String DATA = "YU|YUNIQUE|";
+    public static final String DATA = "YU|Yunique|";
 }

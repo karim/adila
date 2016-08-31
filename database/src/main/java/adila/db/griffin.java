@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Motorola Moto Z Droid
+ * Motorola Moto Z
  *
  * DEVICE: griffin
  * MODEL: XT1650
  */
 final class griffin {
-    public static final String DATA = "Motorola|Moto Z Droid|";
+    public static final String DATA = "Motorola|Moto Z|";
 }

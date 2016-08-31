@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * YU YUREKAS
+ * YU Yureka S
  *
  * DEVICE: YUREKAS
  * MODEL: YU5200
  */
 final class yurekas_yu5200 {
-    public static final String DATA = "YU|YUREKAS|";
+    public static final String DATA = "YU|Yureka S|";
 }

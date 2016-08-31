@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Blu PURE XR
+ * Blu Pure XR
  *
  * DEVICE: BLU_Pure_XR
  * MODEL: Pure XR
  */
 final class blu5fpure5fxr_pure20xr {
-    public static final String DATA = "Blu|PURE XR|";
+    public static final String DATA = "Blu|Pure XR|Pure";
 }

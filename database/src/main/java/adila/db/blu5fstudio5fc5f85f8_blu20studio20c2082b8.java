@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Blu STUIDIO C 8+8
+ * Blu Studio C 8+8
  *
  * DEVICE: BLU_STUDIO_C_8_8
  * MODEL: BLU STUDIO C 8+8
  */
 final class blu5fstudio5fc5f85f8_blu20studio20c2082b8 {
-    public static final String DATA = "Blu|STUIDIO C 8+8|Studio";
+    public static final String DATA = "Blu|Studio C 8+8|Studio";
 }

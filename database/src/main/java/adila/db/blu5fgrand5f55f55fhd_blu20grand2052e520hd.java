@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: BLU GRAND 5.5 HD
  */
 final class blu5fgrand5f55f55fhd_blu20grand2052e520hd {
-    public static final String DATA = "Blu|Grand 5.5 HD|";
+    public static final String DATA = "Blu|Grand 5.5 HD|Specialty";
 }
