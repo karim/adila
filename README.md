@@ -46,7 +46,7 @@ Database
 
 The database is just a Java-based (.jar) database, where each device has its own class. The classes are named using each device `Build.DEVICE` and `Build.MODEL`.
 
-The [devices](devices.csv) database is included as a *.csv* file. This file is based on Google's list of [supported devices][2] and can be found [here][3]. The database is then converted to *.java* files using a Python [script](database/scripts/devices.py).
+The [devices](devices.csv) database is included as a *.csv* file. This file is based on Google's list of [supported devices][2] and can be found [here][3]. The database is then converted to *.java* files using a Python [script](devices.py).
 
 **Note:** The `devices.csv` file includes additional information that might, or might not, be used in the future.
 

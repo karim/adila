@@ -5,12 +5,12 @@ import os
 import sys
 from collections import Counter
 
-javadir = '../src/main/java/adila/db'
+javadir = 'database/src/main/java/adila/db'
 
 if not os.path.exists(javadir):
     os.makedirs(javadir)
 
-with open('../devices.csv', newline='') as f:
+with open('devices.csv', newline='') as f:
     reader = csv.reader(f)
     next(reader)
 
