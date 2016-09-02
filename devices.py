@@ -5,11 +5,6 @@ import os
 import sys
 from collections import Counter
 
-javadir = 'database/src/main/java/adila/db'
-
-if not os.path.exists(javadir):
-    os.makedirs(javadir)
-
 with open('devices.csv', newline='') as f:
     reader = csv.reader(f)
     next(reader)
@@ -63,6 +58,11 @@ with open('devices.csv', newline='') as f:
                     classname += m.lower()
                 else:
                     classname += hex(ord(m))[2:]
+
+        javadir = 'database/src/main/java/adila/db'
+
+        if not os.path.exists(javadir):
+            os.makedirs(javadir)
 
         # Create java class file
         with open(javadir + '/' + classname + '.java', 'x') as javafile:
