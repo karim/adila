@@ -19,10 +19,6 @@ compileJava {
     options.bootClasspath = "$System.env.JAVA5_HOME/jre/lib/rt.jar"
 }
 
-dependencies {
-    compile project(':library')
-}
-
 task sourcesJar(type: Jar) {
     from sourceSets.main.allJava
     classifier 'sources'
