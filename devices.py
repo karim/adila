@@ -2,15 +2,21 @@
 
 import csv
 import os
+import shutil
 import sys
 from collections import Counter
+
+print('Deleting old database...')
+db = 'database/src/main/java/adila/db'
+shutil.rmtree(db, ignore_errors = True)
+os.makedirs(db)
 
 with open('devices.csv', newline='') as f:
     reader = csv.reader(f)
     next(reader)
 
     # Store all devices into a list
-    print('Counting devices, please wait...')
+    print('Counting devices...')
     devices_list = []
     devices = []
     for row in reader:
@@ -24,7 +30,7 @@ with open('devices.csv', newline='') as f:
     unique_devices = [k for k, v in Counter(devices).items() if v == 1]
     print('Found %d unique Build.DEVICE' % len(unique_devices))
 
-    print('Creating database, please wait...')
+    print('Creating database...')
     for device in devices_list:
         classname = ''
 
@@ -60,9 +66,6 @@ with open('devices.csv', newline='') as f:
                     classname += hex(ord(m))[2:]
 
         javadir = 'database/src/main/java/adila/db'
-
-        if not os.path.exists(javadir):
-            os.makedirs(javadir)
 
         # Create java class file
         with open(javadir + '/' + classname + '.java', 'x') as javafile:
