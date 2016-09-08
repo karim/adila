@@ -1,23 +1,5 @@
-plugins {
-    id 'java'
-    id 'maven-publish'
-    id 'com.jfrog.bintray' version '1.7.1'
-}
 
-group = 'com.karimeldeeb.adila'
 version = '16.8.30'
-
-compileJava {
-    // Suppress warnings about using Java 5
-    options.compilerArgs << "-Xlint:-options"
-
-    // Compile with Java 5
-    sourceCompatibility = 1.5
-    targetCompatibility = 1.5
-
-    // Location of Java 5 JDK runtime
-    options.bootClasspath = "$System.env.JAVA5_HOME/jre/lib/rt.jar"
-}
 
 dependencies {
     // The included file is extracted from "Android SDK 1.0 r2", which you can downloaded from

@@ -4,10 +4,33 @@ buildscript {
     repositories {
         jcenter()
     }
+    dependencies {
+        classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.1'
+    }
 }
 
 allprojects {
     repositories {
         jcenter()
+    }
+}
+
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'maven-publish'
+    apply plugin: 'com.jfrog.bintray'
+
+    project.group = 'com.karimeldeeb.adila'
+
+    compileJava {
+        // Suppress warnings about using Java 5
+        options.compilerArgs << "-Xlint:-options"
+
+        // Compile with Java 5
+        sourceCompatibility = 1.5
+        targetCompatibility = 1.5
+
+        // Location of Java 5 JDK runtime
+        options.bootClasspath = "$System.env.JAVA5_HOME/jre/lib/rt.jar"
     }
 }
