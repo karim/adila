@@ -8,6 +8,9 @@
 .idea
 *.iml
 
+# All 'build' folders
+/*/build/
+
 # OS generated files (Mac, Windows)
 .DS_Store
 Thumbs.db
