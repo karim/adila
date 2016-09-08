@@ -7,9 +7,11 @@ import sys
 from collections import Counter
 
 print('Deleting old database...')
-db = 'database/src/main/java/adila/db'
-shutil.rmtree(db, ignore_errors = True)
-os.makedirs(db)
+for i in range(25):
+    api = '' if i == 0 else '-v' + str(i)
+    db = 'database' + api + '/src/main/java/adila/db'
+    shutil.rmtree(db, ignore_errors = True)
+    os.makedirs(db)
 
 with open('devices.csv', newline='') as f:
     reader = csv.reader(f)
@@ -36,10 +38,11 @@ with open('devices.csv', newline='') as f:
 
         # Fields
         manufacturer = device[0]
-        name = device[1]
+        name         = device[1]
         build_device = device[2]
-        build_model = device[3]
-        series = device[10]
+        build_model  = device[3]
+        series       = device[10]
+        android_api  = device[12]
 
         ##### Build.DEVICE #####
 
@@ -65,7 +68,13 @@ with open('devices.csv', newline='') as f:
                 else:
                     classname += hex(ord(m))[2:]
 
-        javadir = 'database/src/main/java/adila/db'
+        # Java class file should be in its maximum supported API directory
+        javadir = 'database'
+
+        if android_api:
+            javadir += '-v' + android_api.split()[-1]
+
+        javadir += '/src/main/java/adila/db'
 
         # Create java class file
         with open(javadir + '/' + classname + '.java', 'x') as javafile:

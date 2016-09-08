@@ -1,0 +1,75 @@
+
+version = project(':database').version
+
+jar {
+    from project(':database').sourceSets.main.output
+    from project(':database-v9').sourceSets.main.output
+    from project(':database-v10').sourceSets.main.output
+    from project(':database-v11').sourceSets.main.output
+    from project(':database-v12').sourceSets.main.output
+    from project(':database-v13').sourceSets.main.output
+    from project(':database-v14').sourceSets.main.output
+    from project(':database-v15').sourceSets.main.output
+    from project(':database-v16').sourceSets.main.output
+    from project(':database-v17').sourceSets.main.output
+    from project(':database-v18').sourceSets.main.output
+    from project(':database-v19').sourceSets.main.output
+    from project(':database-v20').sourceSets.main.output
+    from project(':database-v21').sourceSets.main.output
+    from project(':database-v22').sourceSets.main.output
+    from project(':database-v23').sourceSets.main.output
+    from project(':database-v24').sourceSets.main.output
+}
+
+task sourcesJar(type: Jar) {
+    from sourceSets.main.allJava
+    from project(':database').sourceSets.main.allJava
+    from project(':database-v9').sourceSets.main.allJava
+    from project(':database-v10').sourceSets.main.allJava
+    from project(':database-v11').sourceSets.main.allJava
+    from project(':database-v12').sourceSets.main.allJava
+    from project(':database-v13').sourceSets.main.allJava
+    from project(':database-v14').sourceSets.main.allJava
+    from project(':database-v15').sourceSets.main.allJava
+    from project(':database-v16').sourceSets.main.allJava
+    from project(':database-v17').sourceSets.main.allJava
+    from project(':database-v18').sourceSets.main.allJava
+    from project(':database-v19').sourceSets.main.allJava
+    from project(':database-v20').sourceSets.main.allJava
+    from project(':database-v21').sourceSets.main.allJava
+    from project(':database-v22').sourceSets.main.allJava
+    from project(':database-v23').sourceSets.main.allJava
+    from project(':database-v24').sourceSets.main.allJava
+    classifier 'sources'
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            from components.java
+            artifact sourcesJar
+        }
+    }
+}
+
+bintray {
+    user = "$bintray_user"
+    key = "$bintray_key"
+
+    publications = ['maven']
+    publish = true
+
+    pkg {
+        repo = 'adila'
+        name = 'database-v8'
+        desc = 'Adila Database for Android API 8+'
+        licenses = ['MIT']
+
+        websiteUrl = 'https://github.com/karim/adila'
+        issueTrackerUrl = 'https://github.com/karim/adila/issues'
+        vcsUrl = 'https://github.com/karim/adila.git'
+        githubRepo = 'karim/adila'
+
+        version { name = project.version }
+    }
+}

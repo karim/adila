@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Motorola DROID RAZR HD
+ * Motorola Droid Razr HD
  *
  * DEVICE: vanquish_u
  * MODEL: RAZR HD
  */
 final class vanquish5fu_razr20hd {
-    public static final String DATA = "Motorola|DROID RAZR HD|";
+    public static final String DATA = "Motorola|Droid Razr HD|";
 }

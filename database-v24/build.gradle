@@ -1,0 +1,43 @@
+
+version = project(':database').version
+
+jar {
+    from project(':database').sourceSets.main.output
+}
+
+task sourcesJar(type: Jar) {
+    from sourceSets.main.allJava
+    from project(':database').sourceSets.main.allJava
+    classifier 'sources'
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            from components.java
+            artifact sourcesJar
+        }
+    }
+}
+
+bintray {
+    user = "$bintray_user"
+    key = "$bintray_key"
+
+    publications = ['maven']
+    publish = true
+
+    pkg {
+        repo = 'adila'
+        name = 'database-v24'
+        desc = 'Adila Database for Android API 24+'
+        licenses = ['MIT']
+
+        websiteUrl = 'https://github.com/karim/adila'
+        issueTrackerUrl = 'https://github.com/karim/adila/issues'
+        vcsUrl = 'https://github.com/karim/adila.git'
+        githubRepo = 'karim/adila'
+
+        version { name = project.version }
+    }
+}

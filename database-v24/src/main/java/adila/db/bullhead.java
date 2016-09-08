@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Nexus 5X
  */
 final class bullhead {
-    public static final String DATA = "LG|Nexus 5X|";
+    public static final String DATA = "LG|Nexus 5X|Google Nexus";
 }

@@ -27,7 +27,9 @@ compile 'com.karimeldeeb.adila:library:16.8.30'
 compile 'com.karimeldeeb.adila:database:+'
 ```
 
-Using `+` in dependencies lets you automatically pick up the latest available version. While it is generally not recommended, it is fine for this type of library since it will be updated almost daily.
+Using `+` in dependencies lets you automatically pick up the latest available version. While it is generally not recommended, it is fine for this type of library since it will be updated frequently.
+
+Also, instead of using the whole `database` artifact, you should use one that matches your application `minSdkVersion`. For example, if your application `minSdkVersion` is **19**, you should use `database-v19` artifact. This way, you will be using a smaller database that only includes devices supporting API level 19 or higher.
 
 **Note:** The database is included separately in case you want to use a different one, or make your own.
 

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Galaxy Nexus
  */
 final class toro {
-    public static final String DATA = "Samsung|Galaxy Nexus|";
+    public static final String DATA = "Samsung|Galaxy Nexus|Google Nexus";
 }

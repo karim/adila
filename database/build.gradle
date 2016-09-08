@@ -1,8 +1,59 @@
 
 version = '16.8.31'
 
+jar {
+    from project(':database-v1').sourceSets.main.output
+    from project(':database-v2').sourceSets.main.output
+    from project(':database-v3').sourceSets.main.output
+    from project(':database-v4').sourceSets.main.output
+    from project(':database-v5').sourceSets.main.output
+    from project(':database-v6').sourceSets.main.output
+    from project(':database-v7').sourceSets.main.output
+    from project(':database-v8').sourceSets.main.output
+    from project(':database-v9').sourceSets.main.output
+    from project(':database-v10').sourceSets.main.output
+    from project(':database-v11').sourceSets.main.output
+    from project(':database-v12').sourceSets.main.output
+    from project(':database-v13').sourceSets.main.output
+    from project(':database-v14').sourceSets.main.output
+    from project(':database-v15').sourceSets.main.output
+    from project(':database-v16').sourceSets.main.output
+    from project(':database-v17').sourceSets.main.output
+    from project(':database-v18').sourceSets.main.output
+    from project(':database-v19').sourceSets.main.output
+    from project(':database-v20').sourceSets.main.output
+    from project(':database-v21').sourceSets.main.output
+    from project(':database-v22').sourceSets.main.output
+    from project(':database-v23').sourceSets.main.output
+    from project(':database-v24').sourceSets.main.output
+}
+
 task sourcesJar(type: Jar) {
     from sourceSets.main.allJava
+    from project(':database-v1').sourceSets.main.allJava
+    from project(':database-v2').sourceSets.main.allJava
+    from project(':database-v3').sourceSets.main.allJava
+    from project(':database-v4').sourceSets.main.allJava
+    from project(':database-v5').sourceSets.main.allJava
+    from project(':database-v6').sourceSets.main.allJava
+    from project(':database-v7').sourceSets.main.allJava
+    from project(':database-v8').sourceSets.main.allJava
+    from project(':database-v9').sourceSets.main.allJava
+    from project(':database-v10').sourceSets.main.allJava
+    from project(':database-v11').sourceSets.main.allJava
+    from project(':database-v12').sourceSets.main.allJava
+    from project(':database-v13').sourceSets.main.allJava
+    from project(':database-v14').sourceSets.main.allJava
+    from project(':database-v15').sourceSets.main.allJava
+    from project(':database-v16').sourceSets.main.allJava
+    from project(':database-v17').sourceSets.main.allJava
+    from project(':database-v18').sourceSets.main.allJava
+    from project(':database-v19').sourceSets.main.allJava
+    from project(':database-v20').sourceSets.main.allJava
+    from project(':database-v21').sourceSets.main.allJava
+    from project(':database-v22').sourceSets.main.allJava
+    from project(':database-v23').sourceSets.main.allJava
+    from project(':database-v24').sourceSets.main.allJava
     classifier 'sources'
 }
 

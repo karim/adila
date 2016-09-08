@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Motorola DROID RAZR M
+ * Motorola Droid Razr M
  *
  * DEVICE: scorpion_mini
  * MODEL: XT907
  */
 final class scorpion5fmini {
-    public static final String DATA = "Motorola|DROID RAZR M|";
+    public static final String DATA = "Motorola|Droid Razr M|";
 }

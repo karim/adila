@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Nexus 6P
  */
 final class angler {
-    public static final String DATA = "Huawei|Nexus 6P|";
+    public static final String DATA = "Huawei|Nexus 6P|Google Nexus";
 }

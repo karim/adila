@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Nexus One
  */
 final class passion_nexus20one {
-    public static final String DATA = "HTC|Nexus One|";
+    public static final String DATA = "HTC|Nexus One|Google Nexus";
 }

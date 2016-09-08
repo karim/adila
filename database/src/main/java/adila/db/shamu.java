@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Nexus 6
  */
 final class shamu {
-    public static final String DATA = "Motorola|Nexus 6|";
+    public static final String DATA = "Motorola|Nexus 6|Google Nexus";
 }

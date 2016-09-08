@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * HTC G1
+ * HTC Dream
  *
  * DEVICE: dream
  * MODEL: HTC Dream
  */
 final class dream {
-    public static final String DATA = "HTC|G1|";
+    public static final String DATA = "HTC|Dream|";
 }
