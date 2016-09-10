@@ -53,7 +53,7 @@ The [devices](devices.csv) database is included as a *.csv* file. This file is b
 ProGuard
 --------
 
-If you are using ProGuard with your application, you must add [proguard-adila.pro](database/proguard-adila.pro) file to `proguardFiles`. This file will stop ProGuard from removing all classes in the database.
+If you are using ProGuard with your application, you must add [proguard-adila.pro](proguard-adila.pro) file to `proguardFiles`. This file will stop ProGuard from removing all classes in the database.
 
 *Example:*
 
