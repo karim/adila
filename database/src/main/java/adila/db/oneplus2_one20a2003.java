@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * OnePlus OnePlus2
+ * OnePlus OnePlus 2
  *
  * DEVICE: OnePlus2
  * MODEL: ONE A2003
  */
 final class oneplus2_one20a2003 {
-    public static final String DATA = "OnePlus|OnePlus2|";
+    public static final String DATA = "OnePlus|OnePlus 2|";
 }

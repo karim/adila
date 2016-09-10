@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Sharp AQUOS M1
+ * Sharp C1
  *
  * DEVICE: MS1
  * MODEL: FS8001
  */
 final class ms1_fs8001 {
-    public static final String DATA = "Sharp|AQUOS M1|";
+    public static final String DATA = "Sharp|C1|";
 }

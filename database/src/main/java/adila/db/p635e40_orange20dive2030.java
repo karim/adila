@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * ZTE Orange Dive 30
+ * Orange Dive 30
  *
  * DEVICE: P635E40
  * MODEL: Orange Dive 30
  */
 final class p635e40_orange20dive2030 {
-    public static final String DATA = "ZTE|Orange Dive 30|";
+    public static final String DATA = "Orange|Dive 30|";
 }

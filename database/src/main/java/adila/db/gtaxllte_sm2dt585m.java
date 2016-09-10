@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: SM-T585M
  */
 final class gtaxllte_sm2dt585m {
-    public static final String DATA = "Samsung|Galaxy Tab A 10.1|";
+    public static final String DATA = "Samsung|Galaxy Tab A 10.1|Galaxy Tab";
 }

@@ -1,5 +1,5 @@
 
-version = '16.8.31'
+version = '16.9.10'
 
 jar {
     from project(':database-v1').sourceSets.main.output

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Neffos Neffos C5 Max
+ * Neffos C5 Max
  *
  * DEVICE: C5_Max
  * MODEL: Neffos C5 Max
  */
 final class c55fmax_neffos20c520max {
-    public static final String DATA = "Neffos|Neffos C5 Max|";
+    public static final String DATA = "Neffos|C5 Max|";
 }
