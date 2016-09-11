@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: SC-05G
  */
 final class sc2d05g_sc2d05g {
-    public static final String DATA = "Samsung|Galaxy S6|";
+    public static final String DATA = "Samsung|Galaxy S6|Galaxy S";
 }

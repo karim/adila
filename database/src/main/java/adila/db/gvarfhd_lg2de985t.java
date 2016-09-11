@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * LG LG-E985T
+ * LG E985T
  *
  * DEVICE: gvarfhd
  * MODEL: LG-E985T
  */
 final class gvarfhd_lg2de985t {
-    public static final String DATA = "LG|LG-E985T|";
+    public static final String DATA = "LG|E985T|";
 }

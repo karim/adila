@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * LG LGL22
+ * LG L22
  *
  * DEVICE: g2
  * MODEL: LGL22
  */
 final class g2_lgl22 {
-    public static final String DATA = "LG|LGL22|";
+    public static final String DATA = "LG|L22|";
 }
