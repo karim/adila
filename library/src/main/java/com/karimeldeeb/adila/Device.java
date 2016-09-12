@@ -104,7 +104,7 @@ public final class Device {
         FOUND = isFound;
 
         /* Get DATA field from the device class. */
-        String data = "||";
+        String data = "";
         if (isFound) try {
             data = (String) mClass.getField("DATA").get(null);
         } catch (NoSuchFieldException e) {
@@ -114,11 +114,11 @@ public final class Device {
         }
 
         /* Assign values (either default or from a device class) to this class static fields. */
-        String[] field = data.split("\\|", 3);
+        final String[] field = data.split("\\|", -1);
 
-        MANUFACTURER = (field[0].length() != 0) ? field[0] : "";
-        NAME         = (field[1].length() != 0) ? field[1] : "";
-        SERIES       = (field[2].length() != 0) ? field[2] : "";
+        MANUFACTURER = (field.length > 0) ? field[0] : "";
+        NAME         = (field.length > 1) ? field[1] : "";
+        SERIES       = (field.length > 2) ? field[2] : "";
 
         FULL_NAME = MANUFACTURER + ' ' + NAME;
     }
