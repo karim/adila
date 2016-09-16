@@ -6,8 +6,8 @@ package adila.db;
  * Motorola Moto G4 Play
  *
  * DEVICE: harpia
- * MODEL: Moto G Play
+ * MODEL: XT1609
  */
-final class harpia {
+final class harpia_xt1609 {
     public static final String DATA = "Motorola|Moto G4 Play|";
 }

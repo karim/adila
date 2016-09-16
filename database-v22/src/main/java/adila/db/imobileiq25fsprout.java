@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * i-Mobile i-mobile IQ II
+ * i-mobile IQ II
  *
  * DEVICE: imobileiq2_sprout
  * MODEL: i-mobile IQ II
  */
 final class imobileiq25fsprout {
-    public static final String DATA = "i-Mobile|i-mobile IQ II|";
+    public static final String DATA = "i-mobile|IQ II|";
 }

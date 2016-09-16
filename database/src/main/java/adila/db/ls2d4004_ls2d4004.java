@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Hipstreet LS-4004
+ * Lyf LS-4004
  *
  * DEVICE: LS-4004
  * MODEL: LS-4004
  */
 final class ls2d4004_ls2d4004 {
-    public static final String DATA = "Hipstreet|LS-4004|";
+    public static final String DATA = "Lyf|LS-4004|";
 }

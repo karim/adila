@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Huawei P7-L11
+ * Huawei P7
  *
  * DEVICE: hwp7
  * MODEL: HUAWEI P7-L11
  */
 final class hwp7_huawei20p72dl11 {
-    public static final String DATA = "Huawei|P7-L11|";
+    public static final String DATA = "Huawei|P7|";
 }

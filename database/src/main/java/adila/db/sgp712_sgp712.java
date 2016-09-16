@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Sony Xperia Z4 tablet
+ * Sony Xperia Z4 Tablet
  *
  * DEVICE: SGP712
  * MODEL: SGP712
  */
 final class sgp712_sgp712 {
-    public static final String DATA = "Sony|Xperia Z4 tablet|";
+    public static final String DATA = "Sony|Xperia Z4 Tablet|";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: BLU ENERGY X PLUS 2
  */
 final class blu5fenergy5fx5fplus5f2_blu20energy20x20plus202 {
-    public static final String DATA = "Blu|Energy X Plus 2|";
+    public static final String DATA = "Blu|Energy X Plus 2|Energy";
 }

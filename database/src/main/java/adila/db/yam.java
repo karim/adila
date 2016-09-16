@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Obi Obi MV1
+ * Obi MV1
  *
  * DEVICE: yam
- * MODEL: Obi MV1
+ * MODEL: OBI MV1
  */
 final class yam {
-    public static final String DATA = "Obi|Obi MV1|";
+    public static final String DATA = "Obi|MV1|";
 }

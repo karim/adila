@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Sony NW-ZX1
+ * Sony NWZ-ZX1
  *
  * DEVICE: icx1240
  * MODEL: WALKMAN
  */
 final class icx1240 {
-    public static final String DATA = "Sony|NW-ZX1|";
+    public static final String DATA = "Sony|NWZ-ZX1|";
 }
