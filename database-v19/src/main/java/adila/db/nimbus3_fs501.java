@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Fly Nimbus3
+ * Fly Nimbus 3
  *
  * DEVICE: Nimbus3
  * MODEL: FS501
  */
 final class nimbus3_fs501 {
-    public static final String DATA = "Fly|Nimbus3|";
+    public static final String DATA = "Fly|Nimbus 3|Nimbus";
 }

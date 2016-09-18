@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Fly FS402
+ * Fly Stratus 2
  *
  * DEVICE: Stratus_2
  * MODEL: FS402
  */
 final class stratus5f2_fs402 {
-    public static final String DATA = "Fly|FS402|";
+    public static final String DATA = "Fly|Stratus 2|Stratus";
 }

@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: FS506
  */
 final class cirrus5f3_fs506 {
-    public static final String DATA = "Fly|Cirrus 3|";
+    public static final String DATA = "Fly|Cirrus 3|Cirrus";
 }
