@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Vestel venus_v3_5030
+ * Vestel Venus V3 5030
  *
  * DEVICE: Dyno
  * MODEL: Venus_V3_5030
  */
 final class dyno_venus5fv35f5030 {
-    public static final String DATA = "Vestel|venus_v3_5030|";
+    public static final String DATA = "Vestel|Venus V3 5030|";
 }

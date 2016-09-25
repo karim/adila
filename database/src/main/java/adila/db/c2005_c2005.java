@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Sony Xperia M dual
+ * Sony Xperia M Dual
  *
  * DEVICE: C2005
  * MODEL: C2005
  */
 final class c2005_c2005 {
-    public static final String DATA = "Sony|Xperia M dual|";
+    public static final String DATA = "Sony|Xperia M Dual|";
 }

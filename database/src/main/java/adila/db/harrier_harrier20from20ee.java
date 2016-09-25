@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * BenQ Harrier from EE
+ * BenQ Harrier
  *
  * DEVICE: Harrier
  * MODEL: Harrier from EE
  */
 final class harrier_harrier20from20ee {
-    public static final String DATA = "BenQ|Harrier from EE|";
+    public static final String DATA = "BenQ|Harrier|";
 }

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Symphony SYMPHONY i10
+ * Symphony i10
  *
  * DEVICE: i10
  * MODEL: i10
  */
 final class i10 {
-    public static final String DATA = "Symphony|SYMPHONY i10|";
+    public static final String DATA = "Symphony|i10|";
 }

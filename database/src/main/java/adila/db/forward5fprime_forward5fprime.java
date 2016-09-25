@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Forward_Prime
  */
 final class forward5fprime_forward5fprime {
-    public static final String DATA = "NGM|Forward Prime|";
+    public static final String DATA = "NGM|Forward Prime|Forward";
 }

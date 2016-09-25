@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Hipstreet Beeline_Smart_5
+ * Hipstreet Beeline Smart 5
  *
  * DEVICE: Beeline_Smart_5
  * MODEL: Beeline Smart 5
  */
 final class beeline5fsmart5f5_beeline20smart205 {
-    public static final String DATA = "Hipstreet|Beeline_Smart_5|";
+    public static final String DATA = "Hipstreet|Beeline Smart 5|";
 }

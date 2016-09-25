@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Xiaomi China
+ * Xiaomi MiBOX1S
  *
  * DEVICE: casablanca
  * MODEL: MiBOX1S
  */
 final class casablanca {
-    public static final String DATA = "Xiaomi|China|";
+    public static final String DATA = "Xiaomi|MiBOX1S|";
 }

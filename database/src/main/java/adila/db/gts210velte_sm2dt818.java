@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: SM-T818
  */
 final class gts210velte_sm2dt818 {
-    public static final String DATA = "Samsung|Galaxy Tab S2 9.7|";
+    public static final String DATA = "Samsung|Galaxy Tab S2 9.7|Galaxy Tab";
 }

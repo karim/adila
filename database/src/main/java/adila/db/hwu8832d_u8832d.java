@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Huawei 
+ * Huawei U8832D
  *
  * DEVICE: hwu8832D
  * MODEL: U8832D
  */
 final class hwu8832d_u8832d {
-    public static final String DATA = "Huawei||";
+    public static final String DATA = "Huawei|U8832D|";
 }
