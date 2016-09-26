@@ -8,6 +8,6 @@ package adila.db;
  * DEVICE: hwbgo
  * MODEL: BGO-DL09
  */
-final class hwbgo {
+final class hwbgo_bgo2ddl09 {
     public static final String DATA = "Huawei|MediaPad T2 7.0|";
 }

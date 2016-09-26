@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Huawei MediaPad7
+ * Huawei MediaPad 7
  *
  * DEVICE: hws7601us
  * MODEL: MediaPad 7 Vogue
  */
 final class hws7601us {
-    public static final String DATA = "Huawei|MediaPad7|";
+    public static final String DATA = "Huawei|MediaPad 7|";
 }
