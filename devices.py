@@ -1,4 +1,6 @@
-# Convert devices information from devices.csv to java classes
+#!/usr/bin/env python3
+
+"""Convert devices information from devices.csv to java classes."""
 
 import csv
 import os
