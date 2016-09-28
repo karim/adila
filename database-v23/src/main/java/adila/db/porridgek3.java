@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Fly Fly
+ * Wileyfox Spark X
  *
  * DEVICE: porridgek3
  * MODEL: Wileyfox Spark X
  */
 final class porridgek3 {
-    public static final String DATA = "Fly|Fly|";
+    public static final String DATA = "Wileyfox|Spark X|";
 }

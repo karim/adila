@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Huawei Y6 II Compact
+ * Huawei Honor 5A
  *
  * DEVICE: HWLYO-L6735
  * MODEL: LYO-L21
  */
 final class hwlyo2dl6735_lyo2dl21 {
-    public static final String DATA = "Huawei|Y6 II Compact|";
+    public static final String DATA = "Huawei|Honor 5A|";
 }

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Boost skaker slim
+ * Boost Shaker Slim
  *
  * DEVICE: Shaker-Slim
  * MODEL: Shaker-Slim
  */
 final class shaker2dslim_shaker2dslim {
-    public static final String DATA = "Boost|skaker slim|";
+    public static final String DATA = "Boost|Shaker Slim|";
 }

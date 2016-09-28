@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Wileyfox Spark
+ * Wileyfox Spark +
  *
  * DEVICE: porridge
  * MODEL: Wileyfox Spark +
  */
 final class porridge_wileyfox20spark202b {
-    public static final String DATA = "Wileyfox|Spark|";
+    public static final String DATA = "Wileyfox|Spark +|";
 }
