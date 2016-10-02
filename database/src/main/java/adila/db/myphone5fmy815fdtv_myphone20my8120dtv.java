@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Myphone My81 DTV
+ * MyPhone My81 DTV
  *
  * DEVICE: MyPhone_my81_DTV
  * MODEL: MyPhone my81 DTV
  */
 final class myphone5fmy815fdtv_myphone20my8120dtv {
-    public static final String DATA = "Myphone|My81 DTV|";
+    public static final String DATA = "MyPhone|My81 DTV|";
 }

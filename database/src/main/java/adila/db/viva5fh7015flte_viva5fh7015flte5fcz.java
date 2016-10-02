@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView Viva i701G
+ * Allview Viva i701G
  *
  * DEVICE: Viva_H701_LTE
  * MODEL: Viva_H701_LTE_CZ
  */
 final class viva5fh7015flte_viva5fh7015flte5fcz {
-    public static final String DATA = "AllView|Viva i701G|";
+    public static final String DATA = "Allview|Viva i701G|";
 }

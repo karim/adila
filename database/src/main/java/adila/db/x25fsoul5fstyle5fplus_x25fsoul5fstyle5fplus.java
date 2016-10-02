@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView X2 Soul Style+
+ * Allview X2 Soul Style+
  *
  * DEVICE: X2_Soul_Style_Plus
  * MODEL: X2_Soul_Style_Plus
  */
 final class x25fsoul5fstyle5fplus_x25fsoul5fstyle5fplus {
-    public static final String DATA = "AllView|X2 Soul Style+|";
+    public static final String DATA = "Allview|X2 Soul Style+|";
 }

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView V2 Viper I
+ * Allview V2 Viper I
  *
  * DEVICE: V2_Viper_I
  * MODEL: V2_Viper_I_TM
  */
 final class v25fviper5fi_v25fviper5fi5ftm {
-    public static final String DATA = "AllView|V2 Viper I|";
+    public static final String DATA = "Allview|V2 Viper I|";
 }

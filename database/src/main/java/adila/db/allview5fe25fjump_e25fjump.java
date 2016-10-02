@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView E2 Jump
+ * Allview E2 Jump
  *
  * DEVICE: ALLVIEW_E2_Jump
  * MODEL: E2_Jump
  */
 final class allview5fe25fjump_e25fjump {
-    public static final String DATA = "AllView|E2 Jump|";
+    public static final String DATA = "Allview|E2 Jump|";
 }

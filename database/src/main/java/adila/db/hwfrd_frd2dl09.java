@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Huawei FRD-L09
+ * Huawei Honor 8
  *
  * DEVICE: HWFRD
  * MODEL: FRD-L09
  */
 final class hwfrd_frd2dl09 {
-    public static final String DATA = "Huawei|FRD-L09|";
+    public static final String DATA = "Huawei|Honor 8|";
 }

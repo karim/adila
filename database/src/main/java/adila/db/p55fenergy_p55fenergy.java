@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView P5 Energy
+ * Allview P5 Energy
  *
  * DEVICE: P5_Energy
  * MODEL: P5_Energy
  */
 final class p55fenergy_p55fenergy {
-    public static final String DATA = "AllView|P5 Energy|";
+    public static final String DATA = "Allview|P5 Energy|";
 }

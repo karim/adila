@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Samsung Galaxy On7 (2016)
+ * Samsung Galaxy On Nxt
  *
  * DEVICE: on7xelte
  * MODEL: SM-G610F
  */
 final class on7xelte {
-    public static final String DATA = "Samsung|Galaxy On7 (2016)|";
+    public static final String DATA = "Samsung|Galaxy On Nxt|";
 }

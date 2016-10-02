@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView P41 eMagic
+ * Allview P41 eMagic
  *
  * DEVICE: P41_eMagic
  * MODEL: P41_eMagic
  */
 final class p415femagic_p415femagic {
-    public static final String DATA = "AllView|P41 eMagic|";
+    public static final String DATA = "Allview|P41 eMagic|";
 }

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Myphone Luna II
+ * MyPhone Luna II
  *
  * DEVICE: LUNA_II_OPM
  * MODEL: LUNA_II
  */
 final class luna5fii5fopm_luna5fii {
-    public static final String DATA = "Myphone|Luna II|";
+    public static final String DATA = "MyPhone|Luna II|";
 }

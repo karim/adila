@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView P5 Pro
+ * Allview P5 Pro
  *
  * DEVICE: P5_Pro
  * MODEL: P5_Pro
  */
 final class p55fpro_p55fpro {
-    public static final String DATA = "AllView|P5 Pro|";
+    public static final String DATA = "Allview|P5 Pro|";
 }

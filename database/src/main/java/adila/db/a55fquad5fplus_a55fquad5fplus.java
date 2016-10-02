@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView A5 Quad Plus
+ * Allview A5 Quad Plus
  *
  * DEVICE: A5_Quad_Plus
  * MODEL: A5_Quad_Plus
  */
 final class a55fquad5fplus_a55fquad5fplus {
-    public static final String DATA = "AllView|A5 Quad Plus|";
+    public static final String DATA = "Allview|A5 Quad Plus|";
 }

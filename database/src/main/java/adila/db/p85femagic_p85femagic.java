@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView P8 eMagic
+ * Allview P8 eMagic
  *
  * DEVICE: P8_eMagic
  * MODEL: P8_eMagic
  */
 final class p85femagic_p85femagic {
-    public static final String DATA = "AllView|P8 eMagic|";
+    public static final String DATA = "Allview|P8 eMagic|";
 }

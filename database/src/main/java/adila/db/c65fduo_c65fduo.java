@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView C6 Duo
+ * Allview C6 Duo
  *
  * DEVICE: C6_Duo
  * MODEL: C6_Duo
  */
 final class c65fduo_c65fduo {
-    public static final String DATA = "AllView|C6 Duo|";
+    public static final String DATA = "Allview|C6 Duo|";
 }

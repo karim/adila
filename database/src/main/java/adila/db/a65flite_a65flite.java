@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView A6 Lite
+ * Allview A6 Lite
  *
  * DEVICE: A6_Lite
  * MODEL: A6_Lite
  */
 final class a65flite_a65flite {
-    public static final String DATA = "AllView|A6 Lite|";
+    public static final String DATA = "Allview|A6 Lite|";
 }

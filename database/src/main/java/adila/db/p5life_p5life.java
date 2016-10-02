@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * AllView P5Life
+ * Allview P5 Life
  *
  * DEVICE: P5Life
  * MODEL: P5Life
  */
 final class p5life_p5life {
-    public static final String DATA = "AllView|P5Life|";
+    public static final String DATA = "Allview|P5 Life|";
 }
