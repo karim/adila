@@ -9,5 +9,5 @@ package adila.db;
  * MODEL: Flare_X_V2
  */
 final class flare5fx_flare5fx5fv2 {
-    public static final String DATA = "Cherry Mobile|Flare X|";
+    public static final String DATA = "Cherry Mobile|Flare X|Flare";
 }

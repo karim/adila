@@ -5,9 +5,9 @@ package adila.db;
 /*
  * Samsung Galaxy J5 Prime
  *
- * DEVICE: on5xelteins
- * MODEL: SM-G570F
+ * DEVICE: on5xelte
+ * MODEL: SM-G570M
  */
-final class on5xelteins {
+final class on5xelte_sm2dg570m {
     public static final String DATA = "Samsung|Galaxy J5 Prime|";
 }

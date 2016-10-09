@@ -5,9 +5,9 @@ package adila.db;
 /*
  * Samsung Galaxy On5 (2016)
  *
- * DEVICE: on5xelte
- * MODEL: SM-G570F
+ * DEVICE: on5xlltechn
+ * MODEL: SM-G5510
  */
-final class on5xelte {
+final class on5xlltechn {
     public static final String DATA = "Samsung|Galaxy On5 (2016)|";
 }

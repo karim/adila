@@ -8,6 +8,6 @@ package adila.db;
  * DEVICE: on7xelte
  * MODEL: SM-G610F
  */
-final class on7xelte {
+final class on7xelte_sm2dg610f {
     public static final String DATA = "Samsung|Galaxy On Nxt|";
 }
