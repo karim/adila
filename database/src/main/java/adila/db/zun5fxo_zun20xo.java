@@ -5,7 +5,7 @@ package adila.db;
 /*
  * Vonino ZUN XO
  *
- * DEVICE: ZUN_XO
+ * DEVICE: Zun_XO
  * MODEL: ZUN XO
  */
 final class zun5fxo_zun20xo {

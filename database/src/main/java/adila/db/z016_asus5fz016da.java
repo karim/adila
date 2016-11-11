@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Asus Zenfone 3 Deluxe (ZS570KL)
+ * Asus ZenFone 3 Deluxe (ZS570KL)
  *
  * DEVICE: Z016
  * MODEL: ASUS_Z016DA
  */
 final class z016_asus5fz016da {
-    public static final String DATA = "Asus|Zenfone 3 Deluxe (ZS570KL)|";
+    public static final String DATA = "Asus|ZenFone 3 Deluxe (ZS570KL)|";
 }

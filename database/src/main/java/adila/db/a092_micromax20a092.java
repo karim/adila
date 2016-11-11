@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Micromax MICROMAX UNITE
+ * Micromax UNITE
  *
  * DEVICE: A092
  * MODEL: Micromax A092
  */
 final class a092_micromax20a092 {
-    public static final String DATA = "Micromax|MICROMAX UNITE|";
+    public static final String DATA = "Micromax|UNITE|";
 }

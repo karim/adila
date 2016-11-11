@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Asus X008DB
+ * Asus ZenFone 3 Max (ZC520TL)
  *
  * DEVICE: ASUS_X008
  * MODEL: ASUS_X008DB
  */
 final class asus5fx008_asus5fx008db {
-    public static final String DATA = "Asus|X008DB|";
+    public static final String DATA = "Asus|ZenFone 3 Max (ZC520TL)|";
 }

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * iView iView 920TPC
+ * Iview 920TPC
  *
  * DEVICE: 920TPC
  * MODEL: 920TPC
  */
 final class _920tpc_920tpc {
-    public static final String DATA = "iView|iView 920TPC|";
+    public static final String DATA = "Iview|920TPC|";
 }

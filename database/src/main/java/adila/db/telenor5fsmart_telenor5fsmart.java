@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Telenor Telenor Smart
+ * Telenor Smart
  *
  * DEVICE: Telenor_Smart
  * MODEL: Telenor_Smart
  */
 final class telenor5fsmart_telenor5fsmart {
-    public static final String DATA = "Telenor|Telenor Smart|";
+    public static final String DATA = "Telenor|Smart|";
 }

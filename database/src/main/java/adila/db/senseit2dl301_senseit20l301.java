@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * SENSEIT SENSEIT L301
+ * Senseit L301
  *
  * DEVICE: SENSEIT-L301
  * MODEL: SENSEIT L301
  */
 final class senseit2dl301_senseit20l301 {
-    public static final String DATA = "SENSEIT|SENSEIT L301|";
+    public static final String DATA = "Senseit|L301|";
 }

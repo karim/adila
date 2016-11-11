@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * BYD SOLO S450
+ * Navon S450
  *
  * DEVICE: S450
  * MODEL: S450
  */
 final class s450_s450 {
-    public static final String DATA = "BYD|SOLO S450|";
+    public static final String DATA = "Navon|S450|";
 }

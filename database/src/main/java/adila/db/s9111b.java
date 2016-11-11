@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Micromax CANVAS 4
+ * Micromax Canvas 4
  *
  * DEVICE: s9111b
  * MODEL: A210
  */
 final class s9111b {
-    public static final String DATA = "Micromax|CANVAS 4|";
+    public static final String DATA = "Micromax|Canvas 4|";
 }

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * iView iView SupraPad i700
+ * Iview SupraPad i700
  *
  * DEVICE: g01i
  * MODEL: i700
  */
 final class g01i {
-    public static final String DATA = "iView|iView SupraPad i700|";
+    public static final String DATA = "Iview|SupraPad i700|";
 }

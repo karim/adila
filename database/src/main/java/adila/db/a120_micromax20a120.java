@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Micromax CANVAS 2 COLOURS
+ * Micromax Canvas 2 COLOURS
  *
  * DEVICE: A120
  * MODEL: Micromax A120
  */
 final class a120_micromax20a120 {
-    public static final String DATA = "Micromax|CANVAS 2 COLOURS|";
+    public static final String DATA = "Micromax|Canvas 2 COLOURS|";
 }

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Condor Condor TGW801L
+ * Condor TGW801L
  *
  * DEVICE: TGW801L
  * MODEL: TGW801L
  */
 final class tgw801l_tgw801l {
-    public static final String DATA = "Condor|Condor TGW801L|";
+    public static final String DATA = "Condor|TGW801L|";
 }

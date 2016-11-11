@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Condor Condor A9
+ * Condor A9
  *
  * DEVICE: PGN_507
  * MODEL: PGN-507
  */
 final class pgn5f507_pgn2d507 {
-    public static final String DATA = "Condor|Condor A9|";
+    public static final String DATA = "Condor|A9|";
 }

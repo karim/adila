@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Asus Zenfone
+ * Asus ZenFone Go (ZB552KL)
  *
  * DEVICE: ASUS_X007D
  * MODEL: ASUS_X007D
  */
 final class asus5fx007d_asus5fx007d {
-    public static final String DATA = "Asus|Zenfone|";
+    public static final String DATA = "Asus|ZenFone Go (ZB552KL)|";
 }

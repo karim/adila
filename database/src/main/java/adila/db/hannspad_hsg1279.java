@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * HANNSpree HANNSpree HSG1279
+ * HANNSpree HSG1279
  *
  * DEVICE: HANNSpad
  * MODEL: HSG1279
  */
 final class hannspad_hsg1279 {
-    public static final String DATA = "HANNSpree|HANNSpree HSG1279|";
+    public static final String DATA = "HANNSpree|HSG1279|";
 }

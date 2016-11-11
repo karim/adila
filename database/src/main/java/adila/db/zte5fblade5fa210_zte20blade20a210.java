@@ -6,7 +6,7 @@ package adila.db;
  * ZTE Blade A210
  *
  * DEVICE: ZTE_Blade_A210
- * MODEL: ZTE Blade A210
+ * MODEL: ZTE BLADE A210
  */
 final class zte5fblade5fa210_zte20blade20a210 {
     public static final String DATA = "ZTE|Blade A210|";

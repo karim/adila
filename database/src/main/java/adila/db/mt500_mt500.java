@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Micromax CANVAS BLAZE
+ * Micromax Canvas BLAZE
  *
  * DEVICE: MT500
  * MODEL: MT500
  */
 final class mt500_mt500 {
-    public static final String DATA = "Micromax|CANVAS BLAZE|";
+    public static final String DATA = "Micromax|Canvas BLAZE|";
 }

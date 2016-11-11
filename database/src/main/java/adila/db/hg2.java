@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * LGU+ LAP250U
+ * LGU+ U+ tv woofer
  *
  * DEVICE: hg2
  * MODEL: LAP250U
  */
 final class hg2 {
-    public static final String DATA = "LGU+|LAP250U|";
+    public static final String DATA = "LGU+|U+ tv woofer|";
 }

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Smartron t-phone
+ * Smartron tphone
  *
  * DEVICE: rimo01a
  * MODEL: T5511
  */
 final class rimo01a {
-    public static final String DATA = "Smartron|t-phone|";
+    public static final String DATA = "Smartron|tphone|";
 }

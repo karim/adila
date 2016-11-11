@@ -6,7 +6,7 @@ package adila.db;
  * Itel it1556 Plus
  *
  * DEVICE: itel_it1556Plus
- * MODEL: itel it1556 plus
+ * MODEL: itel it1556 Plus
  */
 final class itel5fit1556plus_itel20it155620plus {
     public static final String DATA = "Itel|it1556 Plus|";

@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Micromax CANVAS ENGAGE
+ * Micromax Canvas ENGAGE
  *
  * DEVICE: A091
  * MODEL: Micromax A091
  */
 final class a091_micromax20a091 {
-    public static final String DATA = "Micromax|CANVAS ENGAGE|";
+    public static final String DATA = "Micromax|Canvas ENGAGE|";
 }

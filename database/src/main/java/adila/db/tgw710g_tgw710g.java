@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Condor Condor T705
+ * Condor T705
  *
  * DEVICE: TGW710G
  * MODEL: TGW710G
  */
 final class tgw710g_tgw710g {
-    public static final String DATA = "Condor|Condor T705|";
+    public static final String DATA = "Condor|T705|";
 }

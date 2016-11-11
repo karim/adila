@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Huawei G Play Mini
+ * Huawei Cherry Mini
  *
  * DEVICE: hwCHC-H
  * MODEL: CHC-U01
  */
 final class hwchc2dh_chc2du01 {
-    public static final String DATA = "Huawei|G Play Mini|";
+    public static final String DATA = "Huawei|Cherry Mini|";
 }

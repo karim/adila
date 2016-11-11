@@ -3,11 +3,11 @@
 package adila.db;
 
 /*
- * Micromax CANVAS TURBO
+ * Micromax Canvas TURBO
  *
  * DEVICE: A250
  * MODEL: A250
  */
 final class a250_a250 {
-    public static final String DATA = "Micromax|CANVAS TURBO|";
+    public static final String DATA = "Micromax|Canvas TURBO|";
 }
